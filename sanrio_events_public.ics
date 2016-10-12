@@ -18,12 +18,98 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VTIMEZONE
+TZID:America/Sao_Paulo
+X-LIC-LOCATION:America/Sao_Paulo
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0300
+TZOFFSETTO:-0200
+TZNAME:BRST
+DTSTART:19701018T000000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=3SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0300
+TZOFFSETTO:-0300
+TZNAME:BRT
+DTSTART:19700215T000000
+RRULE:FREQ=YEARLY;BYMONTH=2;BYDAY=3SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
 TZID:Asia/Taipei
 X-LIC-LOCATION:Asia/Taipei
 BEGIN:STANDARD
 TZOFFSETFROM:+0800
 TZOFFSETTO:+0800
 TZNAME:CST
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:Asia/Singapore
+X-LIC-LOCATION:Asia/Singapore
+BEGIN:STANDARD
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+TZNAME:SGT
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:Asia/Jakarta
+X-LIC-LOCATION:Asia/Jakarta
+BEGIN:STANDARD
+TZOFFSETFROM:+0700
+TZOFFSETTO:+0700
+TZNAME:WIB
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:Asia/Manila
+X-LIC-LOCATION:Asia/Manila
+BEGIN:STANDARD
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+TZNAME:PHT
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:Asia/Bangkok
+X-LIC-LOCATION:Asia/Bangkok
+BEGIN:STANDARD
+TZOFFSETFROM:+0700
+TZOFFSETTO:+0700
+TZNAME:ICT
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:Asia/Saigon
+X-LIC-LOCATION:Asia/Saigon
+BEGIN:STANDARD
+TZOFFSETFROM:+0700
+TZOFFSETTO:+0700
+TZNAME:ICT
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
@@ -46,16 +132,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VTIMEZONE
-TZID:Asia/Saigon
-X-LIC-LOCATION:Asia/Saigon
-BEGIN:STANDARD
-TZOFFSETFROM:+0700
-TZOFFSETTO:+0700
-TZNAME:ICT
-DTSTART:19700101T000000
-END:STANDARD
-END:VTIMEZONE
-BEGIN:VTIMEZONE
 TZID:Europe/London
 X-LIC-LOCATION:Europe/London
 BEGIN:DAYLIGHT
@@ -74,50 +150,12 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VTIMEZONE
-TZID:America/Sao_Paulo
-X-LIC-LOCATION:America/Sao_Paulo
-BEGIN:DAYLIGHT
-TZOFFSETFROM:-0300
-TZOFFSETTO:-0200
-TZNAME:BRST
-DTSTART:19701018T000000
-RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=3SU
-END:DAYLIGHT
-BEGIN:STANDARD
-TZOFFSETFROM:-0300
-TZOFFSETTO:-0300
-TZNAME:BRT
-DTSTART:19700215T000000
-RRULE:FREQ=YEARLY;BYMONTH=2;BYDAY=3SU
-END:STANDARD
-END:VTIMEZONE
-BEGIN:VTIMEZONE
 TZID:America/Rio_Branco
 X-LIC-LOCATION:America/Rio_Branco
 BEGIN:STANDARD
 TZOFFSETFROM:-0500
 TZOFFSETTO:-0500
 TZNAME:ACT
-DTSTART:19700101T000000
-END:STANDARD
-END:VTIMEZONE
-BEGIN:VTIMEZONE
-TZID:Asia/Singapore
-X-LIC-LOCATION:Asia/Singapore
-BEGIN:STANDARD
-TZOFFSETFROM:+0800
-TZOFFSETTO:+0800
-TZNAME:SGT
-DTSTART:19700101T000000
-END:STANDARD
-END:VTIMEZONE
-BEGIN:VTIMEZONE
-TZID:Asia/Manila
-X-LIC-LOCATION:Asia/Manila
-BEGIN:STANDARD
-TZOFFSETFROM:+0800
-TZOFFSETTO:+0800
-TZNAME:PHT
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
@@ -139,6 +177,3445 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART:20161223T020000Z
+DTEND:20161223T053000Z
+UID:00dck13j46iok6u2uj1depa6uc@google.com
+CREATED:20161028T170654Z
+DESCRIPTION:http://ameblo.jp/nae-hana-smile/entry-12213720000.html\nhttp://
+ makuharishintoshin-aeonmall.com/news/event/4765\n\nハローキティのハートフルクリスマス\n\n日程 
+ 2016/12/23 (金) \n時間 (1)11:00～ / (2)14:00～ \n場所 1F グランドスクエア \n会場 グランドモール 
+LAST-MODIFIED:20161219T101127Z
+LOCATION:イオンモール幕張新都心 グランドモール\, 日本千葉県千葉市美浜区豊砂１
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:KT\,CN ハートフルクリスマス
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161220T020000Z
+DTEND:20161220T073000Z
+UID:q8dp2n81sqlc437a2sk0o7ri4g@google.com
+CREATED:20161219T052739Z
+DESCRIPTION:ハローキティとハッピークリスマス★\n\nhttp://makuharishintoshin-aeonmall.com/new
+ s/event/4759\n\n2016/12/20 (火) \n(1) 11:00 / (2) 13:00 / (3)16:00 （各回30分）\n
+ 1F ファミリーコート (ファミリーモール)\n\nジョンソン(R)ベビーオイルを1点ご購入で整理券を各回30組
+LAST-MODIFIED:20161219T052739Z
+LOCATION:イオンモール幕張新都心 ファミリーモール\, 日本千葉県千葉市美浜区豊砂１
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT ハッピークリスマス
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20170115T110000
+DTEND;TZID=Asia/Tokyo:20170115T153000
+RRULE:FREQ=WEEKLY;COUNT=3;BYDAY=SU
+UID:m1g084k7vuka7pof3ij4ta57a0@google.com
+CREATED:20161213T080251Z
+DESCRIPTION:http://www.seibuen-yuuenchi.jp/event/index.html?category=e1\n\n
+ 1月15日（日）、22日（日）、29日（日）\n\n11:00 マイメロディとハッピーグリーティング\n13:00 バースデーセレブレーション\n15
+ :00 マイメロディのプリンセス・アカデミー
+LAST-MODIFIED:20161217T115957Z
+LOCATION:西武園ゆうえんち\, 日本埼玉県所沢市山口２９６４
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MM\,KT 西武園ゆうえんち
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161225T013000Z
+DTEND:20161225T043000Z
+UID:k0ogt8089pn45s2ir3kgkdqkro@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
+  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
+ gle.com
+CREATED:20161216T061657Z
+DESCRIPTION:https://qs-mall.jp/minoh/event/?cmd=detail&evt_id=2234\nみのおキューズ
+ モールに\nハローキティとマイメロディが遊びにくるよ！\nみんなでクリスマスのクイズに挑戦したり、ダンスを踊ったりして一緒に楽しもう！\n ショーの後
+ には写真撮影もあります。\n\nハローキティとマイメロディのハッピークリスマス!\n日時: 12/25(日) 10:30\, 13:00\n場所: E
+ ASTエリア1F エルステージ\n各回1時間前から前方シート観覧エリアの整理券を300名分配布\n整理券不要の自由観覧エリアもあり
+LAST-MODIFIED:20161216T064223Z
+LOCATION:みのおキューズモール\,日本大阪府箕面市西宿１−１７−２２
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT\,MM ハッピークリスマス!
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161218T023000Z
+DTEND:20161218T070000Z
+UID:1okd9g5qgsrc5ennacjoi21vms@google.com
+CREATED:20161216T054711Z
+DESCRIPTION:http://www.vivahome.co.jp/kbn/category_event/2016/28850/\n\nハロー
+ キティとハッピークリスマス\n\n12月18日(日)\n①11:30～ ②13:30～ ③15:30～\nホームセンター棟２階キッズ広場\n\n各回1
+ 時間前より会場で撮影握手参加整理券を配布\n各回先着30名
+LAST-MODIFIED:20161216T054711Z
+LOCATION:スーパービバホーム和泉中央店\, 日本大阪府和泉市唐国町３丁目１７番５６号
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT ハッピークリスマス
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170103T020000Z
+DTEND:20170103T063000Z
+UID:7656on0r91umnhoed3otaji2r0@google.com
+CREATED:20161216T054546Z
+DESCRIPTION:http://uki-aeonmall.com/news/event/705\n\n～熊本復興応援～ ニューイヤースペシャル 
+ ハローキティとチャレンジタイム ＆ Michiko.ニューイヤースペシャルライブ\n\n日程 2017/01/03 (火)\n時間 （1）11:00～
+  （2）15:00～\n場所 1F オアシスコート\n\n会場にて各回開始30分前より握手・撮影参加券を配布\n各回先着50組
+LAST-MODIFIED:20161216T054546Z
+LOCATION:イオンモール宇城\, 日本熊本県宇城市小川町河江1-1
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT チャレンジタイム
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161224T020000Z
+DTEND:20161224T053000Z
+UID:0jioie3oi0sv27n1d60v948urs@google.com
+CREATED:20161216T051744Z
+DESCRIPTION:http://chikushino-aeonmall.com/news/event/1302\n\nハローキティのHAPPY 
+ GIFT CHRISTMAS\n日時: 12/24(土) 11:00\, 14:00\n場所: 1F ウエストコート(イオン側)\nショー終了後にハー
+ モニーランドペアパスポートなどが当たる抽選会あり
+LAST-MODIFIED:20161216T051744Z
+LOCATION:イオンモール筑紫野\,日本福岡県筑紫野市立明寺４３４−１
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT\,MM HAPPY GIFT CHRISTMAS
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161210T020000Z
+DTEND:20161210T073000Z
+UID:4k53ft4sldqj768gg4fqnoe014@google.com
+CREATED:20161206T140844Z
+DESCRIPTION:http://aeonmall-okayama.com/news/event/850\nhttps://www.faceboo
+ k.com/okayama.aeonmall/photos/a.893414194063934.1073741828.887175508021136/
+ 1316980238373992/\n\nハローキティ写真撮影会\n12月10日(土)　11:00～／13:00～／14:30～／16:00～\n3F
+  西コート\n\n各回先着30名\n整理券は12月10日(土)、3F　353区画サンリオギフトゲートにてオープン時より配布\n
+LAST-MODIFIED:20161216T024655Z
+LOCATION:イオンモール岡山\, 日本岡山県岡山市北区下石井1丁目2番1号
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT イオンモール岡山
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170108T020000Z
+DTEND:20170108T063000Z
+UID:4on8hjrnufeldqg08nc6uhsk2g@google.com
+CREATED:20161214T121118Z
+DESCRIPTION:http://citylife-new.com/news/47509.html\n\nマイメロディ キキララ展\n西武高槻店４
+ 階催事場\n2017年1月1日から9日\n午前10時から午後8時 (入場は閉場30分前、最終日は午後6時閉場)\n\n1月3日（火） マイメロディ\n
+ 1月8日（日） リトルツインスターズ\n1100\, 1300\, 1500\n\n開催当日の午前9時45分から１階正面入口前で整理券を配布\n各回先
+ 着40組
+LAST-MODIFIED:20161214T121118Z
+LOCATION:西武高槻店\, 日本大阪府高槻市白梅町4-1
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:TS 西武高槻店
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170103T020000Z
+DTEND:20170103T063000Z
+UID:adsee3043749svheigmsc7vm64@google.com
+CREATED:20161214T121107Z
+DESCRIPTION:http://citylife-new.com/news/47509.html\n\nマイメロディ キキララ展\n西武高槻店４
+ 階催事場\n2017年1月1日から9日\n午前10時から午後8時 (入場は閉場30分前、最終日は午後6時閉場)\n\n1月3日（火） マイメロディ\n
+ 1月8日（日） リトルツインスターズ\n1100\, 1300\, 1500\n\n開催当日の午前9時45分から１階正面入口前で整理券を配布\n各回先
+ 着40組
+LAST-MODIFIED:20161214T121107Z
+LOCATION:西武高槻店\, 日本大阪府高槻市白梅町4-1
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MM 西武高槻店
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170212T040000Z
+DTEND:20170212T063000Z
+UID:57abvbqsru6093gjrmhgkl8fl8@google.com
+CREATED:20161207T140842Z
+DESCRIPTION:事前の応募による抽選25組50名\n\nhttp://ichifure.jp/news/?p=121\n\n『一週間フレンズ。
+ 』試写会\n【日時】2017年2月12日（日）13:00開場／13：30開演\n【場所】スペース汐留（東京都港区東新橋1丁目1-16）\n※当選者の発
+ 表は試写状の発送をもってかえさせていただきます。\n\nいちご新聞587号 2016年12月10日\np. 17\nいちごメイトには抽選で50組100
+ 名
+LAST-MODIFIED:20161214T120625Z
+LOCATION:スペースFS汐留\, 日本東京都港区東新橋１丁目１−１６
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:TS 一週間フレンズ試写会
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Taipei:20160521T100000
+DTEND;TZID=Asia/Taipei:20160521T180000
+RRULE:FREQ=DAILY;UNTIL=20160522T020000Z
+UID:egvbnki43clmv3rg81i1om1620@google.com
+CREATED:20161214T112636Z
+DESCRIPTION:http://www.taikan-nippon.jp/about.html\nhttps://www.facebook.co
+ m/PreasureEntertainment/photos/a.1584039635244050.1073741828.15793472723799
+ 53/1601117773536236/\n\n台感！ニッポン。\n2016年5月21日(土)～22日(日)の2日間 　10:00～18:00/両日\
+ n台北101玄関前(北側)特設会場
+LAST-MODIFIED:20161214T112636Z
+LOCATION:台北101\, 110\, Taiwan\, Taipei City\, Xinyi District\, Section 5\, 
+ Xinyi Rd\, 7號59樓
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT 台感ニッポン
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161217T220000Z
+DTEND:20161218T020000Z
+UID:b73jhien7bpmokogfn7gv5j7oc@google.com
+CREATED:20161214T111144Z
+DESCRIPTION:https://www.facebook.com/events/1030278850434817/\n\nBoxLunch's
+  hello sanrio Launch Party - Irvine Spectrum\n\nSaturday\, December 17th 12
+  PM - 4 PM\n12 PM – 4 PM: Photo ops with Hello Kitty
+LAST-MODIFIED:20161214T111144Z
+LOCATION:670 Spectrum Center Dr\, Irvine\, CA 92618\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT BoxLunch
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161210T220000Z
+DTEND:20161211T020000Z
+UID:cs8pootdrmukdavu8mb76088vo@google.com
+CREATED:20161214T110948Z
+DESCRIPTION:https://www.facebook.com/events/195708610835335/\n\nBoxLunch's 
+ hello sanrio Launch Party - San Francisco\n\nFriday\, December 9th 11 AM - 
+ 7 PM\n2 PM – 7 PM: Photo ops with Badtz-Maru\n\nSaturday\, December 10th 11
+  AM - 6 PM\n2 PM – 6 PM: Photo ops with Hello Kitty
+LAST-MODIFIED:20161214T110948Z
+LOCATION:69 Powell St\, San Francisco\, CA 94102\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT BoxLunch
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161209T220000Z
+DTEND:20161210T030000Z
+UID:er3vv6d1k1ncd9uqjhf0peh1vo@google.com
+CREATED:20161214T110926Z
+DESCRIPTION:https://www.facebook.com/events/195708610835335/\n\nBoxLunch's 
+ hello sanrio Launch Party - San Francisco\n\nFriday\, December 9th 11 AM - 
+ 7 PM\n2 PM – 7 PM: Photo ops with Badtz-Maru\n\nSaturday\, December 10th 11
+  AM - 6 PM\n2 PM – 6 PM: Photo ops with Hello Kitty
+LAST-MODIFIED:20161214T110926Z
+LOCATION:69 Powell St\, San Francisco\, CA 94102\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:XO BoxLunch
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161204T020000Z
+DTEND:20161204T060000Z
+UID:ds8kk3rqtkancqujsc9cehj3b4@google.com
+CREATED:20161115T005556Z
+DESCRIPTION:http://asta2001.net/index.html\nhttp://asta2001.net/img/event/2
+ 0161031.jpg\n\nハローキティのHAPPY GIFT CHRISTMAS\n12/4(日) 11:00\, 14:30\n各回定員300名
+ \n事前申し込みが必要
+LAST-MODIFIED:20161214T005819Z
+LOCATION:牛田住宅情報スクエアアスタ\,日本広島県広島市東区牛田新町２丁目２
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:KT\,MM HAPPY GIFT CHRISTMAS
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161203T040000Z
+DTEND:20161203T063000Z
+UID:pi2p1fn49c95dpoap480i48fu8@google.com
+CREATED:20161203T151803Z
+DESCRIPTION:http://www.duokobe.com/christmas/\n\nハローキティのHAPPY GIFT CHRISTMA
+ S\n日時: 12/3 13:00\, 15:00\n会場: 浜の手 デュオドーム
+LAST-MODIFIED:20161214T005758Z
+LOCATION:デュオこうべ\,日本兵庫県神戸市中央区相生町３丁目１
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT\,MM HAPPY GIFT CHRISTMAS
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20161210T113000
+DTEND;TZID=Asia/Tokyo:20161210T143000
+RRULE:FREQ=DAILY;UNTIL=20161211T023000Z
+UID:grkuoiqns14v7ku3fj8ri77usc@google.com
+CREATED:20161125T024211Z
+DESCRIPTION:http://shop.parkplace-oita.com/event/index/727\n\nハローキティのHAPPY 
+ GIFT CHRISTMAS\nハローキティとマイメロディがハンドベルやダンスショーを繰り広げるクリスマス限定のステージショー☆撮影会もお楽しみに♪\
+ n\n日時: 12/10(土)\, 11(日)　撮影会 11:30\, ショー 14:00\n場所: 1F センターステージ
+LAST-MODIFIED:20161214T005633Z
+LOCATION:パークプレイス大分\,日本大分県大分市公園通り西２丁目
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT\,MM HAPPY GIFT CHRISTMAS
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161223T030000Z
+DTEND:20161223T063000Z
+UID:fsghg8d941bvegagjosvic81jo@google.com
+CREATED:20161202T045414Z
+DESCRIPTION:http://www.chachatown.com/eventinfo/1681.html\n\nハローキティのHAPPY G
+ IFT CHRISTMAS\nハローキティとマイメロディが遊びにくるよ!\n12/23(金祝) 12:00\, 15:00
+LAST-MODIFIED:20161214T005559Z
+LOCATION:チャチャタウン小倉\,日本福岡県北九州市小倉北区砂津３−１−１
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT\,MM HAPPY GIFT CHRISTMAS
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161223T020000Z
+DTEND:20161223T043000Z
+UID:p82dg7ai1isdsb3vg35dqnv1no@google.com
+CREATED:20161115T010519Z
+DESCRIPTION:http://www.omochaoukoku.co.jp/news.php?id=796\n\nハローキティのHAPPY G
+ IFT CHRISTMAS\n12/23(金祝) 11:00\, 13:00\n会場: レインボーステージ\n
+LAST-MODIFIED:20161214T005517Z
+LOCATION:おもちゃ王国\,日本岡山県玉野市滝1640-1
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT\,MM HAPPY GIFT CHRISTMAS
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170318T020000Z
+DTEND:20170318T063000Z
+UID:1v9vv0nhev4630fh5sf6nu17l8@google.com
+CREATED:20161213T163325Z
+DESCRIPTION:KT\,DN\,XO\,MM\,TS\,PN\,CN\n2016年12月21日からチケット発売\n\nhttp://www.w
+ esta-kawagoe.jp/event/detail.html?id=554\n\nサンリオピューロランド25周年記念作品 サンリオファミリーミュ
+ ージカル ハローキティのドリームトラベラー\nウェスタ川越 大ホール\n①　開場10:30　開演11:00\n②　開演13:30　開演14:00
+LAST-MODIFIED:20161213T163348Z
+LOCATION:ウェスタ川越\, 日本埼玉県川越市新宿町１丁目１７−１７
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ドリームトラベラー
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161224T030000Z
+DTEND:20161224T063000Z
+UID:2mq3ue6vd4jlubp01qqpovhpik@google.com
+CREATED:20161213T162432Z
+DESCRIPTION:http://www.ario-kawaguchi.jp/web/event/dade0f18-efea-4945-9b5c-
+ 981b0a361f97.html\n\nハローキティ＆プリンのハートフルタイム\nアリオ川口\n12/24(土)\n (1)12:00～　(2)15
+ :00～\n１階センターコート
+LAST-MODIFIED:20161213T162531Z
+LOCATION:アリオ川口\, 日本埼玉県川口市並木元町1-79
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT\,PN ハートフルタイム
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161225T020000Z
+DTEND:20161225T053000Z
+UID:3v94qae8gha5eq9ttj5lthidhs@google.com
+CREATED:20161213T162331Z
+DESCRIPTION:http://www.ario.jp/xmas/\n\nハローキティとハッピークリスマス★\nアリオ橋本\n12/25(日)\
+ n時間 (1)11:00～　(2)14:00～
+LAST-MODIFIED:20161213T162331Z
+LOCATION:アリオ橋本\, 日本神奈川県相模原市緑区大山町１−２２
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT ハッピークリスマス
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170129T050000Z
+DTEND:20170129T100000Z
+UID:mvvdqpnsq73cqfufjkgcs3v6q4@google.com
+CREATED:20161213T103144Z
+DESCRIPTION:2016年12月13日(火)〜2017年1月6日(金)23時59分までの応募による招待制\n\nhttp://www.tv-a
+ sahi.co.jp/go-chan/movie/#event\n\n『ゴーちゃん。～モコとちんじゅうの森の仲間たち～』無料プレミアム上映会\n201
+ 7年1月29日（日）\nユナイテッド・シネマ豊洲\n招待数：各公演約250名\n\n第1部「ゴーちゃん。＆モッフンも登場！親子で楽しむ劇場版アニメ鑑賞
+ 会」\n開場：14時00分(予定)\n開演：14時30分(予定)\n\n第2部「人気声優大集結！ちんじゅうトーク炸裂！？プレミアム上映会」\n開場：1
+ 6時30分(予定)\n開演：17時00分(予定)
+LAST-MODIFIED:20161213T103144Z
+LOCATION:アーバンドックららぽーと豊洲\, 日本東京都豊洲2丁目4番9号
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:GP\,モッフン プレミアム上映会
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161217T020000Z
+DTEND:20161217T053000Z
+UID:sgokal3u53cnodfqfsu0k20i00@google.com
+CREATED:20161213T075954Z
+DESCRIPTION:http://www.ario-ageo.jp/web/event/dd7190b4-96e8-4a68-91df-fa3b2
+ e29fbbd.html\n\nハローキティとハッピークリスマス★\n\n日程 12/17(土)\n時間 ①11：00 ②14：00\n場所 屋外イベ
+ ントステージ\n\n握手会の参加は各回１００名\n１回目・２回目の握手会参加券は、朝１０時より屋外イベント広場にて配布
+LAST-MODIFIED:20161213T075954Z
+LOCATION:アリオ上尾\, 日本埼玉県上尾市３６７
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT ハッピークリスマス
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20170304T103000
+DTEND;TZID=Asia/Tokyo:20170304T150000
+RRULE:FREQ=DAILY;COUNT=2
+UID:tblldjof0e32sj5ekd5250pv38@google.com
+CREATED:20161210T051614Z
+DESCRIPTION:http://www.sanrio.co.jp/news/event-nagano-20170102-0305/\n\nハロー
+ キティがお友達と一緒にあそびにくるよ！（ヘブンスそのはら）\n\n開催日\n1/2（月）〜1/3（火）、1/21（土）〜1/22（日）、2/11（土）
+ 〜2/12（日）　ハローキティ、ダニエルスター\n1/7（土）〜1/8（日）　　ハローキティ、ポムポムプリン\n2/4（土）〜2/5（日）　　ハローキ
+ ティ、りっぷちゃん\n2/25（土）〜2/26（日）　ハローキティ、シナモロール\n3/4（土）〜3/5（日）　　ハローキティ、リトルツインスターズ（
+ キキ&ララ）\n\n開催時間\n1/2（月）、1/7（土）、1/21（土）、2/4（土）、2/11（土）、2/25（土）、3/4（土）　12:30/1
+ 4:30\n1/3（火）、1/8（日）、1/22（日）、2/5（日）、2/12（日）、2/26（日）、3/5（日）　10:30/12:30/14:30
+ \n\n各日14:30からはエンジェルコースをキティちゃんが滑走するキティ☆パレードを開催
+LAST-MODIFIED:20161210T051614Z
+LOCATION:ヘブンスそのはら\, 日本長野県下伊那郡阿智村智里３７３１−４
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT\,TS ヘブンスそのはら
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20170225T103000
+DTEND;TZID=Asia/Tokyo:20170225T150000
+RRULE:FREQ=DAILY;COUNT=2
+UID:0vgkiah4uu5bialj604rqifd7k@google.com
+CREATED:20161210T051554Z
+DESCRIPTION:http://www.sanrio.co.jp/news/event-nagano-20170102-0305/\n\nハロー
+ キティがお友達と一緒にあそびにくるよ！（ヘブンスそのはら）\n\n開催日\n1/2（月）〜1/3（火）、1/21（土）〜1/22（日）、2/11（土）
+ 〜2/12（日）　ハローキティ、ダニエルスター\n1/7（土）〜1/8（日）　　ハローキティ、ポムポムプリン\n2/4（土）〜2/5（日）　　ハローキ
+ ティ、りっぷちゃん\n2/25（土）〜2/26（日）　ハローキティ、シナモロール\n3/4（土）〜3/5（日）　　ハローキティ、リトルツインスターズ（
+ キキ&ララ）\n\n開催時間\n1/2（月）、1/7（土）、1/21（土）、2/4（土）、2/11（土）、2/25（土）、3/4（土）　12:30/1
+ 4:30\n1/3（火）、1/8（日）、1/22（日）、2/5（日）、2/12（日）、2/26（日）、3/5（日）　10:30/12:30/14:30
+ \n\n各日14:30からはエンジェルコースをキティちゃんが滑走するキティ☆パレードを開催
+LAST-MODIFIED:20161210T051554Z
+LOCATION:ヘブンスそのはら\, 日本長野県下伊那郡阿智村智里３７３１−４
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT\,CN ヘブンスそのはら
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20170211T103000
+DTEND;TZID=Asia/Tokyo:20170211T150000
+RRULE:FREQ=DAILY;COUNT=2
+UID:6t1t1apono7ek2h4sl9v4pge7c@google.com
+CREATED:20161210T051532Z
+DESCRIPTION:http://www.sanrio.co.jp/news/event-nagano-20170102-0305/\n\nハロー
+ キティがお友達と一緒にあそびにくるよ！（ヘブンスそのはら）\n\n開催日\n1/2（月）〜1/3（火）、1/21（土）〜1/22（日）、2/11（土）
+ 〜2/12（日）　ハローキティ、ダニエルスター\n1/7（土）〜1/8（日）　　ハローキティ、ポムポムプリン\n2/4（土）〜2/5（日）　　ハローキ
+ ティ、りっぷちゃん\n2/25（土）〜2/26（日）　ハローキティ、シナモロール\n3/4（土）〜3/5（日）　　ハローキティ、リトルツインスターズ（
+ キキ&ララ）\n\n開催時間\n1/2（月）、1/7（土）、1/21（土）、2/4（土）、2/11（土）、2/25（土）、3/4（土）　12:30/1
+ 4:30\n1/3（火）、1/8（日）、1/22（日）、2/5（日）、2/12（日）、2/26（日）、3/5（日）　10:30/12:30/14:30
+ \n\n各日14:30からはエンジェルコースをキティちゃんが滑走するキティ☆パレードを開催
+LAST-MODIFIED:20161210T051532Z
+LOCATION:ヘブンスそのはら\, 日本長野県下伊那郡阿智村智里３７３１−４
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT\,DN ヘブンスそのはら
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20170204T103000
+DTEND;TZID=Asia/Tokyo:20170204T150000
+RRULE:FREQ=DAILY;COUNT=2
+UID:oi7gmneql2eclit5svjs9kcfj4@google.com
+CREATED:20161210T051510Z
+DESCRIPTION:http://www.sanrio.co.jp/news/event-nagano-20170102-0305/\n\nハロー
+ キティがお友達と一緒にあそびにくるよ！（ヘブンスそのはら）\n\n開催日\n1/2（月）〜1/3（火）、1/21（土）〜1/22（日）、2/11（土）
+ 〜2/12（日）　ハローキティ、ダニエルスター\n1/7（土）〜1/8（日）　　ハローキティ、ポムポムプリン\n2/4（土）〜2/5（日）　　ハローキ
+ ティ、りっぷちゃん\n2/25（土）〜2/26（日）　ハローキティ、シナモロール\n3/4（土）〜3/5（日）　　ハローキティ、リトルツインスターズ（
+ キキ&ララ）\n\n開催時間\n1/2（月）、1/7（土）、1/21（土）、2/4（土）、2/11（土）、2/25（土）、3/4（土）　12:30/1
+ 4:30\n1/3（火）、1/8（日）、1/22（日）、2/5（日）、2/12（日）、2/26（日）、3/5（日）　10:30/12:30/14:30
+ \n\n各日14:30からはエンジェルコースをキティちゃんが滑走するキティ☆パレードを開催
+LAST-MODIFIED:20161210T051510Z
+LOCATION:ヘブンスそのはら\, 日本長野県下伊那郡阿智村智里３７３１−４
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT\,RF ヘブンスそのはら
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20170121T103000
+DTEND;TZID=Asia/Tokyo:20170121T150000
+RRULE:FREQ=DAILY;COUNT=2
+UID:hak3681jk2fikoe8n3a3mlffgs@google.com
+CREATED:20161210T051449Z
+DESCRIPTION:http://www.sanrio.co.jp/news/event-nagano-20170102-0305/\n\nハロー
+ キティがお友達と一緒にあそびにくるよ！（ヘブンスそのはら）\n\n開催日\n1/2（月）〜1/3（火）、1/21（土）〜1/22（日）、2/11（土）
+ 〜2/12（日）　ハローキティ、ダニエルスター\n1/7（土）〜1/8（日）　　ハローキティ、ポムポムプリン\n2/4（土）〜2/5（日）　　ハローキ
+ ティ、りっぷちゃん\n2/25（土）〜2/26（日）　ハローキティ、シナモロール\n3/4（土）〜3/5（日）　　ハローキティ、リトルツインスターズ（
+ キキ&ララ）\n\n開催時間\n1/2（月）、1/7（土）、1/21（土）、2/4（土）、2/11（土）、2/25（土）、3/4（土）　12:30/1
+ 4:30\n1/3（火）、1/8（日）、1/22（日）、2/5（日）、2/12（日）、2/26（日）、3/5（日）　10:30/12:30/14:30
+ \n\n各日14:30からはエンジェルコースをキティちゃんが滑走するキティ☆パレードを開催
+LAST-MODIFIED:20161210T051449Z
+LOCATION:ヘブンスそのはら\, 日本長野県下伊那郡阿智村智里３７３１−４
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT\,DN ヘブンスそのはら
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20170107T103000
+DTEND;TZID=Asia/Tokyo:20170107T150000
+RRULE:FREQ=DAILY;COUNT=2
+UID:0fqmkqttd1juemjbq5lfvhoaik@google.com
+CREATED:20161210T051427Z
+DESCRIPTION:http://www.sanrio.co.jp/news/event-nagano-20170102-0305/\n\nハロー
+ キティがお友達と一緒にあそびにくるよ！（ヘブンスそのはら）\n\n開催日\n1/2（月）〜1/3（火）、1/21（土）〜1/22（日）、2/11（土）
+ 〜2/12（日）　ハローキティ、ダニエルスター\n1/7（土）〜1/8（日）　　ハローキティ、ポムポムプリン\n2/4（土）〜2/5（日）　　ハローキ
+ ティ、りっぷちゃん\n2/25（土）〜2/26（日）　ハローキティ、シナモロール\n3/4（土）〜3/5（日）　　ハローキティ、リトルツインスターズ（
+ キキ&ララ）\n\n開催時間\n1/2（月）、1/7（土）、1/21（土）、2/4（土）、2/11（土）、2/25（土）、3/4（土）　12:30/1
+ 4:30\n1/3（火）、1/8（日）、1/22（日）、2/5（日）、2/12（日）、2/26（日）、3/5（日）　10:30/12:30/14:30
+ \n\n各日14:30からはエンジェルコースをキティちゃんが滑走するキティ☆パレードを開催
+LAST-MODIFIED:20161210T051427Z
+LOCATION:ヘブンスそのはら\, 日本長野県下伊那郡阿智村智里３７３１−４
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT\,PN ヘブンスそのはら
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20170102T103000
+DTEND;TZID=Asia/Tokyo:20170102T150000
+RRULE:FREQ=DAILY;COUNT=2
+UID:imd7ek3tng7f4k3sb25d1i2dcg@google.com
+CREATED:20161210T051408Z
+DESCRIPTION:http://www.sanrio.co.jp/news/event-nagano-20170102-0305/\n\nハロー
+ キティがお友達と一緒にあそびにくるよ！（ヘブンスそのはら）\n\n開催日\n1/2（月）〜1/3（火）、1/21（土）〜1/22（日）、2/11（土）
+ 〜2/12（日）　ハローキティ、ダニエルスター\n1/7（土）〜1/8（日）　　ハローキティ、ポムポムプリン\n2/4（土）〜2/5（日）　　ハローキ
+ ティ、りっぷちゃん\n2/25（土）〜2/26（日）　ハローキティ、シナモロール\n3/4（土）〜3/5（日）　　ハローキティ、リトルツインスターズ（
+ キキ&ララ）\n\n開催時間\n1/2（月）、1/7（土）、1/21（土）、2/4（土）、2/11（土）、2/25（土）、3/4（土）　12:30/1
+ 4:30\n1/3（火）、1/8（日）、1/22（日）、2/5（日）、2/12（日）、2/26（日）、3/5（日）　10:30/12:30/14:30
+ \n\n各日14:30からはエンジェルコースをキティちゃんが滑走するキティ☆パレードを開催
+LAST-MODIFIED:20161210T051408Z
+LOCATION:ヘブンスそのはら\, 日本長野県下伊那郡阿智村智里３７３１−４
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT\,DN ヘブンスそのはら
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161223T020000Z
+DTEND:20161223T063000Z
+UID:mng8ummsft1ij5fsun8f8tuh9g@google.com
+CREATED:20161208T125514Z
+DESCRIPTION:http://www.sanrio.co.jp/news/event-rumineest-shinjuku-20161223/
+ \nhttp://www.lumine.ne.jp/est/news/news_details.php?id=29885\n\nリトルツインスターズが
+ 遊びにくるよ☆（Kiki＆Lala Yumeseiun Omoiyariboshi ルミネエスト新宿店）\n\n会場 Kiki＆Lala Yumese
+ iun Omoiyariboshi ルミネエスト新宿店\n開催日 12/23（金）\n開催時間 11:00/13:30/15:00（各回30名様限定）
+ \n\n店頭にて税込み1\,080円以上お買い上げの方に整理券を配布\n10:00より、1F南側入り口にて、購入予約券を配布
+LAST-MODIFIED:20161208T125514Z
+LOCATION:ルミネエスト新宿\, 日本東京都新宿区新宿３丁目３８−１
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:TS ルミネエスト新宿
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20161207
+DTEND;VALUE=DATE:20161208
+UID:7lk6ebr2lbmsu9q8ukqk0bh220@google.com
+CREATED:20161207T140442Z
+DESCRIPTION:ピューロアンバサダープログラムによる応募と抽選\n\n2016/11/25 (金) 20時ごろのピューロアンバサダープログラム
+ のメール\nhttps://form.ambassador.jp/get/puroland/puroambassador/event3\nhttps:
+ //twitter.com/i/web/status/806424868296085504\nhttps://www.puroland.jp/info
+ rmation/keio-bus_spl/\n\n京王バス×サンリオピューロランド　空港連絡バス“サンリオピューロランド号”お披露目会\n日にち：20
+ 16年12月7日（水）\n人数：若干名（同伴者不可）\n開催場所：羽田空港 国際線旅客ターミナル\n受付時間：午前予定
+LAST-MODIFIED:20161207T140442Z
+LOCATION:羽田空港 国際線旅客ターミナル\, 日本東京都羽田空港２丁目６−５ 
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT\,MM\,XO\,PN\,CN サンリオピューロランド号お披露目会
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161224T023000Z
+DTEND:20161224T093000Z
+UID:ep8ve8ghet1mifetak7ugbdho4@google.com
+CREATED:20161207T123254Z
+DESCRIPTION:http://www.okura-chiba.com/h/event/#event61\nhttp://www.okura-c
+ hiba.com/h/upimg/pdf/pdf_236.jpg\n\nハローキティとパーティしよう！ クリスマスファミリーバイキング\n\n2016
+ 年12月24日（土）　完全予約制\nランチパーティ / 11:30～13:30頃（受付11:00～）\nディナーパーティ / 16:30～18:30頃
+ （受付16:00～）\n\n■会場：3階 エリーゼルーム\n■料金：大人￥7\,500　/　小学生￥4\,000　/　3歳以上の幼児￥2\,500\n
+ \nハローキティとクリスマスソングを歌おう！\nスペシャルミニショー＆ハローキティとの\n記念写真プレゼント！
+LAST-MODIFIED:20161207T123254Z
+LOCATION:オークラ千葉ホテル\, 日本\, 〒260-0024 千葉県千葉市中央区中央港１丁目１３ 中央区中央港１丁目１３−３
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT オークラ千葉ホテル
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161217T063000Z
+DTEND:20161217T070000Z
+UID:lb1fvuo96bq4tse0auknfvj1a8@google.com
+CREATED:20161206T125343Z
+DESCRIPTION:http://hinode-aeonmall.com/news/event/1115\n\n子育て応援Tokyoプロジェクトi
+ nイオンモール日の出\n\nミニステージ「ハローキティとハッピークリスマス★」\nみんなで楽しくダンスしたあとは、写真撮影会も！\n日時: 12/17
+  15:30\n場所: 専門店街2F イオンホール
+LAST-MODIFIED:20161206T225458Z
+LOCATION:イオンモール日の出\,日本東京都西多摩郡日の出町平井
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT ハッピークリスマス
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161217T060000Z
+DTEND:20161217T113000Z
+UID:1v15hap9o3j72grs5b1op2turg@google.com
+CREATED:20161028T170621Z
+DESCRIPTION:http://ameblo.jp/nae-hana-smile/entry-12213720000.html\nhttp://
+ www.listel-inawashiro.jp/information/278\nhttp://www.sanrio.co.jp/news/even
+ t-inawashiro-20161217/\n\nハローキティの素敵なスイーツパーティ\nハローキティのハートフルクリスマス\n15:00～16:3
+ 0（開場14:40～）\n\nハローキティの素敵なお泊まりディナーパーティ\nハローキティのハートフルクリスマス\nロビーでハローキティがお見送り\n
+ 18:30～20:30（開場18:10～）
+LAST-MODIFIED:20161205T105911Z
+LOCATION:ホテルリステル猪苗代\, 日本福島県耶麻郡猪苗代町２４１４
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:KT\,CN ハートフルクリスマス
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161224T023000Z
+DTEND:20161224T070000Z
+UID:opj4rtpevaqck5oiv7cojg295k@google.com
+CREATED:20161204T152818Z
+DESCRIPTION:12/17（土）より藤崎本館5F玩具売場サンリオにてプレゼント付撮影参加券（税込み500円）の購入が必要\n\nhttp://
+ www.sanrio.co.jp/news/event-fujisaki-20161224/\n\nハローキティと写真を撮ろう！（藤崎 本館5F）\n
+ \n会場 藤崎 本館5F 特設ステージ\n開催日 12/24（土）\n開催時間 11:30/13:30/15:30 各回25名\n
+LAST-MODIFIED:20161204T152818Z
+LOCATION:藤崎本館\, 日本宮城県仙台市青葉区一番町３丁目２−１７
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT 藤崎本館
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161204T023000Z
+DTEND:20161204T043000Z
+UID:2giqgn2bs8gdifqjtlv8jev13o@google.com
+CREATED:20161201T110354Z
+DESCRIPTION:https://twitter.com/kirimi_sanrio/status/804278905058181120\nht
+ tp://kitchencar.jp/\nhttps://twitter.com/saa_mell/status/805280086798647297
+ \n\n全国キッチンカーグルメ選手権2016\n2016年12月4日 10:00~16:00 （投票は15時まで） 雨天決行・荒天中止\n埼玉スタジア
+ ム2002 公園 南広場\n\nKIRIMIちゃん\n1130-\, 1300-
+LAST-MODIFIED:20161204T140140Z
+LOCATION:埼玉スタジアム２００２\, 日本埼玉県さいたま市緑区中野田５００
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:KI キッチンカーグルメ選手権
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161216T083000Z
+DTEND:20161216T090000Z
+UID:9hkkgja3e91ivmii1llepu86ac@google.com
+CREATED:20161203T152857Z
+DESCRIPTION:http://www.town.hiji.oita.jp/page/h2811_kankou_illumination.htm
+ l\n\n暘谷駅イルミネーション点灯式\n平成２８年１２月１６日（金）　１７：３０～\n暘谷駅北口駅前広場\n\nイルミネーション開催期間\n平成28
+ 年12月16日（金）～平成29年2月28日（火）
+LAST-MODIFIED:20161203T152857Z
+LOCATION:暘谷駅\, 日本大分県速見郡日出町
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT 暘谷駅イルミネーション点灯式
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161210T020000Z
+DTEND:20161210T073000Z
+UID:0irb9ede2u1e92ne5s5pr0bo98@google.com
+CREATED:20161202T083150Z
+DESCRIPTION:http://www.sanrio.co.jp/news/event-grantree-musashikosugi-20161
+ 210/\n\nハローキティとあそぼう！＆写真撮影会（グランツリー武蔵小杉）\n12/10(土)\n11:00/14:00/16:00\n4Fスマイル
+ スクエア\n\nオープン時より4Fサンリオギフトゲートにて1\,080円（税込み）以上お買い上げで写真撮影券\n各回30名
+LAST-MODIFIED:20161202T083150Z
+LOCATION:グランツリー武蔵小杉\, 日本神奈川県川崎市中原区新丸子東３丁目１１３５
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT グランツリー武蔵小杉
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161202T074500Z
+DTEND:20161202T080000Z
+UID:5aj4igpp93i9o6h6f5d6kesld4@google.com
+CREATED:20161202T042605Z
+DESCRIPTION:http://tdme.com/s/TDME16en/\nhttps://admin.iflyer.tv/apex/entry
+ /assets/tdme2016_conference2_ja.jpg\n\nTOKYO DANCE MUSIC EVENT\nDECEMBER 1 
+ - 3\, 2016\n\nDJ HELLO KITTY\n2016-12-02 16:45-17:00\nヒカリエホールA
+LAST-MODIFIED:20161202T042605Z
+LOCATION:ヒカリエホール\, 日本東京都渋谷区渋谷２丁目２１
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT TOKYO DANCE MUSIC EVENT
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161225T040000Z
+DTEND:20161225T070000Z
+UID:s28kco0s9niqr72dvsv2l6ile0@google.com
+CREATED:20161028T170740Z
+DESCRIPTION:http://ameblo.jp/nae-hana-smile/entry-12213720000.html\nhttp://
+ www.wakaba-walk.com/event/#event5507\n\nハローキティのハートフルクリスマス\n\n12月25日（日）　\nキャ
+ ラクターショー　　①13:00～　②15:00～\nハローキティ―握手会　①13:30～　②15:30～\nイベント広場\n\n入場各回60分前に専用
+ 入口から先着順\n
+LAST-MODIFIED:20161201T155643Z
+LOCATION:ワカバウォーク\, 日本埼玉県鶴ヶ島市富士見１丁目２−１
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:KT\,CN ハートフルクリスマス
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20161224
+DTEND;VALUE=DATE:20161225
+RRULE:FREQ=DAILY;COUNT=2
+UID:u3d9uppnipspadsv4rihk49tmk@google.com
+CREATED:20161201T155617Z
+DESCRIPTION:http://www.tenmaya.co.jp/cgi/web/index.cgi?c=event-list&shop_pk
+ =1\n\nハローキティのワンダーランド　～不思議なアート～\n12月23日（金）→ 12月30日（金）\n6階葦川会館\n\n12月24日（土）、2
+ 5日（日）にはハローキティもあそびにくる
+LAST-MODIFIED:20161201T155617Z
+LOCATION:天満屋 岡山店\, 日本岡山県岡山北区表町２丁目１−１
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT 天満屋岡山店
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170226T020000Z
+DTEND:20170226T063000Z
+UID:kbvpddtro33nmehhf5tqpn73a4@google.com
+CREATED:20161201T133924Z
+DESCRIPTION:KT\,MM\,TS\,DN\,CN\,PN\,XO\n\nチケット発売は2016-12-10T10:00から\n\nhttp
+ ://ticket.pia.jp/pia/ticketInformation.do?eventCd=1656305&rlsCd=001\nhttp:/
+ /l-tike.com/order/?gLcode=21454\n\nハローキティのドリームトラベラー\n1. 開場10:30 開演11:00\n2.
+  開場13:30 開演14:00
+LAST-MODIFIED:20161201T134630Z
+LOCATION:白河文化交流館「コミネス」\, 日本福島県白河市会津町1-17
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ドリームトラベラー
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161204T033000Z
+DTEND:20161204T070000Z
+UID:eu4cqlp39319v8uhmqc4t91ud0@google.com
+CREATED:20161128T145418Z
+DESCRIPTION:http://www.sanrio.co.jp/news/event-gg-natori-20161204/\n\nリトルツイ
+ ンスターズとメリークリスマス！（Sanrio Gift Gate イオンモール名取店）\n\n12/4（日） \n【ダンス＆抽選会】12:30/15:
+ 30 \n抽選カードは、1枚税込み500円\nゲーム開始30分前から販売\n【写真撮影会】14:00（40名様限定） \n店内にて税込み1\,080円
+ 以上お買上げで整理券
+LAST-MODIFIED:20161128T145418Z
+LOCATION:イオンモール名取\, 日本宮城県名取市杜せきのした５丁目３
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:TS メリークリスマス
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160424T043000Z
+DTEND:20160424T063000Z
+UID:c596hav4uk4gdoljt9ck7jnn48@google.com
+CREATED:20161127T142117Z
+DESCRIPTION:http://ameblo.jp/chan1010/entry-12151764773.html\n\nワンラブ プレゼンツ 
+ ハローキティとチャレンジタイム!\nワンラブ アリオ川口店\n1300\, 1500\n
+LAST-MODIFIED:20161127T142117Z
+LOCATION:アリオ川口\, 日本埼玉県川口市並木元町1-79
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT チャレンジタイム
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161127T040000Z
+DTEND:20161127T043000Z
+UID:17j41ba6fekg0hv2o2c0nqlbck@google.com
+CREATED:20161127T040258Z
+DESCRIPTION:http://www.town.hiji.oita.jp/page/h2811_nourin_sangyoumatsuri.h
+ tml\n\n第29回 ひじ産業まつり\n平成２８年１１月２７日（日）９：３０～１５：３０\n日出町中央公民館（野外テント・ホール・体育館）\n\nキ
+ ティズパラダイス ダッシュ\n1300-\n公民館ホール\n
+LAST-MODIFIED:20161127T131453Z
+LOCATION:日出町中央公民館\, 日本大分県速見郡日出町3891-2
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT\,XO\,DN キティズパラダイスダッシュ
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161127T020000Z
+DTEND:20161127T080000Z
+UID:50jcmic1ln14eopr6efnlp55qc@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
+  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
+ gle.com
+CREATED:20161126T162336Z
+DESCRIPTION:http://asp.shufoo.net/c/2016/11/24/c/9479922713200/index.html?s
+ hopId=4186&chirashiId=9479922713200\nhttp://ipqcache2.shufoo.net/c/2016/11/
+ 24/c/9479922713200/index/img/chirashi.pdf?shopId=4186&chirashiId=9479922713
+ 200\n\nマイメロディがキッズリパブリックに遊びに来るよ！\n\n11月27日（日）\n1100\, 1330\, 1500\, 1630\nリパ
+ ブー広場
+LAST-MODIFIED:20161126T231921Z
+LOCATION:イオンスタイル東戸塚店\, 日本神奈川県横浜市戸塚区品濃町535-1
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MM キッズリパブリック東戸塚
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161203T013000Z
+DTEND:20161203T053000Z
+UID:kp44n89c71tvjqjc20a5h10o3k@google.com
+CREATED:20161126T021417Z
+DESCRIPTION:http://ichinomiya.nha.or.jp/event/2016/12/03/032811.html\n\nマイメ
+ ロディとハッピークリスマス！\n\n時間／（1）10:30　（2）14:00\n場所／イベント広場ステージ\n握手・撮影会各回ショー終了後実施\n雨天
+ 時は特設テントにて握手・撮影会を実施
+LAST-MODIFIED:20161126T021417Z
+LOCATION:ナゴヤハウジングセンター一宮会場\, 日本愛知県一宮市丹陽町五日市場本地２８
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MM ハッピークリスマス
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170221T020000Z
+DTEND:20170221T053000Z
+UID:j2na8ai4ev5re009n8020va6mk@google.com
+CREATED:20161125T142243Z
+DESCRIPTION:2017-01-22までの応募で抽選80名\n着物着用推奨\n\nhttp://www.hearst.co.jp/whatsn
+ ew/node_5301\n\n「リーガロイヤルホテル東京」の読者限定特製ランチ\n大久保信子さんトークショー\n「KIMONO SNAP GALLE
+ RY」年間大賞授賞式\n\n11：00 受付開始\n11：30 読者限定特製ランチ\n大久保信子さんトークショー\nスナップギャラリー年間大賞授賞式\
+ nプロカメラマンのスナップ撮影\n14：30 終了予定
+LAST-MODIFIED:20161125T142603Z
+LOCATION:リーガロイヤルホテル東京\, 日本東京都新宿区戸塚町1-104-19
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT KIMONO SNAP GALLERY 年間大賞授賞式
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161127T013000Z
+DTEND:20161127T063000Z
+UID:5lpr5et64kk46r32apaunh5qo0@google.com
+CREATED:20161123T103324Z
+DESCRIPTION:http://morioka-aeonmall.com/news/event/844\n\nポムポムプリンのパワフルタイム！\
+ n～みんなでポムポムプリンのアニバーサリーをお祝いしよう～\n\n2016/11/27 (日)  \n1回目 10時30分～\n2回目 13時～\n3
+ 回目 15時～  \n専門店街1階イーハトーブ広場  \n\n握手会の整理券は各回先着50組
+LAST-MODIFIED:20161123T103324Z
+LOCATION:イオンモール盛岡\, 日本岩手県盛岡市前潟４丁目７−１
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:PN パワフルタイム
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161224T020000Z
+DTEND:20161224T063000Z
+UID:342canffu4vf3u9lbfgh32lfgo@google.com
+CREATED:20161121T224927Z
+DESCRIPTION:http://aratamabashi.aeonmall.com/news/event/645\n\nハローキティクリスマスミ
+ ニステージ『ハローキティとハッピークリスマス☆』\n\n日程 2016/12/24 (土) \n時間 （1）11:00～（2）15:00～\n場所 1
+ 階セントラルコート\n
+LAST-MODIFIED:20161121T224927Z
+LOCATION:イオンモール新瑞橋\, 日本愛知県名古屋市南区菊住１丁目７−１０ 
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT ハッピークリスマス
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20161121
+DTEND;VALUE=DATE:20161122
+UID:g73u8g3mb6uad8dred56meoj3k@google.com
+CREATED:20161121T120720Z
+DESCRIPTION:事前応募\n\nhttps://twitter.com/gudetama_sanrio/status/800285083907
+ 158016\nhttps://twitter.com/warnerjp/status/800622671058735104\n\n『ファンタスティッ
+ ク・ビーストと魔法使いの旅』レッドカーペット\n11月21日\n六本木ヒルズアリーナ
+LAST-MODIFIED:20161121T120720Z
+LOCATION:六本木ヒルズアリーナ Roppongi Hills Arena\, 6 Chome-9-1 Roppongi\, 港区 Minato
+ -ku\, Tōkyō-to 106-0032\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:GU ファンタビ レッドカーペット
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161126T023000Z
+DTEND:20161126T080000Z
+UID:g37u7rm7iplj5sfa2i5jick0vo@google.com
+CREATED:20161121T051916Z
+DESCRIPTION:https://twitter.com/HappyFlight_cts/status/800555738284191744\n
+ \nマイメロディが遊びにくるよ!\n\n1130-1200 レジに挑戦\n1400-1430 グリーティング (入場券と整理券が必要)\n1630- 
+ クリスマススペシャルミニステージ! マイメロディとクリスマスの思い出を!\n\n整理券は1330から50組に先着配布\nステージのみ国内線2Fセンター
+ プラザ
+LAST-MODIFIED:20161121T051916Z
+LOCATION:新千歳空港ターミナルビル\, 日本北海道千歳市美々
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MM ハッピーフライト
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161127T072000Z
+DTEND:20161127T100000Z
+UID:m8uath9q1smseshljcp9nbphfc@google.com
+CREATED:20161120T154225Z
+DESCRIPTION:http://www.sanrio.co.jp/news/event-pg-osaka-20161127/\nhttps://
+ iida-riho.com/contents/71358\n\nペペペペン議員人気投票応援会\n出演：飯田里穂（パッション洋子：ゲスト声優）、江ノ島シ
+ ョーン\n\n大丸梅田店 選挙権お渡し会\n会場：大丸梅田店5F 南エスカレーター横「ペペペペン議員POP UPショップ」\n日時：11月27日（日）
+ 　12:00〜　30分程度\n対象商品3\,000円（税込み）以上お買い上げ先着50名に参加券\n\nヴィレッジヴァンガード（なんばパークス店） 選挙
+ 権お渡し会\n会場：なんばパークス 5F ヴィレッジヴァンガード\n日時：11月27日（日）　16:20〜　30分程度\n対象商品3\,000円（税込
+ み）以上お買い上げ先着50名に参加券\n\nカフェ コスタメサ（なんばパークス店）\nディナー付き飯田里穂さんトークショー＆選挙権お渡し会\n会場：な
+ んばパークス4F　カフェ コスタメサ\n日時：11月27日（日）　開場：17:30、トークショー：18:00〜　1時間程度\n11月10日から電話予約
+LAST-MODIFIED:20161120T155723Z
+LOCATION:なんばパークス\, 日本大阪府大阪市浪速区難波中２−１０
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:PG ペペペペン議員人気投票応援会
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161127T030000Z
+DTEND:20161127T033000Z
+UID:u4qp48ecpub0kulqvvsk82en34@google.com
+CREATED:20161120T154158Z
+DESCRIPTION:http://www.sanrio.co.jp/news/event-pg-osaka-20161127/\nhttps://
+ iida-riho.com/contents/71358\n\nペペペペン議員人気投票応援会\n出演：飯田里穂（パッション洋子：ゲスト声優）、江ノ島シ
+ ョーン\n\n大丸梅田店 選挙権お渡し会\n会場：大丸梅田店5F 南エスカレーター横「ペペペペン議員POP UPショップ」\n日時：11月27日（日）
+ 　12:00〜　30分程度\n対象商品3\,000円（税込み）以上お買い上げ先着50名に参加券\n\nヴィレッジヴァンガード（なんばパークス店） 選挙
+ 権お渡し会\n会場：なんばパークス 5F ヴィレッジヴァンガード\n日時：11月27日（日）　16:20〜　30分程度\n対象商品3\,000円（税込
+ み）以上お買い上げ先着50名に参加券\n\nカフェ コスタメサ（なんばパークス店）\nディナー付き飯田里穂さんトークショー＆選挙権お渡し会\n会場：な
+ んばパークス4F　カフェ コスタメサ\n日時：11月27日（日）　開場：17:30、トークショー：18:00〜　1時間程度\n11月10日から電話予約
+LAST-MODIFIED:20161120T155714Z
+LOCATION:大丸梅田店\, 日本大阪府大阪市北区梅田
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:PG ペペペペン議員人気投票応援会
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161218T020000Z
+DTEND:20161218T053000Z
+UID:8m72kljn741gq3anui9f8b7q6s@google.com
+CREATED:20161120T121835Z
+DESCRIPTION:http://yamatokoriyama-aeonmall.com/news/event/1065\n \nハローキティのH
+ APPY GIFT CHRISTMAS\n2016/12/18 (日)\n1回目　11：00～\n2回目　14：00～\n1Ｆ 北小路コート
+LAST-MODIFIED:20161120T121835Z
+LOCATION:イオンモール大和郡山\, 日本奈良県大和郡山市下三橋町７４１
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT\,MM HAPPY GIFT CHRISTMAS
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161203T020000Z
+DTEND:20161203T063000Z
+UID:uuehjrac4merfildr660brbc4s@google.com
+CREATED:20161119T042131Z
+DESCRIPTION:フコク生命の招待\nKT\,DN\,MM\,KU\,XO\,SI\,US\n\nhttps://item.mercari.co
+ m/jp/m332628208/\n\nサンリオ ハートフルミュージカル\n1部 ハローキティのみんなであそぼう♪\n2部 きっとうまくいくよ!\n\
+ n12月3日(土) \n広島国際会議場フェニックスホール\n\n第1回\n10:30 開場\n11:00 開演\n12:30 終演予定\n\n第2回\
+ n13:30 開場\n14:00 開演\n15:30 終演予定\n
+LAST-MODIFIED:20161119T042255Z
+LOCATION:広島国際会議場\, 日本広島県広島市中区中島町1-5
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ハートフルミュージカル
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161119T020000Z
+DTEND:20161119T074000Z
+UID:vmqjibe1luf12q0k584ir9cgsk@google.com
+CREATED:20161028T170519Z
+DESCRIPTION:http://ameblo.jp/nae-hana-smile/entry-12213720000.html\nhttp://
+ www.lalaport-shinmisato.com/event/10426338_13594.html\n\nららぽーと新三郷 リニューアル1周年
+ 記念\nハローキティのハートフルクリスマス\n\n日程： 11月19日（土）\n時間： (1)11:00～／(2)16:00～\n場所： 1F スカイ
+ ガーデンステージ\n\n雨天時は1F屋内広場にて握手会で各回先着100名限定\n握手会参加整理券を1回目は10:00から北モール2Fスカイガーデンエン
+ トランスにて、2回目は15:00より1F屋内広場にて配布\n雨天時の握手会実施については「1回目10:00」「2回目15:00」にウェブサイトおよび会
+ 場にて告知\n10時オープン前に整理券配布をお待ちになるお客様は「北モール2Fスカイガーデンエントランス」へお並びください\n\nhttp://www
+ .lalaport-shinmisato.com/event/10426337_13594.html\n\nハローキティのハートフルクリスマス 点灯式
+ \n\n日程： 11月19日（土）\n時間： 16:30～　※雨天中止\n場所： 1F スカイガーデンステージ\n\nhttp://www.lalap
+ ort-shinmisato.com/info/10427993_22461.html\n\n11時は雨天により握手会に変更
+LAST-MODIFIED:20161119T025528Z
+LOCATION:ららぽーと新三郷\, 日本埼玉県三郷市新三郷ららシティ3-1-1
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:KT\,CN ハートフルクリスマス
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161119T021000Z
+DTEND:20161119T063000Z
+UID:i96roirvqj9uc7ppjb8hcbhj14@google.com
+CREATED:20161109T105519Z
+DESCRIPTION:http://www.cybele.co.jp/blog/park/2016/11/post-399.html\nhttp:/
+ /www.cybele.co.jp/news/docs/20161109%E3%83%8F%E3%83%AD%E3%83%BC%E3%82%AD%E3
+ %83%86%E3%82%A3%E3%82%B3%E3%83%A9%E3%83%9C%E3%83%AA%E3%83%AA%E3%83%BC%E3%82
+ %B9.pdf\nhttp://www.kahoku.co.jp/tohokunews/201611/20161117_52002.html\n\nハ
+ ローキティ ラスク発売記念\n発表会&撮影会\n\n11月19日（土）\n商品発表会11:00～\n撮影会①11:10～ ②13:30～ ③15:00
+ ～\n\n各回先着50組限定\n各回開始30分前から受付開始\n店舗正面入口前　屋外特設会場\n\n撮影会は「ハローキティ ラスク」の購入者が参加可能
+ \n特設会場にレシート持参
+LAST-MODIFIED:20161117T164503Z
+LOCATION:（株）シベール ファクトリーメゾンパン\, 日本\, 〒990-2338 山形県山形市蔵王松ケ丘２丁目１−３
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:KT ハローキティ ラスク発売記念 発表会&撮影会
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20161111
+DTEND;VALUE=DATE:20161112
+UID:ieuhvft177oa6deui7q5ectseo@google.com
+CREATED:20161117T153923Z
+DESCRIPTION:http://www.be-o.jp/outing/201111/
+LAST-MODIFIED:20161117T153923Z
+LOCATION:パレットくもじ Palette Kumoji\, Japan\, 〒900-0015 Okinawa-ken\, Naha-shi\
+ , Kumoji\, 1 Chome−１番１号
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT パレットくもじイルミネーション点灯式
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170311
+DTEND;VALUE=DATE:20170312
+UID:prk1ac8lvret0t3pr0v98t0vnc@google.com
+CREATED:20161117T130641Z
+DESCRIPTION:キリンビバレッジ対象商品を購入しての事前応募\n11月30日まで\n\nhttps://news.nissyoku.co.jp
+ /news/detail/?id=FUJIBAYASHI20161108051904647&cc=07&ic=120\nhttps://www.mec
+ hatoku.com/ckensho/shosai02.php?cid=179605&mk=3\n\nハローキティと巡る幕末歴史バスツアー\n2017
+ /3/11（土）\n20組40名
+LAST-MODIFIED:20161117T130641Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT 幕末歴史バスツアー
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161119T020000Z
+DTEND:20161119T070000Z
+UID:ruk060173v7r1hjg68nqafk7t0@google.com
+CREATED:20161116T093101Z
+DESCRIPTION:https://www.oitabank.co.jp/news/article/notice/nt281110.html\nh
+ ttps://www.facebook.com/OitaBank/photos/a.228445573976724.1073741829.220691
+ 028085512/741749035979706/?type=3&theater\n\n宗麟館とわさだタウン出張所にマイメロディが遊びにくるよ♪\n
+ \n＊日程：11月19日（土）\n\n＊場所・時間：\n☆宗麟館\n①11時00分～11時30分\n※10時45分に整理券配布\n※別途、報道関係者向
+ けのお披露目会を 9：00 から実施\n\n☆わさだタウン出張所（トキハわさだタウン3階）\n① 14時00分～14時30分\n② 15時30分～16
+ 時00分\n\n・各時間、先着50組限定\n・当日は整理券配布（整理券配布時には「マイメロディオリジナルクリアファイル」をプレゼント）
+LAST-MODIFIED:20161116T133745Z
+LOCATION:大分銀行宗麟館\, 日本\, 〒870-0823 大分県大分市東大道１丁目９-１
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MM 大分銀行
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161113T010000Z
+DTEND:20161113T053000Z
+UID:skhi0a1lhm2h56flvhqg0u3qek@google.com
+CREATED:20160904T225345Z
+DESCRIPTION:9月9日からチケット販売\nKT\,MM\,TS\,PN\,CN\,KT\,XO\,KU\,KI\,GU\n\nhttps:/
+ /www.facebook.com/S.photowalk.jp/\nhttp://sanriocharacters-photowalk.com/\n
+ http://www.sanrio.co.jp/news/mx-event-photowalk-20161113/\n\n11月13日\n多摩中央公園
+ \n1. 10:00-\n2. 13:00-\n大人5800円、小人4700円\n
+LAST-MODIFIED:20161116T125259Z
+LOCATION:多摩中央公園\, 日本東京都多摩市落合2-35
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:サンリオキャラクターズ Photo Walk
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161123T033000Z
+DTEND:20161123T103000Z
+UID:7ttg596o2r773qd9590u5qq1b0@google.com
+CREATED:20161017T153522Z
+DESCRIPTION:https://www.value-press.com/pressrelease/171658\nhttp://www.mak
+ euprestaurant.com/\nhttp://www.sanrio.co.jp/news/kt-makeuprestaurant-201611
+ 22/\n\nミワンダフルのメイクアップレストラン\n\n日程:2016年11月22日(火)、23日(水・祝)/2日間\n開場・開演時間:\n11月2
+ 2日(火)開場18:30開演19:00\n11月23日(水)開場12:30開演13:00\n11月23日(水)開場17:30開演18:00\n会場:原
+ 宿クエストホール\n各回、開場と同時にハローキティのグリーティング
+LAST-MODIFIED:20161116T121209Z
+LOCATION:原宿クエストホール\, 日本東京都渋谷区神宮前１丁目１３−１４
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:KT ミワンダフルのメイクアップレストラン
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161122T093000Z
+DTEND:20161122T113000Z
+UID:kknis4tkh8bpar904m12neatus@google.com
+CREATED:20161017T153508Z
+DESCRIPTION:https://www.value-press.com/pressrelease/171658\nhttp://www.mak
+ euprestaurant.com/\nhttp://www.sanrio.co.jp/news/kt-makeuprestaurant-201611
+ 22/\n\nミワンダフルのメイクアップレストラン\n\n日程:2016年11月22日(火)、23日(水・祝)/2日間\n開場・開演時間:\n11月2
+ 2日(火)開場18:30開演19:00\n11月23日(水)開場12:30開演13:00\n11月23日(水)開場17:30開演18:00\n会場:原
+ 宿クエストホール\n各回、開場と同時にハローキティのグリーティング
+LAST-MODIFIED:20161116T121159Z
+LOCATION:原宿クエストホール\, 日本東京都渋谷区神宮前１丁目１３−１４
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:KT ミワンダフルのメイクアップレストラン
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161225T020000Z
+DTEND:20161225T063000Z
+UID:26mapt2mlimq0giqsm10e02dis@google.com
+CREATED:20161113T155712Z
+DESCRIPTION:http://www.seibuen-yuuenchi.jp/event/index.html?category=e1\n\n
+ 12月11日（日）、25日（日）\n11:00 ハローキティとハッピーグリーティング\n13:00 ハローキティとバースデーセレブレーション\n15:
+ 00 ハローキティのクリスマススペシャル
+LAST-MODIFIED:20161116T031555Z
+LOCATION:西武園ゆうえんち\, 日本埼玉県所沢市山口２９６４
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT 西武園ゆうえんち
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161211T020000Z
+DTEND:20161211T063000Z
+UID:tv0a0duf6e227dsd5imlc7uc0g@google.com
+CREATED:20161113T155704Z
+DESCRIPTION:http://www.seibuen-yuuenchi.jp/event/index.html?category=e1\n\n
+ 12月11日（日）、25日（日）\n11:00 ハローキティとハッピーグリーティング\n13:00 ハローキティとバースデーセレブレーション\n15:
+ 00 ハローキティのクリスマススペシャル
+LAST-MODIFIED:20161116T031547Z
+LOCATION:西武園ゆうえんち\, 日本埼玉県所沢市山口２９６４
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT 西武園ゆうえんち
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161123T043000Z
+DTEND:20161123T080000Z
+UID:miflm4kh44m8dph3r6okdhprug@google.com
+CREATED:20161116T013439Z
+DESCRIPTION:http://takaoka-aeonmall.com/news/event/1073\n\nキティちゃんが遊びに来るよ！【参
+ 加無料】\n\n日程 2016/11/23 (水) \n時間\n13：30～14：00\n15：00～15：30\n16：30～17：00 \n場所 
+ 1F セントラルコート\n\n写真撮影は各回30名\n各回30分前より整理券を配布
+LAST-MODIFIED:20161116T013439Z
+LOCATION:イオンモール高岡\, 日本富山県高岡市下伏間江３８３
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT イオンモール高岡
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161127T023000Z
+DTEND:20161127T073000Z
+UID:d7q0rkd9vmg4nkvtb9ut0t1ou8@google.com
+CREATED:20161115T152529Z
+DESCRIPTION:http://www.jra.go.jp/news/201611/111425.html\n\nようこそウインズ姫路へ!\n１
+ １月２７日（日）【ジャパンカップ（GI）当日】\n\nターフィー＆ハローキティ　レッツゴーダンスショー＆じゃんけん大会\n１回目／１１：３０～\n２回
+ 目／１３：００～\n３回目／１４：３０～\n４回目／１６：００～\n各回３０分程度\n１回目と３回目には「ターフィーのレッツゴーダンス」を行う\n場所
+  姫路駅北にぎわい交流広場 ※雨天時は中央地下通路\n
+LAST-MODIFIED:20161115T152529Z
+LOCATION:ウインズ姫路\, 日本兵庫県姫路市広峰2丁目7-80
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT\,ターフィー ウインズ姫路
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161127T014000Z
+DTEND:20161127T063000Z
+UID:681jh5tnm96rm295d8bmt3d5gs@google.com
+CREATED:20161115T152245Z
+DESCRIPTION:http://jra.jp/news/201611/111412.html\n\n新宿でジャパンカップを楽しもう!!\n開催日
+  １１月２７日（日）【ジャパンカップ（GI）当日】\n場所 新宿モア４番街\n\nターフィー＆キティグリーティング\n(1) 10:40～11:00\
+ n(2) 12:00～12:30\n(3) 13:30～14:00\n(4) 15:00～15:30\n
+LAST-MODIFIED:20161115T152245Z
+LOCATION:新宿モアビル\, 日本東京都新宿区新宿3-25-9
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT\,ターフィー ジャパンカップ
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20161224T160000
+DTEND;TZID=Asia/Tokyo:20161224T183000
+RRULE:FREQ=DAILY;COUNT=2
+UID:ci0plgn3hdktf8jagjl512epng@google.com
+CREATED:20161115T151927Z
+DESCRIPTION:https://www.lmaga.jp/news/2016/11/17246/\n\nMerry Xmas! DJ Hell
+ o Kitty NIGHT!!\n\n2016年12月24日（土）・25日（日）\n16:00〜、18:00〜（各回30分）\nNU茶屋町 1階 コリ
+ ドールプラザ特設会場
+LAST-MODIFIED:20161115T151941Z
+LOCATION:ＮＵ茶屋町\, 日本大阪府大阪市北区茶屋町１０−１２
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:KT DJ Hello Kitty NIGHT
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161204T020000Z
+DTEND:20161204T070000Z
+UID:urhee7nvo34hrrjj7hu2hm8cg0@google.com
+CREATED:20161101T231223Z
+DESCRIPTION:http://ota-aeonmall.com/news/event/1099\nhttp://www.sanrio.co.j
+ p/news/event-gg-aeonmall-ota-20161204/\n\nハローキティ写真撮影会\n日程 2016/12/04 (日) \n
+ 時間 （1）11：00 （2）14：00 （3）15：30\n場所 専門店街2階サンリオギフトゲート前\n\n当日10時よりサンリオギフトゲートにて、
+ 1\,080円（税込）以上お買上げのお客さま先着25名に写真撮影整理券を配布
+LAST-MODIFIED:20161115T075123Z
+LOCATION:イオンモール太田\, 日本群馬県太田市８１
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT イオンモール太田
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161120T010000Z
+DTEND:20161120T070000Z
+UID:dbo8i9rh9okl96ostk60730geg@google.com
+CREATED:20161013T064436Z
+DESCRIPTION:http://www.keio-ekiden.com/top.html\nhttps://www.keio.co.jp/new
+ s/update/news_release/news_release2016/nr161018_ekiden16.pdf\n\n京王駅伝フェスティバル
+  2016\n2016年11月20日(日) 10:00～16:00(開場/8:30)\n味の素スタジアム/武蔵野の森公園特設コース\n\n京王線車内広
+ 告と公式サイトのイベント情報にキティ登場の告知あり\n告知写真では京王駅長服を着用しているが「当日の衣装と異なる場合があります」との注意書きあり
+LAST-MODIFIED:20161115T023233Z
+LOCATION:味の素スタジアム\, 日本東京都調布市西町３７６−３
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT 京王駅伝フェスティバル
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160718T070000Z
+DTEND:20160718T080000Z
+UID:64s4m5uifipkhhohp3h9bkbfis@google.com
+CREATED:20161115T011117Z
+DESCRIPTION:http://www.townnews.co.jp/0306/2016/08/04/342766.html\nhttps://
+ www.city.tama.lg.jp/dbps_data/_material_/_files/000/000/023/708/moyooshi2.p
+ df\n\n第66回“社会を明るくする運動”～犯罪や非行を防止し，立ち直りを支える地域のチカラ～\n\n7月18日(祝) 午後4時から5時まで\nコー
+ ス 多摩美術大学美術館前 → イトーヨーカドー → 多摩センター駅前 → 京王プラザホテル多摩 → パルテノン多摩前\n市立聖ヶ丘小学校マーチングバン
+ ドの演奏あり\n
+LAST-MODIFIED:20161115T011117Z
+LOCATION:多摩美術大学美術館\, 日本東京都多摩市落合１丁目３３−１
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT 社会を明るくする運動
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161118T031500Z
+DTEND:20161118T100000Z
+UID:dnkc9ujv58bhg04b49sruked08@google.com
+CREATED:20161111T114839Z
+DESCRIPTION:http://www.mitsuifudosan.co.jp/corporate/news/2016/1111/index.h
+ tml\nhttp://japan.cnet.com/release/30166765/\n\n『2016 ゲートシティ大崎 点灯式＆ハローキティとの
+ 撮影会』\n日時：11/18（金） 12:15～12：45 撮影会（先着５０組）\n17：00～17：30 点灯式&撮影会（先着３０組）\n18：30
+ ～19：00 撮影会（先着５０組）\n場所：ゲートシティ大崎内アトリウム（地下1 階）\n\nクリスマスイルミネーションの開始日に、「ハローキティ」が
+ ゲートシティ大崎地下1階のアトリウムに登場。ワーカーや地域住民の方と一緒に点灯式を開催。点灯式前後には、「ハローキティ」との写真撮影を予定。\n\n詳
+ 細については、「ゲートシティ大崎」オフィシャルHPにて随時更新。\nhttp://www.gatecity.jp/
+LAST-MODIFIED:20161114T155002Z
+LOCATION:ゲートシティ大崎\, 日本\, 〒141-0032 東京都品川区大崎１丁目１−１１−１
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:KT ゲートシティ大崎点灯式
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161224T040000Z
+DTEND:20161224T063000Z
+UID:7b9pifn6gjni13vg5haqmfil7g@google.com
+CREATED:20161028T170719Z
+DESCRIPTION:http://ameblo.jp/nae-hana-smile/entry-12213720000.html\nhttp://
+ www.seibuen-yuuenchi.jp/event/index.html?category=e1\n\nハローキティのハートフルクリスマス\n
+ メルヘンタウンステージ\n13:00\, 15:00
+LAST-MODIFIED:20161113T155800Z
+LOCATION:西武園ゆうえんち\, 日本埼玉県所沢市山口２９６４
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:KT\,CN ハートフルクリスマス
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170325T221500Z
+DTEND:20170326T021000Z
+UID:2u74mjv5q30gsjsvvm5le6pebk@google.com
+CREATED:20161112T102719Z
+DESCRIPTION:http://www.jognote.com/tamaroadrace\n\n第36回2017多摩ロードレース大会\n\n7:
+ 15 受付開始\n8:15 開会式\n8:45 10km・5kmの部 受付終了\n9:00 10kmの部 スタート (競技終了10:30)\n9:20
+  5kmの部 スタート (競技終了10:30)\n10:40頃 表彰式 (10kmの部・5kmの部の順で)\n11:10頃 復興応援抽選会
+LAST-MODIFIED:20161112T102719Z
+LOCATION:多摩市立陸上競技場\, 日本東京都多摩市諏訪４−９
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT 多摩ロードレース
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161120T050000Z
+DTEND:20161120T073000Z
+UID:vn2cpjoi07e86bmfta2n034ues@google.com
+CREATED:20161112T102007Z
+DESCRIPTION:http://tamapon.com/2016/11/12/mcdonalds-tamacenter-renewal/\n\n
+ 11/18（金）〜11/24（木）ビッグマックが単品220円 セット550円\n※10:30〜の実施\n11/20（日）ハローキティと写真撮影（1回目
+ 14時〜2回目16時〜）\n※当日1\,000円以上購入のお客様のみ、各回先着20組に整理券配布\n12/4（日）ドナルドがやってくる！（1回目14時
+ 〜2回目17時〜）\n場所：店内客席
+LAST-MODIFIED:20161112T102007Z
+LOCATION:マクドナルド 多摩センター店\, 日本東京都多摩市落合１－１４４０丘の上パティオ内
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT マクドナルド多摩センター店リニューアル
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161113T033000Z
+DTEND:20161113T073000Z
+UID:3lbp264cpi2khotjrm4a4kagjg@google.com
+CREATED:20161111T123226Z
+DESCRIPTION:http://www.sanrio.co.jp/wp-content/uploads/2015/05/20161111.pdf
+ \nhttps://twitter.com/kirimi_sanrio/status/797016044988567552\nhttp://www.t
+ okyoharvest.com/\n\n東京ハーヴェスト\n11 月 12 日（土） 11:00-19:00\n11 月 13 日（日） 11:00-
+ 19:30\n\n「きりみちゃん」グリーティングスケジュール\n\n11 月 12 日（土）\n（1 回目）11：45～12：15 グリーティング（K
+ irimi's Kitchen 前）\n（2 回目）13：15～13：45 グリーティング（Kirimi's Kitchen 前）\n（3 回目）15
+ ：00～15：30 ステージ出演\n（4 回目）16：30～17：00 グリーティング（Kirimi's Kitchen 前）\n\n11 月 13 
+ 日（日）\n（1 回目）12：30～13：00 ステージ出演\n（2 回目）14：30～15：00 グリーティング（Kirimi's Kitchen 
+ 前）\n（3 回目）16：00～16：30 グリーティング（Kirimi's Kitchen 前）
+LAST-MODIFIED:20161111T224626Z
+LOCATION:六本木ヒルズアリーナ\, 日本\, 〒106-0032 東京都港区六本木６丁目９−１
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KI 東京ハーヴェスト2016
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161112T024500Z
+DTEND:20161112T080000Z
+UID:nqbie6ue7v9fu45ec3bg5h53ko@google.com
+CREATED:20161111T114056Z
+DESCRIPTION:http://www.sanrio.co.jp/wp-content/uploads/2015/05/20161111.pdf
+ \nhttps://twitter.com/kirimi_sanrio/status/797016044988567552\nhttp://www.t
+ okyoharvest.com/\n\n東京ハーヴェスト\n11 月 12 日（土） 11:00-19:00\n11 月 13 日（日） 11:00-
+ 19:30\n\n「きりみちゃん」グリーティングスケジュール\n\n11 月 12 日（土）\n（1 回目）11：45～12：15 グリーティング（K
+ irimi's Kitchen 前）\n（2 回目）13：15～13：45 グリーティング（Kirimi's Kitchen 前）\n（3 回目）15
+ ：00～15：30 ステージ出演\n（4 回目）16：30～17：00 グリーティング（Kirimi's Kitchen 前）\n\n11 月 13 
+ 日（日）\n（1 回目）12：30～13：00 ステージ出演\n（2 回目）14：30～15：00 グリーティング（Kirimi's Kitchen 
+ 前）\n（3 回目）16：00～16：30 グリーティング（Kirimi's Kitchen 前）
+LAST-MODIFIED:20161111T224617Z
+LOCATION:六本木ヒルズアリーナ\, 日本\, 〒106-0032 東京都港区六本木６丁目９−１
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:KI 東京ハーヴェスト2016
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161119T013000Z
+DTEND:20161119T043000Z
+UID:6jpbkbnihjskvk366ib6il9sbg@google.com
+CREATED:20161110T112649Z
+DESCRIPTION:http://www.townnews.co.jp/0303/2016/11/10/356854.html\n\n10:30-
+ 11:00\, 13:00-13:30\n橋本郵便局駐車場（雨天時は３階スペース）\n\n年賀はがき20枚以上か、ハローキティ記念切手２シート以上お買
+ い上げで写真撮影券\n各回先着40人\nはがき等は当日午前９時から販売
+LAST-MODIFIED:20161110T112649Z
+LOCATION:橋本郵便局\, 日本神奈川県相模原市緑区西橋本５丁目２−１
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT 橋本郵便局１日郵便局長
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161112T013000Z
+DTEND:20161112T063000Z
+UID:ff96it8879c4ke7t573n6go440@google.com
+CREATED:20161109T104928Z
+DESCRIPTION:http://www.kochi-sk.co.jp/event/event/11-08.htm\n\nポムポムプリンのパワフル
+ タイム！\n（ミニショー・撮影会）\n\n◆日時＝11/12（土）10：30～、13：00～、15：00～の３回公演。1公演30分 \n◆会場＝日高総
+ 合運動公園・野外劇場（高岡郡日高村本郷鹿児2670）\n◆入場料＝無料\n\nショーの終わりには撮影会
+LAST-MODIFIED:20161109T130117Z
+LOCATION:日高村総合運動公園野外劇場\, 日本\, 〒781-2153 高知県高岡郡日高村本郷２６７０
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:PN パワフルタイム
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20161104
+DTEND;VALUE=DATE:20161107
+UID:1qkuoa0km659b0r3atrfgbtgtc@google.com
+CREATED:20161108T135656Z
+DESCRIPTION:http://www.mcmcomiccon.com/stockholm/2016/10/20/besok-hello-kit
+ tys-japanska-tradgard-pa-comic-con-stockholm/\nhttps://www.facebook.com/eve
+ nts/559676514239859/
+LAST-MODIFIED:20161108T135656Z
+LOCATION:Kistamässan\, Arne Beurlings Torg\, Kista\, Sweden
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT Comic Con Stockholm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161203T020000Z
+DTEND:20161203T063000Z
+UID:p930cn2r8bg02n7s29gtre6ehk@google.com
+CREATED:20161108T134518Z
+DESCRIPTION:http://www.ario-nishiarai.jp/web/event/11521e32-e9ea-434c-9418-
+ 9f87b2a4fc44.html\n\nハローキティとハッピークリスマス\n\n日程 12月3日（土）\n時間 ①午前11時～　②午後1時～　③午後
+ 3時～\n場所 1階イベント広場\n\n握手会は各回先着100名様で整理券を配布\n1回目、開店より「七中側入口」から整列入場\n入場案内は午前9時を
+ 予定\n2回目は1回目終了後、3回目は2回目終了後に1階イベント広場にて整理券を配布
+LAST-MODIFIED:20161108T134518Z
+LOCATION:アリオ西新井\, 日本東京都足立区西新井栄町１丁目２０
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT ハッピークリスマス
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170129T020000Z
+DTEND:20170129T063000Z
+UID:7gpqvrplf76hbe2i8qk8go7208@google.com
+CREATED:20161107T112700Z
+DESCRIPTION:http://wmh.ube-bunzai.jp/kinenkan01/1285/\n\n公演名：ハローキティ＆シュガーバニー
+ ズのきっとうまくいくよ！\n場　所：宇部市渡辺翁記念会館\n日　時：2017年1月29日（日）\n【午前の部】10:30開場　11:00開演\n【午後
+ の部】13：30開場　14：00開演\n\n入場料：全席指定2\,000円（当日500円高）\n※2歳以下の膝上鑑賞は無料\n\n一般発売　10月29
+ 日（土）／友の会先行入場予約 　10月25日（火）・26日（水）\nプレイガイド：宇部市文化会館、宇部井筒屋、フジグラン宇部、おのだサンパーク、サンパ
+ ークあじす、山口情報芸術センターYCAM、山口市民会館、下関市民会館、DREAM SHIP（下関市生涯学習プラザ）、ローソンチケット（Lコード：624
+ 30）、セブンイレブン、ファミリーマート、宇部市文化創造財団HP
+LAST-MODIFIED:20161107T113256Z
+LOCATION:宇部市渡辺翁記念会館\, 日本\, 〒755-0041 山口県宇部市朝日町８ 山口県宇部市朝日町８－１
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ハローキティ＆シュガーバニーズのきっとうまくいくよ！
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161106T020000Z
+DTEND:20161106T063000Z
+UID:st4nn6ivkfclu9h7snq77at4k8@google.com
+CREATED:20161106T174132Z
+DESCRIPTION:http://yamanasi-asobi.com/archives/1194\n\nポムポムプリンのパワフルタイム!\n\n
+ 1100\, 1300\, 1500\n1階 さくら広場\n\n1時間前から撮影会整理券を30組に配布
+LAST-MODIFIED:20161106T174132Z
+LOCATION:イオンモール甲府昭和\, 日本山梨県中巨摩郡昭和町常永土地区画整理地内１街区
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:PN パワフルタイム
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161222T083000Z
+DTEND:20161222T090000Z
+UID:4be7e02aijdv1r6lv1lrn0snk4@google.com
+CREATED:20161106T130415Z
+DESCRIPTION:https://twitter.com/mymeloc5/status/795248513579786240\n\n多摩センタ
+ ーイルミネーション2016\n2016/11/12(土)～2017/1/9(月・祝) 16:30～22:30\n※サンリオキャラクターイルミネーション
+ は毎日21:30まで\n\nイルミネーションスペシャルパレード\n12月2日、16日、22日\n17:30-18:00
+LAST-MODIFIED:20161106T130415Z
+LOCATION:パルテノン多摩\, 日本東京都多摩市落合２丁目
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:イルミネーションスペシャルパレード
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161216T083000Z
+DTEND:20161216T090000Z
+UID:c0uhp278o8jgktbl83ipnt7rt4@google.com
+CREATED:20161106T130402Z
+DESCRIPTION:https://twitter.com/mymeloc5/status/795248513579786240\n\n多摩センタ
+ ーイルミネーション2016\n2016/11/12(土)～2017/1/9(月・祝) 16:30～22:30\n※サンリオキャラクターイルミネーション
+ は毎日21:30まで\n\nイルミネーションスペシャルパレード\n12月2日、16日、22日\n17:30-18:00
+LAST-MODIFIED:20161106T130402Z
+LOCATION:パルテノン多摩\, 日本東京都多摩市落合２丁目
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:イルミネーションスペシャルパレード
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161202T083000Z
+DTEND:20161202T090000Z
+UID:72ds0j645ggbmj7m7o6cn4733c@google.com
+CREATED:20161106T130352Z
+DESCRIPTION:https://twitter.com/mymeloc5/status/795248513579786240\n\n多摩センタ
+ ーイルミネーション2016\n2016/11/12(土)～2017/1/9(月・祝) 16:30～22:30\n※サンリオキャラクターイルミネーション
+ は毎日21:30まで\n\nイルミネーションスペシャルパレード\n12月2日、16日、22日\n17:30-18:00
+LAST-MODIFIED:20161106T130352Z
+LOCATION:パルテノン多摩\, 日本東京都多摩市落合２丁目
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:イルミネーションスペシャルパレード
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161112T083000Z
+DTEND:20161112T091000Z
+UID:v9s9aitqprtrm74dumlh0gij5s@google.com
+CREATED:20161028T170353Z
+DESCRIPTION:http://ameblo.jp/nae-hana-smile/entry-12213720000.html\nhttp://
+ www.tamacenter-cm.com/illumi/\n\n多摩センターイルミネーション2016\n2016/11/12(土)～2017/1/9
+ (月・祝) 16:30～22:30\n※サンリオキャラクターイルミネーションは毎日21:30まで\n\n11/12(土)\n\n16:40～\nオープ
+ ニングセレモニー\n\n17:00～\nオープニングファンタジーショー\n木遺り披露　長野県富士見町のみなさん\nハンドベル演奏　桜美林中学校、高等学
+ 校ハンドベル部\nサンリオショー　サンリオピューロランド 「ハローキティ＆シナモンのハートフルクリスマス」\n\n18:00～\nカウントダウン・点灯
+LAST-MODIFIED:20161106T130105Z
+LOCATION:ココリア多摩センター\, 日本東京都多摩市落合１丁目４６−１
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:KT\,CN ハートフルクリスマス
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161106T020000Z
+DTEND:20161106T073000Z
+UID:qchieg532g3ttnat447oet51hs@google.com
+CREATED:20161106T074203Z
+DESCRIPTION:https://twitter.com/BCL_company/status/794475959915118592\n\nグリ
+ ーティング＆撮影会♪\n\n原宿クエストビル 1F＆B1F アインズ＆トルペ 原宿クエスト店\n11/6(日)11時/13時/14時半/16時\n商品
+ をお買い上げのお客さま、先着100名に撮影会の整理券を配布
+LAST-MODIFIED:20161106T074203Z
+LOCATION:原宿クエストビル\, 日本東京都神宮前1-13-14
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT アインズ＆トルペ 原宿クエスト店
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161029T020000Z
+DTEND:20161029T073000Z
+UID:v62q34s2f3f8gc6rlln6kc1mjk@google.com
+CREATED:20161028T171346Z
+DESCRIPTION:3回目の時間が不明\n\nhttps://twitter.com/ohtaket/status/791936599386763
+ 264\n\nsanrio vivitix HARAJUKU でアタイが1日店長!?になっちゃうよ!\n2016-10-29\n1. 11:00\n2
+ . 14:00\n3. アタイの気分次第\n\n写真撮影整理券は当日1080円以上お買い上げで各回先着25名
+LAST-MODIFIED:20161106T073421Z
+LOCATION:CUTE CUBE HARAJUKU\, 日本東京都渋谷区神宮前１丁目７
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KU Vivitix原宿一日店長
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161123T020000Z
+DTEND:20161123T073000Z
+UID:opj7n1dgff1i9a8qqggprn8tmg@google.com
+CREATED:20161104T051218Z
+DESCRIPTION:http://www.sanrio.co.jp/news/event-grantree-musashikosugi-20161
+ 123/\n\nリルリルフェアリル・りっぷとあそぼう！＆写真撮影会（グランツリー武蔵小杉）\n\n4F スマイルスクエア\n11/23（水・祝）\n1
+ 1:00/14:00/16:00\n\nイベント当日オープン時より4Fサンリオギフトゲートにて1\,080円（税込み）以上お買い上げ各回先着30名に撮
+ 影会整理券
+LAST-MODIFIED:20161104T051218Z
+LOCATION:グランツリー武蔵小杉\, 日本神奈川県川崎市中原区新丸子東３丁目１１３５
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:RF グランツリー武蔵小杉
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161103T020000Z
+DTEND:20161103T060000Z
+UID:evqjak74job3tl6khbesqhuhr4@google.com
+CREATED:20161103T145118Z
+DESCRIPTION:慶応ニュース2016年11月号7ページ\n(要 Adobe Flash Player) https://www.keio.co
+ .jp/press/news/update/index.html#page=7\n\n京王多摩センター駅名誉駅長「ハローキティ」が登場\n1100\,
+  1300\, 1430\nけい太くんは1300と1430のみ
+LAST-MODIFIED:20161103T145118Z
+LOCATION:京王多摩センター駅\, 日本東京都多摩市落合１丁目
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT 京王多摩センター駅名誉駅長
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161106T040000Z
+DTEND:20161106T080000Z
+UID:ro2udbnnson2ebam25omn548nk@google.com
+CREATED:20161019T152353Z
+DESCRIPTION:http://www.ktqpopfes.jp/\nhttp://www.ktqpopfes.jp/2016/nishiten
+ /kity.html\nhttp://www.ktqpopfes.jp/2016/schedule/index.html\n\n北九州ポップカルチャー
+ フェスティバル2016 with あるあるCity\n期間：2016年11月5日、6日\n場所：あるあるCity、西日本総合展示場\n\nキティちゃん
+ があそびに来るよ！\n2016年11月6日(日) \n西日本総合展示場Cエリア ミニステージ\n1300\, 1430\, 1630\n\n
+LAST-MODIFIED:20161101T232422Z
+LOCATION:西日本総合展示場新館\, 日本福岡県北九州市小倉北区浅野３丁目8-1
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:KT 北九州ポップカルチャーフェスティバル
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161103T023000Z
+DTEND:20161103T060000Z
+UID:lqtgb2513n4fhgj6vrvenj4d9k@google.com
+CREATED:20161101T231614Z
+DESCRIPTION:http://mini.shufoo.net/posts/detail/506893\n\nハローキティ―とＨＵＧしてぎゅっ！
+ \n正面中央入口エントランスコーナー\n１回目：11:30～\n２回目：13:00～\n３回目：14:30～\n　\n写真撮影会　各回４０組限定\n整
+ 理券は各回３０分前より会場にて配布
+LAST-MODIFIED:20161101T231614Z
+LOCATION:イトーヨーカドー花巻店\, 日本岩手県花巻市下小舟渡１１８−１
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT HUGしてぎゅっ
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160729T043000Z
+DTEND:20160729T073000Z
+UID:bcjlsnlsh1djl5ls06rku6rmq4@google.com
+CREATED:20161101T225628Z
+DESCRIPTION:http://kawasaki-roufuku.net/report/pdf/No176_Xtombo.pdf\nhttp:/
+ /kawasaki-roufuku.net/report/pdf/614確認チラシ市民フェスタ2016.pdf\n\n川崎労働者福祉協議会\n市民と働
+ く者のフェスタ2016\n2016-07-29 12:00-17:00\nラ チッタデラ\n\nハローキティ＆マイメロディ＆ぼんぼんりぼんのミラクルパ
+ ーティ\n1330-1400\, 1600-1630\n1100 から整理券配布\nフットサルコート
+LAST-MODIFIED:20161101T225628Z
+LOCATION:ラ チッタデッラ\, 日本神奈川県川崎市川崎区小川町4-1
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT\,MM\,BO ミラクルパーティ
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161030T023000Z
+DTEND:20161030T080000Z
+UID:t13enqbiovkggjg76hjcd7fs88@google.com
+CREATED:20161026T141740Z
+DESCRIPTION:マタニティの方とその同伴者、０歳～未就学児のお子様づれのご家族の方のみ\n入場には事前登録が必要\n\nhttps://www
+ .atpress.ne.jp/news/114944\nhttp://online.ibnewsnet.com/news/file_n/gy2016/
+ gy161026-04.html\nhttp://www.zakzak.co.jp/economy/pressrelease/news/2016102
+ 6/prl1610261402061-n1.htm\nhttps://www.nichi-bei.co.jp/jsp/news/release/201
+ 61026/tamahiyo_20161026.pdf\n\nたまひよファミリーパーク2016 in 横浜\n2016年10月30日(日)　10:00
+ ～18:30(予定)\nパシフィコ横浜　展示ホール\n\nハローキティ撮影会\n(1) 11:30～12:00(整理券配布時間10:00～)\n(2)
+  14:30～15:00(整理券配布時間13:00～)\n(3) 16:30～17:00(整理券配布時間15:00～)\nニチベイブース
+LAST-MODIFIED:20161030T131631Z
+LOCATION:パシフィコ横浜\, 日本神奈川県横浜市西区みなとみらい１−１
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT たまひよファミリーパーク
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161029T120000Z
+DTEND:20161029T170000Z
+UID:8d5jt39uqlu9mspn7kdp9qd4c8@google.com
+CREATED:20161030T033421Z
+DESCRIPTION:http://ultrahalloween.strikingly.com/\n\nウルトラ ハロウィーン 2016\n\n会場
+  高知大劇ビル\n2016.10.29（土）OPEN 18:00\n子供の部18:00-22:00\n大人の部22:30-\n\n2100-2130 
+ DJ Hello Kitty\n2630-2600 DJ Hello Kitty
+LAST-MODIFIED:20161030T033421Z
+LOCATION:大劇ビル\, 日本高知県高知本町１丁目２−２５
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT ウルトラハロウィーン
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161126T013000Z
+DTEND:20161126T063000Z
+UID:8sf76e4p335qeje8cqb5lj0ks8@google.com
+CREATED:20161030T033127Z
+DESCRIPTION:http://www.jra.go.jp/facilities/wins/shinjuku/news/20161014.htm
+ l\n\n秋競馬はウインズ新宿で運試し！毎週おみくじ馬券を楽しもう♪【ウインズ新宿】\n１１月１２日（土）・１９日（土）及び２６日（土）【第５回東京競
+ 馬第３・５・７日】\n１０：００～１５：００（予定）\n\n １１月２６日（土）【第５回東京競馬第７日】のみ、ターフィー君とキティちゃんがウインズ新宿
+ に遊びに来ます\n１１月２６日（土）\n１． １０：３０～１１：００ \n２． １２：００～１２：３０ \n３． １３：３０～１４：００ \n４． １
+ ５：００～１５：３０ \n１階コンコース 
+LAST-MODIFIED:20161030T033127Z
+LOCATION:ウインズ新宿\, 日本東京都新宿区新宿４丁目２−１１
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT\,ターフィー ウインズ新宿
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161029T033000Z
+DTEND:20161029T140000Z
+UID:e06in3augtoj7a56lskl7nvlm4@google.com
+CREATED:20161029T100927Z
+DESCRIPTION:https://twitter.com/donki_donki/status/791826192118591489\nhttp
+ s://twitter.com/donki_donki/status/791882299528847360\nhttps://twitter.com/
+ donki_donki/status/792212887825547264\n\nドンキハロウィンフェス2016\n\nKT\n10/28(金) 15
+ 00\, 1730\, 1930\, 2130\n29(土)＆30(日) 1400\, 1700\, 2000\, 2230\n31(月) 1630\
+ , 1830\, 2030\, 2230\n\nMM\n29(土) 1230\, 1530\, 1830\, 2130
+LAST-MODIFIED:20161029T100927Z
+LOCATION:三善ビルディングＯＮＥ・ＯＨ・ＮＩＮＥ\, 日本東京都渋谷区宇田川町２８−６
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT\,MM ドンキハロウィンフェス
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161031T063000Z
+DTEND:20161031T140000Z
+UID:2e7tktemh5kr1bhda4l4g81arg@google.com
+CREATED:20161028T072739Z
+DESCRIPTION:https://twitter.com/donki_donki/status/791882299528847360\nhttp
+ s://twitter.com/donki_donki/status/792212887825547264\n\nドンキハロウィンフェス2016\n1
+ 0/28(金) 1500\, 1730\, 1930\, 2130\n29(土)＆30(日) 1400\, 1700\, 2000\, 2230\n3
+ 1(月) 1630\, 1830\, 2030\, 2230\n\nGU\n31(月) 1530\, 1730\, 1930\, 2130
+LAST-MODIFIED:20161029T083101Z
+LOCATION:三善ビルディングＯＮＥ・ＯＨ・ＮＩＮＥ\, 日本東京都渋谷区宇田川町２８−６
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:KT\,GU ドンキハロウィンフェス
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161030T050000Z
+DTEND:20161030T140000Z
+UID:3nq8s175f70gd7qdtgmq39he28@google.com
+CREATED:20161029T083020Z
+DESCRIPTION:https://twitter.com/donki_donki/status/791826192118591489\nhttp
+ s://twitter.com/donki_donki/status/791882299528847360\n\nドンキハロウィンフェス2016\n\
+ nKT\n10/28(金) 1500\, 1730\, 1930\, 2130\n29(土)＆30(日) 1400\, 1700\, 2000\, 2
+ 230\n31(月) 1630\, 1830\, 2030\, 2230\n
+LAST-MODIFIED:20161029T083020Z
+LOCATION:三善ビルディングＯＮＥ・ＯＨ・ＮＩＮＥ\, 日本東京都渋谷区宇田川町２８−６
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT ドンキハロウィンフェス
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161030T021500Z
+DTEND:20161030T053000Z
+UID:9nph2doho8m28ahajvecseq5lc@google.com
+CREATED:20161022T155439Z
+DESCRIPTION:http://www.sinakan.jp/entry.html?id=148060\nhttp://www.city.shi
+ nagawa.tokyo.jp/hp/page000029600/hpg000029547.htm\nhttp://www.sanrio.co.jp/
+ news/event-kt-shinagawa-20161030/\nhttp://ameblo.jp/nae-hana-smile/entry-12
+ 213652819.html\n\nしながわ観光フェア\n大井町駅前中央通り\nペデストリアンデッキ (大井町駅東口側広場)\n2016-10-29 
+ 11:00-17:00\n2016-10-30 11:00-16:00\n\nキティズパラダイス\n2016-10-30\n11:15-12:15\,
+  13:30-14:30\n
+LAST-MODIFIED:20161028T170856Z
+LOCATION:大井町駅\, 日本東京都品川区大井１丁目２
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT\,XO\,CN キティズパラダイス
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161126T040000Z
+DTEND:20161126T073000Z
+UID:37avlm7mup6lr2ciolmrq7i4fk@google.com
+CREATED:20160813T101233Z
+DESCRIPTION:http://www.mikihouseland.jp/place/Kaijou_Dtail.aspx?p1=39\nhttp
+ ://ameblo.jp/nae-hana-smile/entry-12213720000.html\n\nミキハウスランド in 横浜\nパシフィコ
+ 横浜（展示ホールC）\n11/26（土） 10:00 ～ 18：00\n11/27（日） 10:00 ～ 16：00\n\nハローキティのハートフルク
+ リスマス\n11/26(土)\n1回目：13:00～\n2回目：16:00～
+LAST-MODIFIED:20161028T170808Z
+LOCATION:パシフィコ横浜\, 日本神奈川県横浜市西区みなとみらい１−１
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT\,CN ハートフルクリスマス
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161103T040000Z
+DTEND:20161103T073000Z
+UID:730uloemflk1ki5iu13vg6ojo4@google.com
+CREATED:20161014T161131Z
+DESCRIPTION:http://prtimes.jp/main/html/rd/p/000000149.000002198.html\nhttp
+ ://yokohama.lalaport.jp/event/10419027_9514.html\nhttp://ameblo.jp/nae-hana
+ -smile/entry-12213720000.html\n\nLaLaport Yokohama イルミネーションガーデン～自然と繋がる青の光～\
+ n2016年11月3日(木・祝)～2017年2月22日(水)\n16:30～23:00\nセントラルガーデン\n\nイルミネーション点灯式\n2016
+ 年11月3日(木・祝）16：00～\nハローキティ、シナモロールによる点灯式を実施\nセントラルガーデン\n\n日本初公開のショー\nハローキティのハ
+ ートフルクリスマス\n13：00～、16：00～の2回公演\n\n雨天時は、サンリオショー、点灯式は中止とし、1Fカリヨン広場にて握手、撮影会\n各回
+ 先着100名様に整理券\n配布時間 １回目12時～　２回目15時～\n配布場所 １Fカリヨン広場
+LAST-MODIFIED:20161028T170409Z
+LOCATION:ららぽーと横浜\, 日本神奈川県横浜市都筑区池辺町4035-1
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:KT\,CN ハートフルクリスマス
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161028T063000Z
+DTEND:20161028T130000Z
+UID:iokjnl3krv9cbeoeov7s7l7fu0@google.com
+CREATED:20161023T134537Z
+DESCRIPTION:https://twitter.com/donki_donki/status/790181402624921600\nhttp
+ s://twitter.com/donki_donki/status/791825800571912193\nhttps://twitter.com/
+ donki_donki/status/791849050962219008\nhttps://twitter.com/donki_donki/stat
+ us/791882299528847360\nhttps://twitter.com/donki_donki/status/7919191901017
+ 94816\n\nドンキハロウィンフェス2016\n\nKT\n10/28(金) 1500\, 1730\, 1930\, 2130\n29(土)＆3
+ 0(日) 1400\, 1700\, 2000\, 2230\n31(月) 1630\, 1830\, 2030\, 2230\n\nGU\n10/2
+ 8(金) 時刻不明
+LAST-MODIFIED:20161028T083625Z
+LOCATION:三善ビルディングＯＮＥ・ＯＨ・ＮＩＮＥ\, 日本東京都渋谷区宇田川町２８−６
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:KT\,GU ドンキハロウィンフェス
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161120T033000Z
+DTEND:20161120T070000Z
+UID:m148k1f17g24669nrq0amuch8c@google.com
+CREATED:20161028T023015Z
+DESCRIPTION:http://www.sanrio.co.jp/news/event-gg-natori-20161120/\n\n初登場！リ
+ ルリルフェアリル　リップちゃんが遊びにくるよ！（Sanrio Gift Gate イオンモール名取店）\n\n会場 Sanrio Gift Gate 
+ イオンモール名取店\n開催日 11/20（日）\n開催時間\n【ダンス＆抽選会】12:30/15:30\n【写真撮影会】14:00（40名さま限定）\
+ n\n写真撮影会の整理券は店内にて税込み1\,080円以上お買上げにて
+LAST-MODIFIED:20161028T023015Z
+LOCATION:イオンモール名取\, 日本宮城県名取市杜せきのした５丁目３
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:RF イオンモール名取
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161002T163000Z
+DTEND:20161002T192000Z
+UID:8e9qrvmtvl39k2apvhr1lkn80c@google.com
+CREATED:20161027T135232Z
+DESCRIPTION:https://www.facebook.com/events/298908950492864/\nhttps://www.f
+ acebook.com/SanrioSkyviewCenter/posts/325916667742328\n\nMeet Hello Kitty a
+ t the Friendship Party HQ\n2 October at 12:00–15:30 EDT\nSanrio Skyview Cen
+ ter\n\nTake photos with the candidate between 12:00-12:20 pm\, 1:00-1:20 pm
+ \, and 3:00-3:20 pm.
+LAST-MODIFIED:20161027T135232Z
+LOCATION:The Shops at SkyView Center\, 40-24 College Point Blvd\, Flushing\
+ , NY 11354\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT Friendship Party HQ
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20151219
+DTEND;VALUE=DATE:20151220
+UID:blc0kg2g41b82jritjui4re73k@google.com
+CREATED:20161027T134038Z
+DESCRIPTION:http://www.hellokittyrun.com.sg/\nhttps://www.runsociety.com/ra
+ ces/singapore-first-hello-kitty-night-run-starts-early-christmas-celebratio
+ ns/\n\nHello Kitty Run Singapore 2015\n2015-12-19\nMarina Bay\n5pm
+LAST-MODIFIED:20161027T134038Z
+LOCATION:Marina Bay\, Singapore
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT\,DN Hello Kitty Run Singapore
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20161127
+DTEND;VALUE=DATE:20161128
+UID:pm5dafmtea6prkkisaomntj0ac@google.com
+CREATED:20161027T132516Z
+DESCRIPTION:http://hellokittyrun.vn/en/\n\nHello Kitty Run Vietnam\n2016-11
+ -27\nPhu My Hung Area (Khu đô thị Phú Mỹ Hưng)\n06:30 am
+LAST-MODIFIED:20161027T132516Z
+LOCATION:Khu đô thị Phú Mỹ Hưng\, Phường 22\, Bình Thạnh\, Hồ Chí Minh\, Vi
+ etnam
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT Hello Kitty Run Vietnam
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160131
+DTEND;VALUE=DATE:20160201
+UID:50te6ehmcttccq5bqc4cr1iu30@google.com
+CREATED:20161027T132207Z
+DESCRIPTION:http://www.hellokittyrunbkk.com/\nhttp://www.runthailand.com/ra
+ ce/hello-kitty-run-bangkok-2016/\n\nHello Kitty Run Bangkok 2016\nJanuary 3
+ 1st\, 2016\nBangkok\, Thailand\nMakkasan Station\n
+LAST-MODIFIED:20161027T132207Z
+LOCATION:Makkasan\, Thailand
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT Hello Kitty Run Bnagkok
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161106T025500Z
+DTEND:20161106T063500Z
+UID:de11gi29kl1gaochadecuqo1mg@google.com
+CREATED:20161027T130644Z
+DESCRIPTION:http://www.city.ube.yamaguchi.jp/houdou/kouhou_kankou/h28/ubema
+ turi65.html\n\n山口宇部空港開港50周年記念　第65回宇部まつり\n前夜祭　平成28年11月5日（土曜日）17時～21時 \n本祭　平成
+ 28年11月6日（日曜日）10時30分～19時\n宇部市駐車場、常盤通り、平和通り　他\n\n本祭　11月6日（日曜日）　10時30分～19時\nハー
+ モニー広場（宇部市駐車場）10時30分～19時\n11時55分～ ハローキティとHUGしてぎゅっ！！（1回目）\n15時05分～ ハローキティとHUG
+ してぎゅっ！！（2回目）
+LAST-MODIFIED:20161027T130644Z
+LOCATION:宇部市役所\, 日本山口県宇部市1-7-1
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT HUGしてぎゅっ
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161112T051000Z
+DTEND:20161112T100000Z
+UID:501rsbh9t915ik76fvhslubs20@google.com
+CREATED:20161027T125953Z
+DESCRIPTION:http://www.city.ichinomiya.aichi.jp/event/eventmatsuri/1016588.
+ html\n\n「River～つながるいのち～」ツインアーチのイルミネーション\n開催期間\n平成28年11月12日(土曜日)から平成28年12月25
+ 日(日曜日)まで \n平成29年1月1日(日曜日)から平成29年1月3日(火曜日)まで \n平成29年1月7日(土曜日)から平成29年1月9日(月曜日
+ )まで \n開催時間 午後5時 から 午後9時 まで (11月、12月の土日祝日及び12月の金・祝前日は午後10時まで。)\n会場 １３８タワーパーク
+ \n\nハローキティキャラクターステージ\n11月12日（土曜日）午後2時10分、午後4時25分、午後6時30分\n野外ステージ\nステージショーと写
+ 真撮影会\n午後1時より写真撮影会の抽選整理券を配布
+LAST-MODIFIED:20161027T125953Z
+LOCATION:１３８タワーパーク\, 日本愛知県一宮市光明寺浦崎21-3
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT 138タワーパーク
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161029T020000Z
+DTEND:20161029T073000Z
+UID:tamh8urbm18trg19snfvaav49g@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
+  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
+ gle.com
+CREATED:20161027T125520Z
+DESCRIPTION:http://blog.itoyokado.co.jp/shop/222/event.html\n\nママへのごほうびフェスタ
+ ５周年特別企画\nハローキティ写真撮影会\n\n１０月２９日（土）\n１．午前１１時～　２．午後４時～\nふれあい公園側入口内特設会場\n\n各回先着
+ ５０組\n各回開始３０分前から会場で整理券を配布\n
+LAST-MODIFIED:20161027T125526Z
+LOCATION:イトーヨーカドー津久野店\, 日本大阪府堺市西区下田町２０−１
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT イトーヨーカドー津久野店
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161115T080000Z
+DTEND:20161115T103000Z
+UID:t0idrgpvm83kqgofov533nh3u4@google.com
+CREATED:20161027T125012Z
+DESCRIPTION:11月3日まで応募して抽選\n\nhttp://www.sanrio.co.jp/news/pn-ambassadors-20
+ 161028/\nhttps://form.ambassadors.jp/pompompurin/form/?id=event6\n\nポムポムプリン
+ 20thアンバサダー限定ご招待イベント第6弾\n「お台場イルミネーション "YAKEI" ～デックス２０周年記念 ポムポムプリン Ver.～」点灯式ご
+ 招待\n\n2016-11-15 (火) 17:00-19:30\nお台場 デックス東京ビーチ 3Fシーサイドデッキ\n招待人数 50名 同伴者不可
+LAST-MODIFIED:20161027T125012Z
+LOCATION:デックス東京ビーチ\, 日本東京都台場１丁目６−１
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:PN お台場イルミネーション "YAKEI"
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20161029T110000
+DTEND;TZID=Asia/Tokyo:20161029T114500
+RRULE:FREQ=DAILY;UNTIL=20161030T020000Z
+UID:1692evnse0qlfqj1kjk26dof6k@google.com
+CREATED:20161007T134905Z
+DESCRIPTION:http://www.jack-o-land.com/\n\nサンリオピューロランド\nハロウィーンマーチングパレード2016
+ スペシャルバージョン\n\n10/29(土)、10/30(日)\n11:00～11:45（両日ともに）\n\n出演者：\nハローキティ\nマイメロディ
+ \nポムポムプリン\nハロウィーンダンサーズ\n\n※中学生以上はKIDS PARK PASS：¥1\,500（税込）が必要 \n※ステージ上の出演者
+ によるパフォーマンスの撮影は禁止
+LAST-MODIFIED:20161027T121117Z
+LOCATION:横浜アリーナ\, 日本\, 〒222-0033 神奈川県横浜市港北区新横浜３丁目３−１０
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:KT\,MM\,PN ジャック･オー･ランド
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161123T040000Z
+DTEND:20161123T063000Z
+UID:lb8uo7j33numek241aus3esrr0@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
+  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
+ gle.com
+CREATED:20161018T031817Z
+DESCRIPTION:http://www.seibuen-yuuenchi.jp/event/index.html?category=e1\n\n
+ ハローキティ＆マイメロディ＆ぼんぼんりぼんのミラクルパーティ\n11月23日（木・祝）\n13:00、15:00\nメルヘンタウンステージ\n
+LAST-MODIFIED:20161027T025340Z
+LOCATION:西武園ゆうえんち\, 日本埼玉県所沢市山口２９６４
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:KT\,MM\,BO ミラクルパーティ
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161030T024500Z
+DTEND:20161030T070000Z
+UID:jnlt51q9je23c7kpsrophm93vo@google.com
+CREATED:20161019T152533Z
+DESCRIPTION:https://twitter.com/HappyFlight_cts/status/787987905566302208\n
+ https://twitter.com/HappyFlight_cts/status/790394774872174592\n\n10月30日\n11
+ 45 ミニショー 国内線2F センタープラザ\n1330\, 1530 グリーティング 連絡施設3F スマイル・ロード ハローキティハッピーフライト\
+ n\nグリーティングの会場は入場料が必要\nグリーティングの整理券は各回50名までで10時からハッピーフライトのエントランスで配布\n
+LAST-MODIFIED:20161027T025242Z
+LOCATION:新千歳空港\, 日本北海道千歳市美々987-22
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:KT\,PN ハッピーフライト
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161030T013000Z
+DTEND:20161030T063000Z
+UID:tvvc22vc3qa4184in7q1ikg2nc@google.com
+CREATED:20161025T150936Z
+DESCRIPTION:https://www.keihan.co.jp/info/upload/2016-10-25_kikirara.pdf\n\
+ n「星のまち 枚方・交野 キキ＆ララトレイン」ラストラン記念\n「キキ＆ララ撮影会」\n\n私市駅前公園\n撮影時間\n１２：００～１２：３０（定員２
+ ０組）\n１３：３０～１４：００（定員２０組）\n１５：００～１５：３０（定員２０組）\n京阪電車オリジナルグッズ販売会にて、京阪電車×キキ＆ララ オ
+ リジナルグッズの指定商品を購入された方に先着で、キキ＆ララと一緒に記念撮影ができる「キキ＆ララ撮影券」もしくは「購入特典ノベルティ（先着６０名）」をプ
+ レゼント\n参加時間は選べません\n\n撮影時間以外にも１０：３０～１１：００にキキ＆ララが登場予定（撮影はできません）\n
+LAST-MODIFIED:20161025T150936Z
+LOCATION:私市駅\, 日本大阪府交野市私市山手３丁目６
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:TS 枚方・交野 キキ＆ララトレイン ラストラン
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161030T053000Z
+DTEND:20161030T090000Z
+UID:dihamma2vsqid11un66u14m6v8@google.com
+CREATED:20161022T152637Z
+DESCRIPTION:https://twitter.com/donki_donki/status/788599190452576256\nhttp
+ ://www.sanrio.co.jp/news/event-ktpn-2016-donki-kashiwa-20161030/\n\nハローキティ 
+ ポムポムプリン 写真撮影会\n2016-10-30\n\nドン・キホーテ ラパーク瑞江店\n1100-1130 PN\n1400-1430 KT\n\
+ nドン・キホーテ 柏駅前店\n1430-1500 PN\n1730-1800 KT
+LAST-MODIFIED:20161024T075357Z
+LOCATION:ドン・キホーテ 柏駅前店\, 日本千葉県柏市柏1-3-1
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT\,PN ドン・キホーテ 柏駅前店
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161030T020000Z
+DTEND:20161030T053000Z
+UID:im70ltggj26vohln7uv5g6sdpg@google.com
+CREATED:20161022T152602Z
+DESCRIPTION:https://twitter.com/donki_donki/status/788599190452576256\nhttp
+ ://www.sanrio.co.jp/news/event-ktpn-2016-donki-mizue-20161030/\n\nハローキティ ポム
+ ポムプリン 写真撮影会\n2016-10-30\n\nドン・キホーテ ラパーク瑞江店\n1100-1130 PN\n1400-1430 KT\n\nド
+ ン・キホーテ 柏駅前店\n1430-1500 PN\n1730-1800 KT
+LAST-MODIFIED:20161024T075340Z
+LOCATION:ドン・キホーテ ラパーク瑞江店\, 日本東京都江戸川区瑞江2-1-2
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT\,PN ドン・キホーテ ラパーク瑞江店
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161106T040000Z
+DTEND:20161106T083000Z
+UID:povphh64h28hipdfhn76l2olrk@google.com
+CREATED:20161024T075305Z
+DESCRIPTION:http://www.sanrio.co.jp/news/ar-vv-marui-ikebukuro-20161101/\n\
+ nアグレッシブ列子特設コーナー（ヴィレッジヴァンガード マルイシティ池袋店）\n会場 ヴィレッジヴァンガード マルイシティ池袋店\n開催日 11/1（
+ 火）〜11/13（日）\n開催時間 11:00〜20:30\n\nアグレッシブ烈子お誕生日記念グリーティング\n開催日時：11/6（日） 13:00 
+ / 15:00 / 17:00\n各回30分\nマルイシティ池袋店館内（4Fヴィレッジヴァンガード店内、１Fエントランスなど）
+LAST-MODIFIED:20161024T075305Z
+LOCATION:池袋マルイ\, 日本東京都豊島区西池袋３１３
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:AR ヴィレッジヴァンガード マルイシティ池袋店
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20161023
+DTEND;VALUE=DATE:20161024
+UID:tdbf8n73envgccbbcai9e7jte8@google.com
+CREATED:20161023T134457Z
+DESCRIPTION:https://twitter.com/donki_donki/status/790116671260233728\n\nドン
+ キハロウィンフェス2016\n2016-10-23\n1830 ほか
+LAST-MODIFIED:20161023T142402Z
+LOCATION:三善ビルディングＯＮＥ・ＯＨ・ＮＩＮＥ\, 日本東京都渋谷区宇田川町２８−６
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:KT ドンキハロウィンフェス
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161023T020000Z
+DTEND:20161023T073000Z
+UID:cbdv2110knih7ll0jnbacp06qs@google.com
+CREATED:20161023T013309Z
+DESCRIPTION:http://www.sanrio.co.jp/news/event-mx-sanriocharacters-daimaru-
+ umeda-20161011/\n\nサンリオキャラクターズ ポップアップショップ（大丸梅田店）\n会場 大丸梅田店 1F 東イベントスペース「アンテ
+ ナプラス」\n開催日 10/19（水）～11/1（火）\n開催時間 10:00〜20:30（金・土曜日は21:00まで）\n\nハローキティが遊びにく
+ るよ！\n日時：10/23（日）　11:00～/13:00〜/14:30〜/16:00〜（各回先着40名）\n場所：大丸梅田店 5F 南エスカレーター
+ 横　特設会場\n当日10:00より5Fサンリオショップでレシート1枚につき税込み1\,080円以上お買い上げで整理券配布\n
+LAST-MODIFIED:20161023T013309Z
+LOCATION:大丸梅田店\, 日本大阪府大阪市北区梅田3-1-1
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT 大丸梅田
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161022T070000Z
+DTEND:20161022T133000Z
+UID:nc8qnhqksbe782mkh3uv8qed4o@google.com
+CREATED:20161022T153559Z
+DESCRIPTION:https://twitter.com/donki_donki/status/789712196267671552\n\nドン
+ キハロウィンフェス2016\n2016-10-22\n1600\, 1800\, 2000\, 2200
+LAST-MODIFIED:20161022T154943Z
+LOCATION:三善ビルディングＯＮＥ・ＯＨ・ＮＩＮＥ\, 日本東京都渋谷区宇田川町２８−６
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT ドンキハロウィンフェス
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161030T020000Z
+DTEND:20161030T063000Z
+UID:1d9pndhlgjkr7kt33adr43q7ko@google.com
+CREATED:20161022T152106Z
+DESCRIPTION:http://www.korona.co.jp/WhatsNew/Detail.asp?Seq=2423\n\nマイメロディと
+ ハロウィンクイズにチャレンジしよう！\n大垣コロナワールド\n2016-10-30\n1100\, 1500\n
+LAST-MODIFIED:20161022T152106Z
+LOCATION:イオンタウン大垣\, 日本岐阜県大垣市三塚町丹瀬463-1
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MM ハロウィンクイズ
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161023T032000Z
+DTEND:20161023T065000Z
+UID:7ab1iu1iuhsbpq1s1j5c5us6g0@google.com
+CREATED:20161022T151740Z
+DESCRIPTION:http://www.jfe-steel.co.jp/works/east/chiba/community/maturi.ht
+ ml\n\nJFEちばまつり\n２０１６年１０月２３日（日） ９時～１６時\n千葉市蘇我スポーツ公園周辺会場\n\nハローキティ＆プリンのハートフルタ
+ イム\n1220\, 1520\nJFEステージ\n先着100名に握手券配布\n\n
+LAST-MODIFIED:20161022T151815Z
+LOCATION:千葉市蘇我スポーツ公園\, 日本千葉県千葉市中央区川崎町
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:KT\,PN ハートフルタイム
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Manila:20161015T140000
+DTEND;TZID=Asia/Manila:20161015T183000
+RRULE:FREQ=DAILY;COUNT=2
+UID:bs85i7ibe26vu83uees8g29p44@google.com
+CREATED:20161021T115719Z
+DESCRIPTION:https://www.facebook.com/HelloKittyLovesPhilippines/photos/a.14
+ 12003392384051.1073741827.1411274982456892/1786314124952974/\nhttps://www.i
+ nstagram.com/p/BLi6_17BUSU/\n\nHello Kitty Dessert Bar\n2016-10-15\, 2016-1
+ 0-16\n2pm\, 4pm\, 6pm
+LAST-MODIFIED:20161021T115719Z
+LOCATION:Toby's Sports SM The Block\, 3F North Ave\, Bago Bantay\, Quezon C
+ ity\, Metro Manila\, Philippines
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT Hello Kitty Dessert Bar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161023T010000Z
+DTEND:20161023T053000Z
+UID:vu874jq53f80he02ilvbombb34@google.com
+CREATED:20161021T031048Z
+DESCRIPTION:http://izumo-aeonmall.com/news/event/97\n\nキティちゃんと一緒に遊んじゃおう！\n\
+ n日程 2016/10/23 (日)\n時間 （1）10:00～（2）12:00～（3）14:00～\n場所 1階　もめんコート
+LAST-MODIFIED:20161021T031048Z
+LOCATION:イオンモール出雲\, 日本島根県出雲市渡橋町1066
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT イオンモール出雲
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161023T020000Z
+DTEND:20161023T063000Z
+UID:e8am2dps9eetedtodqno3q2pvo@google.com
+CREATED:20161020T161312Z
+DESCRIPTION:http://shimoda-aeonmall.com//news/event/762\n\nハローキティのワンダーランド　不
+ 思議アート ミステリーグリーティング+撮影会\n日程 2016/10/23 (日)\n時間 グリーティング 11:00～、15:00～ / 撮影会13
+ :00～\n場所 グリーティング 館内 / 撮影会 イオンホール有料エリア内\n\nhttp://shimoda-aeonmall.com/news/
+ event/741\n\nハローキティのワンダーランド　不思議アート\n\n日程 2016/10/01 (土) - 2016/10/30 (日)\n時
+ 間 10:00～19:00（最終入場18:30）　※平日は10:00～18:00（最終入場17:30）\n場所 2F　イオンホール
+LAST-MODIFIED:20161020T161312Z
+LOCATION:イオンモール下田\, 日本青森県上北郡おいらせ町中野平４０−１
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT ワンダーランド
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161022T020000Z
+DTEND:20161022T073000Z
+UID:mqg0otu1ijfl2uge77iquddi58@google.com
+CREATED:20161017T152329Z
+DESCRIPTION:http://www.f-marinos.com/match/event/2016-10-22\nhttp://www.san
+ rio.co.jp/news/kt-hka-family-marinos-20161022/\n\n2016 明治安田J1 2ndステージ第15節 横
+ 浜F・マリノスvsガンバ大阪\n14:00 キックオフ\n\nハローキティ＆ジョージ写真撮影会\n東ゲート広場\n11:00 / 12:15 / 13
+ :20\n\nハーフタイム時場内1周\n14:50頃　※試合の状況により時間が前後\n\n試合終了後お見送り\n東ゲート\n16:00頃　※試合の状況
+ により時間が前後
+LAST-MODIFIED:20161020T123727Z
+LOCATION:日産スタジアム\, 日本神奈川県横浜市港北区小机町３３００
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KTキティ\,KTジョージ 横浜F・マリノス
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161023T030000Z
+DTEND:20161023T073000Z
+UID:9fbeoulvlbslm4tv0eoq1n6q80@google.com
+CREATED:20161020T023534Z
+DESCRIPTION:http://ameblo.jp/vega-seachan/entry-12211373684.html\n\n『ハローキティ
+ とチャレンジタイム』\n10月23日（日）@ 蔦屋書店 長岡花園店 （新潟）\n①12:00   ②14:00   ③16:00
+LAST-MODIFIED:20161020T023534Z
+LOCATION:蔦屋書店 長岡花園店\, 日本新潟県長岡市土合町字小鴉97外
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT チャレンジタイム
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161017T083000Z
+DTEND:20161017T100000Z
+UID:rt76mm9ibre3sdn33b2vgut1ac@google.com
+CREATED:20161018T164542Z
+DESCRIPTION:抽選250人\n\nhttp://www.tama-sports.or.jp/news01/news-detail.php?i
+ d=7\nhttp://tamapon.com/2016/10/18/rio-kandoarigato-event-in-tama/\n\nリオ201
+ 6大会　感動をありがとう！イベント in TAMA\n平成28年10月17日（月）午後5時30分～午後7時\nパルテノン多摩 小ホール\n
+LAST-MODIFIED:20161018T164542Z
+LOCATION:パルテノン多摩\, 日本東京都多摩市落合２丁目
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT リオ2016大会
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161023T010000Z
+DTEND:20161023T073000Z
+UID:l3sv5bqk3apg2q2274pqpamdgo@google.com
+CREATED:20161018T163800Z
+DESCRIPTION:http://www.jra.go.jp/news/201610/101801.html\n\n2016 秋のうままつり in
+  ラクーア\n10月23日（日）\n10:00-16:30\n\nターフィー＆ハローキティグリーティング\n場所 ラクーアガーデン\n時間未記載
+LAST-MODIFIED:20161018T163800Z
+LOCATION:ラクーア\, 日本東京都春日１丁目１−１
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT\,ターフィー 秋のうままつり
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161209T050000Z
+DTEND:20161209T080000Z
+UID:t3deuaqpgm05iitf4i08aaqvbk@google.com
+CREATED:20161017T154200Z
+DESCRIPTION:https://www.facebook.com/events/312377815773772/\n\nHello Kitty
+  Run Dubai 2016\n9 December at 9:00–12:00 in UTC+04\nDubai Media City
+LAST-MODIFIED:20161017T154200Z
+LOCATION:Dubai Media City\, CNN building\, Building no. 2\, Sheikh Zayed Rd
+ \,Dubai Media City - Dubai - United Arab Emirates
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT\,他 Hello Kitty Run Dubai 2016
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20161029T150000
+DTEND;TZID=Asia/Tokyo:20161029T153000
+RRULE:FREQ=DAILY;UNTIL=20161030T060000Z
+UID:3ndto26ovidvf4dot8clalr2i4@google.com
+CREATED:20161017T053414Z
+DESCRIPTION:http://www.tamajack.com/event/\nhttp://www.tamajack.com/img/chi
+ rashi.pdf\n\nハローキティのグリーティング\nサンリオピューロランドからハローキティが登場！\n\nパルテノン多摩大階段付近
+LAST-MODIFIED:20161017T055322Z
+LOCATION:パルテノン多摩\, 日本\, 〒206-0033 東京都多摩市落合２丁目２−３５
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT ハロウィンin多摩センター2016
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161016T020000Z
+DTEND:20161016T063000Z
+UID:ftc9pll14t9tjpg3gvje45t7ng@google.com
+CREATED:20161008T160749Z
+DESCRIPTION:http://www.premiumoutlets.co.jp/shisui/events/?mode=shop#t35536
+ \nhttp://www.sanrio.co.jp/news/event-outlet-shisui-20161016/\n\nSanrio/オープン
+ 記念！ハローキティグリーティング\n\n10/16(日)\n①11：00～　②13：00～　③15：00～\n各回先着30組さま\n場所：酒々井プレミ
+ アム・アウトレット1445区Sanrio前（予定）\n\n当日10：00よりSanrio店舗にて税込￥1\,080以上お買い上げで、ご希望の回の整理券
+ を先着順にて配布\n\nSanrioのオープン日は、10/14（金）
+LAST-MODIFIED:20161014T161756Z
+LOCATION:酒々井プレミアム・アウトレット\, 日本千葉県印旛郡飯積２丁目４−１
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT 酒々井プレミアム・アウトレット
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161030T013000Z
+DTEND:20161030T053000Z
+UID:6amh20el2p5g3p0fss85n3vbmo@google.com
+CREATED:20161014T161716Z
+DESCRIPTION:http://ichinomiya.nha.or.jp/event/2016/10/30/031494.html\n\nマイメ
+ ロディーとお花を咲かせよう!【小雨決行】\n2016年10月30日(日)\n時間 （1）10:30　（2）14:00\n場所 イベント広場ステージ
+LAST-MODIFIED:20161014T161716Z
+LOCATION:ナゴヤハウジングセンター一宮会場\, 日本愛知県一宮市丹陽町五日市場本地２８
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MM お花を咲かせよう
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161022T013000Z
+DTEND:20161022T053000Z
+UID:pja84tpf8283mvocr5bant16n4@google.com
+CREATED:20161014T161612Z
+DESCRIPTION:http://ichinomiya.nha.or.jp/event/2016/10/22/031546.html\n\nハロー
+ キティとハロウィンクイズにチャレンジしよう！\n2016年10月22日(土)\n時間 （1）10:30　（2）14:00\n場所 イベント広場ステージ
+LAST-MODIFIED:20161014T161612Z
+LOCATION:ナゴヤハウジングセンター一宮会場\, 日本愛知県一宮市丹陽町五日市場本地２８
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT ハロウィンクイズ
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20161120T110000
+DTEND;TZID=Asia/Tokyo:20161120T153000
+RRULE:FREQ=WEEKLY;UNTIL=20161127T020000Z;BYDAY=SU
+UID:378ems0uskactsb6icstevmje8@google.com
+CREATED:20161014T161352Z
+DESCRIPTION:http://www.seibuen-yuuenchi.jp/event/index.html?category=e1\n\n
+ 11月3日（木・祝）、20日（日）、27日（日）\n\n1100 ハローキティ・ミミィとハッピーグリーティング\n1300 ハローキティ・ミミィとバー
+ スデーセレブレーション\n1500 ハローキティ・ミミィと一緒にゲーム大会
+LAST-MODIFIED:20161014T161352Z
+LOCATION:西武園ゆうえんち\, 日本埼玉県所沢市山口２９６４
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KTキティ\,KTミミィ 西武園ゆうえんち
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161103T020000Z
+DTEND:20161103T063000Z
+UID:71okrh3j19hiv7l64dfuchda04@google.com
+CREATED:20161014T161330Z
+DESCRIPTION:http://www.seibuen-yuuenchi.jp/event/index.html?category=e1\n\n
+ 11月3日（木・祝）、20日（日）、27日（日）\n\n1100 ハローキティ・ミミィとハッピーグリーティング\n1300 ハローキティ・ミミィとバー
+ スデーセレブレーション\n1500 ハローキティ・ミミィと一緒にゲーム大会
+LAST-MODIFIED:20161014T161330Z
+LOCATION:西武園ゆうえんち\, 日本埼玉県所沢市山口２９６４
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KTキティ\,KTミミィ 西武園ゆうえんち
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161103T000000Z
+DTEND:20161103T070000Z
+UID:nv0s977819figu552mjjeimu5g@google.com
+CREATED:20161012T144611Z
+DESCRIPTION:http://www.jra.go.jp/news/201610/100807.html\n\n感謝Day & 「サンクスホー
+ スデイズ in JRA馬事公苑」\n１１月３日（祝・木）\n09:00-16:00\n\nターフィー＆ハローキティ　グリーティング\n時間未記載
+LAST-MODIFIED:20161012T144611Z
+LOCATION:馬事公苑\, 日本東京都世田谷区用賀2-1-1
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT\,ターフィー サンクスホースデイズ
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20161020T113000
+DTEND;TZID=Asia/Tokyo:20161020T185000
+RRULE:FREQ=DAILY;UNTIL=20161023T023000Z
+UID:apldmip7pihgs8rsn6nslrplb8@google.com
+CREATED:20161012T144250Z
+DESCRIPTION:http://www.jra.go.jp/kikukasho2016/index.html\n\n菊花賞[GI]PRイベント\
+ n10/20 Thu - 10/23 Sun\n\nターフィー&ハローキティのグリーティング\n10/20 Thu - 10/23 Sun\n11:3
+ 0-18:50 (23日は14:50まで)
+LAST-MODIFIED:20161012T144348Z
+LOCATION:河原町OPA\, 日本京都府京都市中京区河原町通四条上ル
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT\,ターフィー 菊花賞PR
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160730T020000Z
+DTEND:20160730T063000Z
+UID:cjemscrn76b6ku450dhp9d1hao@google.com
+CREATED:20161011T114626Z
+DESCRIPTION:http://fukuoka-civichall.jp/event/%e3%82%b5%e3%83%b3%e3%83%aa%e
+ 3%82%aa%e3%80%80%e3%83%8f%e3%83%bc%e3%83%88%e3%83%95%e3%83%ab%e3%80%80%e3%8
+ 3%9f%e3%83%a5%e3%83%bc%e3%82%b8%e3%82%ab%e3%83%ab/\n\nサンリオ　ハートフル　ミュージカル\n\n
+ 2016-07-30\n1回目　開演：11：00　終演：12：30\n2回目　開演：14：00　終演：15：30\n\n福岡市民会館 大ホール
+LAST-MODIFIED:20161011T114626Z
+LOCATION:福岡市民会館\, 日本福岡県福岡市中央区天神５丁目１−２３
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ハートフルミュージカル
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161029T010000Z
+DTEND:20161029T070000Z
+UID:m7uggv5v7ic3pk8kma0g0n79m4@google.com
+CREATED:20161011T112520Z
+DESCRIPTION:https://act.fukoku-life.co.jp/event/detail.php?id=437\n\nハローキティ
+ キッズイベント\n2016年10月29日（土）　10:00～16:00\n会場 フコク生命 高松支社 4F特設会場
+LAST-MODIFIED:20161011T112520Z
+LOCATION:高松フコク生命ビル\, 日本香川県高松市紺屋町２−６
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT フコク生命キッズイベント
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160910T010000Z
+DTEND:20160910T061500Z
+UID:m1dscq85cpfnq9j2igg1hbb8q8@google.com
+CREATED:20161011T112437Z
+DESCRIPTION:https://act.fukoku-life.co.jp/event/detail.php?id=436\n\nハローキティ
+ キッズイベント\n開催日時 2016年9月10日（土）　10:00～15:15\n会場 フコク生命 松山支社 ２Ｆ特設会場
+LAST-MODIFIED:20161011T112437Z
+LOCATION:松山フコク生命ビル\, 日本愛媛県松山市千舟町４丁目６−１
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT フコク生命キッズイベント
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160910T010000Z
+DTEND:20160910T060000Z
+UID:fhubp5mvdk2i7mfllhctrgclic@google.com
+CREATED:20161011T112323Z
+DESCRIPTION:https://act.fukoku-life.co.jp/event/detail.php?id=418\n\nハローキティ
+ キッズイベント\n開催日時 2016年9月10日（土）　10:00～15:00\n会場 出雲フコク生命ビル　4階特設会場
+LAST-MODIFIED:20161011T112323Z
+LOCATION:フコク生命保険相互会社 出雲営業所\, 日本島根県出雲駅南町２丁目１−１
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT フコク生命キッズイベント
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160806T010000Z
+DTEND:20160806T060000Z
+UID:8t6c0apt637de46q8au7cd0oa0@google.com
+CREATED:20161011T112204Z
+DESCRIPTION:https://act.fukoku-life.co.jp/event/detail.php?id=389\n\nハローキティ
+ キッズイベント\n開催日時 2016年8月6日（土） 10:00～15:00\n会場 フコク生命 熊本支社 ７F特設会場
+LAST-MODIFIED:20161011T112204Z
+LOCATION:熊本フコク生命ビル\, 日本熊本県熊本市中央区花畑町１２−２４
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT フコク生命キッズイベント
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160804T013000Z
+DTEND:20160804T070000Z
+UID:eb1eua6h8o163tnm1mjr57uqg8@google.com
+CREATED:20161011T112109Z
+DESCRIPTION:https://act.fukoku-life.co.jp/event/detail.php?id=388\n\nハローキティ
+ キッズイベント\n開催日時 2016年8月4日（木）　10:30～16:00\n会場 フコク生命 山形支社 ６Ｆ特設会場
+LAST-MODIFIED:20161011T112109Z
+LOCATION:山形フコク生命ビル\, 日本山形県山形市本町２丁目１−２
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT フコク生命キッズイベント
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160730T010000Z
+DTEND:20160730T073000Z
+UID:bv5b94gf12vtg3q7c97st4bptc@google.com
+CREATED:20161011T112006Z
+DESCRIPTION:https://act.fukoku-life.co.jp/event/detail.php?id=385\n\nハローキティ
+ キッズイベント\n開催日時 2016年7月30日（土）　10:00～16:30\n会場 マロニエプラザ　小展示場
+LAST-MODIFIED:20161011T112006Z
+LOCATION:マロニエプラザ 栃木県立宇都宮産業展示館\, 日本栃木県宇都宮市元今泉６丁目１−３７
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT フコク生命キッズイベント
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151031T010000Z
+DTEND:20151031T060000Z
+UID:611er91u2b73fo5o6pj9c8vlp4@google.com
+CREATED:20161011T111835Z
+DESCRIPTION:https://act.fukoku-life.co.jp/event/detail.php?id=296\n\nハローキティ
+ キッズイベント\n開催日時\n2015年10月31日（土）　10:00～15:00\n会場 デザインプラザHOFU　2階展示ホール
+LAST-MODIFIED:20161011T111835Z
+LOCATION:デザインプラザＨＯＦＵ\, 日本山口県防府市八王子２丁目８−９
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT フコク生命キッズイベント
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151017T010000Z
+DTEND:20151017T070000Z
+UID:v4516of2fbq96gdgbqnfdm7eqo@google.com
+CREATED:20161011T111738Z
+DESCRIPTION:https://act.fukoku-life.co.jp/event/detail.php?id=289\n\nハローキティ
+ キッズイベント\n開催日時\n特別販売会のみ：2015年10月16日（金）10：00～16：00\nハローキティキッズイベント・特別販売会：2015年
+ 10月17日(土)　10：00～16：00\n会場 フコク生命 大阪南支社 特設会場
+LAST-MODIFIED:20161011T111738Z
+LOCATION:近鉄新難波ビル\, 日本大阪府大阪市浪速区湊町１丁目４−３８
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT フコク生命キッズイベント
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151003T010000Z
+DTEND:20151003T060000Z
+UID:drsn0oh84bsa3p113c4gapfoks@google.com
+CREATED:20161011T111635Z
+DESCRIPTION:https://act.fukoku-life.co.jp/event/detail.php?id=288\n\nハローキティ
+ キッズイベント\n開催日時\n特別販売会のみ：2015年10月2日（金）10：00～17：00\nハローキティキッズイベント・特別販売会：2015年1
+ 0月3日(土)　10：00～15：00\n会場 フコク生命 福井支社 6F特設会場
+LAST-MODIFIED:20161011T111635Z
+LOCATION:福井フコク生命ビル\, 日本福井県福井市田原１丁目１−２０
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT フコク生命キッズイベント
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151003T010000Z
+DTEND:20151003T080000Z
+UID:oespmcbrrbk719luehcv356eo0@google.com
+CREATED:20161011T111524Z
+DESCRIPTION:https://act.fukoku-life.co.jp/event/detail.php?id=284\n\nハローキティ
+ キッズイベント\n開催日時 2015年10月3日（土）　10:00～17:00\n会場 カルチャーリゾート フェストーネ
+LAST-MODIFIED:20161011T111524Z
+LOCATION:カルチャーリゾート フェストーネ\, 日本沖縄県宜野湾市真志喜3-28-1
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT フコク生命キッズイベント
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150905T010000Z
+DTEND:20150905T060000Z
+UID:lsq9f0h7nhgtsn3e3ane0nadrs@google.com
+CREATED:20161011T111429Z
+DESCRIPTION:https://act.fukoku-life.co.jp/event/detail.php?id=279\n\nハローキティ
+ キッズイベント\n開催日時 2015年9月5日（土）　10:00～15:00\n会場 フコク生命 静岡支社 4F特設会場
+LAST-MODIFIED:20161011T111429Z
+LOCATION:静岡フコク生命ビル\, 日本静岡県静岡市葵区御幸町５−９
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT フコク生命キッズイベント
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150905T010000Z
+DTEND:20150905T063000Z
+UID:5g5duuqulpp2e75ucvc5nu7s7s@google.com
+CREATED:20161011T111241Z
+DESCRIPTION:https://act.fukoku-life.co.jp/event/detail.php?id=272\n\nハローキティ
+ キッズイベント\n開催日時\n特別販売会のみ：2015年9月4日（金）11：00～17：30\nハローキティキッズイベント・特別販売会：2015年9月
+ 5日(土)　10：00～15：30\n会場 出雲フコク生命ビル 4F特設会場
+LAST-MODIFIED:20161011T111323Z
+LOCATION:フコク生命保険相互会社 出雲営業所\, 日本島根県出雲駅南町２丁目１−１
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT フコク生命キッズイベント
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151010T020000Z
+DTEND:20151010T063000Z
+UID:pgj40ca0eg2q3l903dq6ov51o4@google.com
+CREATED:20161011T111056Z
+DESCRIPTION:https://act.fukoku-life.co.jp/event/detail.php?id=270\n\nサンリオハー
+ トフルミュージカル\n平成27年10月10日（土）\n第1回 10：30開場、11：00開演（終演予定12：30）、第2回 13：30開場、14：00
+ 開演（終演予定15：30）\n崇城大学ホール
+LAST-MODIFIED:20161011T111056Z
+LOCATION:市民会館崇城大学ホール\, 日本熊本県熊本市中央区桜町１−３
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ハートフルミュージカル
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150919T020000Z
+DTEND:20150919T063000Z
+UID:4qfn5kk32vp7o5gme8a29qqaio@google.com
+CREATED:20161011T110932Z
+DESCRIPTION:https://act.fukoku-life.co.jp/event/detail.php?id=270\n\nサンリオハー
+ トフルミュージカル\n平成27年9月19日（土）\n第1回 10：30開場、11：00開演（終演予定12：30）、第2回 13：30開場、14：00開
+ 演（終演予定15：30）\nアルファあなぶきホール
+LAST-MODIFIED:20161011T110932Z
+LOCATION:香川県県民ホール 大ホール棟\, 日本香川県高松市玉藻町９−１０
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ハートフルミュージカル
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150829T010000Z
+DTEND:20150829T070000Z
+UID:i3ji8bni2s75ah41anf019gu9s@google.com
+CREATED:20161011T110414Z
+DESCRIPTION:https://act.fukoku-life.co.jp/event/detail.php?id=265\n\nハローキティ
+ キッズイベント\n開催日時\n特別販売会のみ：2015年8月28日（金）10：00～16：00\nハローキティキッズイベント・特別販売会：2015年8
+ 月29日(土)　10：00～16：00\n会場 フコク生命 神戸支社 5F特設会場
+LAST-MODIFIED:20161011T110414Z
+LOCATION:三宮フコク生命ビル\, 日本兵庫県神戸市中央区磯上通７丁目１−３０
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT フコク生命キッズイベント
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150829T010000Z
+DTEND:20150829T060000Z
+UID:qo7j8n07mgpa6f3qpju9pnbiko@google.com
+CREATED:20161011T110254Z
+DESCRIPTION:https://act.fukoku-life.co.jp/event/detail.php?id=262\n\nハローキティ
+ キッズイベント\n開催日時 2015年8月29日（土）　10:00～15:00\n会場 延岡総合文化センター　展示室2
+LAST-MODIFIED:20161011T110307Z
+LOCATION:延岡総合文化センター\, 日本宮崎県延岡市東浜砂町６１１−２
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT フコク生命キッズイベント
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150828T013000Z
+DTEND:20150828T063000Z
+UID:8qrjnd6g0od7co7ca7i96t6nh4@google.com
+CREATED:20161011T110205Z
+DESCRIPTION:https://act.fukoku-life.co.jp/event/detail.php?id=257\n\nハローキティ
+ キッズイベント\n開催日時 2015年8月28日（金） 10：30～15：30\n会場 フコク生命 湘南支社 5F特設会場
+LAST-MODIFIED:20161011T110205Z
+LOCATION:湘南フコク生命ビル\, 日本神奈川県藤沢市鵠沼石上２丁目５−２
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT フコク生命キッズイベント
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150801T010000Z
+DTEND:20150801T073000Z
+UID:ubh0pqvq51ur4b9kq1uh2c39lk@google.com
+CREATED:20161011T110103Z
+DESCRIPTION:ハローキティキッズイベント\n\nhttps://act.fukoku-life.co.jp/event/detail.php
+ ?id=252\n\n開催日時 2015年8月1日（土）　10：00～16：30\n会場 マロニエプラザ　小展示場（栃木県宇都宮産業展示館）
+LAST-MODIFIED:20161011T110103Z
+LOCATION:マロニエプラザ 栃木県立宇都宮産業展示館\, 日本栃木県宇都宮市元今泉６丁目１−３７
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT フコク生命キッズイベント
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150801T020000Z
+DTEND:20150801T060000Z
+UID:eenbmdricg9nli89blkvdl40js@google.com
+CREATED:20161011T110010Z
+DESCRIPTION:ハローキティキッズイベント\n\nhttps://act.fukoku-life.co.jp/event/detail.php
+ ?id=251\n\nハローキティキッズイベント・特別販売会：2015年8月1日　11：00～15：00\n会場 フコク生命 名古屋支社 9F特設会場
+LAST-MODIFIED:20161011T110010Z
+LOCATION:名古屋フコク生命ビル\, 日本愛知県名古屋中区丸の内１丁目１６−１５
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT フコク生命キッズイベント
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20161006T100000
+DTEND;TZID=America/New_York:20161006T190000
+RRULE:FREQ=DAILY;UNTIL=20161009T140000Z
+UID:027vcsfg1u7riohp4aocvglin4@google.com
+CREATED:20161007T233348Z
+DESCRIPTION:https://www.facebook.com/hellokitty/photos/?tab=album&album_id=
+ 10154180406633500\nhttp://www.newyorkcomiccon.com/en/Exhibitors/1999928/Loo
+ t-Crate\n\nNew York Comic Con 2016\nOctober 6-9\, 2016\n\nBooth number 536\
+ nLoot Crate\n\nShow Floor:\nThursday: 10:00 AM – 7:00 PM\nFriday: 10:00 AM 
+ – 7:00 PM\nSaturday: 10:00 AM – 7:00 PM\nSunday: 10:00 AM – 5:00 PM
+LAST-MODIFIED:20161007T233348Z
+LOCATION:Jacob K. Javits Convention Center\, 655 W 34th St\, New York\, NY 
+ 10001\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT New York Comic Con
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161009T033000Z
+DTEND:20161009T073000Z
+UID:hj7p4l2cju74q11f5qu06i500s@google.com
+CREATED:20160930T114424Z
+DESCRIPTION:(PDF注意) http://www.sanrio.co.jp/wp-content/uploads/2015/05/2016
+ 0930.pdf\n東急ストア創業６０周年記念\nサンリオキャラクター『ハローキティ』とのコラボレーション企画\n\n場所：1F正面入口\n\n1回目
+ ：12:30～\n2回目：14:30～\n3回目：16:00～\n\n各回 20名様 限定(各回30分前から 1F 正面入口 にて整理券配布)\n\n
+ １０月９日（日）中央林間店にて、握手会＆撮影会を実施\n詳しくは１０月７日発行のチラシを参照\nチラシ：http://www.shufoo.net/p
+ ntweb/shopDetail/103463/71767712032150/\n
+LAST-MODIFIED:20161006T234140Z
+LOCATION:中央林間とうきゅう\, 日本神奈川県大和市中央林間４丁目１２−１
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:KT 中央林間とうきゅう
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161015T020000Z
+DTEND:20161015T063000Z
+UID:knpu0e03tbtag758bi3ntlqets@google.com
+CREATED:20161006T074142Z
+DESCRIPTION:http://www.abc-housing.co.jp/kinki/park/campaign/itami_campaign
+ .html\n\nポムポムプリンのパワフルタイム\n1100\, 1300\, 1500
+LAST-MODIFIED:20161006T074142Z
+LOCATION:ＡＢＣハウジング伊丹昆陽の里住宅公園\, 日本兵庫県伊丹市奥畑４丁目３３
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:PN パワフルタイム
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161008T020000Z
+DTEND:20161008T063000Z
+UID:p57a7q1en9m44o9arl9g95odvo@google.com
+CREATED:20161006T074041Z
+DESCRIPTION:http://www.abc-housing.co.jp/kinki/park/campaign/akashi_campaig
+ n.html\n\nポムポムプリンのパワフルタイム\n1100\, 1300\, 1500
+LAST-MODIFIED:20161006T074041Z
+LOCATION:ＡＢＣハウジング明石・海岸通り住宅公園\, 日本兵庫県明石市大蔵海岸通１丁目２−３
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:PN パワフルタイム
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170311T020000Z
+DTEND:20170311T073000Z
+UID:ebc87p92p9iavkisqv08eimi98@google.com
+CREATED:20161005T102026Z
+DESCRIPTION:http://www.sanrio.co.jp/news/event-sz-numazu-20161008/\n\n沼津港深海
+ 水族館にメンタくんが遊びにくるよ！\n\n会場 沼津港深海水族館 シーラカンス・ミュージアム\n開催日 10月8日（土）\n開催時間 ①11:00 /
+  ②13:00 / ③14:30 / ④16:00 \n\n水族館入口にて各回30分程度を予定\n\n以降の開催予定\n11月12日（土）\n12月1
+ 0日（土）\n1月14日（土）\n2月11日（土）\n3月11日（土）
+LAST-MODIFIED:20161005T102026Z
+LOCATION:沼津港深海水族館\, 日本静岡県沼津市千本港町83番地
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:SZ 沼津港深海水族館
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170211T020000Z
+DTEND:20170211T073000Z
+UID:jpckj2a8mrprc1g0tekigdljg8@google.com
+CREATED:20161005T102017Z
+DESCRIPTION:http://www.sanrio.co.jp/news/event-sz-numazu-20161008/\n\n沼津港深海
+ 水族館にメンタくんが遊びにくるよ！\n\n会場 沼津港深海水族館 シーラカンス・ミュージアム\n開催日 10月8日（土）\n開催時間 ①11:00 /
+  ②13:00 / ③14:30 / ④16:00 \n\n水族館入口にて各回30分程度を予定\n\n以降の開催予定\n11月12日（土）\n12月1
+ 0日（土）\n1月14日（土）\n2月11日（土）\n3月11日（土）
+LAST-MODIFIED:20161005T102017Z
+LOCATION:沼津港深海水族館\, 日本静岡県沼津市千本港町83番地
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:SZ 沼津港深海水族館
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170114T020000Z
+DTEND:20170114T073000Z
+UID:7nh5lmp4vb878hpst7p5913vog@google.com
+CREATED:20161005T102008Z
+DESCRIPTION:http://www.sanrio.co.jp/news/event-sz-numazu-20161008/\n\n沼津港深海
+ 水族館にメンタくんが遊びにくるよ！\n\n会場 沼津港深海水族館 シーラカンス・ミュージアム\n開催日 10月8日（土）\n開催時間 ①11:00 /
+  ②13:00 / ③14:30 / ④16:00 \n\n水族館入口にて各回30分程度を予定\n\n以降の開催予定\n11月12日（土）\n12月1
+ 0日（土）\n1月14日（土）\n2月11日（土）\n3月11日（土）
+LAST-MODIFIED:20161005T102008Z
+LOCATION:沼津港深海水族館\, 日本静岡県沼津市千本港町83番地
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:SZ 沼津港深海水族館
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161210T020000Z
+DTEND:20161210T073000Z
+UID:q95amcthuru3lob933v7gie0j0@google.com
+CREATED:20161005T102000Z
+DESCRIPTION:http://www.sanrio.co.jp/news/event-sz-numazu-20161008/\n\n沼津港深海
+ 水族館にメンタくんが遊びにくるよ！\n\n会場 沼津港深海水族館 シーラカンス・ミュージアム\n開催日 10月8日（土）\n開催時間 ①11:00 /
+  ②13:00 / ③14:30 / ④16:00 \n\n水族館入口にて各回30分程度を予定\n\n以降の開催予定\n11月12日（土）\n12月1
+ 0日（土）\n1月14日（土）\n2月11日（土）\n3月11日（土）
+LAST-MODIFIED:20161005T102000Z
+LOCATION:沼津港深海水族館\, 日本静岡県沼津市千本港町83番地
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:SZ 沼津港深海水族館
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161112T020000Z
+DTEND:20161112T073000Z
+UID:ra7405j814ouf49qhic3kfgpig@google.com
+CREATED:20161005T101951Z
+DESCRIPTION:http://www.sanrio.co.jp/news/event-sz-numazu-20161008/\n\n沼津港深海
+ 水族館にメンタくんが遊びにくるよ！\n\n会場 沼津港深海水族館 シーラカンス・ミュージアム\n開催日 10月8日（土）\n開催時間 ①11:00 /
+  ②13:00 / ③14:30 / ④16:00 \n\n水族館入口にて各回30分程度を予定\n\n以降の開催予定\n11月12日（土）\n12月1
+ 0日（土）\n1月14日（土）\n2月11日（土）\n3月11日（土）
+LAST-MODIFIED:20161005T101951Z
+LOCATION:沼津港深海水族館\, 日本静岡県沼津市千本港町83番地
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:SZ 沼津港深海水族館
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161008T020000Z
+DTEND:20161008T073000Z
+UID:kbavk6drccn1hsv1d164f6ggq0@google.com
+CREATED:20161005T101936Z
+DESCRIPTION:http://www.sanrio.co.jp/news/event-sz-numazu-20161008/\n\n沼津港深海
+ 水族館にメンタくんが遊びにくるよ！\n\n会場 沼津港深海水族館 シーラカンス・ミュージアム\n開催日 10月8日（土）\n開催時間 ①11:00 /
+  ②13:00 / ③14:30 / ④16:00 \n\n水族館入口にて各回30分程度を予定\n\n以降の開催予定\n11月12日（土）\n12月1
+ 0日（土）\n1月14日（土）\n2月11日（土）\n3月11日（土）
+LAST-MODIFIED:20161005T101936Z
+LOCATION:沼津港深海水族館\, 日本静岡県沼津市千本港町83番地
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:SZ 沼津港深海水族館
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161030T040000Z
+DTEND:20161030T063000Z
+UID:c2joakeg6qh4aosed76divh3og@google.com
+CREATED:20161003T122308Z
+DESCRIPTION:http://www.grand-tree.jp/web/event/admin_posts_10151.html\n\nグラ
+ ンドハロウィン　キャラハロパレード\n\n日時：10月30日(日)\n【第1回】2階フロアをパレード　13:00～(約30分程度)\n【第2回】3階フ
+ ロアをパレード　15:00～(約30分程度)\n定員：各回100名様 ※参加無料\n集合場所：\n【第1回】2階 AQUA DROP前吹き抜け前\n【
+ 第2回】3階 AQUA DROP前吹き抜け前\n\nパレード参加希望者は当日パレード開始時間30分前までに上記集合場所に集合
+LAST-MODIFIED:20161003T122308Z
+LOCATION:グランツリー武蔵小杉\, 日本神奈川県川崎市中原区新丸子東３丁目１１３５
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:PN グランドハロウィン キャラハロパレード
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161008T020000Z
+DTEND:20161008T060000Z
+UID:pjdg2ergrdfqgj8tig2aqof93k@google.com
+CREATED:20161003T015216Z
+DESCRIPTION:http://www.sanrio.co.jp/news/event-gg-itami-20161008/\n\nぐでたまが遊
+ びにくるよ♪（イオンモール伊丹店）\n\n会場 イオンモール伊丹 1F スカイコート\n開催日 10/8（土）\n開催時間 11:00/ 13:00/
+ 14:30（各回先着25名さま限定）\n\n当日、サンリオギフトゲートにてぐでたまセット（1\,080円）をお買い上げの方に撮影会参加券を配布
+LAST-MODIFIED:20161003T015216Z
+LOCATION:イオンモール伊丹\, 日本兵庫県伊丹市藤ノ木１丁目１−１
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:GU イオンモール伊丹
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161001T005000Z
+DTEND:20161001T063000Z
+UID:nkp4fqkn9ie1h3602rkf9lh6bc@google.com
+CREATED:20161001T033040Z
+DESCRIPTION:http://www.divercity-tokyo.com/shopnews/10412421_11057.html\n\n
+ 10/1(土)「Hello Kitty Japan/HELLO KITTYのこんがり焼」がリニューアルオープン!!\nリニューアルオープン初日開催イベ
+ ント(10/1)\nオープニングセレモニー　9：50～\nハローキティグリーティング　12：00～/13：30～/15：00～
+LAST-MODIFIED:20161001T033040Z
+LOCATION:ダイバーシティ東京 プラザ\, 日本東京都青海1-1-10
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT こんがり焼リニューアル
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161008T020000Z
+DTEND:20161008T053000Z
+UID:9cng1dsn9das71bdkksjpbtjv4@google.com
+CREATED:20161001T005841Z
+DESCRIPTION:http://www.abc-housing.co.jp/kinki/park/campaign/kusatsu_campai
+ gn.html\n\nハローキティ＆プリンのハートフルタイム\n10/8(土)\n1100\, 1400
+LAST-MODIFIED:20161001T005841Z
+LOCATION:ＡＢＣハウジング草津住宅公園\, 日本滋賀県草津市木川町７７
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT\,PN ハートフルタイム
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161030T020000Z
+DTEND:20161030T063000Z
+UID:l035jv5r7he9bgra7qki0ls53c@google.com
+CREATED:20160930T163158Z
+DESCRIPTION:http://www.seibuen-yuuenchi.jp/event/index.html?category=e1\n\n
+ 10月9日（日）、16日（日）、30日（日）\n11:00 クロミとハッピーグリーティング\n13:00 バースデーセレブレーション\n15:00 ク
+ ロミとハッピーハロウィン
+LAST-MODIFIED:20160930T163158Z
+LOCATION:西武園ゆうえんち\, 日本埼玉県所沢市山口２９６４
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KU\,KT 西武園ゆうえんち
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20161009T110000
+DTEND;TZID=Asia/Tokyo:20161009T153000
+RRULE:FREQ=WEEKLY;UNTIL=20161016T020000Z;BYDAY=SU
+UID:rajlvseap1ksd0ie1sb65s0aq8@google.com
+CREATED:20160930T163118Z
+DESCRIPTION:http://www.seibuen-yuuenchi.jp/event/index.html?category=e1\n\n
+ 10月9日（日）、16日（日）、30日（日）\n11:00 クロミとハッピーグリーティング\n13:00 バースデーセレブレーション\n15:00 ク
+ ロミとハッピーハロウィン
+LAST-MODIFIED:20160930T163140Z
+LOCATION:西武園ゆうえんち\, 日本埼玉県所沢市山口２９６４
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:KU\,KT 西武園ゆうえんち
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161010T063000Z
+DTEND:20161010T070000Z
+UID:8kf1cg92vusu41omcb6fss6kjs@google.com
+CREATED:20160930T161637Z
+DESCRIPTION:http://www.metro.tokyo.jp/tosei/hodohappyo/press/2016/09/28/10.
+ html\nhttp://tokyoproject.kosodateswitch.jp/\n\n子育て応援Tokyoプロジェクトin二子玉川\n子育て
+ つながるマルシェ\n2016-10-10 13:00-17:00\n二子玉川ライズ iTSCOM STUDIO  HALL\n\nマイメロディミニショ
+ ー「マイメロディとお花を咲かせよう！」\n15:30-16:00
+LAST-MODIFIED:20160930T162259Z
+LOCATION:二子玉川ライズ\, 日本東京都世田谷区玉川１丁目１４−１
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MM お花を咲かせよう
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161015T020000Z
+DTEND:20161015T053000Z
+UID:vi9r2d8rhk5srvnqbl05jdoddg@google.com
+CREATED:20160930T161234Z
+DESCRIPTION:(PDF注意) http://kashiwa.lalaport.jp/cp/matomehalloween.pdf\n\nハロ
+ ーキティのハロウィーンマーチ！\n10/15(土)\n1100\, 1400\n本館2Fセンタープラザ\n雨天時は本館2Fクリスタルコート
+LAST-MODIFIED:20160930T161234Z
+LOCATION:ららぽーと柏の葉\, 日本千葉県柏市若柴１７５ 
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT ハロウィーンマーチ
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160930
+DTEND;VALUE=DATE:20161001
+UID:5qeajhe1sq5q2dlfhfddpc3mmo@google.com
+CREATED:20160930T115042Z
+DESCRIPTION:HELLO KITTY LOVES すみよし\n\nhttp://www.nankai.co.jp/odekake/hello
+ kitty_loves_sumiyoshi.html\nhttp://abeno.keizai.biz/headline/2291/\nhttps:/
+ /www.youtube.com/watch?v=Y9UOrgsI6JY\n\n\n
+LAST-MODIFIED:20160930T115042Z
+LOCATION:住吉大社\, 日本大阪府大阪市住吉区住吉２丁目９−８９
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT HELLO KITTY LOVES すみよし
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161105T080000Z
+DTEND:20161105T123000Z
+UID:fattu49q3lbvqpo1vq5bocm05o@google.com
+CREATED:20160930T112600Z
+DESCRIPTION:http://www.hellokittylive.com/\n\nHello Kitty Live\nキティ、メロディ、ダニ
+ エル、ばつ丸、プリン、ミミィ\n\nJakarta - GC Hall Ganderia City\n\nNov 01 7pm\nNov 02 7pm
+ \nNov 03 4pm\, 7pm\nNov 04 4pm\, 7pm\nNov 05 3pm\, 6pm
+LAST-MODIFIED:20160930T112600Z
+LOCATION:GBI Gandaria City\, Jl. Sultan Iskandar Muda\, Kebayoran Lama\, Ja
+ karta Selatan\, Daerah Khusus Ibukota Jakarta 12240\, Indonesia
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Hello Kitty Live
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Jakarta:20161103T160000
+DTEND;TZID=Asia/Jakarta:20161103T203000
+RRULE:FREQ=DAILY;UNTIL=20161104T090000Z
+UID:7aprcubmht6mdek2i5486fbvn4@google.com
+CREATED:20160930T112514Z
+DESCRIPTION:http://www.hellokittylive.com/\n\nHello Kitty Live\nキティ、メロディ、ダニ
+ エル、ばつ丸、プリン、ミミィ\n\nJakarta - GC Hall Ganderia City\n\nNov 01 7pm\nNov 02 7pm
+ \nNov 03 4pm\, 7pm\nNov 04 4pm\, 7pm\nNov 05 3pm\, 6pm
+LAST-MODIFIED:20160930T112514Z
+LOCATION:GBI Gandaria City\, Jl. Sultan Iskandar Muda\, Kebayoran Lama\, Ja
+ karta Selatan\, Daerah Khusus Ibukota Jakarta 12240\, Indonesia
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Hello Kitty Live
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Jakarta:20161101T190000
+DTEND;TZID=Asia/Jakarta:20161101T203000
+RRULE:FREQ=DAILY;UNTIL=20161102T120000Z
+UID:e9tmnpq78ftmnfjqcq02ui73g0@google.com
+CREATED:20160930T112220Z
+DESCRIPTION:http://www.hellokittylive.com/\n\nHello Kitty Live\nキティ、メロディ、ダニ
+ エル、ばつ丸、プリン、ミミィ\n\nJakarta - GC Hall Ganderia City\n\nNov 01 7pm\nNov 02 7pm
+ \nNov 03 4pm\, 7pm\nNov 04 4pm\, 7pm\nNov 05 3pm\, 6pm
+LAST-MODIFIED:20160930T112329Z
+LOCATION:GBI Gandaria City\, Jl. Sultan Iskandar Muda\, Kebayoran Lama\, Ja
+ karta Selatan\, Daerah Khusus Ibukota Jakarta 12240\, Indonesia
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Hello Kitty Live
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Jakarta:20161029T150000
+DTEND;TZID=Asia/Jakarta:20161029T203000
+RRULE:FREQ=DAILY;UNTIL=20161030T080000Z
+UID:sv5irik3jdgt91a079dcca0198@google.com
+CREATED:20160930T111547Z
+DESCRIPTION:http://www.hellokittylive.com/\n\nHello Kitty Live\nキティ、メロディ、ダニ
+ エル、ばつ丸、プリン、ミミィ\n\nSurabaya - SSCC Ballroom\n\nOct 25 7pm\nOct 26 7pm\nOct 2
+ 7 7pm\nOct 29 3pm\, 7pm\nOct 30 3pm\, 7pm
+LAST-MODIFIED:20160930T111547Z
+LOCATION:Supermal Pakuwon Indah\, Jl. Bukit Darmo Boulevard\, Babatan\, Wiy
+ ung\, Kota SBY\, Jawa Timur\, Indonesia
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Hello Kitty Live
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Jakarta:20161025T190000
+DTEND;TZID=Asia/Jakarta:20161025T203000
+RRULE:FREQ=DAILY;UNTIL=20161027T120000Z
+UID:tguad0krioa41c7ounrg2lhuek@google.com
+CREATED:20160930T111425Z
+DESCRIPTION:http://www.hellokittylive.com/\n\nHello Kitty Live\nキティ、メロディ、ダニ
+ エル、ばつ丸、プリン、ミミィ\n\nSurabaya - SSCC Ballroom\n\nOct 25 7pm\nOct 26 7pm\nOct 2
+ 7 7pm\nOct 29 3pm\, 7pm\nOct 30 3pm\, 7pm
+LAST-MODIFIED:20160930T111522Z
+LOCATION:Supermal Pakuwon Indah\, Jl. Bukit Darmo Boulevard\, Babatan\, Wiy
+ ung\, Kota SBY\, Jawa Timur\, Indonesia
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Hello Kitty Live
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Bangkok:20161021T150000
+DTEND;TZID=Asia/Bangkok:20161021T203000
+RRULE:FREQ=DAILY;UNTIL=20161024T080000Z
+UID:297svaeimvp2ih9g725kq813ls@google.com
+CREATED:20160930T110812Z
+DESCRIPTION:http://www.hellokittylive.com/\n\nHello Kitty Live\nキティ、メロディ、ダニ
+ エル、ばつ丸、プリン、ミミィ\n\nhttp://www.hellokittylive.com/book-now\nBangkok - Central
+  Chaengwattana Hall\nOct 21\, 22\, 23\, 24\n3pm\, 7pm
+LAST-MODIFIED:20160930T110813Z
+LOCATION:CentralPlaza Chaengwattana\, 99\,99/9\, Mu 2\, Chaeng Watthana Rd.
+ \, Bang Talat\, Pak Kret\, Nonthaburi 11120
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Hello Kitty Live
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161029T020000Z
+DTEND:20161029T063000Z
+UID:uttcekrn60mfmk97uf9bq4nj5s@google.com
+CREATED:20160930T100826Z
+DESCRIPTION:http://www.grand-tree.jp/web/event/admin_posts_10145.html\n\nハロ
+ ーキティのハロウィンマーチ！\nグランツリー武蔵小杉\n2F アクアドロップ吹き抜け前\n11:00\, 13:00\, 15:00\n各回30分前か
+ ら先着30組に撮影会の整理券を配布
+LAST-MODIFIED:20160930T105453Z
+LOCATION:グランツリー武蔵小杉\, 日本神奈川県川崎市中原区新丸子東３丁目１１３５
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT ハロウィンマーチ
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20161006T130000
+DTEND;TZID=Asia/Tokyo:20161006T163000
+RRULE:FREQ=DAILY;UNTIL=20161008T040000Z
+UID:l49i2or8m9u0d6c20ljp8bnjjg@google.com
+CREATED:20160930T102735Z
+DESCRIPTION:http://www.narita-airport.jp/jp/fun/event/japan/index.html\nhtt
+ p://www.travelvision.jp/campaign/?id=256\n\n第1ターミナル 出国手続き前エリア 1\,4階\n10月2日（
+ 日）・6日（木）・7日（金）\nWelcome with ハローキティ（回遊）\n①13:00～　②14:30～　③16:00～\n\n第2ターミナル
+  出国手続き前エリア 1\,3\,4階\n10月1日（土）・8日（土）\nWelcome with ハローキティ（回遊）\n①13:00～　②14:3
+ 0～　③16:00～
+LAST-MODIFIED:20160930T102735Z
+LOCATION:成田国際空港\, 日本千葉県成田市古込1-1
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT Welcome with ハローキティ
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20161001T130000
+DTEND;TZID=Asia/Tokyo:20161001T163000
+RRULE:FREQ=DAILY;UNTIL=20161002T040000Z
+UID:vgsainrf2nifbiknu9c8qlq67s@google.com
+CREATED:20160930T102709Z
+DESCRIPTION:http://www.narita-airport.jp/jp/fun/event/japan/index.html\nhtt
+ p://www.travelvision.jp/campaign/?id=256\n\n第1ターミナル 出国手続き前エリア 1\,4階\n10月2日（
+ 日）・6日（木）・7日（金）\nWelcome with ハローキティ（回遊）\n①13:00～　②14:30～　③16:00～\n\n第2ターミナル
+  出国手続き前エリア 1\,3\,4階\n10月1日（土）・8日（土）\nWelcome with ハローキティ（回遊）\n①13:00～　②14:3
+ 0～　③16:00～
+LAST-MODIFIED:20160930T102709Z
+LOCATION:成田国際空港\, 日本千葉県成田市古込1-1
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT Welcome with ハローキティ
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161001T010000Z
+DTEND:20161001T083000Z
+UID:51i5rsdjbspmgeahkg0up1tmgk@google.com
+CREATED:20160930T101704Z
+DESCRIPTION:http://emifull.jp/event_news/event/2016/10/050184.html\n\nメリーゴー
+ ランド 登場！エミパーク リニューアルオープン！\nキティちゃんが遊びにくるよ！！\n\nとき １０月１日（土） \n時間 ①１０:００～　②１２:０
+ ０～　③１４:００～　④１７:００～ \n場所 エミパーク ※雨天時 オレンジゲート⑤前\n\n１０:００～ オープニングイベント\n１７:００～  
+ エミパーク・メリーゴーランド 点灯式\n\n\n
+LAST-MODIFIED:20160930T101704Z
+LOCATION:エミフルＭＡＳＡＫＩ\, 日本愛媛県伊予郡松前町筒井８５０
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT エミパーク リニューアルオープン
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161001T020000Z
+DTEND:20161001T063000Z
+UID:djolu7jfp4e845t8rqfos24el0@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
+  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
+ gle.com
+CREATED:20160924T155519Z
+DESCRIPTION:http://www.grand-tree.jp/web/event/admin_posts_10143.html\nhttp
+ ://ameblo.jp/vega-seachan/entry-12204595909.html\nhttp://ameblo.jp/vega-sea
+ chan/entry-12203156052.html\n\nハローキティのハロウィンマーチ！\nグランツリー武蔵小杉\n2F アクアドロップ吹き抜け
+ 前\n11:00\, 13:00\, 15:00\n各回30分前から先着30組に撮影会の整理券を配布
+LAST-MODIFIED:20160930T100901Z
+LOCATION:グランツリー武蔵小杉\, 日本神奈川県川崎市中原区新丸子東３丁目１１３５
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:KT ハロウィンマーチ
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161002T020000Z
+DTEND:20161002T063000Z
+UID:13uh2nis0qms0nbt9bc7gkgros@google.com
+CREATED:20160930T100732Z
+DESCRIPTION:http://www.grand-tree.jp/web/event/admin_posts_10144.html\n\nマイ
+ メロディのお花を咲かせよう！\nグランツリー武蔵小杉\n2F アクアドロップ吹き抜け前\n11:00\, 13:00\, 15:00\n各回30分前か
+ ら先着30組に撮影会の整理券を配布
+LAST-MODIFIED:20160930T100732Z
+LOCATION:グランツリー武蔵小杉\, 日本神奈川県川崎市中原区新丸子東３丁目１１３５
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MM お花を咲かせよう
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161016T083000Z
+DTEND:20161016T150000Z
+UID:oio56r98g7m439nd6vv5au0oio@google.com
+CREATED:20160929T105244Z
+DESCRIPTION:DJキティの登場時刻不明\n\nhttps://iflyer.tv/en/event/273318\n\nウルトラ ハロウィー
+ ン 2016\n2016.10.29 sat\nOPEN 18:00\n子供の部18:00-22:00\n大人の部22:30-\n高校生以下は1500
+ 円で入場可能\n小学生以下入場無料\nTICKET：3000円\n当日：4000円
+LAST-MODIFIED:20160929T105244Z
+LOCATION:大劇ビル\, 日本高知県高知本町１丁目２−２５
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT ウルトラハロウィーン
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160930T060000Z
+DTEND:20160930T083000Z
+UID:6dan5pto2grefo1t7ql4j6acos@google.com
+CREATED:20160929T104947Z
+DESCRIPTION:https://twitter.com/i/web/status/781419118369005569\n\nトーキョーオトナ
+ キティ\nハローキティツーショット撮影会\n9月30日(金)\n渋谷ロフト１階　間坂ステージ\n\n1500\, 1700\nTOKYOOTONAKI
+ TTYグッズを1点以上お買い上げで各回先着20名
+LAST-MODIFIED:20160929T104947Z
+LOCATION:渋谷ロフト\, 日本東京都渋谷区宇田川町２１
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT トーキョーオトナキティ
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161030T033000Z
+DTEND:20161030T070000Z
+UID:taq7bdcq35u7pfisfflmpekqks@google.com
+CREATED:20160928T125138Z
+DESCRIPTION:http://www.sanrio.co.jp/news/event-gg-natori-20161030/\n\nマイメロデ
+ ィ＆クロミが遊びにくるよ（Sanrio Gift Gate イオンモール名取店）\n\n会場 Sanrio Gift Gate イオンモール名取店\n
+ 開催日 10/30（日）\n\n開催時間\n①【ダンス＆抽選会】12:30/15:30\n抽選カードは１枚税込み500円。ゲーム開始30分前から販売。
+ \n景品あり。誕生日以外の人も参加可能。\n\n②【写真撮影会】14:00（40名限定）\n店内にて1\,080円以上お買上げで整理券をお渡し（開店時
+ より受付）。写真はマイメロディと。　\n当月誕生日の場合、撮影後に証明できるものを提示でバースデーバッジとミニプレゼントあり。
+LAST-MODIFIED:20160928T130111Z
+LOCATION:イオンモール名取\, 〒981-1294 宮城県名取市杜せきのした５丁目３番地1
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MM\,KU イオンモール名取
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161001T020000Z
+DTEND:20161001T063000Z
+UID:8pmfhcgc18rv0c048rcuglod8s@google.com
+CREATED:20160926T030653Z
+DESCRIPTION:http://www.sanrio.co.jp/news/event-pn-shop-keikyu-20160926/\nht
+ tp://sanrio.cocolog-nifty.com/shop/2016/09/20-8c90.html\nhttps://twitter.co
+ m/sanrio_news/status/780240735769546752\n\n京急百貨店（上大岡駅）に「ポムポムプリン 20thアニバーサリー
+ ショップ」期間限定オープン☆\n\n会場 京急百貨店（上大岡駅） 5F　イベントスペース\n開催日 9/27（火）～10/12（水）\n開催時間 10
+ :00〜20:00\n\nポムポムプリンが遊びにくるよ！（各回30分）\n日時：10/1（土）　11:00/13:00/15:00（各回30名さま限定
+ ）\n当日10:00より、各回の整理券を5F おもちゃ売場カウンター横にて配布
+LAST-MODIFIED:20160927T080148Z
+LOCATION:京急百貨店・上大岡駅\, 日本神奈川県横浜市港南区上大岡西1丁目6番1号
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:PN 京急百貨店・上大岡駅
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161016T011000Z
+DTEND:20161016T044000Z
+UID:qeu54m0nah7uci3qa85q6asdg0@google.com
+CREATED:20160927T013910Z
+DESCRIPTION:https://www.facebook.com/sunrise.sakai.hp/posts/521045318105582
+ \n\n第2回 サンライズ酒井病院 病院祭\n2016-10-16\n10:00-15:00\n\nハーモニーランド nakayoku キャラバン\n
+ 10:10-\, 13:10-
+LAST-MODIFIED:20160927T014651Z
+LOCATION:サンライズ酒井病院\, 日本大分県速見郡日出町3156-1
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT サンライズ酒井病院 病院祭
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20161009T100000
+DTEND;TZID=Asia/Tokyo:20161009T160000
+RRULE:FREQ=DAILY;COUNT=2
+UID:m1immt5aa07rgvs8p921r97tlc@google.com
+CREATED:20160926T074825Z
+DESCRIPTION:http://miyazaki-aeonmall.com/news/event/1651\n\nターフィー＆ハローキティグリー
+ ティング～「第21回馬の絵展」入選作品展示会～\n\n展示日程\n2016/10/02 (日) - 2016/10/10 (月) \n10:00～21
+ :00\n\nグリーティング日程\n10/9(日)、10/10(月・祝)\n10:00～10:30\n12:30～13:00\n14:00～14:30
+ \n15:30～16:00 \n\n場所 1F レストランコート \n\n
+LAST-MODIFIED:20160926T074851Z
+LOCATION:イオンモール宮崎\, 日本宮崎県宮崎市新別府町江口862-1
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT\,ターフィー イオンモール宮崎
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161015T083000Z
+DTEND:20161015T103000Z
+UID:vei4omu1gl5scq8e34lspirs54@google.com
+CREATED:20160926T074449Z
+DESCRIPTION:http://www.kagimanahula.com/program/#event353\n\nインターナショナル フラ コ
+ ンペティション カギマナフラin宮古島2016\n沖縄県宮古島\n2016年10月13日（木）・14日（金）・15日（土）・16日（日）・17日（月）
+ \n\nカギマナフラin宮古島2016プレゼンツ　ハローキティミニショー\n10月15日(土)\n1730-1800 写真撮影会\n1900-1930
+  ミニショー(ハローキティとHUGしてぎゅっ！)\n場所 トゥリバ―海浜公園
+LAST-MODIFIED:20160926T074450Z
+LOCATION:トゥリバー海浜公園\, 日本沖縄県宮古島市
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT カギマナフラin宮古島
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160925T013000Z
+DTEND:20160925T080000Z
+UID:9d8kr216avl4q7jvs36p04aab4@google.com
+CREATED:20160924T113132Z
+DESCRIPTION:アーティスト出演中のステージ撮影は禁止\n\nhttp://www.tv-osaka.co.jp/tvofes/stage.p
+ hp\nhttps://twitter.com/rilurilu_anime/status/779638287719731201\nhttps://t
+ witter.com/nobuo1992/status/779845001169637378\n\nテレビ大阪 YATAI フェス! 2016\n20
+ 16/09/22 - 2016/09/25\n大阪城公園 太陽の広場 ＋ 野球場\n\nリルリルフェアリル\n9/25 12:00-\nステージのほか
+ にも会場をお散歩\n1030\, 1430\, 1630
+LAST-MODIFIED:20160925T135345Z
+LOCATION:大阪城公園\, 日本大阪府大阪市中央区大阪城３−１１
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:RF テレビ大阪 YATAI フェス
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161010T030000Z
+DTEND:20161010T073000Z
+UID:th2ecag4knb71j2jr443n2h1s0@google.com
+CREATED:20160916T093016Z
+DESCRIPTION:http://www.sanrio.co.jp/news/event-odakyu-shinjuku-20161010/\nh
+ ttp://ameblo.jp/vega-seachan/entry-12201655389.html\n\nリルリルフェアリル・りっぷとあそぼう！＆
+ 写真撮影会（小田急百貨店　新宿店9F）\n\n会場 小田急百貨店　新宿店9F　サンリオ\n開催日 10/10（月・祝）\n開催時間 12:00/14:
+ 00/16:00（各回先着30名さま限定）\n\nイベント当日、オープン時より9F サンリオコーナーにて1\,080円以上お買い上げいただいた、各回先
+ 着30名さまに撮影会整理券をカウンターにてお渡し\n
+LAST-MODIFIED:20160924T160238Z
+LOCATION:小田急百貨店 新宿店\, 日本東京都新宿区西新宿１丁目１
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:RF 小田急百貨店 新宿店
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160922T023000Z
+DTEND:20160922T070000Z
+UID:jrdcvrpblt239h7uf1pc0ufo2s@google.com
+CREATED:20160922T015649Z
+DESCRIPTION:撮影・録音・録画等は禁止\n\nhttp://www.ario-kawaguchi.jp/web/event/e1d9e5cb
+ -8759-4383-b397-5f4979883277.html\nhttp://ameblo.jp/vega-seachan/entry-1220
+ 1655389.html\n\n”ぐでたま”がやってくる！\n\n日程 ９月２２日（木・祝）\n時間 ①午前１１時３０分　②午後１時３０分　③午後３時
+ ３０分\n場所 １階センターコート\n\n閲覧フリー\n有線エリア入場券はタワーレコード即売ブースで対象タイトル買い上げで各回ごと先着配布\nタワーレ
+ コード即売ブースで対象タイトルを買い上げ1枚ごとに解く展開参加券を配布\n\n特典会参加券1枚　⇒　“ぐでたま”と握手\n特典会参加券2枚　⇒　“ぐで
+ たま”からノベルティがもらえる（ステッカーなど）\n特典会参加券3枚　⇒　“ぐでたま”とツーショット撮影\n\n対象タイトル\nDVD「ぐでたま Vo
+ l.1」　品番:OED10284　\\1\,080(税込)\nDVD「ぐでたま Vol.2」　品番:OED10285　\\1\,080(税込)\nDV
+ D「ぐでたま Vol.3」　品番:OED10286　\\1\,080(税込)
+LAST-MODIFIED:20160924T160211Z
+LOCATION:アリオ川口\, 日本埼玉県川口市並木元町1番79号
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:GU アリオ川口
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161015T020000Z
+DTEND:20161015T063000Z
+UID:e7i4e1ip1kio0f4i3d5viqtdqk@google.com
+CREATED:20160915T063855Z
+DESCRIPTION:http://www.ario-ageo.jp/web/event/bbd29d22-983c-4b3a-8ec9-0f5e8
+ a3702de.html\nhttp://blog.itoyokado.co.jp/shop/263/event.html#151012\n\nマイメ
+ ロディ&シナモロールのハロウィーンマーチ！\n\n日程 10/15（土）\n時間 ①11：00 ②15：00\n場所 屋外イベントステージ
+LAST-MODIFIED:20160924T113837Z
+LOCATION:アリオ上尾\, 日本埼玉県上尾市３６７
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MM\,CN ハロウィーンマーチ
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161001T020000Z
+DTEND:20161001T063000Z
+UID:5ar2defma4dsp6cgg6rggj6n5c@google.com
+CREATED:20160924T112611Z
+DESCRIPTION:http://www.benibanawalk.com/event/entry-2031.html\n\nハローキティのハロウ
+ ィーンマーチ！\n\n開催日 10月1日（土）\n時間 （１）11:00　（２）13:00　（３）15:00\n場所 1F センターコート\n\n各回
+ 開始30分前に参加整理券を配布\n各回先着30名
+LAST-MODIFIED:20160924T112611Z
+LOCATION:ベニバナウォーク桶川\, 日本埼玉県桶川市計画事業下日出谷東 特定土地区画整理事業地内42街区1画地
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT ハロウィーンマーチ
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20161023
+DTEND;VALUE=DATE:20161024
+UID:qggoi5otcee6hmg562d3qd42r0@google.com
+CREATED:20160924T112325Z
+DESCRIPTION:タイムテーブル準備中\nステージ撮影禁止\n\nhttp://japan-girls-expo.com/\n\n日本女子博覧会
+  -JAPAN GIRLS EXPO 2016-\n2016年10月23日(日)\nインテックス大阪6号館B\n\nDJ HELLO KITTY\n
+LAST-MODIFIED:20160924T112325Z
+LOCATION:インテックス大阪\, 日本大阪府大阪市住之江区南港北１丁目
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT 日本女子博覧会
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160924
+DTEND;VALUE=DATE:20160926
+UID:mfai6i6fgm89ar51rbs9hg4nhc@google.com
+CREATED:20160923T090059Z
+DESCRIPTION:https://twitter.com/funewoamu_anime/status/779198844055592960\n
+ http://news.noitamina.tv/funewoamu/article/20160922_post_3.html\n\n9/24（土）\
+ , 9/25（日）\n光文社ブースに海くんが登場\n時間不明\n\n※アルファベット2文字の略称不明
+LAST-MODIFIED:20160923T090100Z
+LOCATION:東京ビッグサイト西展示棟\, 日本\, 〒135-0063 東京都江東区有明３丁目３−１１−１
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:じしょたんず 東京国際ブックフェア
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160924T023000Z
+DTEND:20160924T073000Z
+UID:1nf8ddd0065r8ndfj77nfk0p60@google.com
+CREATED:20160915T064336Z
+DESCRIPTION:http://www.sanrio.co.jp/news/event-gg-nagoya-20160924/\nhttp://
+ www.mozo-wondercity.com/event/index/#733\n\nぐでたま撮影会（Sanrio Gift Gate 名古屋 mo
+ zoワンダーシティ店）\n\n会場 Sanrio Gift Gate 名古屋 mozoワンダーシティ店\n開催日 9/24（土）\n開催時間 11:3
+ 0/13:00/14:30/16:00（各回30名様限定）\n\n整理券は、当日10:00より3F Sanrio Gift Gateにて、レシート1枚
+ につきぐでたま商品を含む税込み1\,080円以上お買い上げいただいたお客さま（希望される方）に先着でお渡し
+LAST-MODIFIED:20160923T022257Z
+LOCATION:ｍｏｚｏワンダーシティ\, 日本愛知県名古屋西区二方町40番
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:GU mozoワンダーシティ
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160925T040000Z
+DTEND:20160925T073000Z
+UID:r5cko5nffang5f11mj62sbisko@google.com
+CREATED:20160922T014850Z
+DESCRIPTION:9/16(金)より整理券事前配布\n\nhttp://blog.stripe-club.com/rink/381240\n\n
+ ポムポムプリン来店＆ハグイベント\n開催日 9/25(日)\n場所 アース ミュージック＆エコロジー 池袋サンシャインシティ店\n第一部 13:00-
+ 13:30\n第二部 14:30-15:00\n第三部 16:00-16:30\n\nイベント参加券配布店舗\n第一部\n池袋サンシャインシティ店、有
+ 楽町ルミネ店、北千住ルミネ店\n第二部\n新宿ルミネエスト店、池袋ルミネ店、荻窪ルミネ店\n第三部\n立川ルミネ店、新宿ミロード店、町田ルミネ店、東京
+ ソラマチ店
+LAST-MODIFIED:20160922T014850Z
+LOCATION:サンシャインシティ アルパ\, 日本東京都豊島区東池袋３丁目１−１
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:PN サンシャインシティ
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160922T020000Z
+DTEND:20160922T073000Z
+UID:j577i5eo8pqs05o0ktsglgs8dg@google.com
+CREATED:20160922T014140Z
+DESCRIPTION:https://twitter.com/FISHERMANS_CRAB/status/778521115849359360\n
+ \n11:00～ 6Fぐでたまカフェ\n13:00～ 4Fぐでたまグッズコーナー\n14:30～ 6Fぐでたまカフェ\n16:00～ 4Fぐでたまグッ
+ ズコーナー
+LAST-MODIFIED:20160922T014140Z
+LOCATION:サンシャインサカエ\, 日本愛知県名古屋市中区錦3-24-4
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:GU サンシャインサカエ
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160922T000000Z
+DTEND:20160922T080000Z
+UID:gprv0oqpsj15jjkhf64cdp103o@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
+  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
+ gle.com
+CREATED:20160911T130832Z
+DESCRIPTION:http://www.jra.go.jp/news/201609/090901.html\n\n第48回愛馬の日\n9月22日
+ (祝・木) 09:00-17:00\n\nターフィー＆ハローキティ グリーティング\n時間未記載
+LAST-MODIFIED:20160921T012253Z
+LOCATION:馬事公苑\, 日本東京都世田谷区上用賀2-1-1
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:KT 愛馬の日
+TRANSP:OPAQUE
+END:VEVENT
 BEGIN:VEVENT
 DTSTART:20160924T020000Z
 DTEND:20160924T063000Z
@@ -253,22 +3730,6 @@ SUMMARY:MM あまがさきキューズモール
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20161010T030000Z
-DTEND:20161010T073000Z
-UID:th2ecag4knb71j2jr443n2h1s0@google.com
-CREATED:20160916T093016Z
-DESCRIPTION:http://www.sanrio.co.jp/news/event-odakyu-shinjuku-20161010/\n\
- nリルリルフェアリル・りっぷとあそぼう！＆写真撮影会（小田急百貨店　新宿店9F）\n\n会場 小田急百貨店　新宿店9F　サンリオ\n開催日 10/10
- （月・祝）\n開催時間 12:00/14:00/16:00（各回先着30名さま限定）\n\nイベント当日、オープン時より9F サンリオコーナーにて1\
- ,080円以上お買い上げいただいた、各回先着30名さまに撮影会整理券をカウンターにてお渡し\n
-LAST-MODIFIED:20160916T093016Z
-LOCATION:小田急百貨店 新宿店\, 日本東京都新宿区西新宿１丁目１
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:RF 小田急百貨店 新宿店
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20161001T023000Z
 DTEND:20161001T070000Z
 UID:rakat95nld6nffif5pgj18lq9o@google.com
@@ -335,54 +3796,6 @@ SUMMARY:GU イオンモール扶桑
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20160924T023000Z
-DTEND:20160924T073000Z
-UID:1nf8ddd0065r8ndfj77nfk0p60@google.com
-CREATED:20160915T064336Z
-DESCRIPTION:http://www.sanrio.co.jp/news/event-gg-nagoya-20160924/\n\nぐでたま撮
- 影会（Sanrio Gift Gate 名古屋 mozoワンダーシティ店）\n\n会場 Sanrio Gift Gate 名古屋 mozoワンダーシテ
- ィ店\n開催日 9/24（土）\n開催時間 11:30/13:00/14:30/16:00（各回30名様限定）\n\n整理券は、当日10:00より3F
-  Sanrio Gift Gateにて、レシート1枚につきぐでたま商品を含む税込み1\,080円以上お買い上げいただいたお客さま（希望される方）に先着
- でお渡し
-LAST-MODIFIED:20160915T064336Z
-LOCATION:ｍｏｚｏワンダーシティ\, 日本愛知県名古屋西区二方町40番
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:GU mozoワンダーシティ
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20161015T020000Z
-DTEND:20161015T063000Z
-UID:e7i4e1ip1kio0f4i3d5viqtdqk@google.com
-CREATED:20160915T063855Z
-DESCRIPTION:http://www.ario-ageo.jp/web/event/bbd29d22-983c-4b3a-8ec9-0f5e8
- a3702de.html\n\nマイメロディ&シナモロールのハロウィーンマーチ！\n\n日程 10/15（土）\n時間 ①11：00 ②15：00\n
- 場所 屋外イベントステージ
-LAST-MODIFIED:20160915T063855Z
-LOCATION:アリオ上尾\, 日本埼玉県上尾市３６７
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:MM\,CN ハロウィーンマーチ
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20161113T010000Z
-DTEND:20161113T060000Z
-UID:skhi0a1lhm2h56flvhqg0u3qek@google.com
-CREATED:20160904T225345Z
-DESCRIPTION:詳細不明\nPN、MM、KTなど11キャラクターが参加\n9月9日からチケット販売\n\nhttps://www.facebo
- ok.com/S.photowalk.jp/\nhttp://sanriocharacters-photowalk.com/\nhttp://www.
- sanrio.co.jp/news/mx-event-photowalk-20161113/\n\n11月13日\n多摩中央公園\n1. 10:00-
- \n2. 13:00-\n大人5800円、小人4700円\n
-LAST-MODIFIED:20160914T084326Z
-LOCATION:多摩中央公園\, 日本東京都多摩市落合2-35
-SEQUENCE:1
-STATUS:CONFIRMED
-SUMMARY:サンリオキャラクターズ Photo Walk
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20160919T063000Z
 DTEND:20160919T083000Z
 UID:aqbho0o2msp95g0rekllb6d9i0@google.com
@@ -429,23 +3842,6 @@ SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:KT やまなし観光ナビゲーター
 TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20160922T003000Z
-DTEND:20160922T080000Z
-UID:gprv0oqpsj15jjkhf64cdp103o@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
-  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
- gle.com
-CREATED:20160911T130832Z
-DESCRIPTION:http://www.jra.go.jp/news/201609/090901.html\n\n第48回愛馬の日\n9月22日
- (祝・木)\n\nターフィー＆ハローキティ グリーティング\n時間未記載
-LAST-MODIFIED:20160911T130839Z
-LOCATION:馬事公苑\, 日本東京都世田谷区上用賀2-1-1
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:KT 愛馬の日
-TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20160918T020000Z
@@ -1052,21 +4448,6 @@ LOCATION:さいたまスーパーアリーナ\, 日本埼玉県さいたま市�
 SEQUENCE:1
 STATUS:CONFIRMED
 SUMMARY:KT\,XO\,CN キティズパラダイス
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20161126T040000Z
-DTEND:20161126T073000Z
-UID:37avlm7mup6lr2ciolmrq7i4fk@google.com
-CREATED:20160813T101233Z
-DESCRIPTION:http://www.mikihouseland.jp/place/Kaijou_Dtail.aspx?p1=39\n\nミキ
- ハウスランド in 横浜\nパシフィコ横浜（展示ホールC）\n11/26（土） 10:00 ～ 18：00\n11/27（日） 10:00 ～ 16：
- 00\n\nハローキティのハートフルクリスマス\n11/26(土)\n1回目：13:00～\n2回目：16:00～
-LAST-MODIFIED:20160813T101233Z
-LOCATION:パシフィコ横浜\, 日本神奈川県横浜市西区みなとみらい１−１
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:KT\,CN ハートフルクリスマス
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
