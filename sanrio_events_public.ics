@@ -24,8 +24,8 @@ BEGIN:DAYLIGHT
 TZOFFSETFROM:-0300
 TZOFFSETTO:-0200
 TZNAME:-02
-DTSTART:19701018T000000
-RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=3SU
+DTSTART:19701101T000000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:DAYLIGHT
 BEGIN:STANDARD
 TZOFFSETFROM:-0300
@@ -91,6 +91,24 @@ TZOFFSETFROM:+0700
 TZOFFSETTO:+0700
 TZNAME:WIB
 DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+X-LIC-LOCATION:Europe/Berlin
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VTIMEZONE
@@ -270,6 +288,3438 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+DTSTART:20180428T030000Z
+DTEND:20180428T063000Z
+UID:7rok5rdon68qmvb4ker3gjo721@google.com
+CREATED:20180328T024514Z
+DESCRIPTION:<a href="https://www.mikihouseland.jp/place/yokohama/">https://
+ www.mikihouseland.jp/place/yokohama/</a><br><br><br>「ハローキティ&amp\;ウサハナのジョイフル
+ パーティ！」<br><br>2018春期ミキハウスランド 横浜<br>会場: パシフィコ横浜 展示ホールC<br><br>日時: 4/28(土) 12
+ :00\, 15:00<br><br>入場には参加申し込みが必要
+LAST-MODIFIED:20180328T024514Z
+LOCATION:パシフィコ横浜\, 日本、〒220-0012 神奈川県横浜市西区みなとみらい１丁目１−１ 横浜市西区
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT\,US ジョイフルパーティ!
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20180512
+DTEND;VALUE=DATE:20180513
+UID:7kv4gj6gh3leh1eijql5mpi2fb@google.com
+CREATED:20180326T160058Z
+DESCRIPTION:\nhttps://www.sanrio.co.jp/news/kt-pinko-20180326/\nhttps://www
+ .facebook.com/hellokitty.global/posts/1742514119143396/\nhttps://www.facebo
+ ok.com/hellokitty.japan/posts/1900513410021792/\n\nPINKO青山店にハローキティが登場\n4月12
+ 日（木）
+LAST-MODIFIED:20180326T160058Z
+LOCATION:Pinko\, Lexington Aoyama Bldg 1f\, 5-11-9 Minami Aoyama\, Minato-K
+ u\, Pinko Boutique\, ５丁目-１１ 南青山 Tokyo\, 107-0062\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT PINKO青山店
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20180331
+DTEND;VALUE=DATE:20180401
+RRULE:FREQ=DAILY;COUNT=2
+UID:1g2m9dvhio6nu2q0p0mq7j9mkp@google.com
+CREATED:20180318T233320Z
+DESCRIPTION:<br><a href="https://www.google.com/url?q=http%3A%2F%2Fwww.inte
+ rpets.jp%2Fpublic%2Fprogram.html&amp\;sa=D&amp\;usd=2&amp\;usg=AFQjCNE7fPV1
+ UD0Yzv-ljb78aUV5DvJTlA" target="_blank">http://www.interpets.jp/public/prog
+ ram.html</a><br>https://twitter.com/cattymancam/status/978099954001432576<b
+ r><br>インターペット<br>2018年3月30日 - 4月1日<br>10:00-17:00<br>東京ビッグサイト 東1\,2\,3\,4ホー
+ ル<br><br>［2-416］ドギーマンハヤシ（株）<br>「レッツダンスキャティー❤」<br>3月31日（土）－ 4月1日（日）<br>開催時間未
+ 定
+LAST-MODIFIED:20180326T042008Z
+LOCATION:Tokyo Big Sight\, 3 Chome-11-1 Ariake\, Kōtō-ku\, Tōkyō-to 135-006
+ 3\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT インターペット
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180324T221500Z
+DTEND:20180325T024000Z
+UID:2ru5ell0vtcsjbivpqed53lr1q@google.com
+CREATED:20180324T231027Z
+DESCRIPTION:<a href="https://www.google.com/url?q=http%3A%2F%2Fwww.jognote.
+ com%2Ftamaroadrace&amp\;sa=D&amp\;usd=2&amp\;usg=AFQjCNFitCPDuDAc58RdDPzFNS
+ fgCSX3Fw" target="_blank">http://www.jognote.com/tamaroadrace</a><br><br>第3
+ 7回2017多摩ロードレース大会<br><br>7:15 受付開始<br>8:15 開会式<br>8:45 10km・5kmの部 受付終了<br>9:
+ 00 10kmの部 スタート (競技終了10:30)<br>9:20 5kmの部 スタート (競技終了10:30)<br>10:40頃 表彰式 (10
+ kmの部・5kmの部の順で)<br>11:10頃 復興応援抽選会
+LAST-MODIFIED:20180324T231027Z
+LOCATION:多摩市立陸上競技場\, 4 Chome-4-9 Suwa\, Tama-shi\, Tōkyō-to 206-0024\, Japa
+ n
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT 多摩ロードレース
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180325T030000Z
+DTEND:20180325T080000Z
+UID:0ph6uh28pnrkd79bfi6khkqmgn@google.com
+CREATED:20180316T043334Z
+DESCRIPTION:<br><a href="https://www.google.com/url?q=https%3A%2F%2Fwww.san
+ rio.co.jp%2Fnews%2Fevent-cn-sanrioworld-ginza-20180325%2F&amp\;sa=D&amp\;us
+ d=2&amp\;usg=AFQjCNFdgZ4BZl3pQOJwP58tzeXM5EC5wg" target="_blank">https://ww
+ w.sanrio.co.jp/news/event-cn-sanrioworld-ginza-20180325/</a><br><a href="ht
+ tps://www.google.com/url?q=http%3A%2F%2Fsanrio.cocolog-nifty.com%2Fshop%2F2
+ 018%2F03%2F325-sanrioworld.html&amp\;sa=D&amp\;usd=2&amp\;usg=AFQjCNEVYEdlz
+ cwp24brCw9hbIlOVkbGHw" target="_blank">http://sanrio.cocolog-nifty.com/shop
+ /2018/03/325-sanrioworld.html</a><br>https://twitter.com/sanrioshop_info/st
+ atus/977491331885838336<br><br>シナモロールの卒業セレモニー＆撮影会<br>Sanrioworld GINZA 2F<b
+ r><br>3月25日（日）<br>①12:30 / ②15:00 / ③16:30<br><br>①② シナモロールの卒業セレモニー<br>各回20
+ 名限定<br><br>③16:30 チェキで記念撮影会♪<br>30名様限定<br><br>当日10:00より、Sanrioworld GINZA 1
+ F モニュメント前入り口にて購入予約券を配布<br>11:00オープンより、Sanrioworld GINZA 2Fにて、税込み2\,500円以上お買
+ 上げで整理券を配付いたします。
+LAST-MODIFIED:20180324T102844Z
+LOCATION:西銀座デパート\, Japan\, Tōkyō-to\, 西銀座デパート
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CN Sanrioworld GINZA
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180504T020000Z
+DTEND:20180504T063000Z
+UID:5kqgqi3mag1me7ugc2r3cn132h@google.com
+CREATED:20180323T155301Z
+DESCRIPTION:\nhttp://niimi.gr.jp/event/event_detail/index/101.html\n\nマイメロデ
+ ィ・キキ＆ララ展\n\n新見美術館\n\n平成30年4月13日(金) ～ 平成30年7月1日(日)\n9:30～17:00（入館は16:30まで）、月
+ 曜休館（ただし4月30日(月)は開館）\n\nマイメロディが遊びに来るよ！マイメロディといっしょに記念撮影！\n5月4日(金)\n①11:00～　②1
+ 3:30～　③15:00～\n新見美術館エントランスホール\n各回先着40名\n整理券は受付にて各回開始1時間前より配布
+LAST-MODIFIED:20180323T155310Z
+LOCATION:Niimi Museum\, 361 Nishigata\, Niimi\, Okayama Prefecture 718-0017
+ \, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MM マイメロディ・キキ＆ララ展
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180324T131000
+DTEND;TZID=Asia/Tokyo:20180324T134000
+RRULE:FREQ=DAILY;UNTIL=20180325T145959Z
+UID:1popob89k7vc3q9bdojfq6vs1k@google.com
+CREATED:20180320T081810Z
+DESCRIPTION:<a href="https://www.google.com/url?q=https%3A%2F%2Fwww.sanrio.
+ co.jp%2Fnews%2Far-animejapan-20180320%2F&amp\;sa=D&amp\;usd=2&amp\;usg=AFQj
+ CNEAqxOxk20iGWescJcNl72vfu3Q0A" target="_blank">https://www.sanrio.co.jp/ne
+ ws/ar-animejapan-20180320/</a><br>https://twitter.com/sanrio_news/status/97
+ 6005442139709441<br><br><br>4月の新作アニメ配信を前に東京ビッグサイトで開催される「Anime Japan 2018」のN
+ etflixブースに、3月24日（土）・25日（日）、アグレッシブ烈子が出演するよ！<br><br>登場予定<br>3/24\,25 13:10頃
+LAST-MODIFIED:20180323T154828Z
+LOCATION:東京ビッグサイト\, 日本、〒135-0063 東京都江東区有明３丁目１１−１
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:AR Anime Japan 2018
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180331T020000Z
+DTEND:20180331T073000Z
+UID:2acbbgt6ugjfm6on1roanhnf4r@google.com
+CREATED:20180323T154613Z
+DESCRIPTION:\nhttp://musashimurayama-aeonmall.com/news/event/1590\n\nハローキティ
+  ミニステージ ショー\n2018/03/31 (土)\n(1)11:00～\n(2)13:00～\n(3)14:30～\n(4)16:00～ \n1
+ F ノースコート\n\n撮影会整理券は各回30分前より会場にて配布\n各回先着30組
+LAST-MODIFIED:20180323T154613Z
+LOCATION:Aeon Mall Musashi Murayama\, 1 Chome-1-3 Enoki\, Musashimurayama-s
+ hi\, Tōkyō-to 208-0022\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT イオンモールむさし村山
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180421T020000Z
+DTEND:20180421T063000Z
+UID:4c2e983fa9hpjc2htdh74kf4am@google.com
+CREATED:20180323T154434Z
+DESCRIPTION:\nhttp://www.roc.co.jp/news/8557/\n\n庄内みかわ総合住宅展示場『5周年アニバーサリーサンク
+ スフェア』\n2018年4/21(土)・22(日)\n\nハローキティと一緒にダンスにゲーム！\n2018年4月21日（土）\n①11：00～②13：
+ 00～②15：00～
+LAST-MODIFIED:20180323T154434Z
+LOCATION:庄内みかわ総合住宅展示場\, Japan\, 〒997-1316 Yamagata-ken\, Higashitagawa-gun\
+ , Mikawa-machi\, Inoko\, 山形県三川町 大堰端317-12
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT 庄内みかわ総合住宅展示場
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180328T020000Z
+DTEND:20180328T074000Z
+UID:35llert5jg85o555e4lr34bu52@google.com
+CREATED:20180320T131619Z
+DESCRIPTION:<br>http://chesty.tv/ec/static/contents/2018/0313collabo/index.
+ html<br><br>http://chesty.tv/ec/static/contents/2018/0320nagoya/index.html<
+ br><span style="display: inline !important\; float: none\; background-color
+ : transparent\; color: rgb(33\, 33\, 33)\; font-family: Roboto\,Helvetica\,
+ Arial\,sans-serif\; font-size: 14px\; font-style: normal\; font-variant: no
+ rmal\; font-weight: 400\; letter-spacing: normal\; orphans: 2\; text-align:
+  left\; text-decoration: none\; text-indent: 0px\; text-transform: none\; -
+ webkit-text-stroke-width: 0px\; white-space: normal\; word-spacing: 0px\; w
+ ord-wrap: break-word\;">https://www.facebook.com/hellokitty.global/posts/17
+ 35571299837678/</span><br style="background-color: transparent\; color: rgb
+ (33\, 33\, 33)\; flex-basis: auto\; flex-grow: 0\; flex-shrink: 1\; font-fa
+ mily: Roboto\,Helvetica\,Arial\,sans-serif\; font-size: 14px\; font-style: 
+ normal\; font-variant: normal\; font-weight: 400\; letter-spacing: normal\;
+  orphans: 2\; outline-color: transparent\; outline-style: none\; outline-wi
+ dth: 0px\; padding-bottom: 0px\; padding-left: 0px\; padding-right: 0px\; p
+ adding-top: 0px\; text-align: left\; text-decoration: none\; text-indent: 0
+ px\; text-transform: none\; -webkit-text-stroke-width: 0px\; white-space: n
+ ormal\; word-spacing: 0px\; word-wrap: break-word\;"><br><br>Hello Kitty×Ch
+ esty @ジェイアール名古屋タカシマヤLIMITED SHOP<br>3/28(水)～4/3(火)<br>10：00～20：00<br><br>「キ
+ ティちゃん」が遊びに来てくれます<br>ジェイアール名古屋タカシマヤ 5階ローズパティオ フォトブース<br>3月28日(水) 1100/1310/1
+ 440/1610<br><br>商品購入者限定<br>各回30名限定（レジにて先着順で整理券配布）<br>一人につきワンショットまで
+LAST-MODIFIED:20180321T224912Z
+LOCATION:ジェイアール名古屋タカシマヤ\, 日本、〒450-0001 愛知県名古屋市中村区名駅１丁目１−１−４
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT Hello Kitty × Chesty
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180401T040000Z
+DTEND:20180401T063000Z
+UID:6dgoihdrtokhr274q30asjlhps@google.com
+CREATED:20180321T224525Z
+DESCRIPTION:http://www.otakanomori-sc.com/event/?id=1234<br><br>ぐでたまミニステージ<
+ br><br>4月1日(<span style="display: inline !important\; float: none\; backgro
+ und-color: transparent\; color: rgb(33\, 33\, 33)\; direction: ltr\; font-f
+ amily: Roboto\,Helvetica\,Arial\,sans-serif\; font-size: 14px\; font-style:
+  normal\; font-variant: normal\; font-weight: 400\; letter-spacing: normal\
+ ; orphans: 2\; text-align: left\; text-decoration: none\; text-indent: 0px\
+ ; text-transform: none\; -webkit-text-stroke-width: 0px\; white-space: norm
+ al\; word-spacing: 0px\; word-wrap: break-word\;">日</span>)<br>(1)13：00～ (2
+ )15：00～<br>本館1F ケヤキ広場
+LAST-MODIFIED:20180321T224525Z
+LOCATION:流山おおたかの森Ｓ・Ｃ\, 2 185 ６丁目\, ６丁目 西初石 流山市 千葉県 270-0121 日本
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:GU 流山おおたかの森
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180331T090000Z
+DTEND:20180331T140000Z
+UID:4ah9dcot7dsh0upd1f4lucb6rj@google.com
+CREATED:20180321T135116Z
+DESCRIPTION:<a href="https://www.google.com/url?q=https%3A%2F%2Fmyojowaraku
+ 2018ap.peatix.com%2F&amp\;sa=D&amp\;usd=2&amp\;usg=AFQjCNHoS-7SEarjDtEnd8O9
+ gJUl58Op-Q" target="_blank">https://myojowaraku2018ap.peatix.com/</a><br><a
+  href="https://www.google.com/url?q=https%3A%2F%2Ftwitter.com%2FVENUSkawamu
+ ra%2Fstatus%2F976092291835179008&amp\;sa=D&amp\;usd=2&amp\;usg=AFQjCNEKOHIk
+ bO9hFC_K5LX1_Og6Yra_Yg" target="_blank">https://twitter.com/VENUSkawamura/s
+ tatus/976092291835179008</a><br><br>2018年3月31日 OPEN 18:00 - 23:00<br>会場：Fuk
+ uoka Growth Next イベントスペース<br>チケット：[ Peatix ] 3\,000円 / [ 当日 ] 4\,000円 ※共に1ド
+ リンク付き<br><br>出演者：<br>DJ Hello Kitty<br>ナマコプリ<br>カワムラユキ<br>YUC'e<br>BARBIE<b
+ r>中尾モンチ<br>PicoPicoHammer<br>tobetch
+LAST-MODIFIED:20180321T135207Z
+LOCATION:Fukuoka Growth Next\, 日本、〒810-0041 福岡県福岡市中央区大名２丁目６−１１
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT 明星和楽2018 アフターパーティ
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180321T010000Z
+DTEND:20180321T073000Z
+UID:3rik1d21edr79aminpolbeldg4@google.com
+CREATED:20180320T132503Z
+DESCRIPTION:マタニティとその同伴者、0歳～未就学児の子ども連れの家族のみ入場可<br>それ以外は来場NG<br><br><a href="
+ https://www.google.com/url?q=https%3A%2F%2Fwww.atpress.ne.jp%2Fnews%2F15197
+ 3&amp\;sa=D&amp\;usd=2&amp\;usg=AFQjCNGfpmMbL19xMI01RsGC0v0oFXbVqg" target=
+ "_blank">https://www.atpress.ne.jp/news/151973</a><br><a href="https://www.
+ google.com/url?q=http%3A%2F%2Flifesmile.jp%2Fpc%2Ftama%2Ftamahiyopark%2F&am
+ p\;sa=D&amp\;usd=2&amp\;usg=AFQjCNGOrddByXZgznblznDSmu5haswDKw" target="_bl
+ ank">http://lifesmile.jp/pc/tama/tamahiyopark/</a><br><br>＜ハローキティ撮影会＞<br>1回
+ 目 11:00～11:30 (整理券配布時間 10:30～10:45)<br>2回目 14:00～14:30 (整理券配布時間 13:30～13:45
+ )<br>3回目 16:00～16:30 (整理券配布時間 15:30～15:45)<br><br>＜ハローキティによる商品紹介タイム＞<br>1回目
+  10:00～10:30<br>2回目 13:00～13:30<br>3回目 15:00～15:30
+LAST-MODIFIED:20180320T132557Z
+LOCATION:インテックス大阪6号館\, 日本、〒559-0034 大阪府大阪市住之江区南港北１丁目５ 住之江区南港北1-5-102
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT たまひよファミリーパーク2018
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180331T040000Z
+DTEND:20180331T063000Z
+UID:68vivrarisg07grvdbva5hsl5m@google.com
+CREATED:20180320T130712Z
+DESCRIPTION:<a href="https://www.google.com/url?q=http%3A%2F%2Fwww.otakanom
+ ori-sc.com%2Fs%2Fevent%2F%3Fid%3D1235&amp\;sa=D&amp\;usd=2&amp\;usg=AFQjCNH
+ NM89Gr1SYlrylEmAXIAcEeHda5w" target="_blank">http://www.otakanomori-sc.com/
+ s/event/?id=1235</a><br><a href="https://www.google.com/url?q=https%3A%2F%2
+ Ftwitter.com%2F10hamuchan10%2Fstatus%2F976058780210180096&amp\;sa=D&amp\;us
+ d=2&amp\;usg=AFQjCNGNKqqOuXcOCO_o4Eh0qFQ_l63dQA" target="_blank">https://tw
+ itter.com/10hamuchan10/status/976058780210180096</a><br><br>マイメロディ イースターミニス
+ テージ<br><br>3月31日(土)<br>(1)13：00～ (2)15：00～<br>本館1F ケヤキ広場
+LAST-MODIFIED:20180320T130712Z
+LOCATION:流山おおたかの森Ｓ・Ｃ\, 2 185 ６丁目\, ６丁目 西初石 流山市 千葉県 270-0121 日本
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MM イースター
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180320T010000Z
+DTEND:20180320T063000Z
+UID:2v5d59dclih9pt2df9hm78f0gi@google.com
+CREATED:20180302T233115Z
+DESCRIPTION:<a href="https://www.google.com/url?q=http%3A%2F%2Fwww.anahitas
+ tones.com%2Fblog%2Ftama%2F2018%2F02%2Fpost-588.html&amp\;sa=D&amp\;usd=2&am
+ p\;usg=AFQjCNGWy6hCZypF0eradOzezr8_UD1rYw" target="_blank">http://www.anahi
+ tastones.com/blog/tama/2018/02/post-588.html</a><br><a href="https://twitte
+ r.com/10hamuchan10/status/975891974661095424">https://twitter.com/10hamucha
+ n10/status/975891974661095424</a><br><br>ココリア多摩センターは3月20日の開店時にキティちゃんがお客様をお出
+ 迎えする「キティちゃんグリーティング」を開催予定<br>開始時刻: 10:00\, 13:00\, 15:00
+LAST-MODIFIED:20180320T003656Z
+LOCATION:Cocolia Tama-center\, 〒206-0033\, １丁目-４６-1 落合 多摩市 東京都 206-0033\, J
+ apan
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:KT ココリア多摩センター
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180331T023000Z
+DTEND:20180331T063000Z
+UID:1mggjskbkvua5tqn3nfg91r2p7@google.com
+CREATED:20180318T232919Z
+DESCRIPTION:\nhttp://www.tobu-dept.jp/ikebukuro/event/detail/1407\n\n春休みファミ
+ リーフェスタ\n2018年3月21日（水）～4月4日（水）\n\nみんなで子育て応援フェス\n3/31(土)・4/1(日)\n各日午前10時30分～午
+ 後4時30分\n8F屋上「スカイデッキ広場」\n\nハローキティミニショー&撮影会\n3/31(土)\n午前11時30分・午後3時
+LAST-MODIFIED:20180318T232919Z
+LOCATION:Tobu Department Store\, 1 Chome-1-25 Nishiikebukuro\, Toshima-ku\,
+  Tōkyō-to 171-0021\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT 東武百貨店池袋
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180401T020000Z
+DTEND:20180401T063000Z
+UID:0r9k2np8fk2ieejbjl1rc88fgk@google.com
+CREATED:20180318T232713Z
+DESCRIPTION:\nhttp://www.aeon.jp/sc/sagamihara/event/event_e62708.html\n\nハ
+ ローキティと遊ぼう\n4月1日(日)\n(1)11:00～11:30 (2)13:00～13:30 (3)15:00～15:30\n1F パブリックス
+ ペース\n\n写真撮影会の整理券は当日1Fパブリックスペース受付にて開店9:00より配布\n各回先着30名
+LAST-MODIFIED:20180318T232724Z
+LOCATION:AEON Shopping Centre SAGAMIHARA\, 2 Chome-10-1 Kobuchi\, Minami-ku
+ \, Sagamihara-shi\, Kanagawa-ken 252-0344\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT イオン相模原ショッピングセンター
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180324T040000Z
+DTEND:20180324T070000Z
+UID:5thrl0n8bft8178onhd1aho05n@google.com
+CREATED:20180318T004056Z
+DESCRIPTION:<br><a href="https://www.google.com/url?q=http%3A%2F%2Fwww.waka
+ ba-walk.com%2Fevent%2F%23event9194&amp\;sa=D&amp\;usd=2&amp\;usg=AFQjCNEprG
+ Ek7W16SXwqiJrTUkbV0bxOlw" target="_blank">http://www.wakaba-walk.com/event/
+ #event9194</a><br><br>ハローキティ＆ぐでたまのシンギング！ダンシング！クッキング！<br><br>3月24日(土)<br>キャラ
+ クターショー　①13:00～　②15:00～<br>ハローキティ握手会　①13:30～　②15:30～<br>イベント広場<br><br>入場は各回6
+ 0分前に専用入口から先着順
+LAST-MODIFIED:20180318T010721Z
+LOCATION:Wakaba Walk\, 1 Chome-2-1 Fujimi\, Tsurugashima-shi\, Saitama-ken 
+ 350-2201\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT\,GU クッキング
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180324T020000Z
+DTEND:20180324T073000Z
+UID:7mvnvhcq9mfsqbqj7r7goa9iad@google.com
+CREATED:20180316T233416Z
+DESCRIPTION:\nhttp://port-walk.com/event/detail.html?id=40\n\nキティちゃんが遊びに来るよ
+ ♪\n3/24(土)\n1100-1130\n1400-1430\n1600-1630\nポートウォークみなと2Fゲームコーナーサムソン前広場\n整理
+ 券は15分前から各回30組
+LAST-MODIFIED:20180316T233416Z
+LOCATION:Port Walk Minato\, 2 Chome-1501 Tōchi\, Minato-ku\, Nagoya-shi\, A
+ ichi-ken 455-8610\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT ポートウォークみなと
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Kuala_Lumpur:20180316T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20180316T203000
+RRULE:FREQ=DAILY;COUNT=3
+UID:7u1a0evtj6ejn64f3ihc54lm02@google.com
+CREATED:20180316T233125Z
+DESCRIPTION:\nhttps://www.instagram.com/p/BgX-DMwF7WV/\n\nMATTA Fair\nPutra
+  World Trade Centre\nDate: 16 – 18 March 2018\nTime: 10:00am – 9:00pm\n\nBo
+ oth No: 5017 -5018 @ Hall 5\nSession 1: 11:00am\nSession 2: 2:00pm\nSession
+  3: 8:00pm
+LAST-MODIFIED:20180316T233156Z
+LOCATION:Putra World Trade Center\, 41\, Jalan Tun Ismail\, Kuala Lumpur\, 
+ 50480 Kuala Lumpur\, Federal Territory of Kuala Lumpur\, Malaysia
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:KT MATTA Fair
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180331T020000Z
+DTEND:20180331T063000Z
+UID:13oklr2e2lim6fvmci7hp1uk6o@google.com
+CREATED:20180316T232809Z
+DESCRIPTION:\nhttps://www.sanrio.co.jp/news/event-mw-toyokado-ario-soga-201
+ 80331/\n\nミュークルドリーミー”みゅー”握手会（イトーヨーカドー アリオ蘇我店）\nイトーヨーカドー アリオ蘇我店 2Fなかよし広場\n3月
+ 31日（土）\n①11:00〜 / ②13:00〜 / ③15:00〜
+LAST-MODIFIED:20180316T232809Z
+LOCATION:イトーヨーカドー アリオ蘇我\, 52-7 Kawasakichō\, Chūō-ku\, Chiba-shi\, Chiba-ke
+ n 260-0835\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MW イトーヨーカドー アリオ蘇我
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180321T020000Z
+DTEND:20180321T063000Z
+UID:19ba23qv7s9bcr5i2hck6k9ef3@google.com
+CREATED:20180316T232657Z
+DESCRIPTION:\nhttps://www.sanrio.co.jp/news/event-mw-aeon-yamatokoriyama-20
+ 180321/\n\nミュークルドリーミー”みゅー”と一緒に写真撮影会（イオンモール大和郡山店）\nイオンモール大和郡山店 2Fモントイズ入口前\n3
+ 月21日（水・祝）\n①11:00〜 / ②13:00〜 / ③15:00〜
+LAST-MODIFIED:20180316T232657Z
+LOCATION:Aeon Mall Yamatokoriyama\, 741 Shimomitsuhashichō\, Yamatokōriyama
+ -shi\, Nara-ken 639-1101\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MW イオンモール大和郡山
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180317T020000Z
+DTEND:20180317T073000Z
+UID:0lfkiug3mhvfqbdq9rfr909msn@google.com
+CREATED:20180213T151428Z
+DESCRIPTION:<a href="https://www.google.com/url?q=https%3A%2F%2Fwww.sanrio.
+ co.jp%2Fnews%2Fevent-gg-gtmusashikosugi-20180317%2F&amp\;sa=D&amp\;usd=2&am
+ p\;usg=AFQjCNH3-f0gtHDgQoLCKDp1RWNAoPC5NA" target="_blank">https://www.sanr
+ io.co.jp/news/event-gg-gtmusashikosugi-20180317/</a><br><a href="https://ww
+ w.google.com/url?q=https%3A%2F%2Fameblo.jp%2Fvega-seachan%2Fentry-123557930
+ 60.html&amp\;sa=D&amp\;usd=2&amp\;usg=AFQjCNEegtIRTpXli6Fe0uqNhoVEinmjEA" t
+ arget="_blank">https://ameblo.jp/vega-seachan/entry-12355793060.html</a><br
+ >http://sanrio.cocolog-nifty.com/shop/2018/03/post-36f8.html<br><br>マイメロディ写
+ 真撮影会！（Sanrio Gift Gate グランツリー武蔵小杉店）<br>グランツリー武蔵小杉 4F スマイルスクエア<br>3/17（土）<br
+ >①11:00～/②14:00～/③16:00～<br><br>イベント当日10:00よりサンリオギフトゲートにて税込み1\,080円以上お買い上げで
+ 撮影券を配布<br>各回先着30名限定
+LAST-MODIFIED:20180316T232533Z
+LOCATION:Grand Tree Musashikosugi\, 3 Chome-1135-1 Shinmarukohigashi\, Naka
+ hara-ku\, Kawasaki-shi\, Kanagawa-ken 211-0004\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MM グランツリー武蔵小杉
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180318T020000Z
+DTEND:20180318T060000Z
+UID:2cfh2qv3uaua6g4rme86ud1n82@google.com
+CREATED:20180315T140708Z
+DESCRIPTION:\nhttp://saeki.saeki-selvahd.jp/info/%E7%AC%AC%EF%BC%91%E5%9B%9
+ E%E3%81%95%E3%81%88%E3%81%8D%E9%A3%9F%E8%82%B2%E3%83%95%E3%82%A7%E3%82%B9%E
+ 3%82%BF%E9%96%8B%E5%82%AC%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/\n\n
+ 第１回さえき食育フェスタ\n3月17日（土）・18日（日）\nアリーナ立川立飛\n\nハローキティと楽しい撮影会!!\n3月18日\n1100-113
+ 0\n1230-1300\n1430-1500
+LAST-MODIFIED:20180315T140708Z
+LOCATION:Arena Tachikawa Tachihi\, 500 番-4 Izumichō\, Tachikawa-shi\, Tōkyō
+ -to 190-0015\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT さえき食育フェスタ
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20180414
+DTEND;VALUE=DATE:20180415
+UID:207p1lvs5e5ktm6varcd2r45e8@google.com
+CREATED:20171004T070452Z
+DESCRIPTION:<br><br><a href="https://www.google.com/url?q=http%3A%2F%2Fyama
+ toyahonten.com%2Fplan%2Fkt_yukata&amp\;sa=D&amp\;usd=2&amp\;usg=AFQjCNEOreg
+ 1QPwm1P16j6y01yEH9Rs73Q" target="_blank">http://yamatoyahonten.com/plan/kt_
+ yukata</a><br><a href="https://www.google.com/url?q=https%3A%2F%2Fwww.sanri
+ o.co.jp%2Fnews%2Fkt-yamatoyahonten-yukata-20180315%2F&amp\;sa=D&amp\;usd=2&
+ amp\;usg=AFQjCNHEcOyuaD1SjJEF5hqTQ4fcAsHUBA" target="_blank">https://www.sa
+ nrio.co.jp/news/kt-yamatoyahonten-yukata-20180315/</a><br>https://www.faceb
+ ook.com/hellokitty.japan/posts/1884166341656499/<br><br>大和屋本店×はろうきてぃ<br>大和屋
+ 本店・大和屋別荘 １５０周年記念企画<br>ハローキティ 美楽流浴衣<br><br>握手と写真撮影会<br>2018年4月14日（土）<br><br>
+ ハローキティ美楽流浴衣レンタルの人限定
+LAST-MODIFIED:20180315T053732Z
+LOCATION:大和屋本店\, 日本愛媛県松山市道後湯之町２０−８
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT 美楽流浴衣
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180314T030000Z
+DTEND:20180314T073000Z
+UID:2408u8vau552s9rlv66k9pbko2@google.com
+CREATED:20180314T045617Z
+DESCRIPTION:https://www.iyotetsu-takashimaya.co.jp/event/kity/1.pdf\n\n会いに来
+ てね！ハローキティ 2018\n\n\n12:00〜 1階 銀天街側正面口\n14:00〜 4階 森のキッズパティオ\n\n16:00〜 1階 銀天街
+ 側正面口
+LAST-MODIFIED:20180314T045617Z
+LOCATION:いよてつ髙島屋\, 愛媛県松山市湊町5丁目1番地1
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT ハローキティがやってくる！！
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180318T023000Z
+DTEND:20180318T063000Z
+UID:0r99135it2obgj61n7dj6rf0tj@google.com
+CREATED:20180308T021850Z
+DESCRIPTION:\nhttp://www.pref.yamaguchi.lg.jp/press/201803/039954_f1.pdf\nh
+ ttps://choruru.jp/archives/nikki/3436\nhttps://choruru.jp/archives/oshirase
+ /3409\n\nハローキティのじゃんけんパラダイス\n\n場所: ゆめシティ 1F ゆめ広場\n時間: ①11:30〜 / ②15:00〜
+LAST-MODIFIED:20180314T045059Z
+LOCATION:ゆめシティ\, 山口県下関市伊倉新町三丁目1-1
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:KT ちょるる大ファン感謝祭
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180407T200000Z
+DTEND:20180407T223000Z
+UID:25srmj8halkra2146q5tgg4ai5@google.com
+CREATED:20180313T123554Z
+DESCRIPTION:<a href="https://www.google.com/url?q=https%3A%2F%2Fwww.sanrio.
+ com%2Fblog_entries%2Fmy-melody-memories&amp\;sa=D&amp\;usd=2&amp\;usg=AFQjC
+ NHzLQWdQMeMA4HnR4aTYiW132QoZQ" target="_blank">https://www.sanrio.com/blog_
+ entries/my-melody-memories</a><br><br>Come meet My Melody and take a photo 
+ with her!<br>My Melody will be stopping by the following Sanrio stores.<br>
+ <br>March 10th - Sanrio Tyler<br>1-1:30 pm\, 2-2:30 pm\, 3-3:30 pm<br><br>M
+ arch 31st - Sanrio Topanga<br>1-1:30 pm\, 2-2:30 pm\, 3-3:30 pm<br><br>Apri
+ l 7th - Sanrio Del Amo<br>1-1:30 pm\, 2-2:30 pm\, 3-3:30 pm<br><br>March 17
+ th-18th and March 24th-25th - Sanrio Japanese Village<br>11-11:30 am\, 12-1
+ 2:30 pm and 1-1:30 pm
+LAST-MODIFIED:20180313T123816Z
+LOCATION:デル・アモ・ファッション・センター\, 3525 W Carson St\, Torrance\, CA 90503 アメリカ合衆国
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MM My Melody Memories
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180331T200000Z
+DTEND:20180331T223000Z
+UID:2e6vdasrbmgaihulv2ism6r3dn@google.com
+CREATED:20180313T122819Z
+DESCRIPTION:<a href="https://www.google.com/url?q=https%3A%2F%2Fwww.sanrio.
+ com%2Fblog_entries%2Fmy-melody-memories&amp\;sa=D&amp\;usd=2&amp\;usg=AFQjC
+ NHzLQWdQMeMA4HnR4aTYiW132QoZQ" target="_blank">https://www.sanrio.com/blog_
+ entries/my-melody-memories</a><br><br>Come meet My Melody and take a photo 
+ with her!<br>My Melody will be stopping by the following Sanrio stores.<br>
+ <br>March 10th - Sanrio Tyler<br>1-1:30 pm\, 2-2:30 pm\, 3-3:30 pm<br><br>M
+ arch 31st - Sanrio Topanga<br>1-1:30 pm\, 2-2:30 pm\, 3-3:30 pm<br><br>Apri
+ l 7th - Sanrio Del Amo<br>1-1:30 pm\, 2-2:30 pm\, 3-3:30 pm<br><br>March 17
+ th-18th and March 24th-25th - Sanrio Japanese Village<br>11-11:30 am\, 12-1
+ 2:30 pm and 1-1:30 pm
+LAST-MODIFIED:20180313T123031Z
+LOCATION:Sanrio\, 6600 Topanga Canyon Blvd #1011\, Canoga Park\, CA 91303 ア
+ メリカ合衆国
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MM My Melody Memories
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180310T210000Z
+DTEND:20180310T233000Z
+UID:5gfgkafu7qjletq8059nnjogh0@google.com
+CREATED:20180313T122626Z
+DESCRIPTION:<a href="https://www.google.com/url?q=https%3A%2F%2Fwww.sanrio.
+ com%2Fblog_entries%2Fmy-melody-memories&amp\;sa=D&amp\;usd=2&amp\;usg=AFQjC
+ NHzLQWdQMeMA4HnR4aTYiW132QoZQ" target="_blank">https://www.sanrio.com/blog_
+ entries/my-melody-memories</a><br><br>Come meet My Melody and take a photo 
+ with her!<br>My Melody will be stopping by the following Sanrio stores.<br>
+ <br>March 10th - Sanrio Tyler<br>1-1:30 pm\, 2-2:30 pm\, 3-3:30 pm<br><br>M
+ arch 31st - Sanrio Topanga<br>1-1:30 pm\, 2-2:30 pm\, 3-3:30 pm<br><br>Apri
+ l 7th - Sanrio Del Amo<br>1-1:30 pm\, 2-2:30 pm\, 3-3:30 pm<br><br>March 17
+ th-18th and March 24th-25th - Sanrio Japanese Village<br>11-11:30 am\, 12-1
+ 2:30 pm and 1-1:30 pm
+LAST-MODIFIED:20180313T122925Z
+LOCATION:Sanrio\, アメリカ合衆国 〒92503 California\, Riverside\, Tyler St\, ガレリア・ア
+ ット・タイラー
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MM My Melody Memories
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180325T040000Z
+DTEND:20180325T043000Z
+UID:2vs16lf3jd36jf1iqhqlp4q30q@google.com
+CREATED:20180313T060059Z
+DESCRIPTION:\nhttp://www.jpower.co.jp/bs/field/gensiryoku/chiiki_info/pdf/p
+ ocket1803.pdf\n\n春休みイベント\n3月24日、25日\n北通り総合文化センター「ウイング」\n\nハローキティミニステージ\nじゃん
+ けんパラダイス\n3月25日13:00
+LAST-MODIFIED:20180313T060100Z
+LOCATION:北通り総合文化センター・ウイング\, Uchiyama-48-164 Ōma\, Ōma-machi\, Shimokita-gun
+ \, Aomori-ken 039-4601\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT じゃんけんパラダイス
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180324T020000Z
+DTEND:20180324T073000Z
+UID:siua939uh251o71a61k6o6k3fs@google.com
+CREATED:20170319T123218Z
+DESCRIPTION:<a href="https://www.google.com/url?q=http%3A%2F%2Fwww.new-chit
+ ose-airport.jp%2Fja%2Fhappy-flight%2Fnews%2Fdetail%2F2017-1.html&amp\;sa=D&
+ amp\;usd=2&amp\;usg=AFQjCNGphF61xQC3saCO0MXiAVhAvqX2Iw" target="_blank">htt
+ p://www.new-chitose-airport.jp/ja/happy-flight/news/detail/2017-1.html</a><
+ br><br>2017-04-22 PN\,XO<br>2017-07-?? 「ハッピーフレンド大賞」上位3位<br>2017-10-14 MM\,K
+ U<br>2017-11-04 KT\,DN<br>2017-12-24 TS<br>2018-03-24 CN<br><br><br>https:/
+ /twitter.com/HappyFlight_cts/status/973004502377709568<br><br>11:00-11:30 撮
+ 影会 ハッピーフライトショップ<br>14:00-14:30 ミニショー ハローシアター<br>16:00-16:30 食事会 ハッピーフライトカフェ
+ <br><br>撮影会は当日の1000円以上のレシートを10:30以降持参する<br>ミニショーは前方席36名、立見席28名<br>食事会は2名x23
+ 組<br><br>前方席と食事会は当日10時から受付
+LAST-MODIFIED:20180312T012541Z
+LOCATION:新千歳空港\, 日本北海道千歳市美々 987-22
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:CN ハッピーフライト
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180401T060000Z
+DTEND:20180401T063000Z
+UID:5uqm7i9268qs6bjps5ppg8k9l0@google.com
+CREATED:20180311T120453Z
+DESCRIPTION:\nhttp://www.uny.co.jp/sp/easter/?top_jq\n\nマイメロディ イースターグリーティング
+ \nマイメロディのミニライブショーと記念撮影会\n\n\n3/11(日) 1100 ピアゴ洞店 1600 ピアゴ恵那店\n3/25(日) 1100 ピ
+ アゴ尾西店 1500 ピアゴ多治見店\n4/1(日) 1100 ピアゴ太田川店 1500 ピアゴ植田店\n\n実施日1週間前～実施日当日までのピアゴ直
+ 営売場および専門店街でのお買い上げ合計1000円(税込)以上のレシート提示で参加可能\n先着30名に達し次第終了
+LAST-MODIFIED:20180311T120453Z
+LOCATION:ピアゴ植田店\, 日本、〒468-0009 愛知県名古屋市天白区元植田１丁目３０２
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MM アピタ・ピアゴ イースター春まつり
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180401T020000Z
+DTEND:20180401T023000Z
+UID:48d4r007lhosv1bin279aun32o@google.com
+CREATED:20180311T120412Z
+DESCRIPTION:\nhttp://www.uny.co.jp/sp/easter/?top_jq\n\nマイメロディ イースターグリーティング
+ \nマイメロディのミニライブショーと記念撮影会\n\n\n3/11(日) 1100 ピアゴ洞店 1600 ピアゴ恵那店\n3/25(日) 1100 ピ
+ アゴ尾西店 1500 ピアゴ多治見店\n4/1(日) 1100 ピアゴ太田川店 1500 ピアゴ植田店\n\n実施日1週間前～実施日当日までのピアゴ直
+ 営売場および専門店街でのお買い上げ合計1000円(税込)以上のレシート提示で参加可能\n先着30名に達し次第終了
+LAST-MODIFIED:20180311T120412Z
+LOCATION:ピアゴ太田川店\, 日本、〒477-0031 愛知県東海市大田町下浜田１０２−１
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MM アピタ・ピアゴ イースター春まつり
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180325T060000Z
+DTEND:20180325T063000Z
+UID:1n2b7207k3scudm60ugla5k7ac@google.com
+CREATED:20180311T120323Z
+DESCRIPTION:\nhttp://www.uny.co.jp/sp/easter/?top_jq\n\nマイメロディ イースターグリーティング
+ \nマイメロディのミニライブショーと記念撮影会\n\n\n3/11(日) 1100 ピアゴ洞店 1600 ピアゴ恵那店\n3/25(日) 1100 ピ
+ アゴ尾西店 1500 ピアゴ多治見店\n4/1(日) 1100 ピアゴ太田川店 1500 ピアゴ植田店\n\n実施日1週間前～実施日当日までのピアゴ直
+ 営売場および専門店街でのお買い上げ合計1000円(税込)以上のレシート提示で参加可能\n先着30名に達し次第終了
+LAST-MODIFIED:20180311T120323Z
+LOCATION:ピアゴ多治見店\, 日本、〒507-0015 岐阜県多治見市住吉町３丁目１９−１
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MM アピタ・ピアゴ イースター春まつり
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180325T020000Z
+DTEND:20180325T023000Z
+UID:2mhbp68lgfsg1gs37qldngnd8t@google.com
+CREATED:20180311T120213Z
+DESCRIPTION:\nhttp://www.uny.co.jp/sp/easter/?top_jq\n\nマイメロディ イースターグリーティング
+ \nマイメロディのミニライブショーと記念撮影会\n\n\n3/11(日) 1100 ピアゴ洞店 1600 ピアゴ恵那店\n3/25(日) 1100 ピ
+ アゴ尾西店 1500 ピアゴ多治見店\n4/1(日) 1100 ピアゴ太田川店 1500 ピアゴ植田店\n\n実施日1週間前～実施日当日までのピアゴ直
+ 営売場および専門店街でのお買い上げ合計1000円(税込)以上のレシート提示で参加可能\n先着30名に達し次第終了
+LAST-MODIFIED:20180311T120213Z
+LOCATION:ピアゴ尾西店\, 日本、〒494-0007 愛知県一宮市小信中島東鵯平５９
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MM アピタ・ピアゴ イースター春まつり
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180311T070000Z
+DTEND:20180311T073000Z
+UID:7ki3jfj1oed5uv49glee2jk348@google.com
+CREATED:20180311T120055Z
+DESCRIPTION:\nhttp://www.uny.co.jp/sp/easter/?top_jq\n\nマイメロディ イースターグリーティング
+ \nマイメロディのミニライブショーと記念撮影会\n\n\n3/11(日) 1100 ピアゴ洞店 1600 ピアゴ恵那店\n3/25(日) 1100 ピ
+ アゴ尾西店 1500 ピアゴ多治見店\n4/1(日) 1100 ピアゴ太田川店 1500 ピアゴ植田店\n\n実施日1週間前～実施日当日までのピアゴ直
+ 営売場および専門店街でのお買い上げ合計1000円(税込)以上のレシート提示で参加可能\n先着30名に達し次第終了
+LAST-MODIFIED:20180311T120055Z
+LOCATION:ピアゴ恵那店\, 日本、〒509-7203 岐阜県恵那市長島町正家２丁目２−１７
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MM アピタ・ピアゴ イースター春まつり
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180311T020000Z
+DTEND:20180311T023000Z
+UID:5omfn4cbkhnvoqe8dh6av7fb1o@google.com
+CREATED:20180311T115617Z
+DESCRIPTION:\nhttp://www.uny.co.jp/sp/easter/?top_jq\n\nマイメロディ イースターグリーティング
+ \nマイメロディのミニライブショーと記念撮影会\n\n\n3/11(日) 1100 ピアゴ洞店 1600 ピアゴ恵那店\n3/25(日) 1100 ピ
+ アゴ尾西店 1500 ピアゴ多治見店\n4/1(日) 1100 ピアゴ太田川店 1500 ピアゴ植田店\n\n実施日1週間前～実施日当日までのピアゴ直
+ 営売場および専門店街でのお買い上げ合計1000円(税込)以上のレシート提示で参加可能\n先着30名に達し次第終了
+LAST-MODIFIED:20180311T115617Z
+LOCATION:ピアゴ洞店\, 日本、〒444-0008 愛知県岡崎市洞町的場７２−２
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MM アピタ・ピアゴ イースター春まつり
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180311T033000Z
+DTEND:20180311T070000Z
+UID:3ab60pn0hlgdgek2i1fnrkbtd4@google.com
+CREATED:20180302T233726Z
+DESCRIPTION:<a href="https://www.google.com/url?q=https%3A%2F%2Fwww.sanrio.
+ co.jp%2Fnews%2Fevent-kt-natori-20180311%2F&sa=D&usd=2&usg=AFQjCNGqVPtevhnx4
+ xAGm3EnsyrkdKdnew">https://www.sanrio.co.jp/news/event-kt-natori-20180311/<
+ /a><br>http://sanrio.cocolog-nifty.com/shop/2018/03/11-dc36.html<br><br>ハロー
+ キティ・ミミィが遊びにくるよ！（Sanrio Gift Gate イオンモール名取店）<br>3/11（日）<br>①12:30 / ②14:00 /
+  ③15:30<br>Sanrio Gift Gate イオンモール名取店 3F店内イベントスペース<br><br>①ダンス＆抽選会<br><br>②
+ ③写真撮影会<br>各回30名限定<br>店内にて税込み1\,080円以上お買上げ(くじ・セール品不可)で整理券を配布
+LAST-MODIFIED:20180311T061630Z
+LOCATION:Aeon Mall Natori\, 5 Chome-3-1 Morisekinoshita\, Natori-shi\, Miya
+ gi-ken 981-1227\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KTキティ\,KTミミィ イオンモール名取
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180318T015000Z
+DTEND:20180318T055500Z
+UID:5mo3mavsao40smulks7dj8h2mj@google.com
+CREATED:20180124T153019Z
+DESCRIPTION:<a href="https://www.google.com/url?q=https%3A%2F%2Fwww.fujiyak
+ uhin.co.jp%2Fdrugstore%2Ffesta%2F&amp\;sa=D&amp\;usd=2&amp\;usg=AFQjCNHgdvr
+ CjvYANg1vzRUS9A4NJIljWw" target="_blank">https://www.fujiyakuhin.co.jp/drug
+ store/festa/</a><br><br>富士薬品グループ Presents お客様感謝フェスタ<br>さいたまスーパーアリーナ<br>2018
+ -03-18 09:30-16:00<br><br>ハローキティ&amp\;ぐでたまのシンギング！ダンシング！クッキング！<br>1050-1120<
+ br>1425-1455
+LAST-MODIFIED:20180311T010200Z
+LOCATION:Saitama Super Arena\, 8 Shintoshin\, Chūō-ku\, Saitama-shi\, Saita
+ ma-ken 330-9111\, Japan
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:KT\,GU クッキング
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20180317T110000
+DTEND;TZID=America/Los_Angeles:20180317T133000
+RRULE:FREQ=WEEKLY;COUNT=4;BYDAY=SU,SA
+UID:03h4lfim5656e5d0g6n4od5ien@google.com
+CREATED:20180311T003513Z
+DESCRIPTION:https://www.instagram.com/p/BgHK7sFhiTH/\n\n\ncome meet My Melo
+ dy\n\nMarch 17th-18th and March 24th-25th\n11-11:30 am\, 12-12:30 pm and 1-
+ 1:30 pm for Each Day
+LAST-MODIFIED:20180311T005615Z
+LOCATION:Sanrio Japanese Village\, 115 Japanese Village Plaza Mall\, Los An
+ geles\, CA 90012\, USA
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:MM Sanrio Japanese Village
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180317T010000Z
+DTEND:20180317T073000Z
+UID:6qfv41hf0qdb2t7vcg25psvohm@google.com
+CREATED:20180311T004852Z
+DESCRIPTION:https://www.sanrio.co.jp/news/gu-gallery-hakata-open-20170309/<
+ br><a href="https://www.google.com/url?q=http%3A%2F%2Fwww.opa-club.com%2Fca
+ nalcity%2Fshopnews_16226&amp\;sa=D&amp\;usd=2&amp\;usg=AFQjCNGcG6LUcGXMcnsi
+ 1RCIAxKru96dtQ" target="_blank">http://www.opa-club.com/canalcity/shopnews_
+ 16226</a><br><br>サンリオギャラリーが、3/16（金）プレオープン、3/17（土）グランドオープン<br><br>ぐでたま ぐでーてぃ
+ んぐ<br>3/17（土） <br>10時～ オープニングテープカット サンリオギャラリー<br>12時～ ぐでーてぃんぐ サンリオギャラリー<br>
+ 14時～ ぐでーてぃんぐ B1Fサンプラザステージ<br>16時～ ぐでーてぃんぐ B1Fサンプラザステージ
+LAST-MODIFIED:20180311T005505Z
+LOCATION:Canal City Opa\, Japan\, 〒812-0018 Fukuoka-ken\, Fukuoka-shi\, Hak
+ ata-ku\, 住吉１丁目2−２２
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:GU キャナルシティ・オーパ
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20180210
+DTEND;VALUE=DATE:20180211
+UID:6mj4dmlf3hnjlrdnhj1ojkf7tn@google.com
+CREATED:20180131T141558Z
+DESCRIPTION:<br><br>https://www.facebook.com/events/1505229776443308/<br>ht
+ tps://www.facebook.com/ishindenshin.global/posts/1295980467169724<br>http:/
+ /avexedm.jp/news/detail.php?id=1058239&amp\;artist_cd=DJKTY<br><a href="htt
+ ps://www.google.com/url?q=https%3A%2F%2Fwww.facebook.com%2Fishindenshin.glo
+ bal%2Fposts%2F1288661387901632&amp\;sa=D&amp\;usd=2&amp\;usg=AFQjCNHsgAkI3n
+ NZGFQ4MYArPaN0pF0ejg" target="_blank">https://www.facebook.com/ishindenshin
+ .global/posts/1288661387901632</a><br><a href="https://www.google.com/url?q
+ =https%3A%2F%2Fsmtickets.com%2Fevents%2Fview%2F6410&amp\;sa=D&amp\;usd=2&am
+ p\;usg=AFQjCNGk48_UOpacw4a2l32u6MhiM0FN-g" target="_blank">https://smticket
+ s.com/events/view/6410</a><br><br>Ishin Denshin International Music Festiva
+ l<br><br>February 10. Gates open at 2pm<br>MOA Concert Grounds\, Pasay<br><
+ br>Apl De Ap\, Bamboo\, Rocksteddy\, The Itchyworms\, Franco \, BENI\, Beve
+ rly\, Maria Gow\,  Saho Aono\, Japh Dolls\, Absolute Play\, Barbie Almalbis
+ \, DJ DAIKI\, DJ Hello Kitty\, DJ SHOYD\, DJ Ace Ramos with MC Pao\, DJ Han
+ na Ichiko\, DJ John Monreal\, DJ Marc Marasigan\, DJ MVRXXX/Alwyn Cruz
+LAST-MODIFIED:20180311T005424Z
+LOCATION:Mall Of Asia Concert Grounds\, Pasay\, Metro Manila\, Philippines
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT Ishin Denshin International Music Festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20180306
+DTEND;VALUE=DATE:20180307
+RRULE:FREQ=DAILY;UNTIL=20180309
+UID:0tqpa4acro0sovd1bo99e9th07@google.com
+CREATED:20180311T004606Z
+DESCRIPTION:\nhttps://www2.jma.or.jp/foodex-2018/ja/navi/exhibitor/show?id=
+ 156\nhttps://twitter.com/ener_jo/status/970860382590976000\n\nFOODEX JAPAN 
+ 2018\n2018年 3月6日（火）〜9日（金）10:00〜17:00（最終日は16:30まで）\n幕張メッセ\n\nマルマン\nブースNo. 7A
+ 36\nサンリオのキャラクター、激烈烈子コラボ商品【エナー女】烈子も来場予定
+LAST-MODIFIED:20180311T004606Z
+LOCATION:Makuhari Messe\, 2 Chome-1 Nakase\, Mihama-ku\, Chiba-shi\, Chiba-
+ ken 261-0023\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:AR FOODEX JAPAN
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20180721
+DTEND;VALUE=DATE:20180722
+UID:27id7vujhtvnpgad9jgs23sksc@google.com
+CREATED:20180311T003207Z
+DESCRIPTION:<a href="https://www.google.com/url?q=http%3A%2F%2Fkaga-fes.com
+ %2F2017%2F&amp\;sa=D&amp\;usd=2&amp\;usg=AFQjCNHyOFomftR6IgFJIq6g6_Ud8AyceA
+ " target="_blank">https://kaga-fes.com/2018/index.php</a><br>https://twitte
+ r.com/kagamusicfes/status/971294393348091905<br><br>加賀温泉郷フェス2018<br>&nbsp\;
+ 2018年7月21日（土）開演14時～終演23時（予定）<br>山代温泉 瑠璃光<br><br>DJ Hello Kitty<br><br>時間未定
+LAST-MODIFIED:20180311T003817Z
+LOCATION:瑠璃光\, 日本石川県加賀市山代温泉１９５８−１
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT 加賀温泉郷フェス
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180315T020000Z
+DTEND:20180315T093000Z
+UID:48h7iqg8tarfg9hogp7ontk7n0@google.com
+CREATED:20180309T072041Z
+DESCRIPTION:<br><a href="https://www.google.com/url?q=https%3A%2F%2Ftwitter
+ .com%2FCinnamon_cafe_%2Fstatus%2F969506554876604417&amp\;sa=D&amp\;usd=2&am
+ p\;usg=AFQjCNF3zVsleejqicVSE1N89B1q1VGDuw" target="_blank">https://twitter.
+ com/Cinnamon_cafe_/status/969506554876604417</a><br>http://www.cinnamorollc
+ afe.com/shinjuku/event/20180315/<br><br><a href="https://www.google.com/url
+ ?q=http%3A%2F%2Fwww.cinnamorollcafe.com%2Fshinjuku%2Fbooking_ate%2F&amp\;sa
+ =D&amp\;usd=2&amp\;usg=AFQjCNHMyxLfefI6t8ykD7NVCCFigPZZ8Q" target="_blank">
+ http://www.cinnamorollcafe.com/shinjuku/booking_ate/</a><br><br>シナモロールカフェ 新
+ 宿店1周年<br><br>11時の部、13時の部、15時の部、17時の部<br>各90分制<br>要事前予約
+LAST-MODIFIED:20180311T003730Z
+LOCATION:シナモロールカフェ 新宿マルイ アネックス店\, 3 Chome-3-1-26 Shinjuku\, Shinjuku-ku\, T
+ ōkyō-to 160-0022\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CN シナモロールカフェ新宿1周年
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180318T013000Z
+DTEND:20180318T040000Z
+UID:6c41nanttdtdv3bmbblj82n8lk@google.com
+CREATED:20180106T000436Z
+DESCRIPTION:<a href="https://www.google.com/url?q=https%3A%2F%2Ftwitter.com
+ %2Fmiyakkokun%2Fstatus%2F947788399095640065&amp\;sa=D&amp\;usd=2&amp\;usg=A
+ FQjCNG4eF3O1GgroIbp7gil5oJW8nD4TA" target="_blank">https://twitter.com/miya
+ kkokun/status/947788399095640065</a><br><a href="https://www.google.com/url
+ ?q=http%3A%2F%2Fwww.town.miyako.lg.jp%2Fgyouseikeiei%2Fevent%2FEastertoPart
+ y.html&amp\;sa=D&amp\;usd=2&amp\;usg=AFQjCNFQhYsDZmalB-VaJKXCjEi7vWNCqw" ta
+ rget="_blank">http://www.town.miyako.lg.jp/gyouseikeiei/event/EastertoParty
+ .html</a><br><br>ダムができたよ！ダム祭!!　～伊良原　Easter to Party ～<br>平成30年3月18日　日曜日　　9時
+ 30分～16時30分<br>みやこ町犀川下伊良原1883番地付近　特設会場<br>キティちゃんとマイメロちゃんのイースターショー<br><br>10:
+ 30-<br>12-30-
+LAST-MODIFIED:20180311T003650Z
+LOCATION:1883 Saigawashimoirahara\, Miyako-machi\, Miyako-gun\, Fukuoka-ken
+  824-0251\, Japan
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:KT\,MM ダム祭
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180310T110000
+DTEND;TZID=Asia/Tokyo:20180310T170000
+RRULE:FREQ=DAILY;COUNT=2
+UID:3pvjogbuk332j0npicaqc621g0@google.com
+CREATED:20180303T002149Z
+DESCRIPTION:https://www.sanrio.co.jp/news/cn-officialfanclub-start-20180301
+ /<br>https://www.sanrio.co.jp/wp-content/uploads/2018/03/20180301.pdf<br><b
+ r>シナモングリーティング<br>3月10日（土）11:00-11:30\, 12:30-13:00\, 14:30-15:00\, 16:00-16
+ :30<br>3月11日（日）11:00-11:30\, 12:30-13:00\, 15:00-15:30\, 16:30-17:00<br>11時
+ の回は西館1階<br>それ以外は 西館8階シナモロールカフェ前<br>シナモンとの写真撮影は不可
+LAST-MODIFIED:20180310T012021Z
+LOCATION:パルコ西館\, 3 Chome-3-29-1 Sakae\, Naka-ku\, Nagoya-shi\, Aichi-ken 46
+ 0-0008\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CN シナモロールカフェ名古屋パルコ
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180310T020000Z
+DTEND:20180310T073000Z
+UID:5qgscoqspp61kvok98f1klcnm4@google.com
+CREATED:20180302T233531Z
+DESCRIPTION:http://narita-aeonmall.com/news/event/1294\n\nハローキティとうなりくん撮影会\n
+ 2018/03/10 (土)\n【1】11：00\n【2】13：00\n【3】14：30\n【4】16：00 \n専門店街1F　ガーデンコート\n\n
+ 撮影会参加券を各回50組限定で開始30分前より配布\nハローキティとうなりくんは別々に登場
+LAST-MODIFIED:20180310T012020Z
+LOCATION:AEON MALL Narita\, 24 Uingutsuchiya\, Narita-shi\, Chiba-ken 286-0
+ 029\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT ハローキティとうなりくん撮影会
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180325T020000Z
+DTEND:20180325T063000Z
+UID:0jhru4lpkc773jtpl3mp88v9h2@google.com
+CREATED:20180309T072749Z
+DESCRIPTION:\nhttp://www.tobu-varie.com/shinkoshi/news/320/\n\n新越谷VARIE 20t
+ h Anniversary\n2018年03月02日～ 2018年03月31日\n\nハローキティのじゃんけんパラダイス\n3/25(日)\n11：0
+ 0～、13：00～、15：00～\n各回30分\n各回先着30名\n1Fコンコース（カルディ前）\n実施時間の30分前より整理券を配布
+LAST-MODIFIED:20180309T072749Z
+LOCATION:Shinkoshigaya VARIE\, 1 Chome-11-4 Minamikoshigaya\, Koshigaya-shi
+ \, Saitama-ken 343-0845\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT 新越谷VARIE
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180325T020000Z
+DTEND:20180325T072000Z
+UID:0reg335vq09414giiq21cfakms@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
+  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
+ gle.com
+CREATED:20180309T072420Z
+DESCRIPTION:\nhttps://emifull.jp/event_news/event/2018/03/000951.html\n\n\n
+ 情熱 みやざきフェア\n3月25日（日） \nグリーンコート 10:30～17:00\nフローラルコート 9:00～16:30 \n\nハローキティ撮
+ 影会\n①11:00～②12:45～③16:00～\n各回約20分\n各回先着30組\n当日、1ＦフローラルコートまたはフジグランエミフルＭＡＳＡＫＩ
+ [食品館]で購入した「宮崎牛」をイベント会場:グリーンコートに持参
+LAST-MODIFIED:20180309T072428Z
+LOCATION:emifull MASAKI\, 850 Tsutsui\, Masaki-chō\, Iyo-gun\, Ehime-ken 79
+ 1-3120\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT エミフルMASAKI
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180323T120000
+DTEND;TZID=Asia/Tokyo:20180323T142000
+RRULE:FREQ=DAILY;UNTIL=20180325T145959Z
+UID:642g3206ldqemkt946il253lrv@google.com
+CREATED:20180309T071611Z
+DESCRIPTION:\nhttp://www.tamacenter-cm.com/pdf/2018_springfesta.pdf\n\n多摩セン
+ タースプリングフェスタ2018\n3月23日(金)～3月25日(日)\nハローキティにあえる街スペシャルグリーティング\n各日 12:00-\, 14
+ :00-\nココリア前十字路周辺\n各回約20分\n雨天中止
+LAST-MODIFIED:20180309T071611Z
+LOCATION:ココリア前十字路\, 1 Chome-45-1 Ochiai\, Tama-shi\, Tōkyō-to 206-0033\, Ja
+ pan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT 多摩センタースプリングフェスタ
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180307T040000Z
+DTEND:20180307T063000Z
+UID:2qegmtlenptee7ve17s3l6j96a@google.com
+CREATED:20180309T071015Z
+DESCRIPTION:<a href="https://www.google.com/url?q=https%3A%2F%2Fmy.ebook5.n
+ et%2Fisetanmitsukoshi%2Fmatsudo0307%2F&amp\;sa=D&amp\;usd=2&amp\;usg=AFQjCN
+ GsHLwfYi8WreUBCWXe_ZNO1NOLOg" target="_blank">https://my.ebook5.net/isetanm
+ itsukoshi/matsudo0307/</a><br>https://twitter.com/ayaka8700119/status/97052
+ 3242304700417<br><br>はろうきてぃ太夫＆葵太夫 太夫道中と『春の舞』<br>本館1階 プラザ広場特設ステージ<br><br><br
+ >13:00-\, 15:00-
+LAST-MODIFIED:20180309T071229Z
+LOCATION:Isetan Matsudo\, Japan\, 〒271-0092 千葉県松戸市松戸１３０７−１
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT はろうきてぃ太夫
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180222T160000Z
+DTEND:20180222T180000Z
+UID:0ctm4mfuu9ir7ddjcqg2ug2df8@google.com
+CREATED:20180304T135053Z
+DESCRIPTION:\nhttps://www.instagram.com/p/BfdtJjbn35P/\nhttps://www.instagr
+ am.com/p/Bfi-_s0HEhE/\n\nSave My Bag\n2018-02-22\n5 pm - 7 pm
+LAST-MODIFIED:20180304T135053Z
+LOCATION:Save my bag\, Via Alessandro Manzoni\, 37\, 20121 Milano MI\, Ital
+ y
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT Save My Bag
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180303T200000Z
+DTEND:20180303T220000Z
+UID:5ja1q07q4rlbq8ijv36t6kg805@google.com
+CREATED:20180215T232224Z
+DESCRIPTION:<br><a href="https://www.google.com/url?q=http%3A%2F%2Fqueenkaa
+ humanucenter.com%2Fevents%2Fhinamatsuri-or-girls-day%2F&amp\;sa=D&amp\;usd=
+ 2&amp\;usg=AFQjCNElY6ipFmhyoBV33c3h7yjHotEMPg" target="_blank">http://queen
+ kaahumanucenter.com/events/hinamatsuri-or-girls-day/</a><br>https://mauitim
+ e.com/culture/maui-community/celebrate-hinamatsuri-at-queen-kaahumanu-cente
+ r/<br><br>Hinamatsuri or Girl’s Day<br>Saturday\, March 3\, 2018 from 10:00
+ am to 12:00 (noon)
+LAST-MODIFIED:20180304T131227Z
+LOCATION:Queen Ka'ahumanu Center\, 275 W Kaahumanu Ave\, Kahului\, HI 96732
+ \, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT Hinamatsuri
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190323
+DTEND;VALUE=DATE:20190324
+UID:08idldk8qdip3vehn886ub5mjd@google.com
+CREATED:20180304T130904Z
+DESCRIPTION:<a href="https://www.google.com/url?q=https%3A%2F%2Ftwitter.com
+ %2FHappyFlight_cts%2Fstatus%2F969371240199680000&amp\;sa=D&amp\;usd=2&amp\;
+ usg=AFQjCNFHgyk9G8aXv_TqBMa1gr_Ae59AIA">https://twitter.com/HappyFlight_cts
+ /status/969371240199680000</a><br><br>2018-04-28 土 XO<br>2018-05-13 日 PN<br
+ >2018-06-23 土 MP<br>2018-07-22 日 投票1位のキャラ<br>2018-09-22 土 KR<br>2018-10-28 
+ 日 KU<br>2018-11-04 日 KT<br>2018-12-23 土 TS<br>2019-01-19 土 MM<br>2019-02-10
+  日 CN<br>2019-03-23 土 HG
+LAST-MODIFIED:20180304T130904Z
+LOCATION:新千歳空港国内線ターミナル\, 1292-33 Bibi\, Chitose-shi\, Hokkaidō 066-0012\, J
+ apan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:HG ハッピーフライト
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190210
+DTEND;VALUE=DATE:20190211
+UID:4o5vid28e2cr95vpfdnfjsbg8t@google.com
+CREATED:20180304T130849Z
+DESCRIPTION:<a href="https://www.google.com/url?q=https%3A%2F%2Ftwitter.com
+ %2FHappyFlight_cts%2Fstatus%2F969371240199680000&amp\;sa=D&amp\;usd=2&amp\;
+ usg=AFQjCNFHgyk9G8aXv_TqBMa1gr_Ae59AIA">https://twitter.com/HappyFlight_cts
+ /status/969371240199680000</a><br><br>2018-04-28 土 XO<br>2018-05-13 日 PN<br
+ >2018-06-23 土 MP<br>2018-07-22 日 投票1位のキャラ<br>2018-09-22 土 KR<br>2018-10-28 
+ 日 KU<br>2018-11-04 日 KT<br>2018-12-23 土 TS<br>2019-01-19 土 MM<br>2019-02-10
+  日 CN<br>2019-03-23 土 HG
+LAST-MODIFIED:20180304T130849Z
+LOCATION:新千歳空港国内線ターミナル\, 1292-33 Bibi\, Chitose-shi\, Hokkaidō 066-0012\, J
+ apan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CN ハッピーフライト
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190119
+DTEND;VALUE=DATE:20190120
+UID:6e08opgpd1s70vhmhs2kf16ksv@google.com
+CREATED:20180304T130834Z
+DESCRIPTION:<a href="https://www.google.com/url?q=https%3A%2F%2Ftwitter.com
+ %2FHappyFlight_cts%2Fstatus%2F969371240199680000&amp\;sa=D&amp\;usd=2&amp\;
+ usg=AFQjCNFHgyk9G8aXv_TqBMa1gr_Ae59AIA">https://twitter.com/HappyFlight_cts
+ /status/969371240199680000</a><br><br>2018-04-28 土 XO<br>2018-05-13 日 PN<br
+ >2018-06-23 土 MP<br>2018-07-22 日 投票1位のキャラ<br>2018-09-22 土 KR<br>2018-10-28 
+ 日 KU<br>2018-11-04 日 KT<br>2018-12-23 土 TS<br>2019-01-19 土 MM<br>2019-02-10
+  日 CN<br>2019-03-23 土 HG
+LAST-MODIFIED:20180304T130834Z
+LOCATION:新千歳空港国内線ターミナル\, 1292-33 Bibi\, Chitose-shi\, Hokkaidō 066-0012\, J
+ apan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MM ハッピーフライト
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20181223
+DTEND;VALUE=DATE:20181224
+UID:0c4r77n7b4im52lbao1bb7o5nj@google.com
+CREATED:20180304T130815Z
+DESCRIPTION:<a href="https://www.google.com/url?q=https%3A%2F%2Ftwitter.com
+ %2FHappyFlight_cts%2Fstatus%2F969371240199680000&amp\;sa=D&amp\;usd=2&amp\;
+ usg=AFQjCNFHgyk9G8aXv_TqBMa1gr_Ae59AIA">https://twitter.com/HappyFlight_cts
+ /status/969371240199680000</a><br><br>2018-04-28 土 XO<br>2018-05-13 日 PN<br
+ >2018-06-23 土 MP<br>2018-07-22 日 投票1位のキャラ<br>2018-09-22 土 KR<br>2018-10-28 
+ 日 KU<br>2018-11-04 日 KT<br>2018-12-23 土 TS<br>2019-01-19 土 MM<br>2019-02-10
+  日 CN<br>2019-03-23 土 HG
+LAST-MODIFIED:20180304T130815Z
+LOCATION:新千歳空港国内線ターミナル\, 1292-33 Bibi\, Chitose-shi\, Hokkaidō 066-0012\, J
+ apan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:TS ハッピーフライト
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20181104
+DTEND;VALUE=DATE:20181105
+UID:0j4h92j62rbptbs8knkks6tali@google.com
+CREATED:20180304T130749Z
+DESCRIPTION:<a href="https://www.google.com/url?q=https%3A%2F%2Ftwitter.com
+ %2FHappyFlight_cts%2Fstatus%2F969371240199680000&amp\;sa=D&amp\;usd=2&amp\;
+ usg=AFQjCNFHgyk9G8aXv_TqBMa1gr_Ae59AIA">https://twitter.com/HappyFlight_cts
+ /status/969371240199680000</a><br><br>2018-04-28 土 XO<br>2018-05-13 日 PN<br
+ >2018-06-23 土 MP<br>2018-07-22 日 投票1位のキャラ<br>2018-09-22 土 KR<br>2018-10-28 
+ 日 KU<br>2018-11-04 日 KT<br>2018-12-23 土 TS<br>2019-01-19 土 MM<br>2019-02-10
+  日 CN<br>2019-03-23 土 HG
+LAST-MODIFIED:20180304T130749Z
+LOCATION:新千歳空港国内線ターミナル\, 1292-33 Bibi\, Chitose-shi\, Hokkaidō 066-0012\, J
+ apan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT ハッピーフライト
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20181028
+DTEND;VALUE=DATE:20181029
+UID:5rd44ve7omof6eqbvm4ja978q2@google.com
+CREATED:20180304T130727Z
+DESCRIPTION:<a href="https://www.google.com/url?q=https%3A%2F%2Ftwitter.com
+ %2FHappyFlight_cts%2Fstatus%2F969371240199680000&amp\;sa=D&amp\;usd=2&amp\;
+ usg=AFQjCNFHgyk9G8aXv_TqBMa1gr_Ae59AIA">https://twitter.com/HappyFlight_cts
+ /status/969371240199680000</a><br><br>2018-04-28 土 XO<br>2018-05-13 日 PN<br
+ >2018-06-23 土 MP<br>2018-07-22 日 投票1位のキャラ<br>2018-09-22 土 KR<br>2018-10-28 
+ 日 KU<br>2018-11-04 日 KT<br>2018-12-23 土 TS<br>2019-01-19 土 MM<br>2019-02-10
+  日 CN<br>2019-03-23 土 HG
+LAST-MODIFIED:20180304T130727Z
+LOCATION:新千歳空港国内線ターミナル\, 1292-33 Bibi\, Chitose-shi\, Hokkaidō 066-0012\, J
+ apan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KU ハッピーフライト
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20180922
+DTEND;VALUE=DATE:20180923
+UID:1l2j9egvg4t8lnpuvrom4k108t@google.com
+CREATED:20180304T130711Z
+DESCRIPTION:<a href="https://www.google.com/url?q=https%3A%2F%2Ftwitter.com
+ %2FHappyFlight_cts%2Fstatus%2F969371240199680000&amp\;sa=D&amp\;usd=2&amp\;
+ usg=AFQjCNFHgyk9G8aXv_TqBMa1gr_Ae59AIA">https://twitter.com/HappyFlight_cts
+ /status/969371240199680000</a><br><br>2018-04-28 土 XO<br>2018-05-13 日 PN<br
+ >2018-06-23 土 MP<br>2018-07-22 日 投票1位のキャラ<br>2018-09-22 土 KR<br>2018-10-28 
+ 日 KU<br>2018-11-04 日 KT<br>2018-12-23 土 TS<br>2019-01-19 土 MM<br>2019-02-10
+  日 CN<br>2019-03-23 土 HG
+LAST-MODIFIED:20180304T130711Z
+LOCATION:新千歳空港国内線ターミナル\, 1292-33 Bibi\, Chitose-shi\, Hokkaidō 066-0012\, J
+ apan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KR ハッピーフライト
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20180722
+DTEND;VALUE=DATE:20180723
+UID:49iq2l6hlqm22pcjujgsi6ok5m@google.com
+CREATED:20180304T130656Z
+DESCRIPTION:<a href="https://www.google.com/url?q=https%3A%2F%2Ftwitter.com
+ %2FHappyFlight_cts%2Fstatus%2F969371240199680000&amp\;sa=D&amp\;usd=2&amp\;
+ usg=AFQjCNFHgyk9G8aXv_TqBMa1gr_Ae59AIA">https://twitter.com/HappyFlight_cts
+ /status/969371240199680000</a><br><br>2018-04-28 土 XO<br>2018-05-13 日 PN<br
+ >2018-06-23 土 MP<br>2018-07-22 日 投票1位のキャラ<br>2018-09-22 土 KR<br>2018-10-28 
+ 日 KU<br>2018-11-04 日 KT<br>2018-12-23 土 TS<br>2019-01-19 土 MM<br>2019-02-10
+  日 CN<br>2019-03-23 土 HG
+LAST-MODIFIED:20180304T130656Z
+LOCATION:新千歳空港国内線ターミナル\, 1292-33 Bibi\, Chitose-shi\, Hokkaidō 066-0012\, J
+ apan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ハッピーフライト
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20180623
+DTEND;VALUE=DATE:20180624
+UID:7lrf3ohdpkn032suqj3fqg7ed6@google.com
+CREATED:20180304T130637Z
+DESCRIPTION:<a href="https://www.google.com/url?q=https%3A%2F%2Ftwitter.com
+ %2FHappyFlight_cts%2Fstatus%2F969371240199680000&amp\;sa=D&amp\;usd=2&amp\;
+ usg=AFQjCNFHgyk9G8aXv_TqBMa1gr_Ae59AIA">https://twitter.com/HappyFlight_cts
+ /status/969371240199680000</a><br><br>2018-04-28 土 XO<br>2018-05-13 日 PN<br
+ >2018-06-23 土 MP<br>2018-07-22 日 投票1位のキャラ<br>2018-09-22 土 KR<br>2018-10-28 
+ 日 KU<br>2018-11-04 日 KT<br>2018-12-23 土 TS<br>2019-01-19 土 MM<br>2019-02-10
+  日 CN<br>2019-03-23 土 HG
+LAST-MODIFIED:20180304T130637Z
+LOCATION:新千歳空港国内線ターミナル\, 1292-33 Bibi\, Chitose-shi\, Hokkaidō 066-0012\, J
+ apan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MP ハッピーフライト
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20180513
+DTEND;VALUE=DATE:20180514
+UID:0j6bug5o8o08a5qbt6blu4a3l4@google.com
+CREATED:20180304T130605Z
+DESCRIPTION:\nhttps://twitter.com/HappyFlight_cts/status/969371240199680000
+ \n\n2018-04-28 土 XO\n2018-05-13 日 PN\n2018-06-23 土 MP\n2018-07-22 日 投票1位のキャ
+ ラ\n2018-09-22 土 KR\n2018-10-28 日 KU\n2018-11-04 日 KT\n2018-12-23 土 TS\n2019
+ -01-19 土 MM\n2019-02-10 日 CN\n2019-03-23 土 HG
+LAST-MODIFIED:20180304T130605Z
+LOCATION:新千歳空港国内線ターミナル\, 1292-33 Bibi\, Chitose-shi\, Hokkaidō 066-0012\, J
+ apan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:PN ハッピーフライト
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20180428
+DTEND;VALUE=DATE:20180429
+UID:5mn43k8clhiup8qpd55pcpuvcf@google.com
+CREATED:20180304T130550Z
+DESCRIPTION:\nhttps://twitter.com/HappyFlight_cts/status/969371240199680000
+ \n\n2018-04-28 土 XO\n2018-05-13 日 PN\n2018-06-23 土 MP\n2018-07-22 日 投票1位のキャ
+ ラ\n2018-09-22 土 KR\n2018-10-28 日 KU\n2018-11-04 日 KT\n2018-12-23 土 TS\n2019
+ -01-19 土 MM\n2019-02-10 日 CN\n2019-03-23 土 HG
+LAST-MODIFIED:20180304T130550Z
+LOCATION:新千歳空港国内線ターミナル\, 1292-33 Bibi\, Chitose-shi\, Hokkaidō 066-0012\, J
+ apan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:XO ハッピーフライト
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180303T030000Z
+DTEND:20180303T100000Z
+UID:12bebhk5hv9nkbbupu7mvv5pj4@google.com
+CREATED:20180304T130106Z
+DESCRIPTION:https://www.instagram.com/p/Bf0ve99Hs4b/\n\n\n\nHELLO KITTY in 
+ ビフテキの南海グリル\n中店・東店、天兆閣別館_無盡亭、ポピア南海ミート販売、堺みやざき館KONNE\n①12:00〜12:30\n②13:30〜14
+ :00\n③17:00〜17:30\n④18:30〜19:00
+LAST-MODIFIED:20180304T130106Z
+LOCATION:南海グリル 中店\, Japan\, 〒590-0940 Ōsaka-fu\, Sakai-shi\, Sakai-ku\, Kur
+ umanochōnishi\, 1−25−２
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT ビフテキの南海グリル
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180303T120000
+DTEND;TZID=Asia/Tokyo:20180303T140000
+RRULE:FREQ=DAILY;COUNT=2
+UID:38oo2bbr3r7io3p9f53vdf2ftm@google.com
+CREATED:20180107T134444Z
+DESCRIPTION:<a href="https://www.google.com/url?q=https%3A%2F%2Fwww.symphon
+ y-cruise.co.jp%2Fseason%2Fdetail.php%3Fp%3D1395&amp\;sa=D&amp\;usd=2&amp\;u
+ sg=AFQjCNHL_X12vbjGwq1_-GGyB0vA8Bqe5Q" target="_blank">https://www.symphony
+ -cruise.co.jp/season/detail.php?p=1395</a><br>https://ameblo.jp/vega-seacha
+ n/entry-12355793060.html<br><br>シナモンクルーズ<br>3月3日、4日<br>12:00-14:00
+LAST-MODIFIED:20180303T072056Z
+LOCATION:シンフォニークルーズ\, 日本東京都港区海岸２丁目７−１０４
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CNシナモン\,CNモカ シナモンクルーズ
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180303T013000Z
+DTEND:20180303T050000Z
+UID:6s1se6p9d5ehhjadef2uqko3c5@google.com
+CREATED:20180302T235653Z
+DESCRIPTION:https://www.instagram.com/p/Bf0TPAjHLq5/\n\n\n青森三菱自動車販売弘前店
+LAST-MODIFIED:20180302T235705Z
+LOCATION:青森三菱自動車販売（株） 弘前店\, 1 Chome-8-3 Takasaki\, Hirosaki-shi\, Aomori-ke
+ n 036-8091\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT 青森三菱・弘前
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20180301
+DTEND;VALUE=DATE:20180302
+RRULE:FREQ=DAILY;COUNT=2
+UID:3aijvo18ttao3bpa1n69bflchu@google.com
+CREATED:20180302T234305Z
+DESCRIPTION:\nhttp://www.jreast.co.jp/hachioji/shumatsuyamanashi/pdf/pnf_ya
+ manasi_2018_p06.pdf\n\nやまなし桃の花産直市\n\nハローキティ、モモずきんによる観光PR\n3/1\, 3/2\n八王子駅びゅ
+ うプラザ、セレオ八王子
+LAST-MODIFIED:20180302T234305Z
+LOCATION:CELEO Hachiōji\, 1-1 Asahichō\, 旭町 Hachiōji-shi\, Tōkyō-to 192-008
+ 3\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT やまなし桃の花産直市
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180324T020000Z
+DTEND:20180324T063000Z
+UID:3lmh63366ijebf5um608rb70hj@google.com
+CREATED:20180302T233332Z
+DESCRIPTION:\nhttps://www.sanrio.co.jp/news/event-cn-sendaiizumi-20180324/\
+ n\nシナモロールが遊びにくるよ（Sanrio Gift Gate 仙台泉セルバ店）\n3/24（土）\n11:00 / 13:30 / 15:00\
+ nSanrio Gift Gate 仙台泉セルバ店 店内スペース\n\n店内にてシナモロール商品1点以上を含む税込み1\,080円以上お買上げで、写真
+ 撮影会の整理券を配布\n開店時より全ての回の整理券を配布
+LAST-MODIFIED:20180302T233332Z
+LOCATION:SELVA\, 1 Chome-4-1 Izumichūō\, Izumi-ku\, Sendai-shi\, Miyagi-ken
+  981-3133\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CN セルバ
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180311T020000Z
+DTEND:20180311T083000Z
+UID:7ldgehs0dqq8g9ek8h909f0jt8@google.com
+CREATED:20180227T111908Z
+DESCRIPTION:<a href="https://www.google.com/url?q=http%3A%2F%2Fevent.atre.c
+ o.jp%2Foimachi%2F25th%2Ftopics_detail%3Fcd%3D004951&amp\;sa=D&amp\;usd=2&am
+ p\;usg=AFQjCNGFWJ7c6nUA3gE0T88b13rTNrp7Ow" target="_blank">http://event.atr
+ e.co.jp/oimachi/25th/topics_detail?cd=004951</a><br><a href="https://www.go
+ ogle.com/url?q=https%3A%2F%2Ftwitter.com%2Fatreoimachi%2Fstatus%2F968381407
+ 138590720&amp\;sa=D&amp\;usd=2&amp\;usg=AFQjCNFCiElZjzPowI1YmgtPBn7kKtP96A"
+  target="_blank">https://twitter.com/atreoimachi/status/968381407138590720<
+ /a><br><a href="https://www.google.com/url?q=https%3A%2F%2Fprtimes.jp%2Fmai
+ n%2Fhtml%2Frd%2Fp%2F000000021.000018189.html&amp\;sa=D&amp\;usd=2&amp\;usg=
+ AFQjCNGDAGoWn7ylKNSHFYky_2Xk-Z5veg" target="_blank">https://prtimes.jp/main
+ /html/rd/p/000000021.000018189.html</a><br>https://www.instagram.com/p/Bfz-
+ c_ilnRr/<br><br>しながわ観光大使シナモロールがやってくる！みんなで歌って踊ろう♪<br><br>3/11(日)<br>3Fセントラルガ
+ ーデン<br>11時～、13時～、15時～、17時～（各回20分程度）
+LAST-MODIFIED:20180302T233145Z
+LOCATION:アトレ大井町\, 日本、〒140-0014 東京都品川区大井１丁目２ 大井町１丁目２−１
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CN アトレ大井町 25周年アニバーサリー
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20180310
+DTEND;VALUE=DATE:20180311
+UID:6l00co04sn748rrb94bbksk4hf@google.com
+CREATED:20180302T232133Z
+DESCRIPTION:<br><a href="https://www.google.com/url?q=http%3A%2F%2Fmuse-web
+ .com%2Fevents%2Fbf-muse%2F&amp\;sa=D&amp\;usd=2&amp\;usg=AFQjCNHY6bEsDW_Swk
+ DPEiT9NqPQbGSIGA" target="_blank">http://muse-web.com/events/bf-muse/</a><b
+ r>https://twitter.com/MUSE_NISHIAZABU/status/968327254106365952<br><br>DJ H
+ ello Kitty<br>HIGH FIVE MUSE<br>2018.3.10<br>10PM OPEN<br><br>O-MEAN<br>KM<
+ br>SHOTA<br>TAKA<br>SHUNSUKE<br>SHIRAISHI<br>TOMOHARU<br>TAK<br>SHIGEKI<br>
+ and more
+LAST-MODIFIED:20180302T232824Z
+LOCATION:MUSE\, Japan\, 〒106-0031 Tōkyō-to\, Minato-ku\, Nishiazabu\, 4 Cho
+ me−1\, 西麻布4−1−1 麻布霞町マンション B1F
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:KT MUSE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180304T040000Z
+DTEND:20180304T063000Z
+UID:1gm1n9n2g7sui3jfnre74g9rkr@google.com
+CREATED:20180302T232728Z
+DESCRIPTION:http://www.otakanomori-sc.com/event/?id=1212\n\n\n\nサンリオキャラクターズ
+ 　ポンポンジャンプ！\nキティちゃんとピンキー＆リオと一緒に手遊びやダンスを楽しもう！\n\n3月4日(日)\n（1）13：00～　（2）15：00～
+  \n本館1F ケヤキ広場\n荒天の場合、本館1F イーストプラザ（イトーヨーカドー側吹き抜け）\n\n撮影、録音、録画は禁止
+LAST-MODIFIED:20180302T232728Z
+LOCATION:Nagareyama Otakanomori SC\, 6 Chome-185-2 Nishihatsuishi\, Nagarey
+ ama-shi\, Chiba-ken 270-0121\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT\,ピンキー\,リオ ポンポンジャンプ
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180303T070000Z
+DTEND:20180303T073000Z
+UID:3da99704vf44gju0n79s9a50ov@google.com
+CREATED:20180302T232416Z
+DESCRIPTION:\nhttps://www.facebook.com/hellokittysaryo/posts/18990523270212
+ 08\nhttps://www.instagram.com/p/BfpkOPPAS6S/\n\nはろうきてぃ太夫お披露目会\n2018年3月3日\n午
+ 後4時～4時30分\n\nはろうきてぃ茶寮 京都二寧坂店 中庭\n撮影会の整理券は15時30分より先着30組
+LAST-MODIFIED:20180302T232416Z
+LOCATION:Hello Kitty Saryo\, Japan\, 〒605-0826 Kyōto-fu\, Kyōto-shi\, Higas
+ hiyama-ku\, Masuyachō\, 東山区桝屋町363番22の2
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT はろうきてぃ太夫お披露目会
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180304T023000Z
+DTEND:20180304T045000Z
+UID:2hi6gi543abfib9tqj8lr6a5sq@google.com
+CREATED:20180227T112635Z
+DESCRIPTION:<a href="https://www.sanrio.co.jp/news/gu-seibu-smiletrain-wrap
+ -20180226/">https://www.sanrio.co.jp/news/gu-seibu-smiletrain-wrap-20180226
+ /</a><br><br><a href="https://www.seiburailway.jp/news/news-release/2017/20
+ 180227gudetama.pdf">https://www.seiburailway.jp/news/news-release/2017/2018
+ 0227gudetama.pdf</a><br><br><br>「拝島ライナーお披露目イベント」にてぐでたまスマイルトレインの展示とステージショーを実
+ 施。<br><br>• 第1回：11:30頃〜20分程度<br><br>• 第2回：13:30頃〜20分程度
+LAST-MODIFIED:20180227T112635Z
+LOCATION:西武鉄道玉川上水車両基地\, 日本、〒207-0022 東京都東大和市桜が丘３丁目４４−６
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:GU ぐでたまスマイルトレイン
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180303T013000Z
+DTEND:20180303T070000Z
+UID:02mb6990fj9caqlnvupocergql@google.com
+CREATED:20180119T134358Z
+DESCRIPTION:<a href="https://www.google.com/url?q=https%3A%2F%2Fwww.sanrio.
+ co.jp%2Fnews%2Fevent-gg-tsukushino-20180303%2F&amp\;sa=D&amp\;usd=2&amp\;us
+ g=AFQjCNE8jUT9oseL9PLYYC_qTH6_KFZnww" target="_blank">https://www.sanrio.co
+ .jp/news/event-gg-tsukushino-20180303/</a><br>http://sanrio.cocolog-nifty.c
+ om/shop/2018/02/post-2f30.html<br><br>話題のサンリオ新キャラクター「ミュークルドリーミー」のみゅーちゃんが登場！
+ ！<br>みゅーちゃんと一緒に写真撮影ができるよ。各回50名様限定。<br><br>会場: イオンモール筑紫野 1F ウエストコート(イオン側)<br
+ >開催時間: 3/3(土) 10:30\, 12:00\, 14:00\, 15:30
+LAST-MODIFIED:20180227T051825Z
+LOCATION:イオンモール筑紫野\, 日本、〒818-0042 福岡県筑紫野市立明寺４３４−１
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MW ”みゅー”と一緒に写真撮影会
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180303T040000Z
+DTEND:20180303T050000Z
+UID:446fm75n38v13bqbl89hu8bcbj@google.com
+CREATED:20180225T174454Z
+DESCRIPTION:\nhttps://twitter.com/ayaka8700119/status/966930976273133568\n\
+ nはろうきてぃ太夫と葵太夫による太夫道中と「春の舞」\n2018-03-03 13:00-14:00\n平安神宮 大極殿
+LAST-MODIFIED:20180225T174717Z
+LOCATION:Heian Shrine\, Okazaki Nishitennocho\, Sakyo Ward\, Kyoto\, Kyoto 
+ Prefecture 606-8341\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT はろうきてぃ太夫
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180321T020000Z
+DTEND:20180321T063000Z
+UID:10nqsjs6grnq45padn7evj9vng@google.com
+CREATED:20180225T174300Z
+DESCRIPTION:\nhttp://www.seibu-leisure.co.jp/event/15032/index.html\n\n3月4日
+ （日）、11日（日）、21日（水・祝）\n11:00 マイメロディとハッピーグリーティング\n13:00 バースデーセレブレーション\n15:00 マ
+ イメロディとハッピーイースター
+LAST-MODIFIED:20180225T174300Z
+LOCATION:Seibuen Yuenchi\, 2964 Yamaguchi\, Tokorozawa-shi\, Saitama-ken 35
+ 9-1145\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MM\,KT 西武園ゆうえんち
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180304T110000
+DTEND;TZID=Asia/Tokyo:20180304T153000
+RRULE:FREQ=WEEKLY;COUNT=2;BYDAY=SU
+UID:3a04ckltdgm2odm9cjf15ppjio@google.com
+CREATED:20180225T174243Z
+DESCRIPTION:\nhttp://www.seibu-leisure.co.jp/event/15032/index.html\n\n3月4日
+ （日）、11日（日）、21日（水・祝）\n11:00 マイメロディとハッピーグリーティング\n13:00 バースデーセレブレーション\n15:00 マ
+ イメロディとハッピーイースター
+LAST-MODIFIED:20180225T174243Z
+LOCATION:Seibuen Yuenchi\, 2964 Yamaguchi\, Tokorozawa-shi\, Saitama-ken 35
+ 9-1145\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MM\,KT 西武園ゆうえんち
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Jakarta:20180210T140000
+DTEND;TZID=Asia/Jakarta:20180210T173000
+RRULE:FREQ=WEEKLY;UNTIL=20180225T165959Z;BYDAY=SU,SA
+UID:2ptp7o9hb6v3218ctainbnvjn2@google.com
+CREATED:20180219T151402Z
+DESCRIPTION:https://www.facebook.com/MKGLaPiazza/posts/1912974535380043\n\n
+ Prosperous New Year with Gudetama\n8 – 25 February 2018\n\nMEET & GREET\nEv
+ ery Saturday & Sunday\n2pm & 5pm\nby redeem 3 stamp points MKG Friendship C
+ ard or Spend IDR. 300.000 at retail area
+LAST-MODIFIED:20180219T225031Z
+LOCATION:Mall Kelapa Gading\, Mall Klp. Gading\, Jl. Boulevard Raya Klp. Ga
+ ding\, Klp. Gading Tim.\, Klp. Gading\, Kota Jkt Utara\, Daerah Khusus Ibuk
+ ota Jakarta 14240\, Indonesia
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:GU Prosperous New Year
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180603T020000Z
+DTEND:20180603T053000Z
+UID:48p084d5u0ne5a8nivdf38gjmo@google.com
+CREATED:20180219T152013Z
+DESCRIPTION:https://www.kashiikaen.com/news/archives/60\n\nハローキティとウサハナのジョイフ
+ ルパーティ！\n6/3（日）\n11:00～ 14:00～\n大テントステージ
+LAST-MODIFIED:20180219T152013Z
+LOCATION:かしいかえん\, 7 Chome-2-1 Kasumigaoka\, Higashi-ku\, Fukuoka-shi\, Fuku
+ oka-ken 813-0003\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT\,US ジョイフルパーティ
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180311T020000Z
+DTEND:20180311T060000Z
+UID:2p8bmsngc0j6c3tm0pgbnm7640@google.com
+CREATED:20180219T151755Z
+DESCRIPTION:https://asta2001.net/event/index.html?id=R10\n\nぐでたまのぐでーてぃんぐ\n3
+ /11（日）\n11:00-11:30\n14:30-15:00\n各回先着300名\n事前に申し込みが必要
+LAST-MODIFIED:20180219T151755Z
+LOCATION:牛田住宅情報スクエアアスタ\, 2 Chome-2-10 Ushitashinmachi\, Higashi-ku\, 広島市東区 
+ Hiroshima-ken 732-0068\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:GU 牛田住宅情報スクエアアスタ
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180303T103000
+DTEND;TZID=Asia/Tokyo:20180303T150000
+RRULE:FREQ=DAILY;COUNT=2
+UID:5g2pqc08p4h05prhh46c38hrrl@google.com
+CREATED:20171208T003842Z
+DESCRIPTION:<br><br><a href="https://www.google.com/url?q=http%3A%2F%2Fmt-h
+ eavens.com%2Fwinter%2F&amp\;sa=D&amp\;usd=2&amp\;usg=AFQjCNFuvEvXLv1A-mADKg
+ juPZqGUVFfVg" target="_blank">http://mt-heavens.com/winter/</a><br><br>ヘブンス
+ そのはら Snow World<br><br>2018年1月2日(火)・3日(水) ハッピーニューイヤー<br>キティちゃん＆ダニエル<br>2018
+ 年1月13日(土)・14日(日) マイメロディのバースデー<br>キティちゃん＆マイメロディ<br>2018年1月20日(土)・21日(日) ハローキ
+ ティ検定<br>キティちゃん＆ダニエル<br>2018年2月3日(土)・4日(日) ぐでたまは5周年！<br>キティちゃん＆ぐでたま<br>2018年
+ 2月10日(土)・11日(日) ダニエル壁ドン<br>キティちゃん＆ダニエル<br>2018年2月17日(土)・18日(日) クロミちゃん初登場!!<
+ br>キティちゃん＆クロミちゃん<br>2018年3月3日(土)・4日(日) リトルツインスターズ登場！<br>キティちゃん＆リトルツインスターズ<b
+ r><br>2018年3月3日(土)・4日(日) リトルツインスターズ登場！<br>3月3日<br>12時30分 キッズワールド<br>14時30分 
+ エンジェルコース滑走<br>3月4日<br>10時30分・12時30分 キッズワールド<br>14時30分 エンジェルコース滑走
+LAST-MODIFIED:20180218T101512Z
+LOCATION:ヘブンスそのはら\, 3731-4 Chisato\, Achi-mura\, Shimoina-gun\, Nagano-ken 
+ 395-0304\, Japan
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:KT\,TS ヘブンスそのはら
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180217T103000
+DTEND;TZID=Asia/Tokyo:20180217T150000
+RRULE:FREQ=DAILY;COUNT=2
+UID:2eld19dvlbarq259o5r5apdbmm@google.com
+CREATED:20171208T003826Z
+DESCRIPTION:<br><br><a href="https://www.google.com/url?q=http%3A%2F%2Fmt-h
+ eavens.com%2Fwinter%2F&amp\;sa=D&amp\;usd=2&amp\;usg=AFQjCNFuvEvXLv1A-mADKg
+ juPZqGUVFfVg" target="_blank">http://mt-heavens.com/winter/</a><br><br>ヘブンス
+ そのはら Snow World<br><br>2018年1月2日(火)・3日(水) ハッピーニューイヤー<br>キティちゃん＆ダニエル<br>2018
+ 年1月13日(土)・14日(日) マイメロディのバースデー<br>キティちゃん＆マイメロディ<br>2018年1月20日(土)・21日(日) ハローキ
+ ティ検定<br>キティちゃん＆ダニエル<br>2018年2月3日(土)・4日(日) ぐでたまは5周年！<br>キティちゃん＆ぐでたま<br>2018年
+ 2月10日(土)・11日(日) ダニエル壁ドン<br>キティちゃん＆ダニエル<br>2018年2月17日(土)・18日(日) クロミちゃん初登場!!<
+ br>キティちゃん＆クロミちゃん<br>2018年3月3日(土)・4日(日) リトルツインスターズ登場！<br>キティちゃん＆リトルツインスターズ<b
+ r><br>2018年2月17日(土)・18日(日) クロミちゃん初登場!!<br>2月17日<br>12時30分 キッズワールド<br>14時30分
+  エンジェルコース滑走<br>2月18日<br>10時30分・12時30分 キッズワールド<br>14時30分 エンジェルコース滑走
+LAST-MODIFIED:20180218T101411Z
+LOCATION:ヘブンスそのはら\, 3731-4 Chisato\, Achi-mura\, Shimoina-gun\, Nagano-ken 
+ 395-0304\, Japan
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:KT\,KU ヘブンスそのはら
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180217T020000Z
+DTEND:20180217T080000Z
+UID:2bah4designumhign62s5k8hcr@google.com
+CREATED:20180119T134029Z
+DESCRIPTION:<a href="https://www.google.com/url?q=https%3A%2F%2Fwww.sanrio.
+ co.jp%2Fnews%2Fevent-gg-nagoya-mozo-20180217%2F&amp\;sa=D&amp\;usd=2&amp\;u
+ sg=AFQjCNHyCfXUYj_xK-gvWZCAPbaQv9vDbA" target="_blank">https://www.sanrio.c
+ o.jp/news/event-gg-nagoya-mozo-20180217/</a><br>http://sanrio.cocolog-nifty
+ .com/shop/2018/02/217-b310.html<br><br>話題のサンリオ新キャラクター「ミュークルドリーミー」のみゅーちゃんが登場
+ ！！<br>みゅーちゃんと一緒に写真撮影ができるよ。各回30名様限定。&nbsp\;<br><br>撮影会会場:&nbsp\; mozoワンダーシティ
+  1Fウエストコート<br><br>開催時間: 2/17(土) 11:00\, 13:00\, 15:00<br><br>店頭グリーティング: moz
+ oワンダーシティ3F&nbsp\;Sanrio Gift Gate<br>開催時間: 2/17(土) 16:30
+LAST-MODIFIED:20180216T122037Z
+LOCATION:mozoワンダーシティ\, 日本、〒452-0817 愛知県名古屋市西区二方町４０
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MW ”みゅー”と一緒に写真撮影会
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180216T120000Z
+DTEND:20180216T134500Z
+UID:249pm5dudff0k3gt7q6qa5jbqr@google.com
+CREATED:20180202T131304Z
+DESCRIPTION:<a href="https://www.google.com/url?q=http%3A%2F%2Fwww.discover
+ hongkong.com%2Fuk%2Fsee-do%2Fevents-festivals%2Fhighlight-events%2Fchinese-
+ new-year-celebrations.jsp&amp\;sa=D&amp\;usd=2&amp\;usg=AFQjCNE93tCw-M0A9x9
+ wXqMqVPP1HOE6BQ">http://www.discoverhongkong.com/uk/see-do/events-festivals
+ /highlight-events/chinese-new-year-celebrations.jsp</a> から Night Parade\, I
+ nternational Performing Groups とすると Sanrio Family\, Japan がある<br><a href="h
+ ttps://www.google.com/url?q=https%3A%2F%2Fwww.facebook.com%2Fsanriohongkong
+ %2Fvideos%2F10156532117587985%2F&amp\;sa=D&amp\;usd=2&amp\;usg=AFQjCNGHNjl4
+ GWkQhTofj8DDOvpmnNePkg">https://www.facebook.com/sanriohongkong/videos/1015
+ 6532117587985/</a><br><a href="https://www.google.com/url?q=https%3A%2F%2Fw
+ ww.facebook.com%2Fsanriohongkong%2Fvideos%2F10156532179512985%2F&amp\;sa=D&
+ amp\;usd=2&amp\;usg=AFQjCNGXbb_LXC8RgC-ckfTwWgulPlIr0g">https://www.faceboo
+ k.com/sanriohongkong/videos/10156532179512985/</a><br>https://www.facebook.
+ com/sanriohongkong/posts/10156533671527985/<br><br>2018 Cathay Pacific Inte
+ rnational Chinese New Year Night Parade<br>16 February 2018 (Chinese New Ye
+ ar's Day)<br>8–9:45pm (A variety of street performances will warm up the ro
+ ute from 6pm onwards)
+LAST-MODIFIED:20180215T225457Z
+LOCATION:Hong Kong Cultural Centre\, 10 Salisbury Rd\, Tsim Sha Tsui\, Hong
+  Kong
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT\,PN\,CN\,PC\,GU\,MM Cathay Pacific International Chinese New Yea
+ r Night Parade
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180210T074500Z
+DTEND:20180210T081500Z
+UID:2vbmh6dn4m47btnfnmpr9iu7e5@google.com
+CREATED:20180215T152727Z
+DESCRIPTION:http://cinnamon-shinagawa.jp/event/%E8%A5%BF%E6%81%8B%E5%B1%B1%
+ E3%82%A4%E3%83%AB%E3%83%9F%E3%83%8D%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/\n\
+ n場所: 西小山駅前広場\n\n時間: 16:45～
+LAST-MODIFIED:20180215T152727Z
+LOCATION:西小山駅\, 東京都品川区小山６丁目３−１０
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CN 西恋山イルミネーション点灯式
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180218T010000Z
+DTEND:20180218T083000Z
+UID:6jbmk6okvogg05jd08qhhh7eb2@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
+  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
+ gle.com
+CREATED:20180202T124840Z
+DESCRIPTION:http://www.city.shinagawa.tokyo.jp/hp/menu000032000/hpg00003190
+ 7.htm\nhttps://www.instagram.com/p/BerMGValfxF/\n\n交流都市地方物産展\n平成30年2月15日（木）
+ ～20日（火）\n午前10時～午後7時（20日は午後6時まで）\nイオンスタイル品川シーサイド B1階催事コーナー\n\n2月18日（日）にしながわ観
+ 光大使（シナモロール）が来店\n10時～ B1F 食品催事売場練り歩き\n13時～ 2F キッズコーナー\n15時～ 2F キッズコーナー\n17時～
+  B1F 食品催事売場練り歩き
+LAST-MODIFIED:20180214T042951Z
+LOCATION:イオンスタイル品川シーサイド\, 日本、〒140-0002 東京都品川区東品川４丁目１２−５
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:CN 交流×都市 地方物産展
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180324T023000Z
+DTEND:20180324T110000Z
+UID:6t87dhggplaihafv9f4jej44c4@google.com
+CREATED:20180209T050551Z
+DESCRIPTION:<a href="https://www.google.com/url?q=https%3A%2F%2Fwww.sanrio.
+ co.jp%2Fwp-content%2Fuploads%2F2018%2F02%2F20180207.pdf&amp\;sa=D&amp\;usd=
+ 2&amp\;usg=AFQjCNEBdVHKT0satvYciwZrG2v8hOzYuA" target="_blank">https://www.
+ sanrio.co.jp/wp-content/uploads/2018/02/20180207.pdf</a><br>http://blog.wir
+ ebag.jp/2018/02/anteprimahello-kitty-ginza-sak.html<br><br>ANTEPRIMA × HELL
+ O KITTY GINZA SAKURA EVENT<br>2018年3月24日（土）11時～20時<br>アンテプリマ銀座店<br><br>PHOT
+ O SESSION with HELLO KITTY<br>14:00-14:30\, 16:30-17:00<br>イベント当日に税抜10\,000
+ 円以上お買い上げでフォトセッション参加整理券を配布<br>各回先着15名<br><br>ANTEPRIMA CASA CUCINA ×HELLO KI
+ TTY コラボレーションランチ＆ディナー<br>ランチ 11時30分スタート<br>ディナー 18時30分スタート<br>電話予約必要
+LAST-MODIFIED:20180213T152914Z
+LOCATION:ANTEPRIMA 銀座店\, 5 Chome-5-12 Ginza\, Chūō-ku\, Tōkyō-to 104-0061\,
+  Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT ANTEPRIMA GINZA SAKURA EVENT
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20180216
+DTEND;VALUE=DATE:20180217
+UID:7ll64r59rru1ipi70qcsrfc3ke@google.com
+CREATED:20180213T152753Z
+DESCRIPTION:https://turfy.jp/event/#post-5554\n\n横手かまくら祭り\n平成３０年２月１６日（金）\nタ
+ ーフィーとキティのダンス
+LAST-MODIFIED:20180213T152753Z
+LOCATION:Yokote\, Akita Prefecture\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:TF\,KT 横手かまくら祭り 
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180218T033000Z
+DTEND:20180218T070000Z
+UID:4mhjlaeog67ido982am8r6hfpv@google.com
+CREATED:20180213T151608Z
+DESCRIPTION:https://www.sanrio.co.jp/news/event-ion-natori-20180218/\n\n\nポ
+ チャッコとぼんぼんりぼんが遊びにくるよ！（Sanrio Gift Gate イオンモール名取店）\nSanrio Gift Gate イオンモール名取
+ 店　店頭スペース\n2/18（日）\n①12:30/②14:00/③15:30\n\n①ぼんぼんりぼん ダンス＆抽選会\n②ぼんぼんりぼん 写真撮影会
+ \n③ポチャッコ 写真撮影会\n\n写真撮影会は各回40名限定\n店内にて税込み1\,080円以上お買上げ（くじ・セール品不可）で整理券を配布 
+LAST-MODIFIED:20180213T151608Z
+LOCATION:Aeon Mall Natori\, 5 Chome-3-1 Morisekinoshita\, Natori-shi\, Miya
+ gi-ken 981-1227\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:BO\,PC イオンモール名取
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180211T020000Z
+DTEND:20180211T080000Z
+UID:6h98ugq5a0qiahvf8c2va1nngk@google.com
+CREATED:20180119T133721Z
+DESCRIPTION:<br><a href="https://www.google.com/url?q=https%3A%2F%2Fwww.san
+ rio.co.jp%2Fnews%2Fevent-gg-gtmusashikosugi-20180211%2F&amp\;sa=D&amp\;usd=
+ 2&amp\;usg=AFQjCNHwRcMjW6VkvSaTtm-_Uh3VC2pJ9g" target="_blank">https://www.
+ sanrio.co.jp/news/event-gg-gtmusashikosugi-20180211/</a><br><a href="https:
+ //www.google.com/url?q=http%3A%2F%2Fsanrio.cocolog-nifty.com%2Fshop%2F2018%
+ 2F02%2Fpost-f98a.html&amp\;sa=D&amp\;usd=2&amp\;usg=AFQjCNE-qA4lwT3UqARaP4G
+ HeU2P70vnXg" target="_blank">http://sanrio.cocolog-nifty.com/shop/2018/02/p
+ ost-f98a.html</a><br>http://sanrio.cocolog-nifty.com/shop/2018/02/211-54b0.
+ html<br><br>ミュークルドリーミー”みゅー”と一緒に写真撮影会　（Sanrio Gift Gate グランツリー武蔵小杉店）<br><br>
+ 2/11(日)<br><br>11:00\, 13:00\, 15:00 グランツリー武蔵小杉 4F スマイルスクエア<br>各回30名限定<br>整
+ 理券はギフトゲートで配布<br><br>16:30 グランツリー武蔵小杉 4F Sanrio Gift Gate<br>撮影会はなし
+LAST-MODIFIED:20180210T035128Z
+LOCATION:グランツリー武蔵小杉\, 日本、〒211-0004 神奈川県川崎市中原区新丸子東３丁目１１３５−１
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MW ”みゅー”と一緒に写真撮影会
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180211T210000Z
+DTEND:20180211T233000Z
+UID:4hevntm30uth69cncp7sf875ac@google.com
+CREATED:20180209T122700Z
+DESCRIPTION:<a href="https://www.google.com/url?q=https%3A%2F%2Fwww.faceboo
+ k.com%2Fevents%2F144900012854600%2F&amp\;sa=D&amp\;usd=2&amp\;usg=AFQjCNECL
+ mBmHIfjfwxha4L0G0CJ_CUKcg" target="_blank">https://www.facebook.com/events/
+ 144900012854600/</a><br><br>Appearance times: 1-1:30pm\, 2-2:30pm\, 3-3:30p
+ m PST
+LAST-MODIFIED:20180209T123324Z
+LOCATION:Sanrio Japanese Village\, 115 Japanese Village Plaza Mall\, Los An
+ geles\, CA 90012 アメリカ合衆国
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:KT PUMA x Hello Kitty Event
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180210T103000
+DTEND;TZID=Asia/Tokyo:20180210T150000
+RRULE:FREQ=DAILY;COUNT=2
+UID:70ld4u58j828lkmt6gnje7kg54@google.com
+CREATED:20171208T003741Z
+DESCRIPTION:<br><font color="#0b0124">http://mt-heavens.com/winter/</font><
+ br><font color="#001003"><br></font><br><font color="#0b0124">ヘブンスそのはら Snow
+  World</font><br><font color="#0b0124">2018年1月2日(火)・3日(水) ハッピーニューイヤー<br>キティ
+ ちゃん＆ダニエル<br>2018年1月13日(土)・14日(日) マイメロディのバースデー<br>キティちゃん＆マイメロディ<br>2018年1月20
+ 日(土)・21日(日) ハローキティ検定<br>キティちゃん＆ダニエル<br>2018年2月3日(土)・4日(日) ぐでたまは5周年！<br>キティち
+ ゃん＆ぐでたま<br>2018年2月10日(土)・11日(日) ダニエル壁ドン<br>キティちゃん＆ダニエル<br>2018年2月17日(土)・18日
+ (日) クロミちゃん初登場!!<br>キティちゃん＆クロミちゃん<br>2018年3月3日(土)・4日(日) リトルツインスターズ登場！<br>キティ
+ ちゃん＆リトルツインスターズ</font><br><font color="#0b0124"><br>2018年2月10日(土)・11日(日)<br>
+ ダニエル壁ドン ☆キティちゃん＆ダニエル☆</font><br><font color="#0b0124"><br></font><br><font 
+ color="#0b0124">2月10日<br>12時30分 キッズワールド<br>14時30分 エンジェルコース滑走</font><br><fon
+ t color="#0b0124"><br></font><br><font color="#0b0124">2月11日<br>10時30分・12時3
+ 0分 キッズワールド<br>14時30分 エンジェルコース滑走</font>
+LAST-MODIFIED:20180209T075028Z
+LOCATION:ヘブンスそのはら\, 3731-4 Chisato\, Achi-mura\, Shimoina-gun\, Nagano-ken 
+ 395-0304\, Japan
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:KT\,DN ヘブンスそのはら
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180212T020000Z
+DTEND:20180212T063000Z
+UID:0mgkdikjohg6ttsgu188lre97i@google.com
+CREATED:20171227T121638Z
+DESCRIPTION:https://twitter.com/HappyFlight_cts/status/945913649335435265\n
+ \n2017-04-22 PN\,XO\n2017-07-22 「ハッピーフレンド大賞」上位3位\n2017-10-14 MM\,KU\n2017-1
+ 1-04 KT\,DN\n2017-12-24 TS\n2018-02-12 GU（※追加）\n2018-03-24 CN\n\nhttps://tw
+ itter.com/HappyFlight_cts/status/955982499930238976\nhttps://www.sanrio.co.
+ jp/news/gu-shinchitose-20180212/\nhttps://flyteam.jp/news/article/89774\n\n
+ 11:00 ハッピーフライトショップとハッピーフライトカフェに登場\n13:00\, 15:00 有料ゾーンに登場して撮影会\n13時と15時からの撮
+ 影会の整理券は12時から配布、各30組
+LAST-MODIFIED:20180209T030042Z
+LOCATION:ハローキティ ハッピーフライト\, 日本、〒066-0012 北海道千歳市美々
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:GU ハッピーフライト
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20180209
+DTEND;VALUE=DATE:20180210
+RRULE:FREQ=DAILY;COUNT=3
+UID:42c9ml5u2fih9047j47rim8ggs@google.com
+CREATED:20180202T102413Z
+DESCRIPTION:https://www.facebook.com/KingsleyDesserts/posts/195954871436248
+ 2\nhttps://www.facebook.com/sanriohongkong/posts/10156491407522985/\nhttps:
+ //www.facebook.com/petshowhk/posts/1668002169888050\nhttps://www.facebook.c
+ om/umagazinehk/videos/10157836151214616/\n\n香港寵物節\n2018年2月9日至11日\n中午12時至9時 
+ 2月11日 中午12時至8時\n香港灣仔會展 Hall 3 （展銷攤位E 83）
+LAST-MODIFIED:20180209T000001Z
+LOCATION:Hong Kong Convention and Exhibition Centre\, 1 Expo Dr\, Wan Chai\
+ , Hong Kong
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CN\,PN\,PC 香港寵物節
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180210T040000Z
+DTEND:20180210T073000Z
+UID:4tochl2uofj2r2asqi1hajtp61@google.com
+CREATED:20180105T235645Z
+DESCRIPTION:<a href="https://www.google.com/url?q=https%3A%2F%2Fwww.tokyu-h
+ ands.co.jp%2Fgudegudevalentine%2Fevent.html&amp\;sa=D&amp\;usd=2&amp\;usg=A
+ FQjCNH1YQqSs2g0heguo62YluENm1TfTw">https://www.tokyu-hands.co.jp/gudegudeva
+ lentine/event.html</a><br><a href="https://www.google.com/url?q=https%3A%2F
+ %2Fwww.tokyu-hands.co.jp%2Fnews%2F20180105newsletter_tokyuhands_gudetama_ev
+ ent.pdf&amp\;sa=D&amp\;usd=2&amp\;usg=AFQjCNHoxh0WstRC8H9Fpv5vwZIcaDbVsQ">h
+ ttps://www.tokyu-hands.co.jp/news/20180105newsletter_tokyuhands_gudetama_ev
+ ent.pdf</a><br><a href="https://www.google.com/url?q=https%3A%2F%2Fprtimes.
+ jp%2Fmain%2Fhtml%2Frd%2Fp%2F000000018.000012213.html&amp\;sa=D&amp\;usd=2&a
+ mp\;usg=AFQjCNGe4Lwhj53v8BpSJajv6ARKs4ZR5Q">https://prtimes.jp/main/html/rd
+ /p/000000018.000012213.html</a><br><a href="https://www.google.com/url?q=ht
+ tps%3A%2F%2Fwww.facebook.com%2Fhellokitty.global%2Fposts%2F1660299147364894
+ %2F&amp\;sa=D&amp\;usd=2&amp\;usg=AFQjCNHwA95T9YCoYT_xTHDPydZ1mcoBAg">https
+ ://www.facebook.com/hellokitty.global/posts/1660299147364894/</a><br><br>「ぐ
+ でたま」が東急ハンズにやってくる！<br><br>日程 ：新宿店 2 月 3 日(土) / 梅田店２月１０日(土)<br>開始時間：①13:00〜 /
+  ②14:30〜 / ③16:00〜<br>所定人数：各回先着 20 名<br><br>当日、バレンタインのお菓子またはぐでたま関連グッズをお買い上げ
+ のお客様で、ご参加を希望された方に参加券をお渡し
+LAST-MODIFIED:20180208T061517Z
+LOCATION:東急ハンズ 梅田店\, 日本、〒5308202 大阪府大阪市北区梅田３丁目１−１
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:GU 東急ハンズ梅田店
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20180331
+DTEND;VALUE=DATE:20180401
+RRULE:FREQ=DAILY;COUNT=2
+UID:2jgteifd8gsm6kphh6f0pkh15q@google.com
+CREATED:20180202T125041Z
+DESCRIPTION:\nhttp://gudetamafes.com/\nhttps://twitter.com/gudetama_fes/sta
+ tus/958934533763575809\nhttps://www.sanrio.co.jp/news/gu-gudetamafes-yokoha
+ ma-20180208/\n\nぐでたまフェス\n2018年3月31日（土）\n2018年４月1日（日）\n10:00~19:00（9:30エントラン
+ スオープン/最終入場は18:30まで）\n横浜赤レンガ倉庫イベント広場
+LAST-MODIFIED:20180208T060401Z
+LOCATION:Yokohama Red Brick Warehouse\, Japan\, 〒231-0001 神奈川県横浜市中区新港一丁目1
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:GU ぐでたまフェス
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180214T100000Z
+DTEND:20180214T130000Z
+UID:5r41ae3blfn0ru9v9jtuabruor@google.com
+CREATED:20180118T160330Z
+DESCRIPTION:http://www.tokyo-skytree.jp/event/special/disco2018/\nhttps://w
+ ww.sanrio.co.jp/news/kt-dj-super-skytree-disco-20180118/\nhttps://www.faceb
+ ook.com/hellokitty.japan/posts/1808065932599874/\nhttps://www.facebook.com/
+ hellokitty.global/posts/1670103133051162/\nhttps://www.musicman-net.com/art
+ ist/71575\n\nSUPER SKYTREE DISCO\n2018-01-12 / 2018-02-23\n\n2/14\n19:00～22
+ :00\n東京スカイツリー天望デッキ フロア350\n\nDJ OSSHY\nTOMOYUKI TANAKA (FPM)\nYUKIBEB\nDJ H
+ ello Kitty
+LAST-MODIFIED:20180208T055646Z
+LOCATION:Tokyo Skytree\, 1 Chome-1-2 Oshiage\, Sumida-ku\, Tōkyō-to 131-004
+ 5\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT SUPER SKYTREE DISCO
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180205T110000
+DTEND;TZID=Asia/Tokyo:20180205T162000
+RRULE:FREQ=DAILY;UNTIL=20180209T145959Z
+UID:08aja73ihqm8ntengqihoqh1ed@google.com
+CREATED:20180131T163006Z
+DESCRIPTION:http://www.gatecity.jp/plaza/event/?ym=201802#eve459\n\nサンリオピュー
+ ロランドからマイメロディがやってくる!!\nマイメロディスペシャルグリーティング\n2月5日(月)～2月9日(金)\n①11：00〜11：20\n②1
+ 3：00〜13：20\n③16：00〜16：20\nアトリウム（地下1階）
+LAST-MODIFIED:20180208T055548Z
+LOCATION:Gate City Osaki\, 1 Chome-11-1 Ōsaki\, Shinagawa-ku\, Tōkyō-to 141
+ -0032\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MM ゲートシティ大崎
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180217T030000Z
+DTEND:20180217T070000Z
+UID:5qe1c74bfq6724csk1vnucl9dq@google.com
+CREATED:20180203T151850Z
+DESCRIPTION:http://www.pumajapan.jp/news/detail/2031/\nhttps://www.sanrio.c
+ o.jp/news/kt-puma-suede50-20180207/\nhttps://www.facebook.com/PUMAJapan/vid
+ eos/1837973982879807/\n\nhttps://www.facebook.com/hellokitty.japan/videos/1
+ 833916186681515/\nhttps://www.facebook.com/hellokitty.global/videos/1689917
+ 837736358/\n\n2/10\n12:00- プーマストア大阪\n14:00- ABC-MART Grand Stage 大阪店\n15:30
+ - サンリオギャラリー心斎橋店 (撮影会なしのグリーティングのみ)\n\n2/12\n12:00-\, 14:00-\, 16:00- プーマストア原
+ 宿\n\n2/17\n12:00-\, 14:00- ABC-MART Grand Stage ダイバーシティ東京プラザ店\n15:30- Hello
+  Kitty Japan ダイバーシティ東京店\n\n2月8日からコラボレーション商品をお買い上げで写真整理券を配布\n各回30名
+LAST-MODIFIED:20180208T055454Z
+LOCATION:DiverCity Tokyo Plaza\, 1 Chome-1-10 Aomi\, Kōtō-ku\, Tōkyō-to 135
+ -0064\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT PUMA Launch Event
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180212T030000Z
+DTEND:20180212T073000Z
+UID:1s8d9dajkpesdpcpcacj3rddur@google.com
+CREATED:20180203T151818Z
+DESCRIPTION:http://www.pumajapan.jp/news/detail/2031/\nhttps://www.sanrio.c
+ o.jp/news/kt-puma-suede50-20180207/\nhttps://www.facebook.com/PUMAJapan/vid
+ eos/1837973982879807/\n\nhttps://www.facebook.com/hellokitty.japan/videos/1
+ 833916186681515/\nhttps://www.facebook.com/hellokitty.global/videos/1689917
+ 837736358/\n\n2/10\n12:00- プーマストア大阪\n14:00- ABC-MART Grand Stage 大阪店\n15:30
+ - サンリオギャラリー心斎橋店 (撮影会なしのグリーティングのみ)\n\n2/12\n12:00-\, 14:00-\, 16:00- プーマストア原
+ 宿\n\n2/17\n12:00-\, 14:00- ABC-MART Grand Stage ダイバーシティ東京プラザ店\n15:30- Hello
+  Kitty Japan ダイバーシティ東京店\n\n2月8日からコラボレーション商品をお買い上げで写真整理券を配布\n各回30名
+LAST-MODIFIED:20180208T055442Z
+LOCATION:プーマストア原宿\, 1 Chome-13-14 Jingūmae\, Shibuya-ku\, Tōkyō-to 150-0001
+ \, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT PUMA Launch Event
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180210T030000Z
+DTEND:20180210T070000Z
+UID:3481dj07v0b1an1vdqse6p1q4v@google.com
+CREATED:20180202T130225Z
+DESCRIPTION:http://www.pumajapan.jp/news/detail/2031/\nhttps://www.sanrio.c
+ o.jp/news/kt-puma-suede50-20180207/\nhttps://www.facebook.com/PUMAJapan/vid
+ eos/1837973982879807/\n\nhttps://www.facebook.com/hellokitty.japan/videos/1
+ 833916186681515/\nhttps://www.facebook.com/hellokitty.global/videos/1689917
+ 837736358/\n\n2/10\n12:00- プーマストア大阪\n14:00- ABC-MART Grand Stage 大阪店\n15:30
+ - サンリオギャラリー心斎橋店 (撮影会なしのグリーティングのみ)\n\n2/12\n12:00-\, 14:00-\, 16:00- プーマストア原
+ 宿\n\n2/17\n12:00-\, 14:00- ABC-MART Grand Stage ダイバーシティ東京プラザ店\n15:30- Hello
+  Kitty Japan ダイバーシティ東京店\n\n2月8日からコラボレーション商品をお買い上げで写真整理券を配布\n各回30名
+LAST-MODIFIED:20180208T055431Z
+LOCATION:プーマストア大阪\, 1 Chome-5-2 Nishishinsaibashi\, Chūō-ku\, Ōsaka-shi\, Ō
+ saka-fu 542-0086\, Japan
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:KT PUMA Launch Event
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180408T023000Z
+DTEND:20180408T073000Z
+UID:7udd35nl57bnmol1cv37c7cqbl@google.com
+CREATED:20180208T042557Z
+DESCRIPTION:<a href="http://www.nankai.co.jp/misaki/eventAll/sanrio_easter_
+ 2018.html">http://www.nankai.co.jp/misaki/eventAll/sanrio_easter_2018.html<
+ /a><br><br><br>登場キャラクター: マイメロディ\, クロミ\, シナモン<br>開催日: 4/8(日)<br>開催時間:<br>11:
+ 30\, 14:30 パレード<br>16:00 ミニステージ<br>開催場所: 野外ステージ
+LAST-MODIFIED:20180208T042557Z
+LOCATION:みさき公園\, 日本、〒599-0301 大阪府泉南郡岬町淡輪３９９０
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MM\,KU\,CN サンリオイースターパレード
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180212T040000Z
+DTEND:20180212T063000Z
+UID:10avubith75vkqnh4agqelel5g@google.com
+CREATED:20180207T164541Z
+DESCRIPTION:<a href="https://www.google.com/url?q=http%3A%2F%2Fasp.shufoo.n
+ et%2Fc%2F2018%2F02%2F06%2Fc%2F5856943198877%2Findex.html%3FshopId%3D236%26c
+ hirashiId%3D5856943198877&amp\;sa=D&amp\;usd=2&amp\;usg=AFQjCNHBaSR0ojaTqok
+ mHhK4w1e7u8N7lQ" target="_blank">http://asp.shufoo.net/c/2018/02/06/c/58569
+ 43198877/index.html?shopId=236&amp\;chirashiId=5856943198877</a><br>http://
+ ipqcache2.shufoo.net/c/2018/02/06/c/5856943198877/index/img/chirashi.pdf?sh
+ opId=236&amp\;chirashiId=5856943198877<br><br>サンリオ「ハローキティミニステージ」<br>2月12日<b
+ r>13:00-\, 15:00-<br>3階イベント広場<br>撮影会は先着30組
+LAST-MODIFIED:20180207T164616Z
+LOCATION:Ito Yokado Akashi Store\, 1 Chome-18 Futamicho Nishifutami Ekimae\
+ , Akashi\, Hyōgo Prefecture 674-0095\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT イトーヨーカドー明石
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180224T020000Z
+DTEND:20180224T083000Z
+UID:50sbfepfo6jrpprdorbnkd3i19@google.com
+CREATED:20180207T164029Z
+DESCRIPTION:https://www.atpress.ne.jp/news/149028\n\n時空警察なんばワンとハローキティの事件簿 F
+ ile.4\n2月24日(土)、25日(日)\n\nなんばワンとハローキティの撮影会を開催\n2月24日(土)11時～、13時～、15時～、17時～\
+ nクジラパーク
+LAST-MODIFIED:20180207T164029Z
+LOCATION:Namba Walk\, 2 Chome-1-15 Sennichimae\, Chūō-ku\, Ōsaka-shi\, Ōsak
+ a-fu 542-0074\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT 時空警察なんばワンとハローキティの事件簿
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20180211
+DTEND;VALUE=DATE:20180212
+UID:1duodv8pfcob9dv9ruo6mk8nuc@google.com
+CREATED:20180206T113630Z
+DESCRIPTION:https://www.facebook.com/sanriohongkong/videos/1015650077806798
+ 5/\n\n新春賀年 Cinnamoroll 見面會\n\n2月10日 屯門 V City\n2月11日 觀塘 APM
+LAST-MODIFIED:20180206T114639Z
+LOCATION:APM\, 418 Kwun Tong Rd\, Kwun Tong\, Hong Kong
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CN 新春賀年見面會
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20180210
+DTEND;VALUE=DATE:20180211
+UID:0pio1ui4v0co78p9hbif2j531c@google.com
+CREATED:20180206T113613Z
+DESCRIPTION:https://www.facebook.com/sanriohongkong/videos/1015650077806798
+ 5/\n\n新春賀年 Cinnamoroll 見面會\n\n2月10日 屯門 V City\n2月11日 觀塘 APM
+LAST-MODIFIED:20180206T114632Z
+LOCATION:V city\, 83 Tuen Mun Heung Sze Wui Rd\, Tuen Mun\, Hong Kong
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CN 新春賀年見面會
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20180205
+DTEND;VALUE=DATE:20180206
+UID:025uc53cgk1m72c5fa7nnvc0sm@google.com
+CREATED:20180205T122412Z
+DESCRIPTION:<a href="https://www.google.com/url?q=https%3A%2F%2Ftwitter.com
+ %2FWeRHelloKitty%2Fstatus%2F960487463323127810&amp\;sa=D&amp\;usd=2&amp\;us
+ g=AFQjCNEsGHGFRzeadVMqF5yWmKEcpWIWTw" target="_blank">https://twitter.com/W
+ eRHelloKitty/status/960487463323127810</a><br>https://www.instagram.com/p/B
+ e0IlxQlnjq/<br><a href="https://www.google.com/url?q=https%3A%2F%2Fwww.spri
+ ngfair.com%2Fvisit%2Fwhats-on%23Get%2520a%2520selfie%2520with%2520Hello%252
+ 0Kitty&amp\;sa=D&amp\;usd=2&amp\;usg=AFQjCNHa1Gcbe3ukkRf8BDxBILs5ZtrJWA" ta
+ rget="_blank">https://www.springfair.com/visit/whats-on#Get%20a%20selfie%20
+ with%20Hello%20Kitty</a>!<br><br>Spring Fair<br>Sat 3 Feb - 10:00 - 17:00 (
+ Volume sector only) <br>Sun 4 Feb - 9:00 - 18:00<br>Mon 5 Feb - 9:00 - 18:0
+ 0<br>Tues 6 Feb - 9:00 - 18:00<br>Wed 7 Feb - 9:00 - 18:00<br>Thurs 8 Feb -
+  9:00 - 16:00<br><br>Mallow Tree x Hello Kitty sweet collection<br>Hall 5 S
+ tand 5D142<br>Monday 5th February
+LAST-MODIFIED:20180205T130225Z
+LOCATION:NEC\, National Exhibition Center\, North Ave\, Marston Green\, Bir
+ mingham B40 1NT\, UK
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT Spring Fair
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180429T040000Z
+DTEND:20180429T083000Z
+UID:5jpd9f2iekgl0sm506kso1baoe@google.com
+CREATED:20180113T070549Z
+DESCRIPTION:<a href="https://tagajo-bunka.jp/event1782-d20180429.html">http
+ s://tagajo-bunka.jp/event1782-d20180429.html</a><br><a href="https://www.go
+ ogle.com/url?q=http%3A%2F%2Fl-tike.com%2Fplay%2Fmevent%2F%3Fmid%3D324330&am
+ p\;sa=D&amp\;usd=2&amp\;usg=AFQjCNEv8knyHkDVW6F8wvsMxCWAZ_26og" target="_bl
+ ank">http://l-tike.com/play/mevent/?mid=324330</a><br><a href="https://www.
+ google.com/url?q=http%3A%2F%2Fjtb.pia.jp%2FticketInformation.do%3FeventCd%3
+ D1760815%26rlsCd%3D001&amp\;sa=D&amp\;usd=2&amp\;usg=AFQjCNFGO45yEViy7_xK2A
+ 7FMACh72e7RA" target="_blank">http://jtb.pia.jp/ticketInformation.do?eventC
+ d=1760815&amp\;rlsCd=001</a><br><a href="https://www.google.com/url?q=http%
+ 3A%2F%2Fsort.eplus.jp%2Fsys%2FT1U14P0010163P0108P002249108P0050001P006001P0
+ 030001&amp\;sa=D&amp\;usd=2&amp\;usg=AFQjCNFQbdusVPkSHNWbIUqWkUIl3e2SFQ" ta
+ rget="_blank">http://sort.eplus.jp/sys/T1U14P0010163P0108P002249108P0050001
+ P006001P0030001</a><br><br>サンリオハートフルタイム『ハローキティ＆シュガーバニーズのきっとうまくいくよ！』<br>多賀城市
+ 民会館 大ホール<br>2018/4/29(日・祝)<br>12:30 開場 13:00 開演<br>15:30 開場 16:00 開演
+LAST-MODIFIED:20180204T232613Z
+LOCATION:Tagajo City Cultural Center\, 2 Chome-27-1 Chūō\, Tagajō-shi\, Miy
+ agi-ken 985-0873\, Japan
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:KT\,MM\,KU\,SI きっとうまくいくよ
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180526T020000Z
+DTEND:20180526T063000Z
+UID:6rjtsqvvj2gr2ges431ksh5qjm@google.com
+CREATED:20180202T125337Z
+DESCRIPTION:<a href="https://www.google.com/url?q=https%3A%2F%2Ft.pia.jp%2F
+ pia%2Fevent%2Fevent.do%3FeventCd%3D1801431&amp\;sa=D&amp\;usd=2&amp\;usg=AF
+ QjCNEYtn-SE2uS7acqa6H0RXSldwsR7g" target="_blank">https://t.pia.jp/pia/even
+ t/event.do?eventCd=1801431</a><br>https://www.itabashi-ci.org/cul/events/19
+ 53/<br><br>ハローキティ＆シュガーバニーズのきっとうまくいくよ！<br>2018/5/26(土)<br>板橋区立文化会館　大ホール (東京都
+ )<br><br>11:00 開演 (10:30 開場)<br>14:00 開演 (13:30 開場)
+LAST-MODIFIED:20180203T152507Z
+LOCATION: 板橋区立文化会館\, Japan\, 〒173-0014 Tōkyō-to\, Itabashi-ku\, Ōyamahigash
+ ichō\, 51−1
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:SI\,KT\,MM\,KU きっとうまくいくよ 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180203T103000
+DTEND;TZID=Asia/Tokyo:20180203T150000
+RRULE:FREQ=DAILY;COUNT=2
+UID:3qr2aeh7fnoh6vg9ud10eqva0u@google.com
+CREATED:20171208T003721Z
+DESCRIPTION:<br><a href="https://www.google.com/url?q=http%3A%2F%2Fmt-heave
+ ns.com%2Fwinter%2F&amp\;sa=D&amp\;usd=2&amp\;usg=AFQjCNFuvEvXLv1A-mADKgjuPZ
+ qGUVFfVg" target="_blank">http://mt-heavens.com/winter/</a><br><br>ヘブンスそのはら
+  Snow World<br><br>2018年1月2日(火)・3日(水) ハッピーニューイヤー<br>キティちゃん＆ダニエル<br>2018年1月1
+ 3日(土)・14日(日) マイメロディのバースデー<br>キティちゃん＆マイメロディ<br>2018年1月20日(土)・21日(日) ハローキティ検定
+ <br>キティちゃん＆ダニエル<br>2018年2月3日(土)・4日(日) ぐでたまは5周年！<br>キティちゃん＆ぐでたま<br>2018年2月10
+ 日(土)・11日(日) ダニエル壁ドン<br>キティちゃん＆ダニエル<br>2018年2月17日(土)・18日(日) クロミちゃん初登場!!<br>キ
+ ティちゃん＆クロミちゃん<br>2018年3月3日(土)・4日(日) リトルツインスターズ登場！<br>キティちゃん＆リトルツインスターズ<br><p
+ ><span color="#000000">2月3日<br>12時30分　キッズワールド<br>14時30分　エンジェルコース滑走<br></spa
+ n></p><p><span color="#000000">2月4日<br>10時30分・12時30分　キッズワールド<br>14時30分　エンジェ
+ ルコース滑走</span></p>
+LAST-MODIFIED:20180202T152724Z
+LOCATION:ヘブンスそのはら\, 3731-4 Chisato\, Achi-mura\, Shimoina-gun\, Nagano-ken 
+ 395-0304\, Japan
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:KT\,GU ヘブンスそのはら
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20180128
+DTEND;VALUE=DATE:20180129
+UID:6nj9icd7f3r75cotd8d0onpago@google.com
+CREATED:20180202T151646Z
+DESCRIPTION:http://www.sanspo.com/geino/news/20180128/owa18012816150004-n1.
+ html\n\nhttps://www.facebook.com/hellokitty.global/posts/1681787175216091/\
+ n\n\nぐでたまが吉本新喜劇に初登場
+LAST-MODIFIED:20180202T151646Z
+LOCATION:なんばグランド花月\, Japan\, 〒542-0075 Ōsaka-fu\, Ōsaka-shi\, Chūō-ku\, Nan
+ basennichimae\, 11−11番−6号
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:GU 吉本新喜劇
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Bangkok:20171202T140000
+DTEND;TZID=Asia/Bangkok:20171202T203000
+RRULE:FREQ=WEEKLY;UNTIL=20171217T165959Z;INTERVAL=2;BYDAY=SU,SA
+UID:6gvt63tbml7lvf6ggvlu2i2r90@google.com
+CREATED:20180202T143057Z
+DESCRIPTION:https://www.facebook.com/SanrioGiftGateThai/posts/1561392250608
+ 956\n\nSanrio Fair 2017\nNov 16 - Dec 20\n\nMeet & Greet และถ่ายรูปกับ Hell
+ o Kitty\n12:00-12:30\, 15:00-15:30\, 18:00-18:30\nNov 17-19 ี่เซ็นทรัลลาดพร
+ ้าว (Zone B)\nNov 24-25 เซ็นทรัลเวสต์เกต\nNov 26 ที่เซ็นทรัลแจ้งวัฒนะ\nDec 
+ 2-3 เซ็นทรัลชิดลม\nDec 5 เซ็นทรัลลาดพร้าว ชั้น G1\nDec 16-17 เซ็นทรัลเวิลล์
+LAST-MODIFIED:20180202T143329Z
+LOCATION:Central Department Store\, Khwaeng Lumphini\, Khet Pathum Wan\, Kr
+ ung Thep Maha Nakhon 10330\, Thailand
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:KT Sanrio Fair
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171205T070000Z
+DTEND:20171205T133000Z
+UID:71ljvajn2ptb2liiulrusocr2r@google.com
+CREATED:20180202T143113Z
+DESCRIPTION:https://www.facebook.com/SanrioGiftGateThai/posts/1561392250608
+ 956\n\nSanrio Fair 2017\nNov 16 - Dec 20\n\nMeet & Greet และถ่ายรูปกับ Hell
+ o Kitty\n12:00-12:30\, 15:00-15:30\, 18:00-18:30\nNov 17-19 ี่เซ็นทรัลลาดพร
+ ้าว (Zone B)\nNov 24-25 เซ็นทรัลเวสต์เกต\nNov 26 ที่เซ็นทรัลแจ้งวัฒนะ\nDec 
+ 2-3 เซ็นทรัลชิดลม\nDec 5 เซ็นทรัลลาดพร้าว ชั้น G1\nDec 16-17 เซ็นทรัลเวิลล์
+LAST-MODIFIED:20180202T143113Z
+LOCATION:Central Department Store\, Khwaeng Lumphini\, Khet Pathum Wan\, Kr
+ ung Thep Maha Nakhon 10330\, Thailand
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT Sanrio Fair
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Bangkok:20171117T140000
+DTEND;TZID=Asia/Bangkok:20171117T203000
+RRULE:FREQ=WEEKLY;UNTIL=20171126T165959Z;BYDAY=SU,FR,SA
+UID:7o0d8fmm165h1ijjlfp3d9e2n1@google.com
+CREATED:20180202T143014Z
+DESCRIPTION:https://www.facebook.com/SanrioGiftGateThai/posts/1561392250608
+ 956\n\nSanrio Fair 2017\nNov 16 - Dec 20\n\nMeet & Greet และถ่ายรูปกับ Hell
+ o Kitty\n12:00-12:30\, 15:00-15:30\, 18:00-18:30\nNov 17-19 ี่เซ็นทรัลลาดพร
+ ้าว (Zone B)\nNov 24-25 เซ็นทรัลเวสต์เกต\nNov 26 ที่เซ็นทรัลแจ้งวัฒนะ\nDec 
+ 2-3 เซ็นทรัลชิดลม\nDec 5 เซ็นทรัลลาดพร้าว ชั้น G1\nDec 16-17 เซ็นทรัลเวิลล์
+LAST-MODIFIED:20180202T143014Z
+LOCATION:Central Department Store\, Khwaeng Lumphini\, Khet Pathum Wan\, Kr
+ ung Thep Maha Nakhon 10330\, Thailand
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT Sanrio Fair
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180220T213000Z
+DTEND:20180220T230000Z
+UID:06263sudn6abe7fr2ao9kjnfll@google.com
+CREATED:20180202T132053Z
+DESCRIPTION:https://www.facebook.com/events/2009670452654916/\nhttps://www.
+ kijiji.ca/v-events/norfolk-county/hello-kitty-meet-greet/1330364365\nhttps:
+ //www.kijiji.ca/v-events/brantford/meet-greet-hello-kitty/1330365465 \n\n\n
+ Meet & Greet - Hello Kitty\n20 February at 16:30–18:00 EST
+LAST-MODIFIED:20180202T132053Z
+LOCATION:Six Nations Marketplace\, 50 Generations Drive\, Caledonia\, Ontar
+ io N0A 1M0\, Canada
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT Six Nations Marketplace
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180303T033000Z
+DTEND:20180303T040000Z
+UID:4ed9v3lgmt4ho1iaaapn104vt0@google.com
+CREATED:20180202T124820Z
+DESCRIPTION:https://mangaoukoku-tosa.jp/articles/page.php?ID=1751\nhttps://
+ www.sankeibiz.jp/business/news/180201/prl1802011306144-n1.htm\n\n第4回全国漫画家大会
+ 議inまんが王国・土佐\n\n3月3日（土） 13:00-17:00\n3月4日（日） 10:00-16:30\n\n3月3日\n12:30-13:0
+ 0 オープニングセレモニー\n\n3月4日\n午前の部 1100開演（開場1030）\n午後の部 1400開演（開場1330）
+LAST-MODIFIED:20180202T124820Z
+LOCATION:かるぽーと\, 2-1 Kutanda\, Kōchi-shi\, Kōchi-ken 780-0832\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT 全国漫画家大会議inまんが王国・土佐 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180304T020000Z
+DTEND:20180304T063000Z
+UID:51bn3f50gdb148gbdj7coptlj9@google.com
+CREATED:20171104T104326Z
+DESCRIPTION:<a href="https://www.google.com/url?q=https%3A%2F%2Fmangaoukoku
+ -tosa.jp%2Farticles%2Fpage.php%3FID%3D1749&amp\;sa=D&amp\;usd=2&amp\;usg=AF
+ QjCNGjIkKW4G_lEP6hh-wcY0z5JD-usg" target="_blank">https://mangaoukoku-tosa.
+ jp/articles/page.php?ID=1749</a><br><a href="https://www.google.com/url?q=h
+ ttps%3A%2F%2Ftwitter.com%2Fmangaoukokutosa%2Fstatus%2F926687497433661440&am
+ p\;sa=D&amp\;usd=2&amp\;usg=AFQjCNHfqYFwvzn9798fgg0wOpDfzW0Ufw" target="_bl
+ ank">https://twitter.com/mangaoukokutosa/status/926687497433661440</a><br>h
+ ttps://www.sankeibiz.jp/business/news/180201/prl1802011306144-n1.htm<br><br
+ >第4回全国漫画家大会議 in まんが王国・土佐<br>2018年3月3日（土）、4日（日）<br><br>サンリオファミリーミュージカル「ハローキテ
+ ィのドリームトラベラー」<br>KT\,DN\,XO\,MM\,TS\,PN\,CN<br><br>2018年3月4日（日）<br>午前の部 1100
+ 開演（開場1030）<br>午後の部 1400開演（開場1330）<br>高知市文化プラザかるぽーと2F（大ホール）<br><br>前売券2160円、
+ 当日券2700円<br>チケットぴあ等にて12月頃発売予定
+LAST-MODIFIED:20180202T124411Z
+LOCATION:かるぽーと\, 日本、〒780-0832 高知県高知市九反田２−１
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ドリームトラベラー
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20180131T090000
+DTEND;TZID=Europe/Berlin:20180131T180000
+RRULE:FREQ=DAILY;UNTIL=20180204T225959Z
+UID:29q3s7395310bp37j8k93a91kk@google.com
+CREATED:20180131T160520Z
+DESCRIPTION:<a href="https://www.google.com/url?q=https%3A%2F%2Ftwitter.com
+ %2FWeRHelloKitty%2Fstatus%2F958732788462751744&amp\;sa=D&amp\;usd=2&amp\;us
+ g=AFQjCNG_tTVSKWWYEzgrwfJMh_F9nE2RTw" target="_blank">https://twitter.com/W
+ eRHelloKitty/status/958732788462751744</a><br>https://www.instagram.com/p/B
+ eqf1sbFmLU/<br><br>Nuremberg Toy Fair 2018<br>31 Jan - 4 Feb 2018<br>9:00 a
+ m - 6:00 pm<br>Messezentrum Nürnberg (Nuremberg Exhibition Center)
+LAST-MODIFIED:20180202T124230Z
+LOCATION:Exhibition Center Nürnberg Messezentrum\, Bertolt-Brecht-Straße 30
+ \, 90471 Nürnberg\, Germany
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:KT Nuremberg Toy Fair
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180203T000000Z
+DTEND:20180203T040000Z
+UID:1suc2la2sdtqr08fgi4e9p37m5@google.com
+CREATED:20180131T142102Z
+DESCRIPTION:<a href="https://www.google.com/url?q=https%3A%2F%2Fwww.faceboo
+ k.com%2Fevents%2F2020239674922105%2F&amp\;sa=D&amp\;usd=2&amp\;usg=AFQjCNH0
+ TWc2EMxJ5jEcpc5rf1XlaRjEuA" target="_blank">https://www.facebook.com/events
+ /2020239674922105/</a><br>https://www.instagram.com/p/BerJ-NSjqO-/<br><br>P
+ UMA x Hello Kitty Launch Event<br>2 February at 16:00–20:00 PST<br>Shoe Pal
+ ace Pop-Up\, 7711 Melrose Ave. Los Angeles\, CA 90046<br><br><br>Hello Kitt
+ y will be stopping by for a supercute meet &amp\; greet and music will be p
+ rovided by DJ Bad Ash.
+LAST-MODIFIED:20180202T124111Z
+LOCATION:7711 Melrose Ave\, Los Angeles\, CA 90046\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT PUMA Launch Event
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180204T070000Z
+DTEND:20180204T083000Z
+UID:2e05l03e7odg3p6th8hnqp64hh@google.com
+CREATED:20180202T104114Z
+DESCRIPTION:https://www.facebook.com/chowsangsang/videos/10154958827422587/
+ \nhttps://www.instagram.com/p/BerSC0glbYv/\nhttps://www.facebook.com/notes/
+ chow-sang-sang-jewellery-official-page-周生生珠寶官方專頁/-新春賀年-cinnamoroll-見面會-條款及細
+ 則/10156272468452845/\n\n新春賀年 Cinnamoroll 見面會\n\n2月3日（週六）\n元朗形點 YOHO mall 1樓
+  1008 號\n\n2月4 日（週日）\n將軍澳新都城中心二期商場 L1\, 1162-1165 號\n\n3pm - 3:30pm / 4pm -
+  4:30pm
+LAST-MODIFIED:20180202T104114Z
+LOCATION:Metro City Plaza II\, 8 Yan King Rd\, Tseung Kwan O\, Hong Kong
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CN 新春賀年見面會
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180203T070000Z
+DTEND:20180203T083000Z
+UID:77rv77ebtg0tl3p26enel4et7u@google.com
+CREATED:20180202T104054Z
+DESCRIPTION:https://www.facebook.com/chowsangsang/videos/10154958827422587/
+ \nhttps://www.instagram.com/p/BerSC0glbYv/\nhttps://www.facebook.com/notes/
+ chow-sang-sang-jewellery-official-page-周生生珠寶官方專頁/-新春賀年-cinnamoroll-見面會-條款及細
+ 則/10156272468452845/\n\n新春賀年 Cinnamoroll 見面會\n\n2月3日（週六）\n元朗形點 YOHO mall 1樓
+  1008 號\n\n2月4 日（週日）\n將軍澳新都城中心二期商場 L1\, 1162-1165 號\n\n3pm - 3:30pm / 4pm -
+  4:30pm
+LAST-MODIFIED:20180202T104054Z
+LOCATION:Yoho Mall 1\, Yuen Long\, Hong Kong
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CN 新春賀年見面會
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180317T051500Z
+DTEND:20180317T072500Z
+UID:4h3u0rj1c8a3oldp9f0232s5dr@google.com
+CREATED:20180202T103026Z
+DESCRIPTION:http://tokyoproject.kosodateswitch.jp/event0317\n\n平成29年度第4回子育て
+ 応援Tokyoプロジェクト2018 in 二子玉川\n平成３０年３月１７日（土）午後１時から午後４時３０分まで\niTSCOM STUDIO & HA
+ LL 二子玉川ライズ\n\nハローキティとHUGしてぎゅっ！\n1回目 14:15～14:45\n2回目 15:55～16:25\n\n写真撮影整理券
+ 配布\n1回目 13:00～ / 2回目 15:20～
+LAST-MODIFIED:20180202T103026Z
+LOCATION:iTSCOM STUDIO & HALL 二子玉川ライズ\, Japan\, 〒158-0094 Tōkyō-to\, Setaga
+ ya-ku\, Tamagawa\, 1 Chome−14\, 玉川一丁目14番1号 二子玉川ライズ2F
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT HUGしてぎゅっ
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180204T110000
+DTEND;TZID=Asia/Tokyo:20180204T153000
+RRULE:FREQ=WEEKLY;COUNT=2;BYDAY=SU
+UID:3gqb2nrkb4mc9gi22tbs5tjfi8@google.com
+CREATED:20180202T102608Z
+DESCRIPTION:http://www.seibu-leisure.co.jp/event/14622/index.html\n\n2月4日（日
+ ）、11日（日）\n11:00 ポムポムプリンとハッピーグリーティング\n13:00 バースデーセレブレーション\n15:00 ポムポムプリンとのんび
+ り運動会
+LAST-MODIFIED:20180202T102608Z
+LOCATION:Seibuen Yuenchi\, 2964 Yamaguchi\, Tokorozawa-shi\, Saitama-ken 35
+ 9-1145\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:PN\,KT 西武園ゆうえんち
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180217T033000Z
+DTEND:20180217T083000Z
+UID:63cubho8v1oi5v52cct80131ph@google.com
+CREATED:20180131T150759Z
+DESCRIPTION:<br><a href="https://www.google.com/url?q=https%3A%2F%2Fprtimes
+ .jp%2Fmain%2Fhtml%2Frd%2Fp%2F000000036.000025606.html&amp\;sa=D&amp\;usd=2&
+ amp\;usg=AFQjCNGwZWNHBUMIAHX92Fs44gQVazx5Ow" target="_blank">https://prtime
+ s.jp/main/html/rd/p/000000036.000025606.html</a><br>http://dtimes.jp/tokyo-
+ banana-world-hello-kitty-the-apple-cake-from-ginza/<br><br>『東京ばな奈 』×『ハローキティ
+ 』<br>『「銀座のアップルケーキ」です。』<br>2018年2月17日（土） 12:30~ /14:00~ /15:30~ /17:00~<br>成
+ 田空港 第1ターミナル4F Fa-So-La GIFT SHOP南ウイング店またはDRUGSTORE南ウイング店 店舗前
+LAST-MODIFIED:20180201T004151Z
+LOCATION:Narita Airport Terminal 1\, Goryobokujo Sanrizuka\, Narita\, Chiba
+  Prefecture 286-0111\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT 成田空港
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180127T033000Z
+DTEND:20180127T053000Z
+UID:54ssjh3d9fjufrh9as9t7um0ec@google.com
+CREATED:20180131T161400Z
+DESCRIPTION:https://www.facebook.com/events/161671497889117/\n\nHello Kitty
+  x Guardian\n27 January at 11:30–13:00 UTC+08\nBerjaya Times Square Kuala L
+ umpur
+LAST-MODIFIED:20180131T161400Z
+LOCATION:Berjaya Times Square\, 1\, Jalan Imbi\, Imbi\, 55100 Kuala Lumpur\
+ , Federal Territory of Kuala Lumpur\, Malaysia
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT Guardian
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180128T020000Z
+DTEND:20180128T080000Z
+UID:01jpn62lm5tucciu804qa1qp09@google.com
+CREATED:20171227T142213Z
+DESCRIPTION:<a href="https://www.google.com/url?q=https%3A%2F%2Fwww.sanrio.
+ co.jp%2Fnews%2Fmf-greeting-schedule-20171228%2F&amp\;sa=D&amp\;usd=2&amp\;u
+ sg=AFQjCNFqUTpYyvHdd4Q_ScomA-mQmEbSvQ" target="_blank">https://www.sanrio.c
+ o.jp/news/mf-greeting-schedule-20171228/</a><br><br>まるもふびより“モップ”の店頭グリーティングイ
+ ベント<br><br><a href="https://www.google.com/url?q=https%3A%2F%2Fwww.sanrio.c
+ o.jp%2Fnews%2Fevent-gg-natori-20180121%2F&amp\;sa=D&amp\;usd=2&amp\;usg=AFQ
+ jCNFBMJdie8UFQldGxOZPYT7hznHuBg" target="_blank">https://www.sanrio.co.jp/n
+ ews/event-gg-natori-20180121/</a><br><br>モップとダンス＆抽選会・かぶりんぼ写真撮影会（Sanrio Gift
+  Gate イオンモール名取）<br>1/21（日）<br>①12:30〜/②14:00〜/③15:30〜<br>Sanrio Gift Gate イ
+ オンモール名取 3F店内イベントスペース<br>写真撮影会の整理券は店内にて税込み1\,080円以上お買上げで40名限定<br><br><a href
+ ="https://www.google.com/url?q=https%3A%2F%2Fwww.sanrio.co.jp%2Fnews%2Feven
+ t-gg-musashimurayama-20180128%2F&amp\;sa=D&amp\;usd=2&amp\;usg=AFQjCNGBiNMb
+ 5QoMK1enqxx5qNNHSxKp-w" target="_blank">https://www.sanrio.co.jp/news/event
+ -gg-musashimurayama-20180128/</a><br>http://sanrio.cocolog-nifty.com/shop/2
+ 018/01/post-9edd.html<br><br>モップとかぶりんぼ写真撮影会（Sanrio Gift Gate イオンモールむさし村山店）<
+ br>1/28（日）<br>①11:00〜/②13:00〜/③15:00〜/④16:30〜<br>Sanrio Gift Gate イオンモールむさし
+ 村山店 1F センターコート<br>各回30名限定<br>イベント当日オープンからサンリオギフトゲートカウンターにて各回の整理券を配布<br>整理券の
+ 残りがあった際は、各回会場にて配布
+LAST-MODIFIED:20180131T161213Z
+LOCATION:Aeon Mall Musashi Murayama\, 1 Chome-1-3 Enoki\, Musashimurayama-s
+ hi\, Tōkyō-to 208-0022\, Japan
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:MF イオンモールむさし村山
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180212T020000Z
+DTEND:20180212T053000Z
+UID:46slerjkl44ug18obldgrenctp@google.com
+CREATED:20180131T142917Z
+DESCRIPTION:\n回により場所が異なる\nhttp://housing.hicbc.com/nagakute/event/\nhttp://
+ housing.hicbc.com/assets/pdf/nagakute/n180203.pdf\nhttp://housing.hicbc.com
+ /kanie/event/\nhttp://housing.hicbc.com/assets/pdf/kanie/k180203.pdf\n\nハロー
+ キティ＆ディアダニエル　バレンタインミニステージ\n2018-02-12\n11:00～ CBCハウジング長久手住まいの公園\n14:00～ CBCハ
+ ウジング蟹江インター住まいの公園
+LAST-MODIFIED:20180131T142917Z
+LOCATION:CBCハウジング長久手住まいの公園\, Japan\, 〒480-1103 Aichi-ken\, Nagakute-shi\, Y
+ azakonagatsuru\, 50
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT\,DN バレンタインミニステージ
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180218T020000Z
+DTEND:20180218T063000Z
+UID:0j7fb9e8ett3hiuh234b5fo532@google.com
+CREATED:20180131T142420Z
+DESCRIPTION:https://mitsui-shopping-park.com/mop/sapporo/event/10742.html\n
+ \n2/17(土)・2/18(日) ①11：00～、②13：00～、③15：00～\nクローバー・モール1F イベントステージ エルフィンコート\n\
+ n2/17(土) 「ハローキティ ジャンケンパラダイス」\n2/18(日) 「ハローキティ HUGしてぎゅっ」\n\n両日ともに当日分の写真撮影会整理
+ 券を配布\n1回30組\n\n整理券配布時間\n1回目　10:00～　クローバー・モール1F 北エントランス\n2回目　12:00～　クローバー・モー
+ ル1F エルフィンコート\n3回目　14:00～　クローバー・モール1F エルフィンコート 
+LAST-MODIFIED:20180131T142420Z
+LOCATION:三井アウトレットパーク 札幌北広島\, 3 Chome-7-6 Ōmagarisaiwaichō\, Kitahiroshima-s
+ hi\, Hokkaidō 061-1278\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT HUGしてぎゅっ
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180217T020000Z
+DTEND:20180217T063000Z
+UID:4e4bgi089k4k0hgghk2j3bs0ed@google.com
+CREATED:20180131T142405Z
+DESCRIPTION:https://mitsui-shopping-park.com/mop/sapporo/event/10742.html\n
+ \n2/17(土)・2/18(日) ①11：00～、②13：00～、③15：00～\nクローバー・モール1F イベントステージ エルフィンコート\n\
+ n2/17(土) 「ハローキティ ジャンケンパラダイス」\n2/18(日) 「ハローキティ HUGしてぎゅっ」\n\n両日ともに当日分の写真撮影会整理
+ 券を配布\n1回30組\n\n整理券配布時間\n1回目　10:00～　クローバー・モール1F 北エントランス\n2回目　12:00～　クローバー・モー
+ ル1F エルフィンコート\n3回目　14:00～　クローバー・モール1F エルフィンコート 
+LAST-MODIFIED:20180131T142405Z
+LOCATION:三井アウトレットパーク 札幌北広島\, 3 Chome-7-6 Ōmagarisaiwaichō\, Kitahiroshima-s
+ hi\, Hokkaidō 061-1278\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT ジャンケンパラダイス
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20180304
+DTEND;VALUE=DATE:20180305
+UID:2o8b7nsrt3bv37uvuv82qg9t1e@google.com
+CREATED:20180131T141825Z
+DESCRIPTION:http://webtown.nagayo.jp/gyoseijoho/shisetsuichiran/bunka/tyomi
+ n_oshirase.html\n\n\n長与町教育委員会自主事業\nキティズパラダイス＆チャオ！チャオ！コンサート\n平成30年3月4日（日）　開場
+ 13：30　　開演14：00\n町民文化ホール\n\nチケット発売開始予定日\n平成３０年１月２４日（水）９：００～
+LAST-MODIFIED:20180131T141825Z
+LOCATION:長与町民文化ホール\, 73-1 Yoshimutagō\, Nagayo-chō\, Nishisonogi-gun\, Naga
+ saki-ken 851-2126\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT\,XO\,CN キティズパラダイス
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20171223
+DTEND;VALUE=DATE:20171224
+UID:5bufv54b2j6e3plheru4g9mqtb@google.com
+CREATED:20180131T141438Z
+DESCRIPTION:https://www.facebook.com/DJ.Hello.Kitty.sanrio.license/posts/16
+ 61473097238055\n\nDJ Hello Kitty Pacha's Playroom\n2017-12-23\nPacha Macau
+LAST-MODIFIED:20180131T141438Z
+LOCATION:Pacha Macau\, MacauEstr. Flor de Lotus\, Studio City Macau
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT Pacha's Playroom 
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180224T023000Z
+DTEND:20180224T083000Z
+UID:2s31umgc32nh5ai01smfig0s7n@google.com
+CREATED:20180119T140629Z
+DESCRIPTION:<br><a href="https://www.google.com/url?q=https%3A%2F%2Fwww.san
+ rio.co.jp%2Fwp-content%2Fuploads%2F2018%2F01%2F20180118.pdf&amp\;sa=D&amp\;
+ usd=2&amp\;usg=AFQjCNE7RdIxnTXqGnZDc1lLFDBBG1ljCQ" target="_blank">https://
+ www.sanrio.co.jp/wp-content/uploads/2018/01/20180118.pdf</a><br><br>みゅーちゃんが
+ サンリオ直営店にやってきます<br><br>2月3日（土） Sanrio Gift Gate イオンモール浦和美園店<br>2月11日（日・祝） Sa
+ nrio Gift Gate グランツリー武蔵小杉店<br>2月17日（土） Sanrio Gift Gate 名古屋mozoワンダーシティ店<br>
+ 2月24日（土） Sanrio Gift Gate ららぽーとEXPOCITY店<br>3月3日（土） Sanrio Gift Gate イオンモール
+ 筑紫野店<br><br>https://www.sanrio.co.jp/news/event-lalaport-expocity-20180224/
+ <br><br>ミュークルドリーミー”みゅー”と一緒に写真撮影会　（Sanrio Gift Gate ららぽーとEXPOCITY店）<br>ららぽーと
+ EXPOCITY 3F グローバルワーク前<br>2/24（土）<br>①11:30〜/②13:30〜/③15:30〜/④17:00〜<br>写真撮影
+  各回30名限定<br>イベント当日オープンからサンリオギフトゲートカウンターにて、各回の整理券を配布<br>17:00の回は、みゅーちゃんがサンリオ
+ ギフトゲートに遊びにいき、写真撮影会はなし
+LAST-MODIFIED:20180131T050757Z
+LOCATION:ららぽーとEXPOCITY\, Japan\, 〒565-0826 Ōsaka-fu\, Suita-shi\, 千里万博公園2−1
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:MW ららぽーとEXPOCITY
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180212T030000Z
+DTEND:20180212T073000Z
+UID:63qufki1hvit78m1rhjdfb51vs@google.com
+CREATED:20180112T154700Z
+DESCRIPTION:<a href="https://www.google.com/url?q=http%3A%2F%2Fwww.s-markci
+ ty.co.jp%2Fnews%2Fdetail.php%3Fid%3D1069&amp\;sa=D&amp\;usd=2&amp\;usg=AFQj
+ CNHI5bGDmqeLpPmbuVNeM599bE6NvA" target="_blank">http://www.s-markcity.co.jp
+ /news/detail.php?id=1069</a><br><a href="https://www.google.com/url?q=https
+ %3A%2F%2Fwww.facebook.com%2Fhellokitty.japan%2Fposts%2F1799445930128541%2F&
+ amp\;sa=D&amp\;usd=2&amp\;usg=AFQjCNF7HM-6EuUgT-fKM7SAuIpwApxGrg" target="_
+ blank">https://www.facebook.com/hellokitty.japan/posts/1799445930128541/</a
+ ><br><a href="https://www.google.com/url?q=https%3A%2F%2Fwww.sanrio.co.jp%2
+ Fnews%2Fkt-gotochi-shibuya-markcity-20180110%2F&amp\;sa=D&amp\;usd=2&amp\;u
+ sg=AFQjCNEAxNAEbNMC04j6fCsnV3WSTfwOiw" target="_blank">https://www.sanrio.c
+ o.jp/news/kt-gotochi-shibuya-markcity-20180110/</a><br><a href="https://www
+ .google.com/url?q=https%3A%2F%2Fwww.value-press.com%2Fpressrelease%2F195382
+ &amp\;sa=D&amp\;usd=2&amp\;usg=AFQjCNFq1yRJzf2Fa_ujCZv7mTzEN4lEzQ" target="
+ _blank">https://www.value-press.com/pressrelease/195382</a><br><a href="htt
+ ps://www.google.com/url?q=https%3A%2F%2Ftwitter.com%2Fsanrio_news%2Fstatus%
+ 2F951317767130460161&amp\;sa=D&amp\;usd=2&amp\;usg=AFQjCNFVgEqAj4O8GY401FYG
+ ezcNd6Fckw" target="_blank">https://twitter.com/sanrio_news/status/95131776
+ 7130460161</a><br><a href="https://www.google.com/url?q=https%3A%2F%2Famebl
+ o.jp%2Fvega-seachan%2Fentry-12348374654.html&amp\;sa=D&amp\;usd=2&amp\;usg=
+ AFQjCNFT8mPbM1fraUxG5sWQN2UZTkglGQ" target="_blank">https://ameblo.jp/vega-
+ seachan/entry-12348374654.html</a><br><br>SHIBUYA MARK CITY × Hello Kitty V
+ alentine<br>1月16日（火）〜2月14日（水）<br><br>ハローキティがやってくる！<br>渋谷マークシティ イーストモール1Fイベン
+ トスクエア<br>2月12日（月・休）<br>12:00〜12:30 / 14:00〜14:30 / 16:00〜16:30
+LAST-MODIFIED:20180131T050052Z
+LOCATION:Shibuya Mark City\, 1 Chome-12-1 Dōgenzaka\, Shibuya-ku\, Tōkyō-to
+  150-0043\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT SHIBUYA MARK CITY × Hello Kitty Valentine
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180203T020000Z
+DTEND:20180203T073000Z
+UID:160ofplr70glk3rie7bl81v68i@google.com
+CREATED:20180119T133159Z
+DESCRIPTION:<br><a href="https://www.google.com/url?q=https%3A%2F%2Fwww.san
+ rio.co.jp%2Fnews%2Fevent-gg-urawamisono-20180203%2F&amp\;sa=D&amp\;usd=2&am
+ p\;usg=AFQjCNHcgzU-wiznHibOYdIhBn2mWTEyug" target="_blank">https://www.sanr
+ io.co.jp/news/event-gg-urawamisono-20180203/</a><br>http://sanrio.cocolog-n
+ ifty.com/shop/2018/01/post-cce5.html<br><br>話題のサンリオ新キャラクター「ミュークルドリーミー」のみゅーち
+ ゃんが登場！！<br>みゅーちゃんと一緒に写真撮影ができるよ。各回30名様限定。&nbsp\;<br><br><br>会場:&nbsp\;イオンモール
+ 浦和美園 3Fフードコート前&nbsp\;<br><br>開催時間: 2/3(土) 11:00\, 12:30\, 14:30\, 16:00
+LAST-MODIFIED:20180131T013045Z
+LOCATION:イオンモール浦和美園\, 日本、〒336-8760 埼玉県さいたま市緑区美園5丁目50番地1
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MW ”みゅー”と一緒に写真撮影会
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180127T020000Z
+DTEND:20180127T073000Z
+UID:2qc049dlgh640h12rbvpjpvub5@google.com
+CREATED:20180119T123113Z
+DESCRIPTION:<br><a href="https://www.google.com/url?q=https%3A%2F%2Fwww.san
+ rio.co.jp%2Fnews%2Fevent-gg-lalaport-tokyobay-20180127%2F&amp\;sa=D&amp\;us
+ d=2&amp\;usg=AFQjCNHiMg6frhqGaYWetUcWMRNidW0-XA" target="_blank">https://ww
+ w.sanrio.co.jp/news/event-gg-lalaport-tokyobay-20180127/</a><br>http://sanr
+ io.cocolog-nifty.com/shop/2018/01/127sat-90fc.html<br><br>マイメロディ写真撮影会！<br><
+ br>①11:00〜/②12:30〜/③14:30〜/④16:00〜<br>Sanrio Gift Gate ららぽーとTOKYO-BAY店 店頭スペ
+ ース<br><br>当日10時よりSanrio Gift Gate ららぽーとTOKYO-BAY店 にて税込み1\,080円以上お買い上げ（くじ・ セ
+ ール品除く）の方に、マイメロディとの写真撮影会に参加できる整理券を差し上げます。 <br>（各回先着30名様限定）<br><br>※1回の買い物につき
+ 、整理券1枚<br>※希望の時間を先着で選択可
+LAST-MODIFIED:20180131T012915Z
+LOCATION:ららぽーと TOKYO-BAY\, 日本、〒273-8530 千葉県船橋市浜町２丁目１−１
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MM ららぽーとTOKYO-BAY
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180203T010000Z
+DTEND:20180203T073000Z
+UID:03d12v2jphkc130svis2vmrc1l@google.com
+CREATED:20180122T123651Z
+DESCRIPTION:<a href="https://www.google.com/url?q=http%3A%2F%2Fwww.takahata
+ fudoson.or.jp%2F%3Fp%3D2153&amp\;sa=D&amp\;usd=2&amp\;usg=AFQjCNG0zXnUR-R4_
+ 4m47SfyfWwCnHcsnw">http://www.takahatafudoson.or.jp/?p=2153</a><br><br><br>
+ 時間: ①10:00～ / ②11:00～ / ③13:00～ / ④15:00～ / ⑤16:00～
+LAST-MODIFIED:20180122T144124Z
+LOCATION:高幡不動尊金剛寺\, 東京都日野市高幡733
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT 節分豆撒式
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180203T034000Z
+DTEND:20180203T054500Z
+UID:4suv7b7cof8t82q2ne3kr91cmj@google.com
+CREATED:20180122T123202Z
+DESCRIPTION:https://twitter.com/atsugi_ayukoro/status/955415594295177217<br
+ ><a href="https://www.google.com/url?q=https%3A%2F%2Fwww.facebook.com%2Fayu
+ korochan%2Fposts%2F1811922848820520&amp\;sa=D&amp\;usd=2&amp\;usg=AFQjCNEXc
+ -dg8Toep9tioXzambZEX-HGuQ">https://www.facebook.com/ayukorochan/posts/18119
+ 22848820520</a><br><a href="https://www.google.com/url?q=http%3A%2F%2Fwww.c
+ ity.atsugi.kanagawa.jp%2Fkankou%2Fcitysales%2Fcharacter%2Fd040184.html&amp\
+ ;sa=D&amp\;usd=2&amp\;usg=AFQjCNG-PjGQX7DdM_bWbe5ChCTh08wkUQ">http://www.ci
+ ty.atsugi.kanagawa.jp/kankou/citysales/character/d040184.html</a><br><br>ハロ
+ ーキティコラボフォトセッション<br><br>場所: 8F屋内広場sola特設ステージ<br>時間: ①12:40～13:05 / ②14:20～14
+ :45<br><br>各回先着40名、9:30からルーム606-607「あゆコロちゃんのお部屋」で整理券を配布
+LAST-MODIFIED:20180122T144109Z
+LOCATION:アミューあつぎ\, 神奈川県厚木市中町２丁目１２−１５
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT あゆコロちゃんバースデー
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180128T020000Z
+DTEND:20180128T073000Z
+UID:3le734t1mkgnvs92oj4okrk5j6@google.com
+CREATED:20180119T140231Z
+DESCRIPTION:\nhttps://www.sanrio.co.jp/news/event-vx-sunshinecityalpa-20180
+ 128/\n\nシナモロール写真撮影会！（Sanrio vivitix サンシャインシティアルパ店）\n1/28（日）\n①11:00〜/②12:30
+ 〜/③14:30〜/④16:00〜\nSanrio vivitix サンシャインシティアルパ店 店頭スペース\n\n当日10時よりSanrio viv
+ itix サンシャインアルパ店にて税込み2\,000円以上お買い上げで整理券を配布\n各回先着30名
+LAST-MODIFIED:20180119T140231Z
+LOCATION:Sunshine City Alpa\, Japan\, 〒170-0013 Tōkyō-to\, Toshima-ku\, 豊島区
+ Higashiikebukuro\, 3 Chome−3−1
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CN サンシャインシティアルパ
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180121T033000Z
+DTEND:20180121T070000Z
+UID:728kol4h8h901u1tho9ghv05gv@google.com
+CREATED:20171227T142142Z
+DESCRIPTION:<br><a href="https://www.google.com/url?q=https%3A%2F%2Fwww.san
+ rio.co.jp%2Fnews%2Fmf-greeting-schedule-20171228%2F&amp\;sa=D&amp\;usd=2&am
+ p\;usg=AFQjCNFqUTpYyvHdd4Q_ScomA-mQmEbSvQ" target="_blank">https://www.sanr
+ io.co.jp/news/mf-greeting-schedule-20171228/</a><br><br>まるもふびより“モップ”の店頭グリーテ
+ ィングイベント<br><br><a href="https://www.google.com/url?q=https%3A%2F%2Fwww.sanr
+ io.co.jp%2Fnews%2Fevent-gg-natori-20180121%2F&amp\;sa=D&amp\;usd=2&amp\;usg
+ =AFQjCNFBMJdie8UFQldGxOZPYT7hznHuBg" target="_blank">https://www.sanrio.co.
+ jp/news/event-gg-natori-20180121/</a><br>http://sanrio.cocolog-nifty.com/sh
+ op/2018/01/post-a3e7-3.html<br><br>モップとダンス＆抽選会・かぶりんぼ写真撮影会（Sanrio Gift Gate 
+ イオンモール名取）<br>1/21（日）<br>①12:30〜/②14:00〜/③15:30〜<br>Sanrio Gift Gate イオンモール名
+ 取 3F店内イベントスペース<br>写真撮影会の整理券は店内にて税込み1\,080円以上お買上げで40名限定<br><br><a href="http
+ s://www.google.com/url?q=https%3A%2F%2Fwww.sanrio.co.jp%2Fnews%2Fevent-gg-m
+ usashimurayama-20180128%2F&amp\;sa=D&amp\;usd=2&amp\;usg=AFQjCNGBiNMb5QoMK1
+ enqxx5qNNHSxKp-w" target="_blank">https://www.sanrio.co.jp/news/event-gg-mu
+ sashimurayama-20180128/</a><br><br>モップとかぶりんぼ写真撮影会（Sanrio Gift Gate イオンモールむさ
+ し村山店）<br>1/28（日）<br>①11:00〜/②13:00〜/③15:00〜/④16:30〜<br>Sanrio Gift Gate イオン
+ モールむさし村山店 1F センターコート<br>各回30名限定<br>イベント当日オープンからサンリオギフトゲートカウンターにて各回の整理券を配布<b
+ r>整理券の残りがあった際は、各回会場にて配布
+LAST-MODIFIED:20180118T160812Z
+LOCATION:Aeon Mall Natori\, 5 Chome-3-1 Morisekinoshita\, Natori-shi\, Miya
+ gi-ken 981-1227\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MF イオンモール名取
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Hong_Kong:20180127T160000
+DTEND;TZID=Asia/Hong_Kong:20180127T173000
+RRULE:FREQ=WEEKLY;COUNT=2;BYDAY=SA
+UID:3ll2gl496l6gas5tlm53ug89g1@google.com
+CREATED:20180118T155913Z
+DESCRIPTION:\nhttp://timable.com/event/1571860\nhttps://www.facebook.com/Th
+ eONE/posts/10155858435495516\n\n「Pochacco新春行運樂團圓」@The ONE\n21 Jan ‑ 4 Mar 2
+ 018 (everyday) 10am ‑ 10pm (12 hours)\nThe ONE UG2中庭 》香港尖沙咀彌敦道100號\n\nThe O
+ NE ‧ Pochacco新春行運樂團圓\n1月20日 (星期六)\n下午3時\nUG2中庭\n\n\n謝安琪及Pochacco\nPocchaco新
+ 春見面會\n1月27日及2月3日 (星期六)\n下午4時(第一場)及5時(第二場)\nUG2中庭
+LAST-MODIFIED:20180118T155914Z
+LOCATION:The ONE\, 100 Nathan Rd\, Tsim Sha Tsui\, Hong Kong
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:PC 新春行運樂團圓
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180120T070000Z
+DTEND:20180120T073000Z
+UID:1reil3vjsuhfhb8jsjc8okar1u@google.com
+CREATED:20180118T155850Z
+DESCRIPTION:\nhttp://timable.com/event/1571860\nhttps://www.facebook.com/Th
+ eONE/posts/10155858435495516\n\n「Pochacco新春行運樂團圓」@The ONE\n21 Jan ‑ 4 Mar 2
+ 018 (everyday) 10am ‑ 10pm (12 hours)\nThe ONE UG2中庭 》香港尖沙咀彌敦道100號\n\nThe O
+ NE ‧ Pochacco新春行運樂團圓\n1月20日 (星期六)\n下午3時\nUG2中庭\n\n\n謝安琪及Pochacco\nPocchaco新
+ 春見面會\n1月27日及2月3日 (星期六)\n下午4時(第一場)及5時(第二場)\nUG2中庭
+LAST-MODIFIED:20180118T155850Z
+LOCATION:The ONE\, 100 Nathan Rd\, Tsim Sha Tsui\, Hong Kong
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:PC 新春行運樂團圓
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20180115
+DTEND;VALUE=DATE:20180116
+UID:75jcu4161d24cuc287uia4qu49@google.com
+CREATED:20180115T131120Z
+DESCRIPTION:https://twitter.com/WeRHelloKitty/status/952856725132070912\nht
+ tps://www.instagram.com/p/Bd9z7OFg_fS/\nhttps://twitter.com/TopDrawerLondon
+ /status/952886656771723269\n\nTop Drawer\nOlympia London\nSunday 14 January
+ : 09:30 - 18:00\nMonday 15 January: 09:30 - 18:00\nTuesday 16 January: 09:3
+ 0 - 17:00\n\nTake a selfie with Hello Kitty!\n2018-01-15\nJolly Awesome (St
+ and X49\,X50)
+LAST-MODIFIED:20180115T131120Z
+LOCATION:Olympia London\, Hammersmith Rd\, London W14 8UX\, UK
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT Top Drawer
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180317T023000Z
+DTEND:20180317T083000Z
+UID:1rvdlnva63fiuirur6197nmgfv@google.com
+CREATED:20180112T164410Z
+DESCRIPTION:\nhttps://www.sanrio.co.jp/news/event-gg-aeonmall-itami-2018031
+ 7/\n\nモップとかぶりんぼ写真撮影会（イオンモール伊丹店）\nイオンモール伊丹店 1F スカイコート\n3/17（土）\n①11:30〜 / ②1
+ 3:30〜 / ③15:30〜 / ④17:00〜\n\n各回30名\nイベント当日オープンからサンリオギフトゲートカウンターにて各回の整理券を配布\
+ n④の回のみ、サンリオギフトゲートにて。写真撮影会なし
+LAST-MODIFIED:20180112T164410Z
+LOCATION:Aeon Mall Itami\, Japan\, 〒664-0847 Hyōgo-ken\, Itami-shi\, Fujino
+ ki\, 1 Chome−1−１
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MF イオンモール伊丹
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180304T020000Z
+DTEND:20180304T063000Z
+UID:08nmr7dud2jhj3q8rovuj64pif@google.com
+CREATED:20180112T164225Z
+DESCRIPTION:\nhttps://www.sanrio.co.jp/news/event-itoyokado-ario-soga-20180
+ 304/\n\nまるもふびよりモップ握手会（イトーヨーカドーアリオ蘇我店）\nイトーヨーカドーアリオ蘇我店 2Fなかよし広場\n3/4日（日）\n①1
+ 1:00〜 / ②13:00〜 / ③15:00〜\n無料・各回30分間・整理券等配布なし
+LAST-MODIFIED:20180112T164225Z
+LOCATION:アリオ蘇我\, 52-7 Kawasakichō\, Chūō-ku\, Chiba-shi\, Chiba-ken 260-083
+ 5\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MF アリオ蘇我
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180217T020000Z
+DTEND:20180217T063000Z
+UID:58olhn35q1iva74sa0mn2m6aou@google.com
+CREATED:20180112T164015Z
+DESCRIPTION:\nhttps://www.sanrio.co.jp/news/event-aeonmall-yamatokoriyama-2
+ 0180217/\n\nモップとかぶりんぼ写真撮影会（イオンモール大和郡山店）\n2/17（土）\n①11:00〜 / ②13:00〜 / ③15:0
+ 0〜\nイオンモール大和郡山店 2F ABストア前コンコースブリッジ\n無料・各回30分間・整理券等配布なし
+LAST-MODIFIED:20180112T164015Z
+LOCATION:Aeon Mall Yamatokoriyama\, 741 Shimomitsuhashichō\, Yamatokōriyama
+ -shi\, Nara-ken 639-1101\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MF イオンモール大和郡山
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180113T020000Z
+DTEND:20180113T063000Z
+UID:5325v2e6afpt7b43rq8tp80l9j@google.com
+CREATED:20180112T163828Z
+DESCRIPTION:\nhttp://shopblog.gu-japan.com/detail/75891\n\nキティちゃんが心斎橋店にやってく
+ る！\n双子の妹ミミィちゃんも登場！\n\n①11:00-11:20（整理券番号1-30）\n②13:00-13:30（整理券番号31-70）\n③1
+ 5:00-15:30（整理券番号71-110）\n先着110名\n当日10:30から店頭で整理券を配付
+LAST-MODIFIED:20180112T163828Z
+LOCATION:GU Shinsaibashi Shop\, 2 Chome-1-17 Shinsaibashisuji\, Chūō-ku\, Ō
+ saka-shi\, Ōsaka-fu 542-0085\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KTキティ\,KTミミィ GU心斎橋
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180114T023000Z
+DTEND:20180114T065000Z
+UID:1tstqhp5nbsl4bbc0hfd34siqg@google.com
+CREATED:20180112T155442Z
+DESCRIPTION:\nhttps://www.facebook.com/TokyoFanClub.JP/posts/20722024461397
+ 33\n\n多摩市の観光PRイベント\n1月13日（土）・14日（日）\nエキュート立川３階 東京観光情報センター多摩\n\nキャラクター登場予定スケ
+ ジュール\n１月13日（土）あらいぐまラスカル\n①11：30～　②13：30～　③15：30～　※各回30分程度\n1月14日（日）多摩センター親善
+ 大使ハローキティ\n①11：30～　②13：30～　③15：30～　※各回20分程度
+LAST-MODIFIED:20180112T155442Z
+LOCATION:Ecute Tachikawa\, 2 Chome-3-1-1 Shibasakicho\, Tachikawa-shi\, Tōk
+ yō-to 190-0023\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT 多摩市観光PR
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180111T060000Z
+DTEND:20180111T063000Z
+UID:444r5e57glbdefl9qt4md32fkg@google.com
+CREATED:20180112T155210Z
+DESCRIPTION:<br><br><a href="https://www.google.com/url?q=https%3A%2F%2Fwww
+ .facebook.com%2FTheONE%2Fposts%2F10155837540420516&amp\;sa=D&amp\;usd=2&amp
+ \;usg=AFQjCNE3IoYIKX_3OQv7brrdqBOr-TQQbw" target="_blank">https://www.faceb
+ ook.com/TheONE/posts/10155837540420516</a><br><a href="https://www.google.c
+ om/url?q=https%3A%2F%2Fwww.instagram.com%2Fp%2FBdw-JyDhrtG%2F&amp\;sa=D&amp
+ \;usd=2&amp\;usg=AFQjCNH1nnHXvBexjvr3Mli02R-xRx1-lg" target="_blank">https:
+ //www.instagram.com/p/Bdw-JyDhrtG/</a><br><a href="https://www.google.com/u
+ rl?q=https%3A%2F%2Fwww.facebook.com%2Fpg%2FTheONE%2Fphotos%2F%3Ftab%3Dalbum
+ %26album_id%3D10155839988855516&amp\;sa=D&amp\;usd=2&amp\;usg=AFQjCNFMUJjHJ
+ whJwshKz5WfDIUwRJJjKw" target="_blank">https://www.facebook.com/pg/TheONE/p
+ hotos/?tab=album&amp\;album_id=10155839988855516</a><br><a href="https://ww
+ w.google.com/url?q=https%3A%2F%2Fwww.instagram.com%2Fp%2FBdzhZuqhdcr%2F&amp
+ \;sa=D&amp\;usd=2&amp\;usg=AFQjCNFGUUeXDRmHT3TJaf79fuCnRML3NQ" target="_bla
+ nk">https://www.instagram.com/p/BdzhZuqhdcr/</a><br>http://www.qooza.hk/art
+ icle.php?cat=lifestyle&amp\;id=3131<br><br>The ONE ‧ Pochacco新春行運樂團圓 - 慈善狗狗
+ 瑜伽樂<br>1月11日(星期四)<br>下午2時<br>The ONE UG2 中庭
+LAST-MODIFIED:20180112T155254Z
+LOCATION:The ONE\, 100 Nathan Rd\, Tsim Sha Tsui\, Hong Kong
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:PC 新春行運樂團圓 慈善狗狗瑜伽樂
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20181221T103000Z
+DTEND:20181221T163000Z
+UID:01q7jeei48r1pl18iv4pjrqa46@google.com
+CREATED:20180109T132716Z
+DESCRIPTION:<br><a href="https://www.google.com/url?q=https%3A%2F%2Fwww.dru
+ sillas.co.uk%2Fevents2018-02-15&amp\;sa=D&amp\;usd=2&amp\;usg=AFQjCNFrrV7qu
+ qMSJU2QvuALMdmiDSSvCg" target="_blank">https://www.drusillas.co.uk/events</
+ a><br><br>2018-02-15 Thu<br>2018-04-05 Thu<br>2018-04-12 Thu<br>2018-05-30 
+ Wed<br>2018-07-24 Tue<br>2018-08-02 Thu<br>2018-08-08 Wed<br>2018-08-15 Wed
+ <br>2018-08-22 Wed<br>2018-08-29 Wed<br>2018-10-25 Thu<br>2018-11-04 Sun<br
+ >2018-12-21 Fri<br><br>Greeting time in Summer Time:<br>10:30-11:00\, 11:15
+ -11:15\, 12:00-12:30\, 12:45-13:15\,<br>14:30-15:00\, 15:15-15:45\, 16:00-1
+ 6:30\, 16:45-17:15<br><br>Greeting time in Winter Time:<br>10:30-11:00\, 11
+ :15-11:15\, 12:00-12:30\, 12:45-13:15\,<br>14:30-15:00\, 15:15-15:45\, 16:0
+ 0-16:30<br><br>Summer Time starts at: 2018-03-25<br>Summer Time ends at: 20
+ 18-10-28
+LAST-MODIFIED:20180109T132716Z
+LOCATION:Drusillas Park\, Alfriston Rd\, East Sussex BN26 5QS\, UK
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT Drusillas Park
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20181104T103000Z
+DTEND:20181104T163000Z
+UID:4751iinh66d5tl6e90bsfgcctm@google.com
+CREATED:20180109T132657Z
+DESCRIPTION:<br><a href="https://www.google.com/url?q=https%3A%2F%2Fwww.dru
+ sillas.co.uk%2Fevents2018-02-15&amp\;sa=D&amp\;usd=2&amp\;usg=AFQjCNFrrV7qu
+ qMSJU2QvuALMdmiDSSvCg" target="_blank">https://www.drusillas.co.uk/events</
+ a><br><br>2018-02-15 Thu<br>2018-04-05 Thu<br>2018-04-12 Thu<br>2018-05-30 
+ Wed<br>2018-07-24 Tue<br>2018-08-02 Thu<br>2018-08-08 Wed<br>2018-08-15 Wed
+ <br>2018-08-22 Wed<br>2018-08-29 Wed<br>2018-10-25 Thu<br>2018-11-04 Sun<br
+ >2018-12-21 Fri<br><br>Greeting time in Summer Time:<br>10:30-11:00\, 11:15
+ -11:15\, 12:00-12:30\, 12:45-13:15\,<br>14:30-15:00\, 15:15-15:45\, 16:00-1
+ 6:30\, 16:45-17:15<br><br>Greeting time in Winter Time:<br>10:30-11:00\, 11
+ :15-11:15\, 12:00-12:30\, 12:45-13:15\,<br>14:30-15:00\, 15:15-15:45\, 16:0
+ 0-16:30<br><br>Summer Time starts at: 2018-03-25<br>Summer Time ends at: 20
+ 18-10-28
+LAST-MODIFIED:20180109T132657Z
+LOCATION:Drusillas Park\, Alfriston Rd\, East Sussex BN26 5QS\, UK
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT Drusillas Park
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20181025T093000Z
+DTEND:20181025T161500Z
+UID:2feg3utmio0rbmfl82ufhe75qc@google.com
+CREATED:20180109T132634Z
+DESCRIPTION:<br><a href="https://www.google.com/url?q=https%3A%2F%2Fwww.dru
+ sillas.co.uk%2Fevents2018-02-15&amp\;sa=D&amp\;usd=2&amp\;usg=AFQjCNFrrV7qu
+ qMSJU2QvuALMdmiDSSvCg" target="_blank">https://www.drusillas.co.uk/events</
+ a><br><br>2018-02-15 Thu<br>2018-04-05 Thu<br>2018-04-12 Thu<br>2018-05-30 
+ Wed<br>2018-07-24 Tue<br>2018-08-02 Thu<br>2018-08-08 Wed<br>2018-08-15 Wed
+ <br>2018-08-22 Wed<br>2018-08-29 Wed<br>2018-10-25 Thu<br>2018-11-04 Sun<br
+ >2018-12-21 Fri<br><br>Greeting time in Summer Time:<br>10:30-11:00\, 11:15
+ -11:15\, 12:00-12:30\, 12:45-13:15\,<br>14:30-15:00\, 15:15-15:45\, 16:00-1
+ 6:30\, 16:45-17:15<br><br>Greeting time in Winter Time:<br>10:30-11:00\, 11
+ :15-11:15\, 12:00-12:30\, 12:45-13:15\,<br>14:30-15:00\, 15:15-15:45\, 16:0
+ 0-16:30<br><br>Summer Time starts at: 2018-03-25<br>Summer Time ends at: 20
+ 18-10-28
+LAST-MODIFIED:20180109T132634Z
+LOCATION:Drusillas Park\, Alfriston Rd\, East Sussex BN26 5QS\, UK
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT Drusillas Park
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20180808T103000
+DTEND;TZID=Europe/London:20180808T171500
+RRULE:FREQ=WEEKLY;UNTIL=20180829T225959Z;BYDAY=WE
+UID:2n47n03ornqb6pm0ioi4nbepvl@google.com
+CREATED:20180109T132603Z
+DESCRIPTION:<br><a href="https://www.google.com/url?q=https%3A%2F%2Fwww.dru
+ sillas.co.uk%2Fevents2018-02-15&amp\;sa=D&amp\;usd=2&amp\;usg=AFQjCNFrrV7qu
+ qMSJU2QvuALMdmiDSSvCg" target="_blank">https://www.drusillas.co.uk/events</
+ a><br><br>2018-02-15 Thu<br>2018-04-05 Thu<br>2018-04-12 Thu<br>2018-05-30 
+ Wed<br>2018-07-24 Tue<br>2018-08-02 Thu<br>2018-08-08 Wed<br>2018-08-15 Wed
+ <br>2018-08-22 Wed<br>2018-08-29 Wed<br>2018-10-25 Thu<br>2018-11-04 Sun<br
+ >2018-12-21 Fri<br><br>Greeting time in Summer Time:<br>10:30-11:00\, 11:15
+ -11:15\, 12:00-12:30\, 12:45-13:15\,<br>14:30-15:00\, 15:15-15:45\, 16:00-1
+ 6:30\, 16:45-17:15<br><br>Greeting time in Winter Time:<br>10:30-11:00\, 11
+ :15-11:15\, 12:00-12:30\, 12:45-13:15\,<br>14:30-15:00\, 15:15-15:45\, 16:0
+ 0-16:30<br><br>Summer Time starts at: 2018-03-25<br>Summer Time ends at: 20
+ 18-10-28
+LAST-MODIFIED:20180109T132603Z
+LOCATION:Drusillas Park\, Alfriston Rd\, East Sussex BN26 5QS\, UK
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT Drusillas Park
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180724T093000Z
+DTEND:20180724T161500Z
+UID:5t403ink98vrq7gn4jkv2h2cdl@google.com
+CREATED:20180109T132521Z
+DESCRIPTION:<br><a href="https://www.google.com/url?q=https%3A%2F%2Fwww.dru
+ sillas.co.uk%2Fevents2018-02-15&amp\;sa=D&amp\;usd=2&amp\;usg=AFQjCNFrrV7qu
+ qMSJU2QvuALMdmiDSSvCg" target="_blank">https://www.drusillas.co.uk/events</
+ a><br><br>2018-02-15 Thu<br>2018-04-05 Thu<br>2018-04-12 Thu<br>2018-05-30 
+ Wed<br>2018-07-24 Tue<br>2018-08-02 Thu<br>2018-08-08 Wed<br>2018-08-15 Wed
+ <br>2018-08-22 Wed<br>2018-08-29 Wed<br>2018-10-25 Thu<br>2018-11-04 Sun<br
+ >2018-12-21 Fri<br><br>Greeting time in Summer Time:<br>10:30-11:00\, 11:15
+ -11:15\, 12:00-12:30\, 12:45-13:15\,<br>14:30-15:00\, 15:15-15:45\, 16:00-1
+ 6:30\, 16:45-17:15<br><br>Greeting time in Winter Time:<br>10:30-11:00\, 11
+ :15-11:15\, 12:00-12:30\, 12:45-13:15\,<br>14:30-15:00\, 15:15-15:45\, 16:0
+ 0-16:30<br><br>Summer Time starts at: 2018-03-25<br>Summer Time ends at: 20
+ 18-10-28
+LAST-MODIFIED:20180109T132521Z
+LOCATION:Drusillas Park\, Alfriston Rd\, East Sussex BN26 5QS\, UK
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT Drusillas Park
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180530T093000Z
+DTEND:20180530T161500Z
+UID:542h0tiphnpa0sh5du68ehdm80@google.com
+CREATED:20180109T132455Z
+DESCRIPTION:<br><a href="https://www.google.com/url?q=https%3A%2F%2Fwww.dru
+ sillas.co.uk%2Fevents2018-02-15&amp\;sa=D&amp\;usd=2&amp\;usg=AFQjCNFrrV7qu
+ qMSJU2QvuALMdmiDSSvCg" target="_blank">https://www.drusillas.co.uk/events</
+ a><br><br>2018-02-15 Thu<br>2018-04-05 Thu<br>2018-04-12 Thu<br>2018-05-30 
+ Wed<br>2018-07-24 Tue<br>2018-08-02 Thu<br>2018-08-08 Wed<br>2018-08-15 Wed
+ <br>2018-08-22 Wed<br>2018-08-29 Wed<br>2018-10-25 Thu<br>2018-11-04 Sun<br
+ >2018-12-21 Fri<br><br>Greeting time in Summer Time:<br>10:30-11:00\, 11:15
+ -11:15\, 12:00-12:30\, 12:45-13:15\,<br>14:30-15:00\, 15:15-15:45\, 16:00-1
+ 6:30\, 16:45-17:15<br><br>Greeting time in Winter Time:<br>10:30-11:00\, 11
+ :15-11:15\, 12:00-12:30\, 12:45-13:15\,<br>14:30-15:00\, 15:15-15:45\, 16:0
+ 0-16:30<br><br>Summer Time starts at: 2018-03-25<br>Summer Time ends at: 20
+ 18-10-28
+LAST-MODIFIED:20180109T132455Z
+LOCATION:Drusillas Park\, Alfriston Rd\, East Sussex BN26 5QS\, UK
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT Drusillas Park
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20180405T103000
+DTEND;TZID=Europe/London:20180405T171500
+RRULE:FREQ=WEEKLY;COUNT=2;BYDAY=TH
+UID:7nsdpl0c8i7sggs01armi25bn8@google.com
+CREATED:20180109T132417Z
+DESCRIPTION:<br><a href="https://www.google.com/url?q=https%3A%2F%2Fwww.dru
+ sillas.co.uk%2Fevents2018-02-15&amp\;sa=D&amp\;usd=2&amp\;usg=AFQjCNFrrV7qu
+ qMSJU2QvuALMdmiDSSvCg" target="_blank">https://www.drusillas.co.uk/events</
+ a><br><br>2018-02-15 Thu<br>2018-04-05 Thu<br>2018-04-12 Thu<br>2018-05-30 
+ Wed<br>2018-07-24 Tue<br>2018-08-02 Thu<br>2018-08-08 Wed<br>2018-08-15 Wed
+ <br>2018-08-22 Wed<br>2018-08-29 Wed<br>2018-10-25 Thu<br>2018-11-04 Sun<br
+ >2018-12-21 Fri<br><br>Greeting time in Summer Time:<br>10:30-11:00\, 11:15
+ -11:15\, 12:00-12:30\, 12:45-13:15\,<br>14:30-15:00\, 15:15-15:45\, 16:00-1
+ 6:30\, 16:45-17:15<br><br>Greeting time in Winter Time:<br>10:30-11:00\, 11
+ :15-11:15\, 12:00-12:30\, 12:45-13:15\,<br>14:30-15:00\, 15:15-15:45\, 16:0
+ 0-16:30<br><br>Summer Time starts at: 2018-03-25<br>Summer Time ends at: 20
+ 18-10-28
+LAST-MODIFIED:20180109T132417Z
+LOCATION:Drusillas Park\, Alfriston Rd\, East Sussex BN26 5QS\, UK
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT Drusillas Park
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180215T103000Z
+DTEND:20180215T163000Z
+UID:4vt8addajahit0l1pr6eng7obr@google.com
+CREATED:20180109T132204Z
+DESCRIPTION:<br><a href="https://www.google.com/url?q=https%3A%2F%2Fwww.dru
+ sillas.co.uk%2Fevents2018-02-15&amp\;sa=D&amp\;usd=2&amp\;usg=AFQjCNFrrV7qu
+ qMSJU2QvuALMdmiDSSvCg" target="_blank">https://www.drusillas.co.uk/events</
+ a><br><br>2018-02-15 Thu<br>2018-04-05 Thu<br>2018-04-12 Thu<br>2018-05-30 
+ Wed<br>2018-07-24 Tue<br>2018-08-02 Thu<br>2018-08-08 Wed<br>2018-08-15 Wed
+ <br>2018-08-22 Wed<br>2018-08-29 Wed<br>2018-10-25 Thu<br>2018-11-04 Sun<br
+ >2018-12-21 Fri<br><br>Greeting time in Summer Time:<br>10:30-11:00\, 11:15
+ -11:15\, 12:00-12:30\, 12:45-13:15\,<br>14:30-15:00\, 15:15-15:45\, 16:00-1
+ 6:30\, 16:45-17:15<br><br>Greeting time in Winter Time:<br>10:30-11:00\, 11
+ :15-11:15\, 12:00-12:30\, 12:45-13:15\,<br>14:30-15:00\, 15:15-15:45\, 16:0
+ 0-16:30<br><br>Summer Time starts at: 2018-03-25<br>Summer Time ends at: 20
+ 18-10-28
+LAST-MODIFIED:20180109T132320Z
+LOCATION:Drusillas Park\, Alfriston Rd\, East Sussex BN26 5QS\, UK
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT Drusillas Park
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180106T020000Z
+DTEND:20180106T063000Z
+UID:45i45kk4ja655v23cirsob0sf8@google.com
+CREATED:20180109T131824Z
+DESCRIPTION:<br>https://www.hyogo-mitsubishi.com/news/info20180105155819.ht
+ ml<br><br>神戸店グランドオープンフェア<br>1/4-8<br><br><span style="display: inline !impo
+ rtant\; float: none\; background-color: transparent\; color: rgb(33\, 33\, 
+ 33)\; font-family: Roboto\,Helvetica\,Arial\,sans-serif\; font-size: 14px\;
+  font-style: normal\; font-variant: normal\; font-weight: 400\; letter-spac
+ ing: normal\; orphans: 2\; text-align: left\; text-decoration: none\; text-
+ indent: 0px\; text-transform: none\; -webkit-text-stroke-width: 0px\; white
+ -space: normal\; word-spacing: 0px\; word-wrap: break-word\;">ハローキティーがやってくる
+ ！</span><br style="background-color: transparent\; color: rgb(33\, 33\, 33)
+ \; flex-basis: auto\; flex-grow: 0\; flex-shrink: 1\; font-family: Roboto\,
+ Helvetica\,Arial\,sans-serif\; font-size: 14px\; font-style: normal\; font-
+ variant: normal\; font-weight: 400\; letter-spacing: normal\; orphans: 2\; 
+ outline-color: transparent\; outline-style: none\; outline-width: 0px\; pad
+ ding-bottom: 0px\; padding-left: 0px\; padding-right: 0px\; padding-top: 0p
+ x\; text-align: left\; text-decoration: none\; text-indent: 0px\; text-tran
+ sform: none\; -webkit-text-stroke-width: 0px\; white-space: normal\; word-s
+ pacing: 0px\; word-wrap: break-word\;"><span style="display: inline !import
+ ant\; float: none\; background-color: transparent\; color: rgb(33\, 33\, 33
+ )\; font-family: Roboto\,Helvetica\,Arial\,sans-serif\; font-size: 14px\; f
+ ont-style: normal\; font-variant: normal\; font-weight: 400\; letter-spacin
+ g: normal\; orphans: 2\; text-align: left\; text-decoration: none\; text-in
+ dent: 0px\; text-transform: none\; -webkit-text-stroke-width: 0px\; white-s
+ pace: normal\; word-spacing: 0px\; word-wrap: break-word\;">キティーと一緒に記念写真を撮っ
+ てカレンダーを作ろう</span><br style="background-color: transparent\; color: rgb(33\,
+  33\, 33)\; flex-basis: auto\; flex-grow: 0\; flex-shrink: 1\; font-family:
+  Roboto\,Helvetica\,Arial\,sans-serif\; font-size: 14px\; font-style: norma
+ l\; font-variant: normal\; font-weight: 400\; letter-spacing: normal\; orph
+ ans: 2\; outline-color: transparent\; outline-style: none\; outline-width: 
+ 0px\; padding-bottom: 0px\; padding-left: 0px\; padding-right: 0px\; paddin
+ g-top: 0px\; text-align: left\; text-decoration: none\; text-indent: 0px\; 
+ text-transform: none\; -webkit-text-stroke-width: 0px\; white-space: normal
+ \; word-spacing: 0px\; word-wrap: break-word\;"><br>１月６日（土）<br>11:00-11:30<
+ br>13:00-13:30<br>15:00-15:30
+LAST-MODIFIED:20180109T131824Z
+LOCATION:兵庫三菱自動車販売株式会社 神戸店\, 日本兵庫県神戸市中央区脇浜町２丁目８－１
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT 三菱自動車神戸店
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20180108
+DTEND;VALUE=DATE:20180109
+UID:4c3vakaorlha38tt4k6vgt7c90@google.com
+CREATED:20180109T131459Z
+DESCRIPTION:\nhttp://www.city.shinagawa.tokyo.jp/hp/menu000027600/hpg000027
+ 501.htm\nhttps://www.instagram.com/p/BdtUN6PF2yY/\nhttps://www.instagram.co
+ m/p/BdtVNYlFuV8/\nhttps://www.instagram.com/p/BdtUlv8l5HV/\n\n成人式\n平成30年1月8
+ 日（月曜・国民の祝日、成人の日）\nきゅりあん(品川区立総合区民会館)8階大ホール・7階イベントホールなど\n10:30 開場\n11:00 開式\n
+ 11:00-12:00 記念式典およびコンサート （大ホール）\n11:00頃-13:00 イベント （大ホールおよびイベントホールなど）
+LAST-MODIFIED:20180109T131459Z
+LOCATION:Curian\, 5 Chome-18-1 Higashiōi\, 品川区 Shinagawa-ku\, Tōkyō-to 140-
+ 0011\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CN 品川区成人式
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180203T040000Z
+DTEND:20180203T073000Z
+UID:0sivafoa967edvlo5et6kv06f6@google.com
+CREATED:20180105T235554Z
+DESCRIPTION:https://www.tokyu-hands.co.jp/gudegudevalentine/event.html<br><
+ a href="https://www.google.com/url?q=https%3A%2F%2Fwww.tokyu-hands.co.jp%2F
+ news%2F20180105newsletter_tokyuhands_gudetama_event.pdf&amp\;sa=D&amp\;usd=
+ 2&amp\;usg=AFQjCNHoxh0WstRC8H9Fpv5vwZIcaDbVsQ" target="_blank">https://www.
+ tokyu-hands.co.jp/news/20180105newsletter_tokyuhands_gudetama_event.pdf</a>
+ <br><a href="https://www.google.com/url?q=https%3A%2F%2Fprtimes.jp%2Fmain%2
+ Fhtml%2Frd%2Fp%2F000000018.000012213.html&amp\;sa=D&amp\;usd=2&amp\;usg=AFQ
+ jCNGe4Lwhj53v8BpSJajv6ARKs4ZR5Q" target="_blank">https://prtimes.jp/main/ht
+ ml/rd/p/000000018.000012213.html</a><br><a href="https://www.google.com/url
+ ?q=https%3A%2F%2Fwww.facebook.com%2Fhellokitty.global%2Fposts%2F16602991473
+ 64894%2F&amp\;sa=D&amp\;usd=2&amp\;usg=AFQjCNHwA95T9YCoYT_xTHDPydZ1mcoBAg" 
+ target="_blank">https://www.facebook.com/hellokitty.global/posts/1660299147
+ 364894/</a><br><br>「ぐでたま」が東急ハンズにやってくる！<br><br>日程 ：新宿店 2 月 3 日(土) / 梅田店２月１０日
+ (土)<br>開始時間：①13:00〜 / ②14:30〜 / ③16:00〜<br>所定人数：各回先着 20 名<br><br>当日、バレンタインの
+ お菓子またはぐでたま関連グッズをお買い上げのお客様で、ご参加を希望された方に参加券をお渡し
+LAST-MODIFIED:20180108T235916Z
+LOCATION:東急ハンズ 新宿店\, 日本、〒151-8580 東京都渋谷区千駄ヶ谷５丁目５−２４−２ タイムズスクエアビル 2～8F
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:GU 東急ハンズ新宿店
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20180113
+DTEND;VALUE=DATE:20180114
+UID:7i9jcbo5sgl77pcdgd1lpo7915@google.com
+CREATED:20180107T120001Z
+DESCRIPTION:http://club-o.nagoya/events/\nhttps://twitter.com/club_o_nagoya
+ /status/949245243416764416\n\nDJ HELLO KITTYが登場\nOPEN 22:00-5:00\n店内撮影禁止、未成
+ 年入場禁止、ドレスコード厳守
+LAST-MODIFIED:20180107T120527Z
+LOCATION:CLUB O NAGOYA(クラブ オー ナゴヤ)\, 日本、〒460-0008 愛知県名古屋市中区中区栄３丁目８ 栄3丁目8-22
+  サンリツビル2F
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT CLUB O NAGOYA
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180107T020000Z
+DTEND:20180107T063000Z
+UID:6kgf4h5hscoc6kc24m7vplk1il@google.com
+CREATED:20171229T115322Z
+DESCRIPTION:<br>シナモロール ミニステージ シナモロールとふわふわお空のおさんぽ<br>https://mitsui-shopping
+ -park.com/lalaport/tachikawa/event/10559281_29062.html<br><a href="https://
+ www.google.com/url?q=https%3A%2F%2Fmitsui-shopping-park.com%2Flalaport%2Fta
+ chikawa%2Fpdf%2F2018_new_year_event2.pdf&amp\;sa=D&amp\;usd=2&amp\;usg=AFQj
+ CNFTD7cuNUHuJaXJivhhe6CtNxcDVA" target="_blank">https://mitsui-shopping-par
+ k.com/lalaport/tachikawa/pdf/2018_new_year_event2.pdf</a><br><br>場所: 2F イベン
+ ト広場・ステージ<br>時間: ①11:00～ / ②13:00～ / ③15:00～
+LAST-MODIFIED:20180106T172114Z
+LOCATION:ららぽーと立川立飛\, 東京都立川市泉町９３５−１
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CN ふわふわお空のおさんぽ
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180120T103000
+DTEND;TZID=Asia/Tokyo:20180120T150000
+RRULE:FREQ=DAILY;COUNT=2
+UID:0thvceb4tsrsmbphtjpt8mgns1@google.com
+CREATED:20171208T003650Z
+DESCRIPTION:\nhttp://mt-heavens.com/winter/\n\nヘブンスそのはら Snow World\n\n2018年
+ 1月2日(火)・3日(水) ハッピーニューイヤー\nキティちゃん＆ダニエル\n2018年1月13日(土)・14日(日) マイメロディのバースデー\nキ
+ ティちゃん＆マイメロディ\n2018年1月20日(土)・21日(日) ハローキティ検定\nキティちゃん＆ダニエル\n2018年2月3日(土)・4日(日
+ ) ぐでたまは5周年！\nキティちゃん＆ぐでたま\n2018年2月10日(土)・11日(日) ダニエル壁ドン\nキティちゃん＆ダニエル\n2018年2
+ 月17日(土)・18日(日) クロミちゃん初登場!!\nキティちゃん＆クロミちゃん\n2018年3月3日(土)・4日(日) リトルツインスターズ登場！
+ \nキティちゃん＆リトルツインスターズ\n\n1月20日\n12時30分 キッズワールド\n14時30分 エンジェルコース滑走\n\n1月21日\n1
+ 0時30分 キッズワールド\n12時30分 キッズワールド\n14時30分 エンジェルコース滑走
+LAST-MODIFIED:20180101T174658Z
+LOCATION:ヘブンスそのはら\, 3731-4 Chisato\, Achi-mura\, Shimoina-gun\, Nagano-ken 
+ 395-0304\, Japan
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:KT\,DN ヘブンスそのはら
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180113T103000
+DTEND;TZID=Asia/Tokyo:20180113T150000
+RRULE:FREQ=DAILY;COUNT=2
+UID:77q674hsf2cs6rh7r814n8mdis@google.com
+CREATED:20171208T003631Z
+DESCRIPTION:\nhttp://mt-heavens.com/winter/\n\nヘブンスそのはら Snow World\n\n2018年
+ 1月2日(火)・3日(水) ハッピーニューイヤー\nキティちゃん＆ダニエル\n2018年1月13日(土)・14日(日) マイメロディのバースデー\nキ
+ ティちゃん＆マイメロディ\n2018年1月20日(土)・21日(日) ハローキティ検定\nキティちゃん＆ダニエル\n2018年2月3日(土)・4日(日
+ ) ぐでたまは5周年！\nキティちゃん＆ぐでたま\n2018年2月10日(土)・11日(日) ダニエル壁ドン\nキティちゃん＆ダニエル\n2018年2
+ 月17日(土)・18日(日) クロミちゃん初登場!!\nキティちゃん＆クロミちゃん\n2018年3月3日(土)・4日(日) リトルツインスターズ登場！
+ \nキティちゃん＆リトルツインスターズ\n\n1月13日\n12時30分 キッズワールド\n14時30分 エンジェルコース滑走\n\n1月14日\n1
+ 0時30分 キッズワールド\n12時30分 キッズワールド\n14時30分 エンジェルコース滑走
+LAST-MODIFIED:20180101T174538Z
+LOCATION:ヘブンスそのはら\, 3731-4 Chisato\, Achi-mura\, Shimoina-gun\, Nagano-ken 
+ 395-0304\, Japan
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:KT\,MM ヘブンスそのはら
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180102T103000
+DTEND;TZID=Asia/Tokyo:20180102T150000
+RRULE:FREQ=DAILY;COUNT=2
+UID:60jqtn6tahf1itsm8d4bc4ui4b@google.com
+CREATED:20171208T003610Z
+DESCRIPTION:<br><u><font color="#0b0124"></font></u><a href="https://www.go
+ ogle.com/url?q=http%3A%2F%2Fmt-heavens.com%2Fwinter%2F&amp\;sa=D&amp\;usd=2
+ &amp\;usg=AFQjCNFuvEvXLv1A-mADKgjuPZqGUVFfVg" target="_blank">http://mt-hea
+ vens.com/winter/</a><br><br>ヘブンスそのはら Snow World<br><br>2018年1月2日(火)・3日(水) ハ
+ ッピーニューイヤー<br>キティちゃん＆ダニエル<br>2018年1月13日(土)・14日(日) マイメロディのバースデー<br>キティちゃん＆マイメ
+ ロディ<br>2018年1月20日(土)・21日(日) ハローキティ検定<br>キティちゃん＆ダニエル<br>2018年2月3日(土)・4日(日) ぐ
+ でたまは5周年！<br>キティちゃん＆ぐでたま<br>2018年2月10日(土)・11日(日) ダニエル壁ドン<br>キティちゃん＆ダニエル<br>2
+ 018年2月17日(土)・18日(日) クロミちゃん初登場!!<br>キティちゃん＆クロミちゃん<br>2018年3月3日(土)・4日(日) リトルツ
+ インスターズ登場！<br>キティちゃん＆リトルツインスターズ<br><br>1月2日<br>12時30分 キッズワールド<br>14時30分 　エンジ
+ ェルコース滑走<br><br><br>1月3日<br>10時30分 キッズワールド<br>12時30分 キッズワールド<br>14時30分 エンジェル
+ コース滑走
+LAST-MODIFIED:20180101T174411Z
+LOCATION:ヘブンスそのはら\, 3731-4 Chisato\, Achi-mura\, Shimoina-gun\, Nagano-ken 
+ 395-0304\, Japan
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:KT\,DN ヘブンスそのはら
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180103T020000Z
+DTEND:20180103T063000Z
+UID:15gjgd0ml0sb8mfajogpmqnl6p@google.com
+CREATED:20171231T162715Z
+DESCRIPTION:\nhttp://www.yoshizuya.com/%e6%96%b0%e7%9d%80%e6%83%85%e5%a0%b1
+ /11491/\n\nハローキティ&プリンのハートフルタイム\nYOSHIZUYA津島本店\n1階センターコート\n1月3日\n1100\, 1500
+LAST-MODIFIED:20171231T162715Z
+LOCATION:ヨシヅヤ 津島本店\, Kitashingai-351 Tsushima\, Tsushima-shi\, Aichi-ken 49
+ 6-0027\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT\,PN ハートフルタイム
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180106T013000Z
+DTEND:20180106T063000Z
+UID:6r3c62t752es8hdmomr7ami1lt@google.com
+CREATED:20171225T161023Z
+DESCRIPTION:\nhttp://www.chunichi-hc.ne.jp/zingu/event/2018/01/06/index.htm
+ l#ent007306\n\nハローキティ新春ミニステージショー\n2018年1月6日\n10:30\n13:30\n15:00\nイベント広場ステー
+ ジ
+LAST-MODIFIED:20171225T161023Z
+LOCATION:神宮東中日ハウジングセンター\, Japan\, 〒456-0032 Aichi-ken\, Nagoya-shi\, Atsuta
+ -ku\, Sanbonmatsuchō\, 25−1
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT 神宮東中日ハウジングセンター
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180107T020000Z
+DTEND:20180107T063000Z
+UID:7vftrdu5ej1smmoejmg5htomr6@google.com
+CREATED:20171225T112117Z
+DESCRIPTION:https://www.instagram.com/p/BdHYtm8gYcZ/\n\n山口三菱小郡店リニューアルオープン\n
+ \nハローキティとあそぼう！\n1月7日\n11:00-\, 13:00-\, 15:00-\nイベント開始30分前から整理券を配布\nアンケートと車
+ 検証コピーが必要 
+LAST-MODIFIED:20171225T112117Z
+LOCATION:山口三菱自動車販売小郡店\, 1648-1 Ogōrishimogō\, Yamaguchi-shi\, Yamaguchi-ken
+  754-0002\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT 山口三菱小郡店
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180103T005000Z
+DTEND:20180103T073000Z
+UID:5hjhina42b8e84b63o0a05te2a@google.com
+CREATED:20171225T111705Z
+DESCRIPTION:http://www.kyoto-aquarium.com/news/2017/12/cinnamorolltosuizoku
+ kannonakamatachi.html\n\nシナモロールと水族館の仲間たち\n2017年12月2日（土）～2018年3月14日（水）\n\n｢品
+ 川紋次郎｣が京都水族館に登場！\n2018年1月3日(水)\n\nグリーティング\n9時50分 京都水族館エントランス\n12時30分 館内各所\n\
+ n｢品川紋次郎｣との記念撮影会\n14時30分\n16時00分\nふわふわキラキラフォトスポット\nエントランスピロティにて当日13時から整理券配布\
+ n各回30組 
+LAST-MODIFIED:20171225T111705Z
+LOCATION:京都水族館\, 日本京都府京都市下京区観喜寺35-1
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CN紋次郎 シナモロールと水族館の仲間たち
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171202T004500Z
+DTEND:20171202T073000Z
+UID:20a7flgp95igdpckk6ui70qa4s@google.com
+CREATED:20171121T100603Z
+DESCRIPTION:<a href="https://www.google.com/url?q=http%3A%2F%2Fwww.kyoto-aq
+ uarium.com%2Fnews%2F2017%2F11%2Fcinnamorolltosuizokukannonakamatachi.html&a
+ mp\;sa=D&amp\;usd=2&amp\;usg=AFQjCNEG9waKPohATIVL35ySgc8amGIjGQ" target="_b
+ lank">http://www.kyoto-aquarium.com/news/2017/11/cinnamorolltosuizokukannon
+ akamatachi.html</a><br><a href="https://www.google.com/url?q=https%3A%2F%2F
+ twitter.com%2FKyoto_Aquarium%2Fstatus%2F932877339670863872&amp\;sa=D&amp\;u
+ sd=2&amp\;usg=AFQjCNFDwwt3FqS4CyZqca2vM-GWpMlmCA" target="_blank">https://t
+ witter.com/Kyoto_Aquarium/status/932877339670863872</a><br><br>シナモロールと水族館の仲
+ 間たち<br>2017年12月2日（土）～2018年3月14日（水）<br><br>7．｢シナモン｣が京都水族館に登場！<br>12月2日(土)<br
+ ><br>グリーティング<br>9時45分～ 京都水族館エントランス<br>12時30分～ 館内各所<br><br>記念撮影会<br>14時30分<b
+ r>16時00分<br>｢交流プラザ｣「ふわふわキラキラフォトスポット」スペース<br>エントランスピロティにて当日13時から整理券を各回30組配布
+LAST-MODIFIED:20171225T111625Z
+LOCATION:京都水族館\, 日本京都府京都市下京区観喜寺35-1
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CNシナモン シナモロールと水族館の仲間たち
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171223T040000Z
+DTEND:20171223T070000Z
+UID:14f692mbgdq1rpribgdiujc298@google.com
+CREATED:20171129T133921Z
+DESCRIPTION:http://www.seibu-leisure.co.jp/event/14622/\n\nハローキティのHAPPY GIF
+ T CHRISTMAS\n12月23日（土）\n13:00 / 15:30\nメルヘンタウンステージ\n
+LAST-MODIFIED:20171222T142114Z
+LOCATION:西武園ゆうえんち\, Japan\, 〒359-1145 埼玉県所沢市Yamaguchi\, 山口２９６４
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT\,MM HAPPY GIFT CHRISTMAS
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Jakarta:20171225T140000
+DTEND;TZID=Asia/Jakarta:20171225T173000
+RRULE:FREQ=WEEKLY;UNTIL=20180101T165959Z;BYDAY=MO
+UID:5imv0q8meact05dedfo36phnus@google.com
+CREATED:20171221T162445Z
+DESCRIPTION:http://aeonmall-bsdcity.com/special/lists/ChristmasCandylandwit
+ hSanrioCharacters/detail/124\nhttps://twitter.com/AEONMallBSDCity/status/94
+ 2237924266975232\nhttps://www.suara.com/lifestyle/2017/12/16/140445/serunya
+ -rayakan-natal-bareng-hello-kitty-di-aeon-mall-bsd-city\n\nChristmas Candyl
+ and with Sanrio Characters\nMeet & Greet with Sanrio Characters\n\n2017年12月
+ 16-17\,23-25\,30-31日\n2018年1月1\,6-7日\n14:00\, 17:00\n\n40人/セッション\nEternity 
+ Privilege Cardのメンバーで600ルピア以上の買い物
+LAST-MODIFIED:20171222T010704Z
+LOCATION:ÆON Mall BSD City\, Jl. BSD Raya Utama\, Sampora\, Cisauk\, Tanger
+ ang\, Banten 15345\, Indonesia
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT\,MM\,CN\,XO\,GU Christmas Candyland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Jakarta:20171216T140000
+DTEND;TZID=Asia/Jakarta:20171216T173000
+RRULE:FREQ=WEEKLY;UNTIL=20180107T165959Z;BYDAY=SU,SA
+UID:4j9fafvc0ir0832085g7lk26rv@google.com
+CREATED:20171221T162357Z
+DESCRIPTION:http://aeonmall-bsdcity.com/special/lists/ChristmasCandylandwit
+ hSanrioCharacters/detail/124\nhttps://twitter.com/AEONMallBSDCity/status/94
+ 2237924266975232\nhttps://www.suara.com/lifestyle/2017/12/16/140445/serunya
+ -rayakan-natal-bareng-hello-kitty-di-aeon-mall-bsd-city\n\nChristmas Candyl
+ and with Sanrio Characters\nMeet & Greet with Sanrio Characters\n\n2017年12月
+ 16-17\,23-25\,30-31日\n2018年1月1\,6-7日\n14:00\, 17:00\n\n40人/セッション\nEternity 
+ Privilege Cardのメンバーで600ルピア以上の買い物
+LAST-MODIFIED:20171222T010408Z
+LOCATION:ÆON Mall BSD City\, Jl. BSD Raya Utama\, Sampora\, Cisauk\, Tanger
+ ang\, Banten 15345\, Indonesia
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT\,MM\,CN\,XO\,GU Christmas Candyland
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20171215T173000
 DTEND;TZID=Asia/Tokyo:20171215T180000
 RRULE:FREQ=WEEKLY;COUNT=2;BYDAY=FR
@@ -289,60 +3739,6 @@ LOCATION:ココリア多摩センター\, 日本東京都多摩市落合１丁�
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:多摩センターイルミネーションパレード
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Jakarta:20171225T140000
-DTEND;TZID=Asia/Jakarta:20171225T173000
-RRULE:FREQ=WEEKLY;UNTIL=20180101T165959Z;BYDAY=MO
-UID:5imv0q8meact05dedfo36phnus@google.com
-CREATED:20171221T162445Z
-DESCRIPTION:<a href="https://www.google.com/url?q=http%3A%2F%2Faeonmall-bsd
- city.com%2Fspecial%2Flists%2FChristmasCandylandwithSanrioCharacters%2Fdetai
- l%2F124&amp\;sa=D&amp\;usd=2&amp\;usg=AFQjCNFzOc9Jck73epfSTiSK3_J8PyBa8Q" t
- arget="_blank">http://aeonmall-bsdcity.com/special/lists/ChristmasCandyland
- withSanrioCharacters/detail/124</a><br><a href="https://www.google.com/url?
- q=https%3A%2F%2Ftwitter.com%2FAEONMallBSDCity%2Fstatus%2F942237924266975232
- &amp\;sa=D&amp\;usd=2&amp\;usg=AFQjCNGaUIDK504QEAvJ0PXtR4UP2qED0Q" target="
- _blank">https://twitter.com/AEONMallBSDCity/status/942237924266975232</a><b
- r>https://www.suara.com/lifestyle/2017/12/16/140445/serunya-rayakan-natal-b
- areng-hello-kitty-di-aeon-mall-bsd-city<br><br>Christmas Candyland with San
- rio Characters<br>Meet &amp\; Greet with Sanrio Characters<br><br>2017年12月1
- 6-17\,23-25\,30-31日<br>2018年1月1\,6-7日<br>14:00\, 17:00<br><br>40人/セッション<br>
- Eternity Privilege Cardのメンバーで600ルピア以上の買い物
-LAST-MODIFIED:20171221T163149Z
-LOCATION:ÆON Mall BSD City\, Jl. BSD Raya Utama\, Sampora\, Cisauk\, Tanger
- ang\, Banten 15345\, Indonesia
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:KT\,MM\,CN\,XO\,GU Christmas Candyland
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Jakarta:20171216T140000
-DTEND;TZID=Asia/Jakarta:20171216T173000
-RRULE:FREQ=WEEKLY;UNTIL=20180107T165959Z;BYDAY=SU,SA
-UID:4j9fafvc0ir0832085g7lk26rv@google.com
-CREATED:20171221T162357Z
-DESCRIPTION:<a href="https://www.google.com/url?q=http%3A%2F%2Faeonmall-bsd
- city.com%2Fspecial%2Flists%2FChristmasCandylandwithSanrioCharacters%2Fdetai
- l%2F124&amp\;sa=D&amp\;usd=2&amp\;usg=AFQjCNFzOc9Jck73epfSTiSK3_J8PyBa8Q" t
- arget="_blank">http://aeonmall-bsdcity.com/special/lists/ChristmasCandyland
- withSanrioCharacters/detail/124</a><br><a href="https://www.google.com/url?
- q=https%3A%2F%2Ftwitter.com%2FAEONMallBSDCity%2Fstatus%2F942237924266975232
- &amp\;sa=D&amp\;usd=2&amp\;usg=AFQjCNGaUIDK504QEAvJ0PXtR4UP2qED0Q" target="
- _blank">https://twitter.com/AEONMallBSDCity/status/942237924266975232</a><b
- r>https://www.suara.com/lifestyle/2017/12/16/140445/serunya-rayakan-natal-b
- areng-hello-kitty-di-aeon-mall-bsd-city<br><br>Christmas Candyland with San
- rio Characters<br>Meet &amp\; Greet with Sanrio Characters<br><br>2017年12月1
- 6-17\,23-25\,30-31日<br>2018年1月1\,6-7日<br>14:00\, 17:00<br><br>40人/セッション<br>
- Eternity Privilege Cardのメンバーで600ルピア以上の買い物
-LAST-MODIFIED:20171221T163127Z
-LOCATION:ÆON Mall BSD City\, Jl. BSD Raya Utama\, Sampora\, Cisauk\, Tanger
- ang\, Banten 15345\, Indonesia
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:KT\,MM\,CN\,XO\,GU Christmas Candyland
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -779,23 +4175,6 @@ SUMMARY:KT\,AR\,GU Energy Bistro & Karaoke
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20180214
-DTEND;VALUE=DATE:20180215
-UID:1ckng9ff33udv4b2727pm03a52@google.com
-CREATED:20171214T152200Z
-DESCRIPTION:\nhttps://www.musicman-net.com/artist/71575\n\nSUPER SKY TREE D
- ISCO\n2018年1月12日（金）、1月19日（金）、1月26日（金）、2月2日（金）、2月9日（金）、2月14日（水）、2月16日（金）、2月2
- 3日（金）（全8回）\n19：00～22：00\n東京スカイツリー天望デッキ フロア350\n\n2月14日\nDJ OSSHY\nTOMOYUKI 
- TANAKA (FPM)\nYUKIBEB\nDJ HELLO KITTY
-LAST-MODIFIED:20171214T152200Z
-LOCATION:東京スカイツリー\, 1 Chome-1-2 Oshiage\, Sumida-ku\, Tōkyō-to 131-0045\, J
- apan
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:KT SUPER SKY TREE DISCO
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20171216T170000Z
 DTEND:20171216T210000Z
 UID:4tp6n2dbt64uggmlruh1nbss2i@google.com
@@ -873,158 +4252,6 @@ SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:KU Mikiki佻皮聖誕事務所
 TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20180303
-DTEND;VALUE=DATE:20180304
-RRULE:FREQ=DAILY;COUNT=2
-UID:5g2pqc08p4h05prhh46c38hrrl@google.com
-CREATED:20171208T003842Z
-DESCRIPTION:<br><a href="https://www.google.com/url?q=http%3A%2F%2Fmt-heave
- ns.com%2Fwinter%2F&amp\;sa=D&amp\;usd=2&amp\;usg=AFQjCNFuvEvXLv1A-mADKgjuPZ
- qGUVFfVg" target="_blank">http://mt-heavens.com/winter/</a><br><br>ヘブンスそのはら
-  Snow World<br><br>2018年1月2日(火)・3日(水) ハッピーニューイヤー<br>キティちゃん＆ダニエル<br>2018年1月1
- 3日(土)・14日(日) マイメロディのバースデー<br>キティちゃん＆マイメロディ<br>2018年1月20日(土)・21日(日) ハローキティ検定
- <br>キティちゃん＆ダニエル<br>2018年2月3日(土)・4日(日) ぐでたまは5周年！<br>キティちゃん＆ぐでたま<br>2018年2月10
- 日(土)・11日(日) ダニエル壁ドン<br>キティちゃん＆ダニエル<br>2018年2月17日(土)・18日(日) クロミちゃん初登場!!<br>キ
- ティちゃん＆クロミちゃん<br>2018年3月3日(土)・4日(日) リトルツインスターズ登場！<br>キティちゃん＆リトルツインスターズ<br>
-LAST-MODIFIED:20171208T003842Z
-LOCATION:ヘブンスそのはら\, 3731-4 Chisato\, Achi-mura\, Shimoina-gun\, Nagano-ken 
- 395-0304\, Japan
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:KT\,TS ヘブンスそのはら
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20180217
-DTEND;VALUE=DATE:20180218
-RRULE:FREQ=DAILY;COUNT=2
-UID:2eld19dvlbarq259o5r5apdbmm@google.com
-CREATED:20171208T003826Z
-DESCRIPTION:<br><a href="https://www.google.com/url?q=http%3A%2F%2Fmt-heave
- ns.com%2Fwinter%2F&amp\;sa=D&amp\;usd=2&amp\;usg=AFQjCNFuvEvXLv1A-mADKgjuPZ
- qGUVFfVg" target="_blank">http://mt-heavens.com/winter/</a><br><br>ヘブンスそのはら
-  Snow World<br><br>2018年1月2日(火)・3日(水) ハッピーニューイヤー<br>キティちゃん＆ダニエル<br>2018年1月1
- 3日(土)・14日(日) マイメロディのバースデー<br>キティちゃん＆マイメロディ<br>2018年1月20日(土)・21日(日) ハローキティ検定
- <br>キティちゃん＆ダニエル<br>2018年2月3日(土)・4日(日) ぐでたまは5周年！<br>キティちゃん＆ぐでたま<br>2018年2月10
- 日(土)・11日(日) ダニエル壁ドン<br>キティちゃん＆ダニエル<br>2018年2月17日(土)・18日(日) クロミちゃん初登場!!<br>キ
- ティちゃん＆クロミちゃん<br>2018年3月3日(土)・4日(日) リトルツインスターズ登場！<br>キティちゃん＆リトルツインスターズ<br>
-LAST-MODIFIED:20171208T003826Z
-LOCATION:ヘブンスそのはら\, 3731-4 Chisato\, Achi-mura\, Shimoina-gun\, Nagano-ken 
- 395-0304\, Japan
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:KT\,KU ヘブンスそのはら
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20180210
-DTEND;VALUE=DATE:20180211
-RRULE:FREQ=DAILY;COUNT=2
-UID:70ld4u58j828lkmt6gnje7kg54@google.com
-CREATED:20171208T003741Z
-DESCRIPTION:<br><a href="https://www.google.com/url?q=http%3A%2F%2Fmt-heave
- ns.com%2Fwinter%2F&amp\;sa=D&amp\;usd=2&amp\;usg=AFQjCNFuvEvXLv1A-mADKgjuPZ
- qGUVFfVg" target="_blank">http://mt-heavens.com/winter/</a><br><br>ヘブンスそのはら
-  Snow World<br><br>2018年1月2日(火)・3日(水) ハッピーニューイヤー<br>キティちゃん＆ダニエル<br>2018年1月1
- 3日(土)・14日(日) マイメロディのバースデー<br>キティちゃん＆マイメロディ<br>2018年1月20日(土)・21日(日) ハローキティ検定
- <br>キティちゃん＆ダニエル<br>2018年2月3日(土)・4日(日) ぐでたまは5周年！<br>キティちゃん＆ぐでたま<br>2018年2月10
- 日(土)・11日(日) ダニエル壁ドン<br>キティちゃん＆ダニエル<br>2018年2月17日(土)・18日(日) クロミちゃん初登場!!<br>キ
- ティちゃん＆クロミちゃん<br>2018年3月3日(土)・4日(日) リトルツインスターズ登場！<br>キティちゃん＆リトルツインスターズ<br>
-LAST-MODIFIED:20171208T003803Z
-LOCATION:ヘブンスそのはら\, 3731-4 Chisato\, Achi-mura\, Shimoina-gun\, Nagano-ken 
- 395-0304\, Japan
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:KT\,DN ヘブンスそのはら
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20180203
-DTEND;VALUE=DATE:20180204
-RRULE:FREQ=DAILY;COUNT=2
-UID:3qr2aeh7fnoh6vg9ud10eqva0u@google.com
-CREATED:20171208T003721Z
-DESCRIPTION:<br><a href="https://www.google.com/url?q=http%3A%2F%2Fmt-heave
- ns.com%2Fwinter%2F&amp\;sa=D&amp\;usd=2&amp\;usg=AFQjCNFuvEvXLv1A-mADKgjuPZ
- qGUVFfVg" target="_blank">http://mt-heavens.com/winter/</a><br><br>ヘブンスそのはら
-  Snow World<br><br>2018年1月2日(火)・3日(水) ハッピーニューイヤー<br>キティちゃん＆ダニエル<br>2018年1月1
- 3日(土)・14日(日) マイメロディのバースデー<br>キティちゃん＆マイメロディ<br>2018年1月20日(土)・21日(日) ハローキティ検定
- <br>キティちゃん＆ダニエル<br>2018年2月3日(土)・4日(日) ぐでたまは5周年！<br>キティちゃん＆ぐでたま<br>2018年2月10
- 日(土)・11日(日) ダニエル壁ドン<br>キティちゃん＆ダニエル<br>2018年2月17日(土)・18日(日) クロミちゃん初登場!!<br>キ
- ティちゃん＆クロミちゃん<br>2018年3月3日(土)・4日(日) リトルツインスターズ登場！<br>キティちゃん＆リトルツインスターズ<br>
-LAST-MODIFIED:20171208T003721Z
-LOCATION:ヘブンスそのはら\, 3731-4 Chisato\, Achi-mura\, Shimoina-gun\, Nagano-ken 
- 395-0304\, Japan
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:KT\,GU ヘブンスそのはら
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20180120
-DTEND;VALUE=DATE:20180121
-RRULE:FREQ=DAILY;COUNT=2
-UID:0thvceb4tsrsmbphtjpt8mgns1@google.com
-CREATED:20171208T003650Z
-DESCRIPTION:<br><a href="https://www.google.com/url?q=http%3A%2F%2Fmt-heave
- ns.com%2Fwinter%2F&amp\;sa=D&amp\;usd=2&amp\;usg=AFQjCNFuvEvXLv1A-mADKgjuPZ
- qGUVFfVg" target="_blank">http://mt-heavens.com/winter/</a><br><br>ヘブンスそのはら
-  Snow World<br><br>2018年1月2日(火)・3日(水) ハッピーニューイヤー<br>キティちゃん＆ダニエル<br>2018年1月1
- 3日(土)・14日(日) マイメロディのバースデー<br>キティちゃん＆マイメロディ<br>2018年1月20日(土)・21日(日) ハローキティ検定
- <br>キティちゃん＆ダニエル<br>2018年2月3日(土)・4日(日) ぐでたまは5周年！<br>キティちゃん＆ぐでたま<br>2018年2月10
- 日(土)・11日(日) ダニエル壁ドン<br>キティちゃん＆ダニエル<br>2018年2月17日(土)・18日(日) クロミちゃん初登場!!<br>キ
- ティちゃん＆クロミちゃん<br>2018年3月3日(土)・4日(日) リトルツインスターズ登場！<br>キティちゃん＆リトルツインスターズ<br>
-LAST-MODIFIED:20171208T003650Z
-LOCATION:ヘブンスそのはら\, 3731-4 Chisato\, Achi-mura\, Shimoina-gun\, Nagano-ken 
- 395-0304\, Japan
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:KT\,DN ヘブンスそのはら
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20180113
-DTEND;VALUE=DATE:20180114
-RRULE:FREQ=DAILY;COUNT=2
-UID:77q674hsf2cs6rh7r814n8mdis@google.com
-CREATED:20171208T003631Z
-DESCRIPTION:<br><a href="https://www.google.com/url?q=http%3A%2F%2Fmt-heave
- ns.com%2Fwinter%2F&amp\;sa=D&amp\;usd=2&amp\;usg=AFQjCNFuvEvXLv1A-mADKgjuPZ
- qGUVFfVg" target="_blank">http://mt-heavens.com/winter/</a><br><br>ヘブンスそのはら
-  Snow World<br><br>2018年1月2日(火)・3日(水) ハッピーニューイヤー<br>キティちゃん＆ダニエル<br>2018年1月1
- 3日(土)・14日(日) マイメロディのバースデー<br>キティちゃん＆マイメロディ<br>2018年1月20日(土)・21日(日) ハローキティ検定
- <br>キティちゃん＆ダニエル<br>2018年2月3日(土)・4日(日) ぐでたまは5周年！<br>キティちゃん＆ぐでたま<br>2018年2月10
- 日(土)・11日(日) ダニエル壁ドン<br>キティちゃん＆ダニエル<br>2018年2月17日(土)・18日(日) クロミちゃん初登場!!<br>キ
- ティちゃん＆クロミちゃん<br>2018年3月3日(土)・4日(日) リトルツインスターズ登場！<br>キティちゃん＆リトルツインスターズ<br>
-LAST-MODIFIED:20171208T003631Z
-LOCATION:ヘブンスそのはら\, 3731-4 Chisato\, Achi-mura\, Shimoina-gun\, Nagano-ken 
- 395-0304\, Japan
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:KT\,MM ヘブンスそのはら
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20180102
-DTEND;VALUE=DATE:20180103
-RRULE:FREQ=DAILY;COUNT=2
-UID:60jqtn6tahf1itsm8d4bc4ui4b@google.com
-CREATED:20171208T003610Z
-DESCRIPTION:\nhttp://mt-heavens.com/winter/\n\nヘブンスそのはら Snow World\n\n2018年
- 1月2日(火)・3日(水) ハッピーニューイヤー\nキティちゃん＆ダニエル\n2018年1月13日(土)・14日(日) マイメロディのバースデー\nキ
- ティちゃん＆マイメロディ\n2018年1月20日(土)・21日(日) ハローキティ検定\nキティちゃん＆ダニエル\n2018年2月3日(土)・4日(日
- ) ぐでたまは5周年！\nキティちゃん＆ぐでたま\n2018年2月10日(土)・11日(日) ダニエル壁ドン\nキティちゃん＆ダニエル\n2018年2
- 月17日(土)・18日(日) クロミちゃん初登場!!\nキティちゃん＆クロミちゃん\n2018年3月3日(土)・4日(日) リトルツインスターズ登場！
- \nキティちゃん＆リトルツインスターズ\n
-LAST-MODIFIED:20171208T003610Z
-LOCATION:ヘブンスそのはら\, 3731-4 Chisato\, Achi-mura\, Shimoina-gun\, Nagano-ken 
- 395-0304\, Japan
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:KT\,DN ヘブンスそのはら
-TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20171209
@@ -1348,20 +4575,6 @@ SUMMARY:KT ハチ公前イルミネーション
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20171223T040000Z
-DTEND:20171223T063000Z
-UID:14f692mbgdq1rpribgdiujc298@google.com
-CREATED:20171129T133921Z
-DESCRIPTION:http://www.seibu-leisure.co.jp/event/14622/\n\nハローキティのHAPPY GIF
- T CHRISTMAS\n12月23日（土）\n13:00 / 15:00\nメルヘンタウンステージ\n
-LAST-MODIFIED:20171129T133921Z
-LOCATION:西武園ゆうえんち\, Japan\, 〒359-1145 埼玉県所沢市Yamaguchi\, 山口２９６４
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:KT\,MM HAPPY GIFT CHRISTMAS
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20171210T110000
 DTEND;TZID=Asia/Tokyo:20171210T153000
 RRULE:FREQ=WEEKLY;COUNT=2;BYDAY=SU
@@ -1622,23 +4835,6 @@ LOCATION:パークプレイス大分\, 日本大分県大分市公園通り西2-
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:KT\,CN ハートフルクリスマス
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20171202T004500Z
-DTEND:20171202T073000Z
-UID:20a7flgp95igdpckk6ui70qa4s@google.com
-CREATED:20171121T100603Z
-DESCRIPTION:http://www.kyoto-aquarium.com/news/2017/11/cinnamorolltosuizoku
- kannonakamatachi.html\nhttps://twitter.com/Kyoto_Aquarium/status/9328773396
- 70863872\n\nシナモロールと水族館の仲間たち\n2017年12月2日（土）～2018年3月14日（水）\n\n7．｢シナモン｣が京都水族館に
- 登場！\n12月2日(土)\n\nグリーティング\n9時45分～ 京都水族館エントランス\n12時30分～ 館内各所\n\n記念撮影会\n14時30分
- \n16時00分\n｢交流プラザ｣「ふわふわキラキラフォトスポット」スペース\nエントランスピロティにて当日13時から整理券を各回30組配布
-LAST-MODIFIED:20171121T100603Z
-LOCATION:京都水族館\, 日本京都府京都市下京区観喜寺35-1
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:CN シナモロールと水族館の仲間たち
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -2237,23 +5433,6 @@ SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:KT\,XO ComplexCon
 TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20180304T020000Z
-DTEND:20180304T063000Z
-UID:51bn3f50gdb148gbdj7coptlj9@google.com
-CREATED:20171104T104326Z
-DESCRIPTION:https://mangaoukoku-tosa.jp/articles/page.php?ID=1749\nhttps://
- twitter.com/mangaoukokutosa/status/926687497433661440\n\n第4回全国漫画家大会議 in まんが
- 王国・土佐\n2018年3月3日（土）、4日（日）\n\nサンリオファミリーミュージカル「ハローキティのドリームトラベラー」\nKT\,DN\,XO\
- ,MM\,TS\,PN\,CN\n\n2018年3月4日（日）\n午前の部 1100開演（開場1030）\n午後の部 1400開演（開場1330）\n
- 高知市文化プラザかるぽーと2F（大ホール）\n\n前売券2160円、当日券2700円\nチケットぴあ等にて12月頃発売予定
-LAST-MODIFIED:20171104T104326Z
-LOCATION:かるぽーと\, 日本、〒780-0832 高知県高知市九反田２−１
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:ドリームトラベラー
-TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Kuala_Lumpur:20171104T110000
@@ -3945,21 +7124,6 @@ SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:MM アリオ橋本
 TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20180414
-DTEND;VALUE=DATE:20180415
-UID:207p1lvs5e5ktm6varcd2r45e8@google.com
-CREATED:20171004T070452Z
-DESCRIPTION:http://yamatoyahonten.com/plan/kt_yukata\n\n大和屋本店×はろうきてぃ\n大和屋本店
- ・大和屋別荘 １５０周年記念企画\nハローキティ 美楽流浴衣\n\n握手と写真撮影会\n2018年4月14日（土）\n\nハローキティ美楽流浴衣レンタ
- ルの人限定
-LAST-MODIFIED:20171004T070452Z
-LOCATION:大和屋本店\, 日本愛媛県松山市道後湯之町２０−８
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:KT 美楽流浴衣
-TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20151024T070000Z
@@ -11980,21 +15144,6 @@ SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:KT ながの東急百貨店
 TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20180324
-DTEND;VALUE=DATE:20180325
-UID:siua939uh251o71a61k6o6k3fs@google.com
-CREATED:20170319T123218Z
-DESCRIPTION:http://www.new-chitose-airport.jp/ja/happy-flight/news/detail/2
- 017-1.html\n\n2017-04-22 PN\,XO\n2017-07-?? 「ハッピーフレンド大賞」上位3位\n2017-10-14 MM
- \,KU\n2017-11-04 KT\,DN\n2017-12-24 TS\n2018-03-24 CN
-LAST-MODIFIED:20170319T123218Z
-LOCATION:新千歳空港\, 日本北海道千歳市美々 987-22
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:CN ハッピーフライト
-TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20170430T020000Z
