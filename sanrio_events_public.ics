@@ -84,6 +84,16 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VTIMEZONE
+TZID:Asia/Bangkok
+X-LIC-LOCATION:Asia/Bangkok
+BEGIN:STANDARD
+TZOFFSETFROM:+0700
+TZOFFSETTO:+0700
+TZNAME:+07
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
 TZID:Australia/Melbourne
 X-LIC-LOCATION:Australia/Melbourne
 BEGIN:STANDARD
@@ -100,26 +110,6 @@ TZNAME:AEDT
 DTSTART:19701004T020000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=1SU
 END:DAYLIGHT
-END:VTIMEZONE
-BEGIN:VTIMEZONE
-TZID:Asia/Bangkok
-X-LIC-LOCATION:Asia/Bangkok
-BEGIN:STANDARD
-TZOFFSETFROM:+0700
-TZOFFSETTO:+0700
-TZNAME:+07
-DTSTART:19700101T000000
-END:STANDARD
-END:VTIMEZONE
-BEGIN:VTIMEZONE
-TZID:Asia/Saigon
-X-LIC-LOCATION:Asia/Saigon
-BEGIN:STANDARD
-TZOFFSETFROM:+0700
-TZOFFSETTO:+0700
-TZNAME:+07
-DTSTART:19700101T000000
-END:STANDARD
 END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:America/St_Johns
@@ -158,16 +148,6 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VTIMEZONE
-TZID:Australia/Perth
-X-LIC-LOCATION:Australia/Perth
-BEGIN:STANDARD
-TZOFFSETFROM:+0800
-TZOFFSETTO:+0800
-TZNAME:AWST
-DTSTART:19700101T000000
-END:STANDARD
-END:VTIMEZONE
-BEGIN:VTIMEZONE
 TZID:Europe/London
 X-LIC-LOCATION:Europe/London
 BEGIN:DAYLIGHT
@@ -183,6 +163,16 @@ TZOFFSETTO:+0000
 TZNAME:GMT
 DTSTART:19701025T020000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:Australia/Perth
+X-LIC-LOCATION:Australia/Perth
+BEGIN:STANDARD
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+TZNAME:AWST
+DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VTIMEZONE
@@ -202,6 +192,16 @@ BEGIN:STANDARD
 TZOFFSETFROM:+0900
 TZOFFSETTO:+0900
 TZNAME:JST
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:Asia/Ho_Chi_Minh
+X-LIC-LOCATION:Asia/Ho_Chi_Minh
+BEGIN:STANDARD
+TZOFFSETFROM:+0700
+TZOFFSETTO:+0700
+TZNAME:+07
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
@@ -344,99 +344,2546 @@ RRULE:FREQ=YEARLY;BYMONTH=9;BYDAY=1SU
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART:20181225T070000Z
-DTEND:20181225T073000Z
-UID:50p5tcuq8ra09i75m96ps8dtd9@google.com
-CREATED:20181128T142046Z
-DESCRIPTION:http://www.megabox.com.hk/monthly_highlight.php?mid=7-13&id=752
- \n\nLittle Twin Stars Meet & Greet\nUpon spending HK$500* or above at MegaB
- ox to redeem one “Little Twin Stars Meet & Greet” ticket.\n\nEvent Details:
- \nDate: 12 Dec\, 16 Dec & 25 Dec 2018\nTime: 3:00pm\nVenue: L5 Atrium \n\nR
- edemption Details:\nDate: Start from 17 Dec 2018 (Quota applies\, while quo
- ta lasts)\nTime: 12:00nn – 10:00pm\nVenue: Redemption / Mega Club Counter @
-  G (opposite to Teawood)\n\n* Single same-day merchant’s machine-printed re
- ceipt together with UnionPay / EPS / credit card sale slip must be presente
- d (Payment by cash or Octopus card is not accepted)\n- Participants are req
- uested to present “Little Twin Stars Meet & Greet” ticket to join “Little T
- win Stars Meet & Greet”\n- Each “Little Twin Stars Meet & Greet” ticket all
- ows maximum 4 persons to take one photo with Little Twin Stars together\n- 
- Quota applies\, while quota lasts\n- Terms and conditions applies\, please 
- contact Redemption / Mega Club Counter @ G for more details
-LAST-MODIFIED:20181128T142046Z
-LOCATION:MegaBox\, Enterprise Square V Tower 2\, 38 Wang Chiu Rd\, Kowloon 
- Bay\, 香港
+DTSTART:20190214T030000Z
+DTEND:20190214T063000Z
+UID:696mgo1cd9j7h4tj4uatod7kjv@google.com
+CREATED:20190204T023131Z
+DESCRIPTION:http://salt-group.jp/shop/egg-spuma/pdf/valentinesday.pdf\nhttp
+ s://www.sanrio.co.jp/news/kt-greeting-45thanniversary-cafe-20190206/\nhttps
+ ://www.facebook.com/hellokitty.japan/posts/2478432082229919/\n\nEGG & SPUMA
+  x HELLO KITTY バレンタイン特別企画\nハローキティフォトショットイベント\n2019-02-14\n12:00\n14:00\n16:
+ 00\n\nイベント当日11時から整理券を配布\nコラボメニューを注文し、SNS(Twitter\, Instagram\, Facebook) にハ
+ ッシュタグ付きで投稿
+LAST-MODIFIED:20190208T034546Z
+LOCATION:EGG&SPUMA\, Japan\, 〒160-0022 Tōkyō-to\, Shinjuku-ku\, Shinjuku\, 
+ 3 Chome−38\, 新宿３−３８−１ 新宿ルミネエスト８F
 SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:TS MegaBox • Little Twin Stars 聖誕夢幻樂園
+SUMMARY:KT EGG & SPUMA
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20181216T070000Z
-DTEND:20181216T073000Z
-UID:5l5dg8sovm4qqpbr1e3rpms3j2@google.com
-CREATED:20181128T141920Z
-DESCRIPTION:http://www.megabox.com.hk/monthly_highlight.php?mid=7-13&id=752
- \n\nLittle Twin Stars Meet & Greet\nUpon spending HK$500* or above at MegaB
- ox to redeem one “Little Twin Stars Meet & Greet” ticket.\n\nEvent Details:
- \nDate: 12 Dec\, 16 Dec & 25 Dec 2018\nTime: 3:00pm\nVenue: L5 Atrium \n\nR
- edemption Details:\nDate: Start from 17 Dec 2018 (Quota applies\, while quo
- ta lasts)\nTime: 12:00nn – 10:00pm\nVenue: Redemption / Mega Club Counter @
-  G (opposite to Teawood)\n\n* Single same-day merchant’s machine-printed re
- ceipt together with UnionPay / EPS / credit card sale slip must be presente
- d (Payment by cash or Octopus card is not accepted)\n- Participants are req
- uested to present “Little Twin Stars Meet & Greet” ticket to join “Little T
- win Stars Meet & Greet”\n- Each “Little Twin Stars Meet & Greet” ticket all
- ows maximum 4 persons to take one photo with Little Twin Stars together\n- 
- Quota applies\, while quota lasts\n- Terms and conditions applies\, please 
- contact Redemption / Mega Club Counter @ G for more details
-LAST-MODIFIED:20181128T141920Z
-LOCATION:MegaBox\, Enterprise Square V Tower 2\, 38 Wang Chiu Rd\, Kowloon 
- Bay\, 香港
+DTSTART:20190208T020000Z
+DTEND:20190208T070000Z
+UID:2ve5ldsuhbbhfvq4mmu3m41tdh@google.com
+CREATED:20190208T034315Z
+DESCRIPTION:http://www.greenlife-inc.co.jp/2019/02/05/%E3%80%90%E3%81%AF%E3
+ %81%B4%E3%81%AD%E7%A6%8F%E5%B2%A1%E9%87%8E%E8%8A%A5%E3%80%91-%E3%83%8F%E3%8
+ 3%AD%E3%83%BC%E3%82%AD%E3%83%86%E3%82%A3%E3%81%8C%E3%82%84%E3%81%A3%E3%81%A
+ 6%E3%81%8F%E3%82%8B-%EF%BC%9C/\nhttp://www.greenlife-inc.co.jp/wp-content/u
+ ploads/2019/02/5bfeafc5d367725b992d4016cea63f5b.pdf\n\n【はぴね福岡野芥】 ハローキティがやって
+ くる\n２月８日（金） 11：00～\n第８回ハローキティミニステージ\n11：00\n13：30\n15：30
+LAST-MODIFIED:20190208T034315Z
+LOCATION:はぴね福岡野芥\, 4 Chome-35-9 Noke\, Sawara-ku\, Fukuoka-shi\, Fukuoka-ke
+ n 814-0171\, Japan
 SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:TS MegaBox • Little Twin Stars 聖誕夢幻樂園
+SUMMARY:KT はぴね福岡野芥
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20181212T070000Z
-DTEND:20181212T073000Z
-UID:59eoerscgnjm6q5pkaekeessdt@google.com
-CREATED:20181128T141747Z
-DESCRIPTION:http://www.megabox.com.hk/monthly_highlight.php?mid=7-13&id=752
- \n\nLittle Twin Stars Meet & Greet\nUpon spending HK$500* or above at MegaB
- ox to redeem one “Little Twin Stars Meet & Greet” ticket.\n\nEvent Details:
- \nDate: 12 Dec\, 16 Dec & 25 Dec 2018\nTime: 3:00pm\nVenue: L5 Atrium \n\nR
- edemption Details:\nDate: Start from 17 Dec 2018 (Quota applies\, while quo
- ta lasts)\nTime: 12:00nn – 10:00pm\nVenue: Redemption / Mega Club Counter @
-  G (opposite to Teawood)\n\n* Single same-day merchant’s machine-printed re
- ceipt together with UnionPay / EPS / credit card sale slip must be presente
- d (Payment by cash or Octopus card is not accepted)\n- Participants are req
- uested to present “Little Twin Stars Meet & Greet” ticket to join “Little T
- win Stars Meet & Greet”\n- Each “Little Twin Stars Meet & Greet” ticket all
- ows maximum 4 persons to take one photo with Little Twin Stars together\n- 
- Quota applies\, while quota lasts\n- Terms and conditions applies\, please 
- contact Redemption / Mega Club Counter @ G for more details
-LAST-MODIFIED:20181128T141747Z
-LOCATION:MegaBox\, Enterprise Square V Tower 2\, 38 Wang Chiu Rd\, Kowloon 
- Bay\, 香港
+DTSTART:20180722T010000Z
+DTEND:20180722T053000Z
+UID:3q7ogrp942dh9njm81u21mupui@google.com
+CREATED:20190208T034149Z
+DESCRIPTION:http://www.greenlife-inc.co.jp/wp-content/uploads/2018/07/c55e2
+ 12864fff2654f1d6302a7f3ef6e.pdf\n\nサマーフェスタ\n2018-07-22\n10:00-16:00\n\nハローキ
+ ティ ミニステージ\n10:00\n12:00\n14:00
+LAST-MODIFIED:20190208T034149Z
+LOCATION:グリーンライフ仙台\, 1 Chome-3-番1号 Asutonagamachi\, Taihaku-ku\, Sendai-shi
+ \, Miyagi-ken 982-0007\, Japan
 SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:TS MegaBox • Little Twin Stars 聖誕夢幻樂園
+SUMMARY:KT グリーンライフ仙台
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180818T063000Z
+DTEND:20180818T083000Z
+UID:4bb0jnef4jjkrg1j25unualvr6@google.com
+CREATED:20190208T033947Z
+DESCRIPTION:http://www.greenlife-inc.co.jp/wp-content/uploads/2018/07/8f0b9
+ 807e467972f7d841315c5958bc8.pdf\n\nアクア縁日\n2018-08-18\n15:30-18:00\n\nハローキティ
+  ミニステージ\n15:30\n17:00
+LAST-MODIFIED:20190208T033947Z
+LOCATION:アクアマリーン西宮浜\, Japan\, 〒662-0934 Hyōgo-ken\, Nishinomiya-shi\, Nishi
+ nomiyahama\, 4 Chome−15\, 西宮市西宮浜４丁目１５番2号
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT アクアマリーン西宮浜
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180930T023000Z
+DTEND:20180930T065000Z
+UID:23qn9pltdn6crqebaqqn88cpru@google.com
+CREATED:20190208T033648Z
+DESCRIPTION:http://www.greenlife-inc.co.jp/2018/09/26/%E3%80%90%E3%83%AA%E3
+ %83%8F%E3%83%A2%E3%83%BC%E3%83%89%E7%99%BD%E4%BA%95%E3%80%91-%E7%A7%8B%E7%A
+ 5%AD%E3%82%8A%E3%82%B3%E3%83%A9%E3%83%9C%E3%82%A4%E3%83%99%E3%83%B3%E3%83%8
+ 8-%EF%BC%9C%EF%BC%99/\n\n【リハモード白井】 秋祭りコラボイベント\n９月３０日（日）\n11：00~16：00\n第6回ハロ
+ ーキティミニステージ\n11：30\n13：00\n15：20
+LAST-MODIFIED:20190208T033648Z
+LOCATION:リハモードヴィラ白井\, 235 Ne\, Shiroi\, Chiba Prefecture 270-1431\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT リハモードヴィラ白井
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180902T043000Z
+DTEND:20180902T060000Z
+UID:084fuhrdu5ckmkppfp9eg23aq7@google.com
+CREATED:20190208T033218Z
+DESCRIPTION:http://www.greenlife-inc.co.jp/2018/08/28/%E3%80%90%E3%83%A1%E3
+ %83%87%E3%82%A3%E3%82%B9%E8%8D%89%E6%B4%A5%E3%80%91%E3%83%A1%E3%83%87%E3%82
+ %A3%E3%82%B9%E8%8D%89%E6%B4%A5%E3%81%AB%E3%83%8F%E3%83%AD%E3%83%BC%E3%82%AD
+ %E3%83%86%E3%82%A3%E3%81%8C/\n\nメディス草津にハローキティがやってくる\n9月2日（日）\n11:00～15:00\n
+ 第４回 ハローキティミニステージ２公演\n13：00\n14：30
+LAST-MODIFIED:20190208T033218Z
+LOCATION:メディス草津\, 524-114 Kusatsu\, Kusatsu-machi\, Agatsuma-gun\, Gunma-ke
+ n 377-1711\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT メディス草津
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190223T020000Z
+DTEND:20190223T060000Z
+UID:3f857l4bio1q69sf12td9ieqhl@google.com
+CREATED:20190206T061039Z
+DESCRIPTION:https://www.sanrio.co.jp/news/cg-daimaruumeda-fair-20190206/\n\
+ n【こぎみゅん】みんなのおかげでサンリオショップにこられたみゅんフェア（大丸 梅田店 5F）\n大丸 梅田店 5F サンリオショップ\n2月20日（水
+ ）～\n\nこぎみゅん グリーティング情報\n2月23日（土）\n①11:00～ ②13:00～ ③14:30～\n大丸 梅田店 5F 南エスカレータ
+ ー横 イベントスペース\n\n各回先着40名\n当日9:00より、大丸 梅田店 1F 中央コンコース東出入口にて、各回の「参加整理券」と交換できる「購
+ 入予約券」を配布\n10:00より大丸 梅田店 5F サンリオショップにて、通常商品（セール品・お楽しみ袋を除く）を税込み1\,080円以上お買い上げ
+ で、レジにて「購入予約券」を撮影会に参加できる「参加整理券」に交換
+LAST-MODIFIED:20190206T061140Z
+LOCATION:Daimaru Umeda\, Japan\, 〒530-0001 Ōsaka-fu\, Ōsaka-shi\, Kita-ku\,
+  Umeda\, 3 Chome−1\, １
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CG 大丸梅田
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190209T020000Z
+DTEND:20190209T063000Z
+UID:7fnoer0pque8et30b0h8565cml@google.com
+CREATED:20190117T232628Z
+DESCRIPTION:https://prtimes.jp/main/html/rd/p/000000315.000002198.html\nhtt
+ ps://mitsui-shopping-park.com/lalaport/fujimi/event/1236269.html\n\nHELLO K
+ ITTY FESTIVAL～ハローキティがららぽーと富士見をご案内～\n2019年1月25日(金)～2月24日(日)\n\nハローキティと撮影会\n2
+ 月9日（土）\n①11:00~ ②13:00~ ③15:00~\n1F 屋内広場\n各回先着50組\n10：00より会場にて各回の整理券を配布予定
+LAST-MODIFIED:20190206T033841Z
+LOCATION:LaLaport Fujimi\, １-1313 山室 富士見市 埼玉県 354-8560\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT ららぽーと富士見
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190209T020000Z
+DTEND:20190209T063000Z
+UID:1h3lcuu106qn09bgcl9jk8jmus@google.com
+CREATED:20190118T020756Z
+DESCRIPTION:<a href="https://www.sanrio.co.jp/news/event-mf-greeting-viviti
+ x-ikebukuro-alpa-20190209/" target="_blank" id="ow505" __is_owner="true">ht
+ tps://www.sanrio.co.jp/news/event-mf-greeting-vivitix-ikebukuro-alpa-201902
+ 09/</a><br>https://twitter.com/sanrioshop_info/status/1092614029065895936<b
+ r><br>まるもふびより モップのスペシャルグリーティング（Sanrio vivitix サンシャインシティアルパ店）<br>Sanrio vivi
+ tix サンシャインシティアルパ店<br>2月9日（土）<br>11:00<br>13:00<br>15:00<br><br>イベント当日、9:30～
+ 9:45（締め切り）に、Sanrio vivitix サンシャインシティアルパ店前にて、各回の整理券を配布<br>整理券の残りがあった際は、開店10:
+ 00より、店内レジカウンターにて配布<br>各回30名<br><br><a href="https://www.sanrio.co.jp/news/e
+ vent-mf-greeting-aeonmall-tsukuba-20190126/" target="_blank">https://www.sa
+ nrio.co.jp/news/event-mf-greeting-aeonmall-tsukuba-20190126/</a><br><br>まるも
+ ふびより モップのスペシャルグリーティング<br><br>次回以降のスケジュール<br>詳細は後日<br>2月3日（日）　Sanrio Gift Ga
+ te 泉北店（大阪）<br>2月9日（土）　Sanrio vivitix サンシャインシティアルパ店（東京）<br>2月16日（土）　高島屋 横浜店 
+ 6F サンリオ（神奈川）<br>2月23日（土）　Sanrio Gift Gate ゆめタウン博多店（福岡）
+LAST-MODIFIED:20190205T025341Z
+LOCATION:Sunshine City Alpa\, 3 Chome-1 Higashiikebukuro\, Toshima\, Tokyo 
+ 170-0013\, Japan
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:MF サンシャインシティアルパ
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190209T020000Z
+DTEND:20190209T073000Z
+UID:7jl7vjjat3av3u15uiuin29gr4@google.com
+CREATED:20190125T070805Z
+DESCRIPTION:https://www.sanrio.co.jp/news/event-gg-musashikosugi-20190209/\
+ nhttps://twitter.com/sanrioshop_info/status/1092300240810532864\n\nポムポムプリンと
+ 遊ぼう！（グランツリー武蔵小杉）\n4F スマイルスクエア\n2月9日（土）\n11:00 / 14:00 / 16:00\n\n写真撮影会は各回30
+ 名限定\n当日10:00より、サンリオギフトゲートにて税込み1\,080円以上お買い上げで撮影券を配付
+LAST-MODIFIED:20190204T060403Z
+LOCATION:Grand Tree Musashikosugi\, 3 Chome-1135-1 Shinmarukohigashi\, Naka
+ hara-ku\, Kawasaki-shi\, Kanagawa-ken 211-0004\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:PN グランツリー武蔵小杉
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20190203T110000
+DTEND;TZID=Asia/Tokyo:20190203T153000
+RRULE:FREQ=WEEKLY;WKST=SU;COUNT=2;INTERVAL=2;BYDAY=SU
+UID:7u7nb58u1jqsdgf5vce4hkakdt@google.com
+CREATED:20190126T210053Z
+DESCRIPTION:https://www.seibu-leisure.co.jp/event/17608/index.html\n\n2月3日（
+ 日）、17日（日）\n\n11:00 ポチャッコとハッピーグリーティング\n13:00 バースデーセレブレーション\n15:00 ポチャッコと運動会
+LAST-MODIFIED:20190204T025435Z
+LOCATION:西武園ゆうえんち\, 日本、〒359-1145 埼玉県所沢市山口 所沢市山口２９６４
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:PC\,KT 西武園ゆうえんち
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190216T020000Z
+DTEND:20190216T063000Z
+UID:38gucbih3lkp3dgh3r5gnamqha@google.com
+CREATED:20190201T035822Z
+DESCRIPTION:https://www.sanrio.co.jp/news/event-gg-nagoya-mozo-wondercity-2
+ 0190216/\n\nシナモロール 写真撮影会（Sanrio Gift Gate 名古屋 mozoワンダーシティ店）\nSanrio Gift Ga
+ te 名古屋 mozoワンダーシティ店\n2月16日（土）\n11:00 / 13:00 / 15:00\n\n当日9:30より、mozoワンダーシテ
+ ィ 3F B2入口にて「購入予約券」を配布\n当日10:00 よりサンリオギフトゲート店内にてシナモロール商品を含む税込み1\,080円以上（セール品
+ ・お楽しみ袋除く）お買い上げで整理券に交換\n各回先着30名
+LAST-MODIFIED:20190201T035822Z
+LOCATION:AEON Mozo Wonder City\, ４０ Futakatachō\, Nishi-ku\, Nagoya-shi\, A
+ ichi-ken 452-0817\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CN mozoワンダーシティ
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190209T020000Z
+DTEND:20190209T063000Z
+UID:7dgif73jv396t0ds0inr25d1k2@google.com
+CREATED:20190121T030300Z
+DESCRIPTION:<br><a href="https://www.sanrio.co.jp/news/event-hkj-divercityt
+ okyo-20190209/" target="_blank" id="ow340" __is_owner="true">https://www.sa
+ nrio.co.jp/news/event-hkj-divercitytokyo-20190209/</a><br><a href="https://
+ mitsui-shopping-park.com/divercity-tokyo/shopnews/1238602.html" target="_bl
+ ank" id="ow344" __is_owner="true">https://mitsui-shopping-park.com/divercit
+ y-tokyo/shopnews/1238602.html</a><br>https://twitter.com/sanrioshop_info/st
+ atus/1091141412102430721<br><br>ハローキティ＆ミミィがやって来る！<br>2月9日（土）<br>11：00～<br>1
+ 3：00～<br>15：00～<br><br>当日10:00よりHello Kitty Japan店内にて1\,080円（税込）以上お買い上げで写真撮
+ 影券<br>各回30名
+LAST-MODIFIED:20190201T024329Z
+LOCATION:DiverCity Tokyo Plaza\, 1 Chome-1-１０ Aomi\, Kōtō-ku\, Tōkyō-to 135
+ -0064\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KTキティ\,KTミミィ ダイバーシティ東京プラザ
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190203T020000Z
+DTEND:20190203T063000Z
+UID:1rr9gb46p6kokb4atphbdfl3ub@google.com
+CREATED:20190118T020712Z
+DESCRIPTION:<a href="https://www.sanrio.co.jp/news/event-mf-greeting-osaka-
+ panjo-20190203/" target="_blank" id="ow928" __is_owner="true">https://www.s
+ anrio.co.jp/news/event-mf-greeting-osaka-panjo-20190203/</a><br><br>まるもふびより
+  モップのスペシャルグリーティング（大阪府堺市・パンジョ）<br>パンジョ 2F 光の広場<br>2月3日（日）<br>11:00<br>13:00<
+ br>15:00<br><br>イベント当日、開店10:00より、Sanrio Gift Gate 泉北店（パンジョ 4F）のレジカウンターにて、各回
+ の整理券を配布<br>整理券の残りがあった際は、各回会場にて配布い<br>各回30名<br><br><a href="https://www.sanr
+ io.co.jp/news/event-mf-greeting-aeonmall-tsukuba-20190126/" target="_blank"
+ >https://www.sanrio.co.jp/news/event-mf-greeting-aeonmall-tsukuba-20190126/
+ </a><br><br>まるもふびより モップのスペシャルグリーティング<br><br>次回以降のスケジュール<br>詳細は後日<br>2月3日（日）
+ 　Sanrio Gift Gate 泉北店（大阪）<br>2月9日（土）　Sanrio vivitix サンシャインシティアルパ店（東京）<br>2月
+ 16日（土）　高島屋 横浜店 6F サンリオ（神奈川）<br>2月23日（土）　Sanrio Gift Gate ゆめタウン博多店（福岡）
+LAST-MODIFIED:20190131T013839Z
+LOCATION:Panjo\, １丁-3-1 Chayamadai\, Minami-ku\, Sakai-shi\, Ōsaka-fu 590-0
+ 115\, Japan
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:MF パンジョ
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190209T020000Z
+DTEND:20190209T063000Z
+UID:48glv6okq67qk03cqjc96li0lf@google.com
+CREATED:20190131T013358Z
+DESCRIPTION:http://www.ario-hashimoto.jp/web/event/68b759ee-0510-465c-a478-
+ 1d6acdf531a2.html\n\n45周年アニバーサリー ハローキティ　ミニステージ\nキティのアニバーサリーをお祝いにポムポムプリンも出演\
+ n1階　グランドガーデン\n2月9日(土)\n11:00 ミニステージ\n13:00 写真撮影会\n15:00 ミニステージ
+LAST-MODIFIED:20190131T013358Z
+LOCATION:Ario Hashimoto\, 1-２２ Ōyamachō\, Midori-ku\, Sagamihara-shi\, Kana
+ gawa-ken 252-0146\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT\,PN アリオ橋本
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190131
+DTEND;VALUE=DATE:20190201
+UID:22oragvei0ekucmnh98iq6rjt7@google.com
+CREATED:20190131T012045Z
+DESCRIPTION:https://twitter.com/sanrio_news/status/1090776842854817792\nhtt
+ ps://twitter.com/sanrioshop_info/status/1090780055125381124\n\nキティちゃん10\,00
+ 0体配達出発式\nSHIBUYA 109前
+LAST-MODIFIED:20190131T012045Z
+LOCATION:SHIBUYA109\, 2 Chome-29-1 Dōgenzaka\, 渋谷区 Shibuya-ku\, Tōkyō-to 15
+ 0-0043\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT 10\,000体配達出発式
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190217T033000Z
+DTEND:20190217T070000Z
+UID:670ho01tnpmc1qrbutfe0883lp@google.com
+CREATED:20190125T071038Z
+DESCRIPTION:https://www.sanrio.co.jp/news/event-gg-aeonmall-natori-20190217
+ /\nhttp://natori-aeonmall.com/news/event/2966\n\n初登場！「ミュークルドリーミー」のみゅーちゃんが遊び
+ にくるよ（イオンモール名取）\n3F イベントスペース\n2月17日（日）\n12:30 写真撮影会\n14:00 ダンス＆抽選会\n15:30 写真
+ 撮影会\n\n写真撮影会は各回30名限定\n開店9:00より、Sanrio Gift Gate イオンモール名取店にて税込み1\,080円以上（くじ・
+ セール品除く）お買い上げで写真撮影券を配布
+LAST-MODIFIED:20190130T003804Z
+LOCATION:Aeon Mall Natori\, 5 Chome-3-１ Morisekinoshita\, Natori-shi\, Miya
+ gi-ken 981-1227\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MW イオンモール名取
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190203T020000Z
+DTEND:20190203T063000Z
+UID:6tnhber5guk6t1cc9lfjo227jk@google.com
+CREATED:20190129T031300Z
+DESCRIPTION:http://mie-mitsubishi.com/kitty.html\n\n登坂キット体験試乗会＆ハローキティが遊びにくる
+ よ\n2/2\, 2/3\n三重三菱 四日市新正店\n\nハローキティとクイズやダンスで遊ぼう！\n2/3\n11:00-11:30\n13:30-1
+ 4:00\n15:00-15:30\n\n写真撮影会の整理券はイベント開始時間30分前から配布\n各回30組
+LAST-MODIFIED:20190129T031300Z
+LOCATION:Mitsubishi\, 4 Chome-9-28 Shinshō\, Yokkaichi-shi\, Mie-ken 510-00
+ 64\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT 三重三菱 四日市新正店
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190302T050000Z
+DTEND:20190302T053000Z
+UID:1ehpro3qgtjuor2hrhjec7o1gs@google.com
+CREATED:20190129T030846Z
+DESCRIPTION:https://www.facebook.com/113015126009379/posts/280038682640355/
+ \n\nキティズパラダイス＆チャオ！チャオ！コンサート\n平成３１年３月２日（土）１４時開演（１３時半開場）\n武雄市文化会館大ホール\n\nチケット
+ 販売場所：武雄市文化会館・武雄市内各町公民館
+LAST-MODIFIED:20190129T030846Z
+LOCATION:武雄市文化会館\, Japan\, 〒843-0022 Saga-ken\, Takeo-shi\, Takeochō Ōaza T
+ akeo\, 武雄町武雄5538番地１
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT\,XO\,CN キティズパラダイス
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190211T023000Z
+DTEND:20190211T053000Z
+UID:49o15nh3orae987nalvsuhsn7u@google.com
+CREATED:20190129T030141Z
+DESCRIPTION:時間により場所が異なる\n\nhttp://housing.hicbc.com/nagakute/event/\nhttp:/
+ /housing.hicbc.com/assets/pdf/nagakute/n190202.pdf\n\nハローキティ＆ディアダニエルのバレンタイン
+ ミニステージ\n2019-02-11\n10:30～\nCBCハウジング長久手住まいの公園\n\nhttp://housing.hicbc.com/k
+ anie/event/\nhttp://housing.hicbc.com/assets/pdf/kanie/k190202.pdf\n\nハローキテ
+ ィ＆ディアダニエルのバレンタインミニステージ\n2019-02-11\n14:00～\nCBCハウジング蟹江インター住まいの公園
+LAST-MODIFIED:20190129T030141Z
+LOCATION:ＣＢＣハウジング長久手住まいの公園\, 50 Yazakonagatsuru\, Nagakute-shi\, Aichi-ken 
+ 480-1103\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT\,DN CBCハウジング
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190216T020000Z
+DTEND:20190216T083000Z
+UID:6g27bloe0hlti2nfubcsvftgv4@google.com
+CREATED:20190129T025655Z
+DESCRIPTION:https://fukuoka-aeonmall.com/news/event/1257\n\n子どもは遊ったり、大人は湯っく
+ りGOGO大分キャンペーン\n2月16日（土）　11：00～17：30\n2月17日（日）　10：30～17：30\nウエストコート\n\nサンリオキ
+ ャラクター「ハローキティ」グリーティング\n2月16日(土)のみ
+LAST-MODIFIED:20190129T025655Z
+LOCATION:AEON MALL FUKUOKA\, Japan\, 〒811-2303 Fukuoka-ken\, Kasuya-gun\, K
+ asuya-machi\, Sakado\, 字老ノ木１９２−１
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT イオンモール福岡
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190211T020000Z
+DTEND:20190211T063000Z
+UID:5tpjftlcjnlm8oqn0vsos87mcl@google.com
+CREATED:20190129T025609Z
+DESCRIPTION:http://www.wakaba-walk.com/event/#event11264\n\nサンリオ バレンタインミニステ
+ ージ\nミニステージ・握手会\n2月11日（月・祝）\n①11:00～\n②13:00～\n③15:00～\nイベント広場
+LAST-MODIFIED:20190129T025609Z
+LOCATION:Wakaba Walk\, 1 Chome-2-1 Fujimi\, Tsurugashima-shi\, Saitama-ken 
+ 350-2201\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT\,DN ワカバウォーク
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190205T040000Z
+DTEND:20190205T060000Z
+UID:5kv5k9n4i25c848vbfsu1sd6n9@google.com
+CREATED:20190122T122308Z
+DESCRIPTION:https://www.westjr.co.jp/press/article/2019/01/page_13666.html\
+ nhttps://www.sanrio.co.jp/wp-content/uploads/2019/01/20190122.pdf\nhttps://
+ www.fashion-press.net/news/46340\nhttps://www.sanrio.co.jp/news/kt-jr-hrkha
+ ruka-20190125/\n\nハローキティ はるか\n\nウェルカムイベント\n2月5日（火曜日）13時から15時\n関西空港駅
+LAST-MODIFIED:20190125T070512Z
+LOCATION:関西空港駅\, 泉州空港中 田尻町 泉南郡 大阪府 549-0011 日本
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT ハローキティはるかウェルカムイベント
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190124
+DTEND;VALUE=DATE:20190129
+UID:1opabhdjoud8c86nrsahtsmcut@google.com
+CREATED:20190116T051248Z
+DESCRIPTION:https://prtimes.jp/main/html/rd/p/000000188.000007643.html\nhtt
+ ps://dtimes.jp/sanrio-puroland-girly-girls-select-2019-s-s/\n\nGirly Girls 
+ Select 2019 in LAFORET GRAND BAZAR\nラフォーレ原宿2F CONTAINER\n1.24(木) 9:00-21:00
+ \n1.25(金)-1.28(月) 11:00 -21:00\n期間中にはイベントを盛り上げにハローキティとマイメロディもレジのお手伝いやグリーティン
+ グで登場\n\nhttps://twitter.com/Laforet_SALE/status/1088612393150607360\n\n2019
+ -01-25\n13時\n15時\n17時\n2F Girly Girls Select
+LAST-MODIFIED:20190125T021332Z
+LOCATION:Laforet Harajuku\, 1 Chome-11-6 Jingūmae\, Shibuya-ku\, Tōkyō-to 1
+ 50-0001\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT\,MM LAFORET GRAND BAZAR
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190202T030000Z
+DTEND:20190202T073000Z
+UID:2nesfrla24er7snu6ipb31bei1@google.com
+CREATED:20190122T051906Z
+DESCRIPTION:<a href="https://www.sanrio.co.jp/news/event-sanrioworld-ginza-
+ 20190202/" target="_blank" id="ow547" __is_owner="true">https://www.sanrio.
+ co.jp/news/event-sanrioworld-ginza-20190202/</a><br>https://twitter.com/san
+ rioshop_info/status/1088585746565353472<br><br>ハローキティ グリーティング＆写真撮影会♪（Sanrio
+ world GINZA 1F）<br>2月2日（土）<br>12:00 / 14:00 / 16:00<br><br>各回先着30名<br>当日10:
+ 15～10:30（締め切り）に、正面入り口側 Sanrioworld GINZA 1F モニュメント前にて、各回の「撮影整理券」と交換できる「購入予約
+ 券」を配布<br>Sanrioworld GINZA 1Fにてハローキティの商品を含む税込み1\,080円以上お買い上げで「撮影整理券」
+LAST-MODIFIED:20190124T235745Z
+LOCATION:Nishiginza\, 4 Chome-1 Ginza\, Chūō\, Tokyo 104-0061\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT 西銀座デパート
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190302T020000Z
+DTEND:20190302T063000Z
+UID:0h0j45sucbri0ttmqomlqqrqdb@google.com
+CREATED:20190124T234618Z
+DESCRIPTION:http://narita-aeonmall.com/news/event/1623\n\nハローキティ45周年アニバーサリー
+ 　ミニステージ＆撮影会\n今回はマイメロディもお祝いにくるよ！\n\n2019/03/02 (土)\n11時 ステージショー\n13時 撮影会\n15
+ 時 ステージショー\n専門店街1F ガーデンコート\n\n撮影会の整理券を12時半よりガーデンコートにて配布
+LAST-MODIFIED:20190124T234631Z
+LOCATION:AEON MALL Narita\, ２４ Uingutsuchiya\, Narita-shi\, Chiba-ken 286-0
+ 029\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT\,MM イオンモール成田
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190216T010000Z
+DTEND:20190216T073000Z
+UID:19mu8qah6s2gmmbqprd1ftgh29@google.com
+CREATED:20181217T225602Z
+DESCRIPTION:https://mitsui-shopping-park.com/mop/sapporo/special/1901_sanri
+ o/park_top.html\nhttp://www.mf-shogyo.co.jp/pdf.php?id=20181213-153058\nMIT
+ SUI OUTLETPARK SAPPORO KITAHIROSHIMA × HELLO KITTY\nHELLO FANTASY PARK\n201
+ 9年1月25日(金)～2月17日(日)\n\nハローキティグリーティング\n2019年1月26日(土)、1月27日(日)、2月2日(土)、2月3日(日
+ )、2月10日(日) 、2月16日(土)、2月17日(日)\n①10：00～ ②13：00～ ③16：00～\nクローバー・モール1階 北エントランス
+ ほか館内各所を予定\nハローキティとMC1名が館内を回る（1回約30分程度）\n\n45周年アニバーサリー ハローキティ ミニステージ\n2019年2
+ 月9日(土)、2月11日(月・祝)\n①10：00～ ②13：00～ ③16：00～\nクローバー・モール1階 エルフィンコート\nキティのお友だちの
+ キャラクターも登場。ショーのあとはハローキティと写真撮影会(各回60組)または、握手会(各回200名)を開催。(ショーは1回約20分程度、写真撮影会ま
+ たは握手会は1回約30分程度)
+LAST-MODIFIED:20190124T015441Z
+LOCATION:Mitsui Outlet Park Sapporo-Kitahiroshima\, 3 Chome-7-６ Ōmagarisaiw
+ aichō\, Kitahiroshima-shi\, Hokkaidō 061-1278\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT HELLO FANTASY PARK
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20190209T100000
+DTEND;TZID=Asia/Tokyo:20190209T170000
+RRULE:FREQ=DAILY;COUNT=2;INTERVAL=2
+UID:7f7rc1d7npg2v3ms0bo4jpdc2f@google.com
+CREATED:20181217T225719Z
+DESCRIPTION:https://mitsui-shopping-park.com/mop/sapporo/special/1901_sanri
+ o/park_top.html\nhttp://www.mf-shogyo.co.jp/pdf.php?id=20181213-153058\nMIT
+ SUI OUTLETPARK SAPPORO KITAHIROSHIMA × HELLO KITTY\nHELLO FANTASY PARK\n201
+ 9年1月25日(金)～2月17日(日)\n\nハローキティグリーティング\n2019年1月26日(土)、1月27日(日)、2月2日(土)、2月3日(日
+ )、2月10日(日) 、2月16日(土)、2月17日(日)\n①10：00～ ②13：00～ ③16：00～\nクローバー・モール1階 北エントランス
+ ほか館内各所を予定\nハローキティとMC1名が館内を回る（1回約30分程度）\n\n45周年アニバーサリー ハローキティ ミニステージ\n2019年2
+ 月9日(土)、2月11日(月・祝)\n①10：00～ ②13：00～ ③16：00～\nクローバー・モール1階 エルフィンコート\nキティのお友だちの
+ キャラクターも登場。ショーのあとはハローキティと写真撮影会(各回60組)または、握手会(各回200名)を開催。(ショーは1回約20分程度、写真撮影会ま
+ たは握手会は1回約30分程度)
+LAST-MODIFIED:20190124T015430Z
+LOCATION:Mitsui Outlet Park Sapporo-Kitahiroshima\, 3 Chome-7-６ Ōmagarisaiw
+ aichō\, Kitahiroshima-shi\, Hokkaidō 061-1278\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT HELLO FANTASY PARK
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20190127T100000
+DTEND;TZID=Asia/Tokyo:20190127T163000
+RRULE:FREQ=WEEKLY;COUNT=4;BYDAY=SU
+UID:7tgcqcos83ggpfpnhsno23d12h@google.com
+CREATED:20181217T225629Z
+DESCRIPTION:https://mitsui-shopping-park.com/mop/sapporo/special/1901_sanri
+ o/park_top.html\nhttp://www.mf-shogyo.co.jp/pdf.php?id=20181213-153058\nMIT
+ SUI OUTLETPARK SAPPORO KITAHIROSHIMA × HELLO KITTY\nHELLO FANTASY PARK\n201
+ 9年1月25日(金)～2月17日(日)\n\nハローキティグリーティング\n2019年1月26日(土)、1月27日(日)、2月2日(土)、2月3日(日
+ )、2月10日(日) 、2月16日(土)、2月17日(日)\n①10：00～ ②13：00～ ③16：00～\nクローバー・モール1階 北エントランス
+ ほか館内各所を予定\nハローキティとMC1名が館内を回る（1回約30分程度）\n\n45周年アニバーサリー ハローキティ ミニステージ\n2019年2
+ 月9日(土)、2月11日(月・祝)\n①10：00～ ②13：00～ ③16：00～\nクローバー・モール1階 エルフィンコート\nキティのお友だちの
+ キャラクターも登場。ショーのあとはハローキティと写真撮影会(各回60組)または、握手会(各回200名)を開催。(ショーは1回約20分程度、写真撮影会ま
+ たは握手会は1回約30分程度)
+LAST-MODIFIED:20190124T015418Z
+LOCATION:Mitsui Outlet Park Sapporo-Kitahiroshima\, 3 Chome-7-６ Ōmagarisaiw
+ aichō\, Kitahiroshima-shi\, Hokkaidō 061-1278\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT HELLO FANTASY PARK
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20190126T100000
+DTEND;TZID=Asia/Tokyo:20190126T163000
+RRULE:FREQ=WEEKLY;COUNT=2;BYDAY=SA
+UID:1aeie06j1apga9kek07gpv957e@google.com
+CREATED:20181217T225544Z
+DESCRIPTION:https://mitsui-shopping-park.com/mop/sapporo/special/1901_sanri
+ o/park_top.html<br><a href="http://www.mf-shogyo.co.jp/pdf.php?id=20181213-
+ 153058" target="_blank" id="ow1797" __is_owner="true">http://www.mf-shogyo.
+ co.jp/pdf.php?id=20181213-153058</a><br><br>MITSUI OUTLETPARK SAPPORO KITAH
+ IROSHIMA × HELLO KITTY<br>HELLO FANTASY PARK<br>2019年1月25日(金)～2月17日(日)<br><
+ br>ハローキティグリーティング<br>2019年1月26日(土)、1月27日(日)、2月2日(土)、2月3日(日)、2月10日(日) 、2月16日(
+ 土)、2月17日(日)<br>①10：00～ ②13：00～ ③16：00～<br>クローバー・モール1階 北エントランスほか館内各所を予定<br>ハ
+ ローキティとMC1名が館内を回る（1回約30分程度）<br><br>45周年アニバーサリー ハローキティ ミニステージ<br>2019年2月9日(土)
+ 、2月11日(月・祝)<br>①10：00～ ②13：00～ ③16：00～<br>クローバー・モール1階 エルフィンコート<br>キティのお友だちの
+ キャラクターも登場。ショーのあとはハローキティと写真撮影会(各回60組)または、握手会(各回200名)を開催。(ショーは1回約20分程度、写真撮影会ま
+ たは握手会は1回約30分程度)
+LAST-MODIFIED:20190124T015406Z
+LOCATION:Mitsui Outlet Park Sapporo-Kitahiroshima\, 3 Chome-7-６ Ōmagarisaiw
+ aichō\, Kitahiroshima-shi\, Hokkaidō 061-1278\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT HELLO FANTASY PARK
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190309T013000Z
+DTEND:20190309T060000Z
+UID:6uc19vocuvajfnknbf0chuu6ad@google.com
+CREATED:20180911T094716Z
+DESCRIPTION:<br><a href="http://www.hashimac.org/syusai.html" id="ow370" __
+ is_owner="true">http://www.hashimac.org/syusai.html</a><br><a href="https:/
+ /t.pia.jp/pia/event/event.do?eventCd=1844379" target="_blank" id="ow366" __
+ is_owner="true">https://t.pia.jp/pia/event/event.do?eventCd=1844379</a><br>
+ <br><br>ハローキティのドリームトラベラー<br>会場: 不二羽島文化センター スカイホール<br>日時: 2019/3/9 10:30\, 1
+ 3:30<br>チケットは2018/12/15に10:30の回、12/16に13:30の回をそれぞれ発売開始。
+LAST-MODIFIED:20190124T011049Z
+LOCATION:不二羽島文化センター\,  日本、〒501-6244 岐阜県羽島市竹鼻町丸の内６丁目７
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ドリームトラベラー
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190512
+DTEND;VALUE=DATE:20190513
+UID:7c73r26926upu97gekca3idgbv@google.com
+CREATED:20190123T062225Z
+DESCRIPTION:http://www.mymelodyrun.com.sg/\nhttps://www.facebook.com/sanrio
+ hongkong/posts/10157509772542985/\n\nMy Melody Run Singapore 2019\n2019-05-
+ 12 8am
+LAST-MODIFIED:20190123T062322Z
+LOCATION:Sentosa\, Singapore
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MM My Melody Run Singapore
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Sao_Paulo:20190125T100000
+DTEND;TZID=America/Sao_Paulo:20190125T220000
+RRULE:FREQ=DAILY;COUNT=3
+UID:516dhqfg1i9grlg2a2r344b49f@google.com
+CREATED:20190116T050421Z
+DESCRIPTION:https://www.riomatsuri.com.br/\nhttp://www.woodsfm.com.br/notic
+ ias/festival-da-cultura-japonesa-acontece-de-25-a-27-01-na-barra.html\nhttp
+ ://jornaldiadia.com.br/2016/?p=523686\nhttps://www.facebook.com/SanrioBrasi
+ l/posts/10157079536834954/\n\nRio Matsuri\nRiocentro – Pavilhão 4\nDia 25 d
+ e janeiro (sexta-feira): das 17h às 22h\nDia 26 de janeiro (sábado): das 10
+ h às 22h\nDia 27 de janeiro (domingo): das 10h às 22h\n\nHello Kitty irá pe
+ ssoalmente comemorar seu aniversário de 45 anos.\nA personagem estará dispo
+ nível para Meet & Greet gratuito nos três dias de evento.
+LAST-MODIFIED:20190121T031517Z
+LOCATION:Riocentro Pavilion 4\, Riocentro - Av. Salvador Allende\, 6555 - B
+ arra da Tijuca\, Rio de Janeiro - RJ\, 22783-127\, Brazil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT Rio Matsuri
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180203T010000Z
+DTEND:20180203T073000Z
+UID:03d12v2jphkc130svis2vmrc1l@google.com
+CREATED:20180122T123651Z
+DESCRIPTION:<a href="https://www.google.com/url?q=http%3A%2F%2Fwww.takahata
+ fudoson.or.jp%2F%3Fp%3D2153&amp\;sa=D&amp\;usd=2&amp\;usg=AFQjCNG0zXnUR-R4_
+ 4m47SfyfWwCnHcsnw">http://www.takahatafudoson.or.jp/?p=2153</a><br><br><br>
+ 時間: ①10:00～ / ②11:00～ / ③13:00～ / ④15:00～ / ⑤16:00～
+LAST-MODIFIED:20190121T030018Z
+LOCATION:高幡不動尊金剛寺\, 東京都日野市高幡733
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:KT 節分豆撒式
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190203T010000Z
+DTEND:20190203T073000Z
+UID:30covf75gptdgb7rvdkaoi899o@google.com
+CREATED:20190121T025926Z
+DESCRIPTION:https://www.takahatafudoson.or.jp/?p=2708\n\n平成31年 節分会豆撒式\n2019
+ -02-03\n10時\n11時\n13時\n15時\n16時
+LAST-MODIFIED:20190121T025955Z
+LOCATION:Takahatasan Kongoji\, ７３３ Takahata\, Hino-shi\, Tōkyō-to 191-0031\
+ , Japan
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:KT 節分豆撒式
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190310
+DTEND;VALUE=DATE:20190311
+UID:4i2o3lh59rhopg85eka5kn18jj@google.com
+CREATED:20190121T025410Z
+DESCRIPTION:https://www.fujiyakuhin.co.jp/drugstore/festa/\n\n富士薬品グループ Pres
+ ents お客様感謝フェスタ\n2019-03-10\n09:30 - 16:00\nさいたまスーパーアリーナ\n\nハローキティ＆ウサハナのジョイフ
+ ルパーティ！
+LAST-MODIFIED:20190121T025425Z
+LOCATION:Saitama Super Arena\, 8 Shintoshin\, Chūō-ku\, Saitama-shi\, Saita
+ ma-ken 330-9111\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT\,US ジョイフルパーティ
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191031T103000Z
+DTEND:20191031T163000Z
+UID:5479hi5tfdk6u1scu0do2ohlt6@google.com
+CREATED:20190121T025042Z
+DESCRIPTION:https://www.drusillas.co.uk/events\nhttps://www.drusillas.co.uk
+ /hello-kitty\n\n2019-02-21 Thu\n2019-04-11 Thu\n2019-04-16 Tue\n2019-05-06 
+ Mon\n2019-05-27 Mon\n2019-08-06 Tue\n2019-08-15 Thu\n2019-08-22 Thu\n2019-0
+ 8-29 Thu\n2019-10-31 Thu\n\nGreeting time in Summer Time:\n10:30-11:00\, 11
+ :15-11:15\, 12:00-12:30\, 12:45-13:15\,\n14:30-15:00\, 15:15-15:45\, 16:00-
+ 16:30\, 16:45-17:15\n\nGreeting time in Winter Time:\n10:30-11:00\, 11:15-1
+ 1:15\, 12:00-12:30\, 12:45-13:15\,\n14:30-15:00\, 15:15-15:45\, 16:00-16:30
+ \n\nSummer Time starts at: 2019-03-31\nSummer Time ends at: 2019-10-27
+LAST-MODIFIED:20190121T025042Z
+LOCATION:Drusillas Park\, Alfriston Rd\, East Sussex BN26 5QS\, UK
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT Drusillas Park
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20190815T103000
+DTEND;TZID=Europe/London:20190815T171500
+RRULE:FREQ=WEEKLY;COUNT=3;BYDAY=TH
+UID:1h89n85qab59qfbefug9k7tcrj@google.com
+CREATED:20190121T025016Z
+DESCRIPTION:https://www.drusillas.co.uk/events\nhttps://www.drusillas.co.uk
+ /hello-kitty\n\n2019-02-21 Thu\n2019-04-11 Thu\n2019-04-16 Tue\n2019-05-06 
+ Mon\n2019-05-27 Mon\n2019-08-06 Tue\n2019-08-15 Thu\n2019-08-22 Thu\n2019-0
+ 8-29 Thu\n2019-10-31 Thu\n\nGreeting time in Summer Time:\n10:30-11:00\, 11
+ :15-11:15\, 12:00-12:30\, 12:45-13:15\,\n14:30-15:00\, 15:15-15:45\, 16:00-
+ 16:30\, 16:45-17:15\n\nGreeting time in Winter Time:\n10:30-11:00\, 11:15-1
+ 1:15\, 12:00-12:30\, 12:45-13:15\,\n14:30-15:00\, 15:15-15:45\, 16:00-16:30
+ \n\nSummer Time starts at: 2019-03-31\nSummer Time ends at: 2019-10-27
+LAST-MODIFIED:20190121T025016Z
+LOCATION:Drusillas Park\, Alfriston Rd\, East Sussex BN26 5QS\, UK
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT Drusillas Park
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190806T093000Z
+DTEND:20190806T161500Z
+UID:108dl6kkif7ton363d8sqrml3p@google.com
+CREATED:20190121T024954Z
+DESCRIPTION:https://www.drusillas.co.uk/events\nhttps://www.drusillas.co.uk
+ /hello-kitty\n\n2019-02-21 Thu\n2019-04-11 Thu\n2019-04-16 Tue\n2019-05-06 
+ Mon\n2019-05-27 Mon\n2019-08-06 Tue\n2019-08-15 Thu\n2019-08-22 Thu\n2019-0
+ 8-29 Thu\n2019-10-31 Thu\n\nGreeting time in Summer Time:\n10:30-11:00\, 11
+ :15-11:15\, 12:00-12:30\, 12:45-13:15\,\n14:30-15:00\, 15:15-15:45\, 16:00-
+ 16:30\, 16:45-17:15\n\nGreeting time in Winter Time:\n10:30-11:00\, 11:15-1
+ 1:15\, 12:00-12:30\, 12:45-13:15\,\n14:30-15:00\, 15:15-15:45\, 16:00-16:30
+ \n\nSummer Time starts at: 2019-03-31\nSummer Time ends at: 2019-10-27
+LAST-MODIFIED:20190121T024954Z
+LOCATION:Drusillas Park\, Alfriston Rd\, East Sussex BN26 5QS\, UK
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT Drusillas Park
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190527T093000Z
+DTEND:20190527T161500Z
+UID:7d7c67bcq0dpqne3qigv5fbe0i@google.com
+CREATED:20190121T024939Z
+DESCRIPTION:https://www.drusillas.co.uk/events\nhttps://www.drusillas.co.uk
+ /hello-kitty\n\n2019-02-21 Thu\n2019-04-11 Thu\n2019-04-16 Tue\n2019-05-06 
+ Mon\n2019-05-27 Mon\n2019-08-06 Tue\n2019-08-15 Thu\n2019-08-22 Thu\n2019-0
+ 8-29 Thu\n2019-10-31 Thu\n\nGreeting time in Summer Time:\n10:30-11:00\, 11
+ :15-11:15\, 12:00-12:30\, 12:45-13:15\,\n14:30-15:00\, 15:15-15:45\, 16:00-
+ 16:30\, 16:45-17:15\n\nGreeting time in Winter Time:\n10:30-11:00\, 11:15-1
+ 1:15\, 12:00-12:30\, 12:45-13:15\,\n14:30-15:00\, 15:15-15:45\, 16:00-16:30
+ \n\nSummer Time starts at: 2019-03-31\nSummer Time ends at: 2019-10-27
+LAST-MODIFIED:20190121T024939Z
+LOCATION:Drusillas Park\, Alfriston Rd\, East Sussex BN26 5QS\, UK
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT Drusillas Park
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190506T093000Z
+DTEND:20190506T161500Z
+UID:7petuaeie2ts7je3k0fpa3ruj5@google.com
+CREATED:20190121T024908Z
+DESCRIPTION:https://www.drusillas.co.uk/events\nhttps://www.drusillas.co.uk
+ /hello-kitty\n\n2019-02-21 Thu\n2019-04-11 Thu\n2019-04-16 Tue\n2019-05-06 
+ Mon\n2019-05-27 Mon\n2019-08-06 Tue\n2019-08-15 Thu\n2019-08-22 Thu\n2019-0
+ 8-29 Thu\n2019-10-31 Thu\n\nGreeting time in Summer Time:\n10:30-11:00\, 11
+ :15-11:15\, 12:00-12:30\, 12:45-13:15\,\n14:30-15:00\, 15:15-15:45\, 16:00-
+ 16:30\, 16:45-17:15\n\nGreeting time in Winter Time:\n10:30-11:00\, 11:15-1
+ 1:15\, 12:00-12:30\, 12:45-13:15\,\n14:30-15:00\, 15:15-15:45\, 16:00-16:30
+ \n\nSummer Time starts at: 2019-03-31\nSummer Time ends at: 2019-10-27
+LAST-MODIFIED:20190121T024908Z
+LOCATION:Drusillas Park\, Alfriston Rd\, East Sussex BN26 5QS\, UK
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT Drusillas Park
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190416T093000Z
+DTEND:20190416T161500Z
+UID:7emeoqc3kq6bgh79knf7371gk0@google.com
+CREATED:20190121T024855Z
+DESCRIPTION:https://www.drusillas.co.uk/events\nhttps://www.drusillas.co.uk
+ /hello-kitty\n\n2019-02-21 Thu\n2019-04-11 Thu\n2019-04-16 Tue\n2019-05-06 
+ Mon\n2019-05-27 Mon\n2019-08-06 Tue\n2019-08-15 Thu\n2019-08-22 Thu\n2019-0
+ 8-29 Thu\n2019-10-31 Thu\n\nGreeting time in Summer Time:\n10:30-11:00\, 11
+ :15-11:15\, 12:00-12:30\, 12:45-13:15\,\n14:30-15:00\, 15:15-15:45\, 16:00-
+ 16:30\, 16:45-17:15\n\nGreeting time in Winter Time:\n10:30-11:00\, 11:15-1
+ 1:15\, 12:00-12:30\, 12:45-13:15\,\n14:30-15:00\, 15:15-15:45\, 16:00-16:30
+ \n\nSummer Time starts at: 2019-03-31\nSummer Time ends at: 2019-10-27
+LAST-MODIFIED:20190121T024855Z
+LOCATION:Drusillas Park\, Alfriston Rd\, East Sussex BN26 5QS\, UK
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT Drusillas Park
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190411T093000Z
+DTEND:20190411T161500Z
+UID:5ak9k85jjlqpd7qf0ncdumo1b5@google.com
+CREATED:20190121T024844Z
+DESCRIPTION:https://www.drusillas.co.uk/events\nhttps://www.drusillas.co.uk
+ /hello-kitty\n\n2019-02-21 Thu\n2019-04-11 Thu\n2019-04-16 Tue\n2019-05-06 
+ Mon\n2019-05-27 Mon\n2019-08-06 Tue\n2019-08-15 Thu\n2019-08-22 Thu\n2019-0
+ 8-29 Thu\n2019-10-31 Thu\n\nGreeting time in Summer Time:\n10:30-11:00\, 11
+ :15-11:15\, 12:00-12:30\, 12:45-13:15\,\n14:30-15:00\, 15:15-15:45\, 16:00-
+ 16:30\, 16:45-17:15\n\nGreeting time in Winter Time:\n10:30-11:00\, 11:15-1
+ 1:15\, 12:00-12:30\, 12:45-13:15\,\n14:30-15:00\, 15:15-15:45\, 16:00-16:30
+ \n\nSummer Time starts at: 2019-03-31\nSummer Time ends at: 2019-10-27
+LAST-MODIFIED:20190121T024844Z
+LOCATION:Drusillas Park\, Alfriston Rd\, East Sussex BN26 5QS\, UK
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT Drusillas Park
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190221T103000Z
+DTEND:20190221T163000Z
+UID:0iojuvnvvkigcf906nkg84004g@google.com
+CREATED:20190121T024802Z
+DESCRIPTION:https://www.drusillas.co.uk/events\nhttps://www.drusillas.co.uk
+ /hello-kitty\n\n2019-02-21 Thu\n2019-04-11 Thu\n2019-04-16 Tue\n2019-05-06 
+ Mon\n2019-05-27 Mon\n2019-08-06 Tue\n2019-08-15 Thu\n2019-08-22 Thu\n2019-0
+ 8-29 Thu\n2019-10-31 Thu\n\nGreeting time in Summer Time:\n10:30-11:00\, 11
+ :15-11:15\, 12:00-12:30\, 12:45-13:15\,\n14:30-15:00\, 15:15-15:45\, 16:00-
+ 16:30\, 16:45-17:15\n\nGreeting time in Winter Time:\n10:30-11:00\, 11:15-1
+ 1:15\, 12:00-12:30\, 12:45-13:15\,\n14:30-15:00\, 15:15-15:45\, 16:00-16:30
+ \n\nSummer Time starts at: 2019-03-31\nSummer Time ends at: 2019-10-27
+LAST-MODIFIED:20190121T024802Z
+LOCATION:Drusillas Park\, Alfriston Rd\, East Sussex BN26 5QS\, UK
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT Drusillas Park
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190210T030000Z
+DTEND:20190210T070000Z
+UID:4o5vid28e2cr95vpfdnfjsbg8t@google.com
+CREATED:20180304T130849Z
+DESCRIPTION:<br>http://www.new-chitose-airport.jp/ja/happy-flight/news/deta
+ il/210.html<br>https://twitter.com/HappyFlight_cts/status/10861248833423851
+ 53<br><br>シナモロールが新千歳空港にあそびにくるよ！<br>2019-02-10<br>12:00 レジに挑戦<br>14:00 ミニステー
+ ジ<br>15:30 撮影会<br><br>ミニステージと撮影会には整理券が必要<br>整理券は当日11時からハッピーフライトエントランスで配布<br
+ >年間パスポート特典の整理券先行申し込みは1月27日まで<br><a href="https://twitter.com/HappyFlight_ct
+ s/status/969371240199680000" target="_blank" id="ow1569" __is_owner="true">
+ https://twitter.com/HappyFlight_cts/status/969371240199680000</a><br><br>20
+ 18-04-28 土 XO<br>2018-05-13 日 PN<br>2018-06-23 土 MP<br>2018-07-22 日 投票1位のキャ
+ ラ<br>2018-09-22 土 KR<br>2018-10-28 日 KU<br>2018-11-04 日 KT<br>2018-12-23 土 
+ TS<br>2019-01-19 土 MM<br>2019-02-10 日 CN<br>2019-03-23 土 HG
+LAST-MODIFIED:20190118T051259Z
+LOCATION:新千歳空港国内線ターミナル\, 1292-33 Bibi\, Chitose-shi\, Hokkaidō 066-0012\, J
+ apan
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:CN ハッピーフライト
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190120T030000Z
+DTEND:20190120T072000Z
+UID:4si4vulv3vl0a05eo3f17o42j7@google.com
+CREATED:20190116T050718Z
+DESCRIPTION:https://www.sanrio.co.jp/news/kt-45th-ut-20190115/\nhttps://twi
+ tter.com/sanrio_news/status/1085778767136546818\nhttps://www.facebook.com/h
+ ellokitty.global/posts/2136356953092442/\n\nユニクロ「UT」ハローキティ45周年記念コレクション\nビック
+ ロ ユニクロ 新宿東口店には、1月18日（金）からフォトブースが登場\n\nハローキティ・ミミィ・ディアダニエル グリーティング・写真撮影会\nビック
+ ロ ユニクロ 新宿東口店 1F ライオン口付近\n1月20日（日） 12:00 / 14:00 / 16:00（1回20分）\n整理券の配布なし\n各
+ 回実施の10分前より、1F ライオン口付近に並ぶ
+LAST-MODIFIED:20190118T024105Z
+LOCATION:BICQLO UNIQLO Shinjuku east exit shop\, 3 Chome-29-1 Shinjuku\, Sh
+ injuku-ku\, Tōkyō-to 160-0022\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KTキティ\,KTミミィ\,DN ユニクロUT
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190223
+DTEND;VALUE=DATE:20190224
+UID:3kb7u9hae30j9o172120neefbp@google.com
+CREATED:20190118T020909Z
+DESCRIPTION:https://www.sanrio.co.jp/news/event-mf-greeting-aeonmall-tsukub
+ a-20190126/\n\nまるもふびより モップのスペシャルグリーティング\n\n次回以降のスケジュール\n詳細は後日\n2月3日（日）　Sanr
+ io Gift Gate 泉北店（大阪）\n2月9日（土）　Sanrio vivitix サンシャインシティアルパ店（東京）\n2月16日（土）　高島
+ 屋 横浜店 6F サンリオ（神奈川）\n2月23日（土）　Sanrio Gift Gate ゆめタウン博多店（福岡）
+LAST-MODIFIED:20190118T020909Z
+LOCATION:YouMe Town Hakata shop\, １丁目-1-1 Higashihama\, Higashi-ku\, Fukuok
+ a-shi\, Fukuoka-ken 812-0055\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MF ゆめタウン博多
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190216
+DTEND;VALUE=DATE:20190217
+UID:54mhtu83p3tlho2snbauepbibr@google.com
+CREATED:20190118T020837Z
+DESCRIPTION:https://www.sanrio.co.jp/news/event-mf-greeting-aeonmall-tsukub
+ a-20190126/\n\nまるもふびより モップのスペシャルグリーティング\n\n次回以降のスケジュール\n詳細は後日\n2月3日（日）　Sanr
+ io Gift Gate 泉北店（大阪）\n2月9日（土）　Sanrio vivitix サンシャインシティアルパ店（東京）\n2月16日（土）　高島
+ 屋 横浜店 6F サンリオ（神奈川）\n2月23日（土）　Sanrio Gift Gate ゆめタウン博多店（福岡）
+LAST-MODIFIED:20190118T020837Z
+LOCATION:Takashimaya Yokohama Store\, １丁目-6-31 南幸 Nishi-ku\, Yokohama-shi\,
+  Kanagawa-ken 220-8601\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MF 横浜タカシマヤ
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190126T020000Z
+DTEND:20190126T063000Z
+UID:0qhftj2363oo22dmebgdfjp3q0@google.com
+CREATED:20190118T020608Z
+DESCRIPTION:https://www.sanrio.co.jp/news/event-mf-greeting-aeonmall-tsukub
+ a-20190126/\n\nまるもふびより モップのスペシャルグリーティング（イオンモールつくば）\n3F イオン前\n1月26日（土）\n11:0
+ 0\n13:00\n15:00\n\n各回30名\nイベント当日、開店時より、Sanrio Gift Gate イオンモールつくば店のレジカウンターに
+ て、各回の整理券を配布
+LAST-MODIFIED:20190118T020608Z
+LOCATION:AEON MALL TSUKUBA\, ６６－１ Inaoka\, Tsukuba-shi\, Ibaraki-ken 305-00
+ 71\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MF イオンモールつくば
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190303T025000Z
+DTEND:20190303T093000Z
+UID:249ruceqcasff02rljt16vq696@google.com
+CREATED:20190113T005134Z
+DESCRIPTION:https://www.symphony-cruise.co.jp/season/detail.php?p=2411\n\nシ
+ ナモロールのクルーズパーティー\n2019-03-03\n11:50-14:00 ランチクルーズ\n16:30-18:30 サンセットクルーズ
+LAST-MODIFIED:20190113T005134Z
+LOCATION:Symphony Cruise\, 2 Chome-7-104 Kaigan\, Minato-ku\, Tōkyō-to 105-
+ 0022\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CN クルーズパーティー
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Bangkok:20190112T130000
+DTEND;TZID=Asia/Bangkok:20190112T173000
+RRULE:FREQ=DAILY;COUNT=2
+UID:050e6f4mgd65um1hcepgvjq14h@google.com
+CREATED:20190111T003042Z
+DESCRIPTION:http://www.fashionisland.co.th/event_toy-world-2019-00349.html\
+ nhttps://www.facebook.com/sanriohongkong/posts/10157474497827985/\n\nToys W
+ orld 2019\n2019-01-04 / 2019-01-13\n\nMeet & Greet กับ Hello Kitty\n2019-01
+ -12\,13\n13:00\, 15:00\, 17:00
+LAST-MODIFIED:20190111T003042Z
+LOCATION:Fashion island shopping mall\, 587\,589\, 589/7 9 Thanon Ram Intra
+ \, Khwaeng Khan Na Yao\, Khet Khan Na Yao\, Krung Thep Maha Nakhon 10230\, 
+ Thailand
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT FashionIsland Shopping Mall
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190111T033000Z
+DTEND:20190111T035000Z
+UID:60q68cpg6sq6ab9nc8r36b9kckojeb9p60s38bb4cgo66oj66tj36ob5c4@google.com
+CREATED:20190110T222027Z
+DESCRIPTION:<a href="https://www.tv-asahi.co.jp/go-chan/contents/news/0074/
+ " target="_blank">https://www.tv-asahi.co.jp/go-chan/contents/news/0074/</a
+ ><br><a href="https://twitter.com/gochan_V/status/1081000775738740737?s=19"
+  target="_blank" id="ow494" __is_owner="true">https://twitter.com/gochan_V/
+ status/1081000775738740737</a><br><br>◇撮影会の開始日時：1月11日（金）のひる12時30分からひる12時50分
+ まで<br><br>◇場所：『ソニーストア銀座』４Ｆ
+LAST-MODIFIED:20190110T222318Z
+LOCATION:ソニーショールーム／ソニーストア 銀座\, 日本、〒104-0061 東京都中央区銀座５丁目８−番1号 GINZA PLACE 4-
+ 6階
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:GP aibo誕生日記念撮影会
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190116T030000Z
+DTEND:20190116T073000Z
+UID:15prcu95osaa209fssm8rqi9ed@google.com
+CREATED:20190108T002130Z
+DESCRIPTION:<a href="https://www.sanrio.co.jp/news/kt-45thanniversary-cafe-
+ 20190107/" target="_blank">https://www.sanrio.co.jp/news/kt-45thanniversary
+ -cafe-20190107/</a><br><a href="https://www.facebook.com/hellokitty.japan/p
+ osts/2414408645298930/" target="_blank" id="ow336" __is_owner="true">https:
+ //www.facebook.com/hellokitty.japan/posts/2414408645298930/</a><br>https://
+ twitter.com/EggSpuma/status/1082478130911109120<br><br>ハローキティ45周年記念カフェが、ルミネ
+ エスト新宿 「EGG＆SPUMA」にオープン！<br>ルミネエスト新宿 8F「EGG&amp\;SPUMA」<br>1月16日（水）～3月31日（日）
+ <br>平日 11:00〜23:00（L.O. 22:00）<br>土日祝 11:00〜22:30（L.O. 21:30）<br><br>ハローキティ
+  グリーティング情報<br>1月16日（水）<br>12:00 / 14:00 / 16:00（各回30分）<br>各回先着30組<br>コラボメニュ
+ ーをご注文、かつSNS（Twitter・Instagram・facebook）にて「#eggandspuma」のハッシュタグをつけて投稿で写真撮影会の
+ 整理券を配布
+LAST-MODIFIED:20190109T231513Z
+LOCATION:EGG&SPUMA\, Japan\, 〒160-0022 Tōkyō-to\, Shinjuku-ku\, Shinjuku\, 
+ 3 Chome−38\, 新宿３−３８−１ 新宿ルミネエスト８F
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT EGG&SPUMA
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Hong_Kong:20190127T150000
+DTEND;TZID=Asia/Hong_Kong:20190127T153000
+RRULE:FREQ=WEEKLY;COUNT=2;BYDAY=SU
+UID:684tp0rbdcm8gtlitfkibk70c5@google.com
+CREATED:20190109T003659Z
+DESCRIPTION:http://www.megabox.com.hk/monthly_highlight.php?mid=7&id=764&ty
+ pe=5&lang=tchi\nhttp://www.megabox.com.hk/monthly_highlight.php?mid=7&id=76
+ 4&type=5&lang=eng\n\nCINNAMOROLL新春見面會\n1月27日及2月3日（星期日）\n3:00pm L5中庭\n\n即日消費
+ 滿HK$300*或以上及讚好MegaBox Facebook 專頁，即可換領「Cinnamoroll見面會」入場證1張，於指定日期與Cinnamoro
+ ll 拍照留念，粉絲們不容錯過！\n換領日期：1月9日至額滿即止\n換領時間：12:00nn - 10:00pm\n換領地點：禮品換領/ Mega C
+ lub 專櫃@ G
+LAST-MODIFIED:20190109T003659Z
+LOCATION:MegaBox\, Enterprise Square V Tower 2\, 38 Wang Chiu Rd\, Kowloon 
+ Bay\, Hong Kong
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CN MegaBox
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190126T020000Z
+DTEND:20190126T073000Z
+UID:0glu2posbgp7gdfgv3avhk8e7h@google.com
+CREATED:20181226T022943Z
+DESCRIPTION:<a href="https://www.sanrio.co.jp/news/event-grandtree-musashik
+ osugi-20190126/" target="_blank" id="ow478" __is_owner="true">https://www.s
+ anrio.co.jp/news/event-grandtree-musashikosugi-20190126/</a><br>https://twi
+ tter.com/10hamuchan10/status/1082596241224024064<br><br>ぼんぼんりぼんと遊ぼう！（グランツリー
+ 武蔵小杉）<br>グランツリー武蔵小杉 4F スマイルスクエア<br>2019年1月26日（土）<br>11:00 / 14:00 / 16:00<b
+ r><br>写真撮影会は各回30名限定<br>当日10:00よりサンリオギフトゲートにて税込み1\,080円以上お買い上げで撮影券を配付
+LAST-MODIFIED:20190108T225933Z
+LOCATION:Grand Tree Musashikosugi\, 3 Chome-1135-1 Shinmarukohigashi\, Naka
+ hara-ku\, Kawasaki-shi\, Kanagawa-ken 211-0004\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:BO グランツリー武蔵小杉
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190105T001000Z
+DTEND:20190105T004000Z
+UID:56pn4k28e4so99u1jn7d9bcsp5@google.com
+CREATED:20181229T201801Z
+DESCRIPTION:http://www.jra.go.jp/news/201901nakayama/#sec-01-02\n\n第1回中山競馬\
+ n1/5 - 1/20\n\n中山新春「大鏡開き」\n1/5 9:10\nグランプリガーデン
+LAST-MODIFIED:20190108T042936Z
+LOCATION:Nakayama Racecource\, 1 Chome-1-1 Kosaku\, Funabashi-shi\, Chiba-k
+ en 273-0037\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:TF\,KT 大鏡開き
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190310T063000Z
+DTEND:20190310T110000Z
+UID:3hpakjs10ceicdipi9rb4cvtkn@google.com
+CREATED:20190105T233839Z
+DESCRIPTION:\nニッポンレンタカーの個人会員・法人会員\n3歳～15歳のお子さまを含むグループ最大10名まで\n2019年1月31日（木）
+ までに応募\n\nhttps://www.nipponrentacar.co.jp/50th/\n\nニッポンレンタカー50周年\nありがとう50th
+  第1弾\n仕事体験テーマパーク カンドゥーへニッポンレンタカーより合計400名様ご招待\n\nハローキティが会場に遊びにくるよ！\n2019年3月1
+ 0日（日）15:30～20:00
+LAST-MODIFIED:20190105T233839Z
+LOCATION:Kandu\, Japan\, 〒261-0024 Chiba-ken\, Chiba-shi\, Mihama-ku\, Toyo
+ suna\, １−５ イオンモール幕張新都心ファミリーモール 3F
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT ニッポンレンタカー50周年
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190127T020000Z
+DTEND:20190127T063000Z
+UID:1v26a9f78vdvh3e86mi7deq35g@google.com
+CREATED:20190105T233057Z
+DESCRIPTION:https://www.seibu-leisure.co.jp/event/17607/index.html\n\n1月6日（
+ 日）、13日（日）、27日（日）\n11:00 マイメロとハッピーグリーティング\n13:00 バースデーセレブレーション\n15:00 マイメロとプ
+ リンセス
+LAST-MODIFIED:20190105T233057Z
+LOCATION:Seibuen Amusement Park\, Japan\, 〒359-1145 Saitama-ken\, Tokorozaw
+ a-shi\, Yamaguchi\, 所沢市山口２９６４
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MM\,KT 西武園ゆうえんち
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20190106T110000
+DTEND;TZID=Asia/Tokyo:20190106T153000
+RRULE:FREQ=WEEKLY;COUNT=2;BYDAY=SU
+UID:6f12cphecutr96mukaaeh9lfes@google.com
+CREATED:20190105T233041Z
+DESCRIPTION:https://www.seibu-leisure.co.jp/event/17607/index.html\n\n1月6日（
+ 日）、13日（日）、27日（日）\n11:00 マイメロとハッピーグリーティング\n13:00 バースデーセレブレーション\n15:00 マイメロとプ
+ リンセス
+LAST-MODIFIED:20190105T233041Z
+LOCATION:Seibuen Amusement Park\, Japan\, 〒359-1145 Saitama-ken\, Tokorozaw
+ a-shi\, Yamaguchi\, 所沢市山口２９６４
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MM\,KT 西武園ゆうえんち
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190119T030000Z
+DTEND:20190119T070000Z
+UID:6e08opgpd1s70vhmhs2kf16ksv@google.com
+CREATED:20180304T130834Z
+DESCRIPTION:<br>http://www.new-chitose-airport.jp/ja/happy-flight/news/deta
+ il/119.html<br><br>マイメロディとあそぼう！<br>1/19<br>12:00 レジに挑戦<br>14:00 ミニステージ<br>1
+ 5:30 撮影会<br><br>ミニステージと撮影会は整理券が必要<br>当日11時からエントランスで配布<br>年間パスポート特典の整理券線香申し込
+ みは1月7日までに電子メールで申し込む<br><a href="https://twitter.com/HappyFlight_cts/status/
+ 969371240199680000" target="_blank" id="ow383" __is_owner="true">https://tw
+ itter.com/HappyFlight_cts/status/969371240199680000</a><br><br>2018-04-28 土
+  XO<br>2018-05-13 日 PN<br>2018-06-23 土 MP<br>2018-07-22 日 投票1位のキャラ<br>2018-
+ 09-22 土 KR<br>2018-10-28 日 KU<br>2018-11-04 日 KT<br>2018-12-23 土 TS<br>2019
+ -01-19 土 MM<br>2019-02-10 日 CN<br>2019-03-23 土 HG
+LAST-MODIFIED:20190105T232814Z
+LOCATION:新千歳空港国内線ターミナル\, 1292-33 Bibi\, Chitose-shi\, Hokkaidō 066-0012\, J
+ apan
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:MM ハッピーフライト
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190103T020000Z
+DTEND:20190103T063000Z
+UID:74o62db664s62b9hcli34b9kc4sj2bb261ij4bb6c4p30e1j70ojcohoc8@google.com
+CREATED:20181218T231901Z
+DESCRIPTION:http://www.aeon.jp/sc/sanoshintoshi/event/event_e123106.html\n\
+ nハローキティ ミニステージ\n\n日程：2019年1月3日(木)\n時間：(1)11:00～ (2)13:00～ (3)15:00～\n場所：1F 
+ セントラルコート\n\nミニステージ終了後、ハローキティがポーズを取り写真撮影ができます。\n※お客さまと一緒の写真撮影ではございません。
+LAST-MODIFIED:20190103T001515Z
+LOCATION:AEON MALL SANO NEW CITY\, １３２４−１ Takahagichō\, Sano-shi\, Tochigi-
+ ken 327-0821\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT イオンモール佐野新都市
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190112T013000Z
+DTEND:20190112T053000Z
+UID:0c94pciq0jh5v3e1jqu1um68ga@google.com
+CREATED:20190102T224129Z
+DESCRIPTION:http://housing.hicbc.com/kanie/event/\n\nハローキティ ミニステージ\n\n1/12(
+ 土) ①10:30～ ②14:00～\n\nステージ終了後は握手会を開催\n雨天時は内容を変更して実施
+LAST-MODIFIED:20190102T224129Z
+LOCATION:ＣＢＣハウジング蟹江インター住まいの公園\, 日本、〒497-0051 愛知県海部郡蟹江町北新田１丁目６０
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT CBCハウジング蟹江インター住まいの公園
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190316
+DTEND;VALUE=DATE:20190317
+UID:2s5odh815abmsvej8uvhrmck1d@google.com
+CREATED:20190102T223724Z
+DESCRIPTION:1月14日(月・祝)23:59までにキャンペーンサイトから要応募\n\nhttps://www.waku2-yumefukub
+ ukuro.jp/\n\n『ハローキティ新幹線』で行く大分サンリオキャラクターパーク ハーモニーランドツアー福袋\n\n価格／ペア本体価格30\,00
+ 0円　税込32\,400円＜旅行企画・実施：日本旅行＞\n当選本数／ペア10本\n出発日／2019年 3月16日（土）1泊2日（発着地：新大阪駅）\n
+ \nハローキティとのグリーティングをしながら、オリジナルメニューの食事を楽しめる\n\n※3月中旬予定のJRダイヤ改正により、出発日が変更となる場合あ
+ り\n※ハローキティ新幹線の乗車は往路のみ
+LAST-MODIFIED:20190102T223724Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT ハローキティ新幹線で行くハーモニーランドツアー
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190112T020000Z
+DTEND:20190112T063000Z
+UID:5c89prgav3tte4i4pkq7a81v9m@google.com
+CREATED:20190102T223100Z
+DESCRIPTION:https://www.aeon.jp/sc/inagawa/event/event_e127036.html\n\n\nハロ
+ ーキティ ミニステージ\n\n日程：2019年1月12日(土)\n時間：(1)11:00～ (2)13:00～ (3)15:00～\n場所：3F フー
+ ドコート前
+LAST-MODIFIED:20190102T223100Z
+LOCATION:イオンモール猪名川\, 日本、〒666-0257 兵庫県川辺郡猪名川町白金２丁目１
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT イオンモール猪名川
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20190223T173000
+DTEND;TZID=Asia/Tokyo:20190223T211500
+RRULE:FREQ=WEEKLY;COUNT=2;BYDAY=SA
+UID:0mgtbc5agifr7347b788du6nmf@google.com
+CREATED:20181229T202735Z
+DESCRIPTION:https://www.daiwaresort.jp/beppu/feature/1017386/\n\n「リゾートキティルー
+ ム」誕生3周年記念ディナーイベント\nKitty's Greeting\n\n2019年2月23日（土）＆ 2019年3月2日（土）\n17：30～1
+ 9：00（受付17：00）\n2階 洋宴会場\n\nハローキティがプレゼントをもってお部屋に遊びにやってきます\n19：15～19：45\n20：00
+ ～20：30\n20：45～21：15\n予約先着18組限定\n\n2019年1月1日（火）13:00から公式ホームページで予約
+LAST-MODIFIED:20181229T202735Z
+LOCATION:Hotel & Resorts BEPPUWAN\, Japan\, 〒879-1508 Ōita-ken\, Hayami-gun
+ \, Hiji-machi\, Hiramichi\, 入江１８２5
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT Hotel & Resorts BEPPUWAN
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190102T040000Z
+DTEND:20190102T073000Z
+UID:4p732gi397cfd2v01f3sor3578@google.com
+CREATED:20181223T014744Z
+DESCRIPTION:https://mitsui-shopping-park.com/lalaport/tachikawa/event/12161
+ 11.html\n\n新春 ハローキティのミニステージ\n2019年1月2日(水)\n13:00～\n14:30～\n16:00～\n雨天時は3F 中
+ 央エレベーター前にて握手会
+LAST-MODIFIED:20181229T014938Z
+LOCATION:Lalaport Tachikawa Tachihi\, 935番地の1 Izumichō\, Tachikawa-shi\, Tō
+ kyō-to 190-0015\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT ららぽーと立川立飛
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190103T020000Z
+DTEND:20190103T063000Z
+UID:7stgfkvtesbbf07bgurt4kvn9o@google.com
+CREATED:20181228T010653Z
+DESCRIPTION:https://twitter.com/kabukinyantaro/status/1078214968279937025\n
+ https://www.kabukinyantaro.com/news/%E3%80%901%E6%9C%883%E6%97%A5%E3%80%91%
+ E3%81%8B%E3%81%B6%E3%81%8D%E3%81%AB%E3%82%83%E3%82%93%E3%81%9F%E3%82%8D%E3%
+ 81%86%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%
+ A4%E3%83%99/\n\n歌舞伎の世界展\n12/27（木）～1/6（日）\n西武池袋本店・7F催事場\n\nかぶきにゃんたろうグリーティングイ
+ ベント\n1/3（木）\n11:00～\n13:00～\n15:00～
+LAST-MODIFIED:20181228T010653Z
+LOCATION:Seibu Ikebukuro\, 1 Chome-28-1 Minamiikebukuro\, Toshima-ku\, Tōky
+ ō-to 171-0022\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:かぶきにゃんたろう 歌舞伎の世界展
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190106T020000Z
+DTEND:20190106T063000Z
+UID:3iak3quggq3sns1edtfu0a25b2@google.com
+CREATED:20181228T005901Z
+DESCRIPTION:http://www.aeon.jp/sc/sagamihara/event/event_e125332.html\n\nダン
+ ス&写真撮影会\n2019年1月6日(日)\n(1)11:00～\n(2)13:00～\n(3)15:00～\n1F パブリックスペース\n\n写真撮
+ 影会の整理券を各回開始30分前より配布\n各回先着30名
+LAST-MODIFIED:20181228T005901Z
+LOCATION:AEON Sagamihara Shopping Center\, 2 Chome-10-１ Kobuchi\, Minami-ku
+ \, Sagamihara-shi\, Kanagawa-ken 252-0344\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT イオン相模原ショッピングセンター
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190127
+DTEND;VALUE=DATE:20190128
+UID:33qupvkjr5divemrr008eo0rlm@google.com
+CREATED:20181227T005343Z
+DESCRIPTION:http://www.osakagas.co.jp/company/efforts/hugmuseum/family/__ic
+ sFiles/afieldfile/2018/12/25/chirashi.pdf\n\nハグミュージアム 4thアニバーサリーフェスタ\n1/26\
+ ,27\n10:00-18:00\n\nハローキティミニステージ\n1/27\n2F
+LAST-MODIFIED:20181227T005343Z
+LOCATION:Hug Museum\, Japan\, 〒550-0023 Ōsaka-fu\, Ōsaka-shi\, Nishi-ku\, C
+ hiyozaki\, 3 Chome−南２ 大阪市西区千代崎３丁目南２番５９
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT ハグミュージアム
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190114T020000Z
+DTEND:20190114T063000Z
+UID:4ds51hcbhg1rm5qonf8mg58qao@google.com
+CREATED:20181227T004822Z
+DESCRIPTION:http://asp.shufoo.net/c/2018/12/21/c/8357853537018/index.html?s
+ hopId=277536&chirashiId=8357853537018\n\nサンリオプレイランド\n1/14 10:00-16:00\n\nハロ
+ ーキティ握手・撮影会\n11:00\n13:00\n15:00
+LAST-MODIFIED:20181227T004822Z
+LOCATION:ＡＢＣハウジング・ハウジングワールド立川\, 935-1 Izumichō\, Tachikawa-shi\, Tōkyō-to 1
+ 90-0015\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT ハウジングワールド立川
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190103T020000Z
+DTEND:20190103T063000Z
+UID:369jrg2lqusnsu5afmckdbrsd1@google.com
+CREATED:20181227T004445Z
+DESCRIPTION:http://toin-aeonmall.com/news/event/1335\n\nハローキティとチャレンジタイム\n20
+ 19/01/03 (木)\n11：00\n13：00\n15：00\n1階 カブキコート
+LAST-MODIFIED:20181227T004445Z
+LOCATION:AEON MALL Tōin\, Japan\, 〒511-0255 Mie-ken\, Inabe-gun\, Tōin-chō\
+ , 大字Nagafuke\, 字築田５１０番地１
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT イオンモール東員
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190103T020000Z
+DTEND:20190103T080000Z
+UID:0kfcol0t3pel8hfjie4qbb60ck@google.com
+CREATED:20181225T222448Z
+DESCRIPTION:<br>時間により場所が異なる<br><a href="https://www.san-a.co.jp/event/sanri
+ o/" target="_blank" id="ow154" __is_owner="true">https://www.san-a.co.jp/ev
+ ent/sanrio/</a><br><br>ハローキティ＆ウサハナのジョイフルパーティ！<br><br>1月2日(水)<br>11:00 具志川メイ
+ ンシティ １階メインコート<br>13:30 ハンビータウン １階ハンビーコート<br>16:30 西原シティ １階エディオン側コート<br><br>
+ 1月3日(木)<br>11:00 那覇メインプレイス １階中央コート<br>13:30 経塚シティ １階中央コート<br>16:30 宜野湾コンベンシ
+ ョンシティ ２階はごろもコート
+LAST-MODIFIED:20181225T222448Z
+LOCATION:San-A Naha Main Place\, 4 Chome-4-９ Omoromachi\, Naha-shi\, Okinaw
+ a-ken 900-0006\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT\,US ジョイフルパーティ
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190102T020000Z
+DTEND:20190102T080000Z
+UID:2vadqgltrr6bln560cs7hcsd6u@google.com
+CREATED:20181225T222355Z
+DESCRIPTION:<br>時間により場所が異なる<br><a href="https://www.san-a.co.jp/event/sanri
+ o/" target="_blank" id="ow154" __is_owner="true">https://www.san-a.co.jp/ev
+ ent/sanrio/</a><br><br>ハローキティ＆ウサハナのジョイフルパーティ！<br><br>1月2日(水)<br>11:00 具志川メイ
+ ンシティ １階メインコート<br>13:30 ハンビータウン １階ハンビーコート<br>16:30 西原シティ １階エディオン側コート<br><br>
+ 1月3日(木)<br>11:00 那覇メインプレイス １階中央コート<br>13:30 経塚シティ １階中央コート<br>16:30 宜野湾コンベンシ
+ ョンシティ ２階はごろもコート
+LAST-MODIFIED:20181225T222417Z
+LOCATION:San-A Gushikawa Main City\, ４５０−１ Esu\, Uruma-shi\, Okinawa-ken 90
+ 4-2244\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT\,US ジョイフルパーティ
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20181224T020000Z
+DTEND:20181224T073000Z
+UID:5ju536a22rebr30ofr6l2kkhh4@google.com
+CREATED:20181224T110240Z
+DESCRIPTION:https://www.nitorimall.jp/sagamihara/%E3%83%9E%E3%82%A4%E3%83%A
+ 1%E3%83%AD%E3%83%87%E3%82%A3%E3%81%AE%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E
+ 3%82%B9/\n\nマイメロディのクリスマス\n12/24\n11:00\n14:00\n16:00\n3階メイン通路\nステージ15分、握手会1
+ 5分
+LAST-MODIFIED:20181224T110304Z
+LOCATION:Nitori Mall Sagamihara\, 6 Chome-1-１ Ōnodai\, Minami-ku\, Sagamiha
+ ra-shi\, Kanagawa-ken 252-0331\, Japan
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:MM ニトリモール相模原
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Bangkok:20181222T130000
+DTEND;TZID=Asia/Bangkok:20181222T173000
+RRULE:FREQ=DAILY;WKST=SU;COUNT=2;INTERVAL=1
+UID:cpgjge1nckr36b9l6cs32b9kchi32bb16sq3cb9gcpi66c9o61ij4d9g6s@google.com
+CREATED:20181219T223516Z
+DESCRIPTION:http://www.terminal21.co.th/pattaya/en/event/sanrio-characters-
+ new-year-celebration-2019-2/\nhttps://www.facebook.com/Terminal21Pattaya/po
+ sts/638309633251314\nhttps://www.facebook.com/events/358616158048684/\n\n\n
+ SANRIO CHARACTERS NEW YEAR CELEBRATION 2019\n\n20th December 2018 – 2nd Jan
+ uary 2019 @ G Floor – Paris\n\n22ND – 23RD DECEMBER 2018\nMEET & GREET WITH
+  HELLO KITTY\n13:00/15:00/17:00
+LAST-MODIFIED:20181223T015215Z
+LOCATION:ターミナル21\, 88 Soi Sukhumvit 19\, Khwaeng Khlong Toei Nuea\, Khet Wa
+ tthana\, Krung Thep Maha Nakhon 10110 タイ
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT SANRIO CHARACTERS NEW YEAR CELEBRATION
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190106T013000Z
+DTEND:20190106T053000Z
+UID:1nqte1hicjbfu6kn2bu0ml103q@google.com
+CREATED:20181223T014934Z
+DESCRIPTION:http://housing.hicbc.com/meieki-kita/event/\n\nハローキティ ミニステージ\n1
+ /6\n10:30～\n14:00～
+LAST-MODIFIED:20181223T014934Z
+LOCATION:CBC Meiekikita Real Estate\, 1 Chome-23-１８ Kikui\, Nishi-ku\, Nago
+ ya-shi\, Aichi-ken 451-0044\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT CBCハウジング名駅北
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190303
+DTEND;VALUE=DATE:20190304
+UID:6hftv0qra2mkj4d6vl7598vtqu@google.com
+CREATED:20181221T133615Z
+DESCRIPTION:<a href="https://prtimes.jp/main/html/rd/p/000000023.000037629.
+ html" target="_blank" id="ow1005" __is_owner="true">https://prtimes.jp/main
+ /html/rd/p/000000023.000037629.html</a> <br>https://www.sanrio.co.jp/wp-con
+ tent/uploads/2018/12/20181221-02.pdf<br><br>ハローキティが、「TOKYO福祉のお仕事アンバサダー」として、
+ 東京都のキャンペーンを応援<br>様々なイベントにハローキティが出演し、福祉の仕事のPR・応援を行う<br><br>現在の出演予定（来場者との写真撮影
+ 等を行う）<br>・1月20日（日）保育のおしごと応援フェスタ（東京ドームシティプリズムホール）<br>・3月3日（日）福祉の仕事就職フォーラム（新宿
+ NSビル）
+LAST-MODIFIED:20181222T053933Z
+LOCATION:新宿NSビル\, 日本、〒163-0813 東京都新宿区西新宿２丁目４−番1号 新宿ＮＳビル
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT 福祉の仕事就職フォーラム
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190120
+DTEND;VALUE=DATE:20190121
+UID:0uflk44uopeicu9a21lmdnj2cs@google.com
+CREATED:20181221T133256Z
+DESCRIPTION:対象：保育士資格をお持ちの方、保育士を目指す学生の方、保育のしごとに関心のある方\n\nhttps://prtimes.jp/
+ main/html/rd/p/000000023.000037629.html\nhttps://www.hoiku-festa2019.jp/\nh
+ ttps://www.sanrio.co.jp/wp-content/uploads/2018/12/20181221-02.pdf\n\nハローキテ
+ ィが、「TOKYO福祉のお仕事アンバサダー」として、東京都のキャンペーンを応援\n様々なイベントにハローキティが出演し、福祉の仕事のPR・応援を行う\
+ n\n現在の出演予定（来場者との写真撮影等を行う）\n・1月20日（日）保育のおしごと応援フェスタ（東京ドームシティプリズムホール）\n・3月3日（日
+ ）福祉の仕事就職フォーラム（新宿NSビル）
+LAST-MODIFIED:20181222T053917Z
+LOCATION:東京ドームシティ\, 日本、〒112-0004 東京都文京区後楽１丁目３−６１
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT 保育のおしごと応援フェスタ
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20181222T060000Z
+DTEND:20181222T093000Z
+UID:4ilgaivg1vbhdgl0i0navrlufg@google.com
+CREATED:20181222T053821Z
+DESCRIPTION:https://twitter.com/10hamuchan10/status/1076105757743968259\n\n
+ 有馬記念\nウインズ汐留\n12/20 - 12/22\n\nタフィー＆ハローキティ写真撮影会\n12/21 16:30\, 18:45\n12/22
+  15:00\, 16:30\, 18:00
+LAST-MODIFIED:20181222T053821Z
+LOCATION:WINS Shiodome\, 2 Chome-18-１ Higashishinbashi\, Minato-ku\, Tōkyō-
+ to 105-0021\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:TF\,KT ウインズ汐留
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20181221T073000Z
+DTEND:20181221T101500Z
+UID:7gor6mvaf3b3jpqebqctn5vnab@google.com
+CREATED:20181222T053802Z
+DESCRIPTION:https://twitter.com/10hamuchan10/status/1076105757743968259\n\n
+ 有馬記念\nウインズ汐留\n12/20 - 12/22\n\nタフィー＆ハローキティ写真撮影会\n12/21 16:30\, 18:45\n12/22
+  15:00\, 16:30\, 18:00
+LAST-MODIFIED:20181222T053802Z
+LOCATION:WINS Shiodome\, 2 Chome-18-１ Higashishinbashi\, Minato-ku\, Tōkyō-
+ to 105-0021\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:TF\,KT ウインズ汐留
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20181222T020000Z
+DTEND:20181222T063000Z
+UID:01a398t9u37hda608eecpl9h67@google.com
+CREATED:20181222T053107Z
+DESCRIPTION:https://twitter.com/Shiny_Sea/status/1076257618354524160\n\nダンス
+ ＆写真撮影会\n11:00\n13:00\n15:00\n写真撮影会は各回30名\n各回の30分前から整理券を配布
+LAST-MODIFIED:20181222T053150Z
+LOCATION:AEON Sagamihara Shopping Center\, 2 Chome-10-１ Kobuchi\, Minami-ku
+ \, Sagamihara-shi\, Kanagawa-ken 252-0344\, Japan
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:KT イオン相模原
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190226T014000Z
+DTEND:20190226T054000Z
+UID:5mdfut7b67tf02qqfjn2lqg90p@google.com
+CREATED:20181221T055255Z
+DESCRIPTION:<br>対象：再就職を考えている幅広い年齢層の女性　※男性も参加可能<br><a href="https://readygo.
+ tokyo.jp/" target="_blank" id="ow1152" __is_owner="true">https://readygo.to
+ kyo.jp/</a><br><a href="http://www.metro.tokyo.jp/tosei/hodohappyo/press/20
+ 18/12/20/02.html" target="_blank">http://www.metro.tokyo.jp/tosei/hodohappy
+ o/press/2018/12/20/02.html</a><br><br>レディGO! Project<br>第3回（渋谷会場）<br>平成31年2
+ 月15日（金曜日）10時30分～15時30分<br>ヒカリエホール　（渋谷区渋谷2-21-1渋谷ヒカリエ9階）<br>第4回（立川会場）<br>平成3
+ 1年2月26日（火曜日）10時30分～15時30分<br>パレスホテル立川（立川市曙町2-40-15）<br><br>ハローキティ ミニステージ+握手
+ 会<br>10:40-\, 14:10-
+LAST-MODIFIED:20181221T133830Z
+LOCATION:Palace Hotel Tachikawa\, 2 Chome-2-40-15 Akebonochō\, Tachikawa-sh
+ i\, Tōkyō-to 190-0012\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT レディGO! Project
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190215T014000Z
+DTEND:20190215T054000Z
+UID:1p28dpai3e72e9c2blng9kdsg2@google.com
+CREATED:20181221T055226Z
+DESCRIPTION:<br>対象：再就職を考えている幅広い年齢層の女性　※男性も参加可能<br><a href="https://readygo.
+ tokyo.jp/" target="_blank" id="ow993" __is_owner="true">https://readygo.tok
+ yo.jp/</a><br><a href="http://www.metro.tokyo.jp/tosei/hodohappyo/press/201
+ 8/12/20/02.html" target="_blank">http://www.metro.tokyo.jp/tosei/hodohappyo
+ /press/2018/12/20/02.html</a><br><br>レディGO! Project<br>第3回（渋谷会場）<br>平成31年2月
+ 15日（金曜日）10時30分～15時30分<br>ヒカリエホール　（渋谷区渋谷2-21-1渋谷ヒカリエ9階）<br>第4回（立川会場）<br>平成31
+ 年2月26日（火曜日）10時30分～15時30分<br>パレスホテル立川（立川市曙町2-40-15）<br><br>ハローキティ ミニステージ+握手会
+ <br>10:40-\, 14:10-
+LAST-MODIFIED:20181221T133813Z
+LOCATION:Hikarie Hall\, Japan\, 〒150-0002 Tōkyō-to\, Shibuya-ku\, Shibuya\,
+  2 Chome−21−１ 渋谷ヒカリエ9F
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT レディGO! Project
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20181222T030000Z
-DTEND:20181222T033000Z
+DTEND:20181222T053000Z
 UID:0sfp95b1ae2nbrgq8l2k58crl0@google.com
 CREATED:20181128T135952Z
-DESCRIPTION:http://www.city.nagareyama.chiba.jp/_res/projects/default_proje
- ct/_page_/001/004/015/p-h30.pdf\n\n流山おおたかの森S・C Forest Christmas 2018\n\nハロー
- キティ クリスマス アイススケートパフォーマンス\n12/22(土)12:00-\nながれやまアイスワールド「mo-rink」
-LAST-MODIFIED:20181128T135952Z
+DESCRIPTION:<br>https://www.otakanomori-sc.com/event/?id=1468<a href="http:
+ //www.city.nagareyama.chiba.jp/_res/projects/default_project/_page_/001/004
+ /015/p-h30.pdf" target="_blank" id="ow278" __is_owner="true">http://www.cit
+ y.nagareyama.chiba.jp/_res/projects/default_project/_page_/001/004/015/p-h3
+ 0.pdf</a><br><a href="https://www.sanrio.co.jp/news/event-otakanomori-sc-20
+ 181222/" target="_blank">https://www.sanrio.co.jp/news/event-otakanomori-sc
+ -20181222/</a><br><br>流山おおたかの森S・C Forest Christmas 2018<br><br>ハローキティ クリスマス
+  アイススケートパフォーマンス<br>12/22(土)12:00-<br>ながれやまアイスワールド「mo-rink」<br><br>クリスマスミニステ
+ ージ<br>12/22(土)14:00-<br>本館1F ケヤキ広場
+LAST-MODIFIED:20181221T054835Z
 LOCATION:流山おおたかの森Ｓ・Ｃ\, 日本、〒270-0121 千葉県流山市西初石６丁目１８５−２
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:KT 流山おおたかの森S・C Forest Christmas
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20181123T134500
+DTEND;TZID=Asia/Tokyo:20181123T184500
+RRULE:FREQ=WEEKLY;COUNT=2;INTERVAL=4;BYDAY=FR
+UID:4o6vbjkg509kr9snrasmvtoe8t@google.com
+CREATED:20181220T034339Z
+DESCRIPTION:http://www.jra.go.jp/facilities/wins/sapporo/news/20181102.html
+ \n\n金曜日発売当日、ターフィー＆ハローキティが皆様をお迎え\nB館1階 狸小路商店街側入口付近\n11月23日（祝日・金曜）・12月21日（金曜）
+ \n13時45分頃から14時15分頃\n15時15分頃から15時45分頃\n16時45分頃から17時15分頃\n18時15分頃から18時45分頃
+LAST-MODIFIED:20181220T034357Z
+LOCATION:ウインズ札幌B館\, 5 Chome-20 Minami 2 Jonishi\, Chuo Ward\, Sapporo\, Hok
+ kaido 060-0062\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:TF\,KT ウインズ札幌
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190103T020000Z
+DTEND:20190103T063000Z
+UID:6cq6ccpo74r3ab9pchgj6b9k61gm4bb168qm8b9g60sj0or5clj3gc1o70@google.com
+CREATED:20181219T223515Z
+DESCRIPTION:http://www.ario-soga.jp/web/event/6f7e7a76-134f-46bf-8c44-9608e
+ 31c9b15.html\n\nハローキティ ミニステージショー\n\n１月３日（木）\n①午前１１時～　②午後１時～　③午後３時～\n１階　サンコー
+ ト広場
+LAST-MODIFIED:20181219T223515Z
+LOCATION:アリオ蘇我\, 日本、〒260-0835 千葉県千葉市中央区川崎町５２−７
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT アリオ蘇我
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190102T020000Z
+DTEND:20190102T063000Z
+UID:5hhd1270go1rts451hle3rtgs0@google.com
+CREATED:20181219T065547Z
+DESCRIPTION:https://www.sanrio.co.jp/news/pn-event-itoyokado-omori-20181219
+ /\n\nおひるねプリンの寝正月\n1/1（火・祝）～1/3（木） 9:00～19:00\nイトーヨーカドー 大森店 大森海岸通り側入り口\n雨天中止
+ \n\nポムポムプリン写真撮影会\n3F 特設会場\n2019年1月1日（火・祝）　13:00～ / 15:00～ / 17:00～\n2019年1月
+ 2日（水）　11:00～ / 13:00～ / 15:00～\n各回先着30組\n各回開始1時間前より会場にて整理券を配布
+LAST-MODIFIED:20181219T065547Z
+LOCATION:Ito-Yokado Omori store\, 2 Chome-13-１ Ōmorikita\, Ōta-ku\, Tōkyō-t
+ o 143-0016\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:PN 寝正月
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190101T040000Z
+DTEND:20190101T083000Z
+UID:1u60p0aotfcnepjius76cio45r@google.com
+CREATED:20181219T065533Z
+DESCRIPTION:https://www.sanrio.co.jp/news/pn-event-itoyokado-omori-20181219
+ /\n\nおひるねプリンの寝正月\n1/1（火・祝）～1/3（木） 9:00～19:00\nイトーヨーカドー 大森店 大森海岸通り側入り口\n雨天中止
+ \n\nポムポムプリン写真撮影会\n3F 特設会場\n2019年1月1日（火・祝）　13:00～ / 15:00～ / 17:00～\n2019年1月
+ 2日（水）　11:00～ / 13:00～ / 15:00～\n各回先着30組\n各回開始1時間前より会場にて整理券を配布
+LAST-MODIFIED:20181219T065533Z
+LOCATION:Ito-Yokado Omori store\, 2 Chome-13-１ Ōmorikita\, Ōta-ku\, Tōkyō-t
+ o 143-0016\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:PN 寝正月
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20181224T023000Z
+DTEND:20181224T070000Z
+UID:6c1epgaglb28l3k2nsjm2016eq@google.com
+CREATED:20181207T095053Z
+DESCRIPTION:https://www.cred-okayama.com/events/kitty_181224.html\n\nクリスマスイ
+ ヴにハローキティがあそびにくるよ！！\n12月24日（月・振休）\n11：30～12：00\n13：30～14：00\n15：30～16：00\n1F
+ ふれあい広場\n\nミニステージ＆写真撮影会\n写真撮影会は各回先着30組
+LAST-MODIFIED:20181218T225119Z
+LOCATION:Credo Okayama\, 1 Chome-8-４５ Nakasange\, Kita-ku\, Okayama-shi\, O
+ kayama-ken 700-0821\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT クレド岡山
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20181224T023000Z
+DTEND:20181224T070000Z
+UID:6aqlmrnoorq7t33psur2klpc4b@google.com
+CREATED:20181218T225102Z
+DESCRIPTION:http://www.kofu500.com/event/documents/aka-p-omote.pdf\nhttp://
+ www.kofu500.com/event/ev2018/20181220kofu-fuyunojin.html\n\nこうふ開府500年記念事業 こ
+ うふ冬の陣～赤備え～\nよっちゃばれ広場\n平成30年12月20日（木）～平成31年1月1日（火・祝）\n17：00～21:00\n※12月23（日・
+ 祝）、24日（月・振）は10：00～21：00\n※12月31日 （月）17：00～1月1日（火・祝） 1：00\n舞鶴城公園\n平成30年12月23
+ 日（日・祝）、24日（月・振）\n10：00～21:00\n\nハローキティが遊びにくるよ\n舞鶴城公園\n12/24\n11:30\, 14:00\
+ , 15:30
+LAST-MODIFIED:20181218T225102Z
+LOCATION:Maizurujo Park\, 1 Chome-5 Marunouchi\, Kofu\, Yamanashi Prefectur
+ e 400-0031\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT こうふ冬の陣
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20181219T170000Z
+DTEND:20181219T210500Z
+UID:43ejhqf6tu5guvbg2dc2en39ul@google.com
+CREATED:20181218T223618Z
+DESCRIPTION:<a href="https://www.facebook.com/SanrioBrasil/posts/1015700745
+ 1489954/" target="_blank" id="ow626" __is_owner="true">https://www.facebook
+ .com/SanrioBrasil/posts/10157007451489954/</a><br><br>Turma da Mônica &amp\
+ ; Hello Kitty em O Poder da Amizade<br>19 de Dezembro<br>15h e 18h<br><br>o
+ s ingressos serão distribuídos duas horas antes do espetáculo
+LAST-MODIFIED:20181218T223633Z
+LOCATION:Teatro Opus\, Av. das Nações Unidas\, 4777 - Alto de Pinheiros\, S
+ ão Paulo - SP\, 05477-000\, Brazil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT O Poder da Amizade
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20181222T020000Z
+DTEND:20181222T063000Z
+UID:6pfn35msu7rhl07r8isrnve6tt@google.com
+CREATED:20181130T015830Z
+DESCRIPTION:https://www.sanrio.co.jp/news/event-aeonmall-hamamatsu-20181222
+ /\nhttps://twitter.com/sanrioshop_info/status/1074854904835887104\n\nマイメロディ
+ が遊びにくるよ！（イオンモール浜松志都呂）\n専門店街 1F セントラルコート\n12月22日（土）\n11:00 / 13:00 / 15:00
+LAST-MODIFIED:20181218T025215Z
+LOCATION:Aeon Mall\, 2 Chome-37-37番1号 Shitoro\, Nishi-ku\, Hamamatsu-shi\, 
+ Shizuoka-ken 432-8069\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MM イオンモール浜松志都呂
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20181216T023000Z
+DTEND:20181216T050000Z
+UID:5eg53u2dtki7o23in0fdq7boq7@google.com
+CREATED:20181217T230035Z
+DESCRIPTION:https://twitter.com/purin_tamago/status/1073427237267861504\n\n
+ マイメロディがやってくる\n12月16日\n11:30\, 13:30\n6階(北A2) こども服売場 特設会場\n当日サンリオプラザで1080円以上
+ お買い上げで撮影券\n各回30名
+LAST-MODIFIED:20181217T230035Z
+LOCATION:Seibu Ikebukuro\, 1 Chome-28-1 Minamiikebukuro\, Toshima-ku\, Tōky
+ ō-to 171-0022\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MM 西武池袋
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20181223T060000Z
+DTEND:20181223T062000Z
+UID:3dra0v2t49f4vcn1ouj6jebmpi@google.com
+CREATED:20181217T034703Z
+DESCRIPTION:https://www.facebook.com/SanrioGiftGate.tw/posts/77810692587413
+ 5/\n\n聖誕拍照見面會\n12/23(日) 下午2:00~2:20\n台中新光三越6F Sanrio專櫃\n\n12/15(六)起，於台中三越6F
+ -Sanrio專櫃單筆消費Sanrio商品滿500元，就送合影券一張，憑券可於活動場次與Kiki&Lala合影留念，並附贈拍立得相片一張！（每場限額5
+ 0名，每人最多限兌換2張，送完為止）
+LAST-MODIFIED:20181217T034703Z
+LOCATION:Shin Kong Mitsukoshi Taichung Zhonggang Store\, No. 301\, Section 
+ 3\, Taiwan Boulevard\, Xitun District\, Taichung City\, Taiwan 407
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:TS 台中新光三越
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20181215T210000Z
+DTEND:20181215T230000Z
+UID:1cn80ibeveajv27q4frb59hi3p@google.com
+CREATED:20181217T012515Z
+DESCRIPTION:https://www.facebook.com/loverileyrose/posts/723358311396292\nh
+ ttps://www.facebook.com/thecremeshop/posts/969946133214473\nhttps://www.fac
+ ebook.com/hellokitty/posts/10156487875243500\n\nThe Crème Shop x Sanrio\nRi
+ ley Rose\,  Westfield Culver City\nDec 15\n12pm - 5pm\n\nMeet & Greet with 
+ Hello Kitty\n1pm - 3pm
+LAST-MODIFIED:20181217T012534Z
+LOCATION:Westfield Culver City\, 6000 Sepulveda Blvd\, Culver City\, CA 902
+ 30\, USA
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:KT Riley Rose
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20181222T040000Z
+DTEND:20181222T063000Z
+UID:6759njd1fll4erunujov6ao5k3@google.com
+CREATED:20181214T114934Z
+DESCRIPTION:http://kumamoto-aeonmall.com/news/event/1190\n\nキティ&ミミィのハッピーフレン
+ ドクリスマス！\n2018/12/22(土)\n13：00～\n15：00～\n1Fイベントスクエア
+LAST-MODIFIED:20181214T114934Z
+LOCATION:Aeon Mall Kumamoto\, Japan\, 〒861-3106 Kumamoto-ken\, Kamimashiki-
+ gun\, Kashima-machi\, Uejima\, 字長池２２３２
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KTキティ\,KTミミィ ハッピーフレンドクリスマス
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20181215T020000Z
+DTEND:20181215T053000Z
+UID:4v4cc1tsbsreuj23f0120uhsco@google.com
+CREATED:20181208T111843Z
+DESCRIPTION:https://twitter.com/seibuenyuuenchi/status/1071220089205096448\
+ nhttps://www.seibu-leisure.co.jp/guide/17777/index.html\nhttps://www.facebo
+ ok.com/hellokitty.japan/posts/2365785490161246/\n\n新施設「スケートひろば」12/15(土)OPEN
+ \n\nハローキティミニスケートショー\n12月15日（土）\n11:00～/14:00～
+LAST-MODIFIED:20181214T061908Z
+LOCATION:西武園ゆうえんち\, 日本、〒359-1145 埼玉県所沢市山口 所沢市山口２９６４
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:KT スケートひろば
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171224T010000Z
+DTEND:20171224T053000Z
+UID:5nrjpfhtgu8674t07ftsk1u591@google.com
+CREATED:20171218T144908Z
+DESCRIPTION:http://sagakeiba.lekumo.biz/news/2017/12/1224-3e19.html\n\n\nサン
+ リオキャラクター「シナモロール」ミニステージ\n\n2017年12月24日（日） \n10時頃から「ミニステージ・ハイタッチ」\n12時頃から「ミニス
+ テージ・ハイタッチ」\n14時頃から「撮影会（先着100名さま）」\n児童公園前広場特設ステージ 
+LAST-MODIFIED:20181213T035032Z
+LOCATION:Saga Racecource\, 字西谷-3256-228 Ejimamachi\, 江島町 Tosu-shi\, Saga-ke
+ n 841-0073\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CN 佐賀競馬場
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20181223T020000Z
+DTEND:20181223T053000Z
+UID:1i42k53hm8hf7f71j76veet426@google.com
+CREATED:20181210T233155Z
+DESCRIPTION:http://sagakeiba.lekumo.biz/news/2018/12/1223-3ad4.html\n\n「ハロー
+ キティ」が遊びに来る\n12月23日（祝日）\n11:00頃～\n12:30頃～\n14:00頃～\n入場門中央通路付近\n\nいっしょに写真撮影\n
+ ステージショーはなし
+LAST-MODIFIED:20181213T035022Z
+LOCATION:Saga Racecource\, 字西谷-3256-228 Ejimamachi\, 江島町 Tosu-shi\, Saga-ke
+ n 841-0073\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT 佐賀競馬場
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20181223T030000Z
+DTEND:20181223T070000Z
+UID:0c4r77n7b4im52lbao1bb7o5nj@google.com
+CREATED:20180304T130815Z
+DESCRIPTION:https://twitter.com/HappyFlight_cts/status/1064769129884770304\
+ nhttp://www.new-chitose-airport.jp/ja/happy-flight/news/detail/post-27.html
+ \nhttp://www.new-chitose-airport.jp/ja/happy-flight/news/detail/1223.html\n
+ https://twitter.com/HappyFlight_cts/status/1067323931625844736\nhttps://www
+ .instagram.com/p/BrMuYcWh9Cs/\n\nリトルツインスターズが遊びに来るよ \n\n12/23\n12:00 レジに挑戦\n
+ 14:00 ミニステージ\n15:30 撮影会\n\n\nhttps://twitter.com/HappyFlight_cts/status/969
+ 371240199680000\n\n2018-04-28 土 XO\n2018-05-13 日 PN\n2018-06-23 土 MP\n2018-
+ 07-22 日 投票1位のキャラ\n2018-09-22 土 KR\n2018-10-28 日 KU\n2018-11-04 日 KT\n2018-1
+ 2-23 土 TS\n2019-01-19 土 MM\n2019-02-10 日 CN\n2019-03-23 土 HG
+LAST-MODIFIED:20181213T012838Z
+LOCATION:新千歳空港国内線ターミナル\, 1292-33 Bibi\, Chitose-shi\, Hokkaidō 066-0012\, J
+ apan
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:TS ハッピーフライト
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20181214T013000Z
+DTEND:20181214T020000Z
+UID:4h236nb6lp4eia7ra4q9qgq532@google.com
+CREATED:20181212T071913Z
+DESCRIPTION:<br>Twitterでは10:30でFacebookでは11:30となっており食い違っている<br><a href="htt
+ ps://twitter.com/sanrio_news/status/1072747900579459072" target="_blank" id
+ ="ow418" __is_owner="true">https://twitter.com/sanrio_news/status/107274790
+ 0579459072</a><br>https://www.facebook.com/hellokitty.japan/posts/236222379
+ 0517416/<br><br>キティコラボ発表会＆キティマルシェ<br>東京交通会館1F イベントスペース<br>12/14（金） 10時半～
+LAST-MODIFIED:20181213T004737Z
+LOCATION:Tokyo Kotsu Kaikan\, 2 Chome-10-1 Yūrakuchō\, Chiyoda-ku\, Tōkyō-t
+ o 100-0006\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT 交通会館マルシェ
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20181220T060000Z
+DTEND:20181220T103000Z
+UID:1e4upckni0d2d88svn3d4rcjra@google.com
+CREATED:20181022T141239Z
+DESCRIPTION:http://www.e-obs.com/event/event/20463.html\nhttps://www.sanrio
+ .co.jp/news/event-iichiko-gran-theatre-20181220/\n\nサンリオファミリーミュージカル ハローキティー
+ のドリームトラベラー\n\n2018年12月20日(木)\n【1回目】15:00開演 【2回目】18:00開演（1時間前開場）\niichikoグラン
+ シアタ\n\n発売日：2018年10月29日（月）
+LAST-MODIFIED:20181212T010023Z
+LOCATION:大分県立総合文化センター ｉｉｃｈｉｋｏ総合文化センター\, 日本、〒870-0029 大分県大分市高砂町２ 大分市高砂町２−３３
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ドリームトラベラー
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20181224T023000Z
+DTEND:20181224T070000Z
+UID:09u89fon7f0g3mdc5t706lfijf@google.com
+CREATED:20181028T124247Z
+DESCRIPTION:https://eplus.jp/sys/T1U14P0010175P0108P002004114P006001P003004
+ 4\nhttps://www.sanrio.co.jp/news/event-fukuoka-convention-center-20181224/\
+ nhttps://3pm-net.com/entertainment/etm_201812_sanrio.html\n\n\nサンリオファミリーミュー
+ ジカル　ハローキティのドリームトラベラー\n2018/12/24(月・祝)　11：30開演　14：30開演\n福岡国際会議場　メインホール
+LAST-MODIFIED:20181212T005928Z
+LOCATION:福岡コンベンションセンター福岡国際会議場\, 日本、〒812-0032 福岡県福岡市博多区石城町２−１
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ドリームトラベラー
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20181222T020000Z
+DTEND:20181222T063000Z
+UID:1k0ftke7orkcrknf50ta814mag@google.com
+CREATED:20181101T122951Z
+DESCRIPTION:<a href="https://www.tku.co.jp/event/hellokitty20181222/" targe
+ t="_blank" id="ow2803" __is_owner="true">https://www.tku.co.jp/event/hellok
+ itty20181222/</a><br><a href="https://www.sanrio.co.jp/news/event-searshome
+ -yumehall-20181222/" target="_blank">https://www.sanrio.co.jp/news/event-se
+ arshome-yumehall-20181222/</a><br><br>サンリオピューロランド25周年記念作品<br>サンリオファミリーミュージカ
+ ル　ハローキティのドリームトラベラー<br><br>2018年12月22日（土）<br>（上演1）開場10:00～ 開演11:00<br>（上演2）開
+ 場13:00～ 開演14:00<br>市民会館シアーズホーム夢ホール
+LAST-MODIFIED:20181212T005848Z
+LOCATION:市民会館シアーズホーム夢ホール\, 日本、〒860-0805 熊本県熊本市中央区桜町１−３
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ドリームトラベラー
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20181215T043000Z
+DTEND:20181215T090000Z
+UID:380t3b27a9umarcauqqdb5quf4@google.com
+CREATED:20181212T005428Z
+DESCRIPTION:https://www.nasu-gardenoutlet.com/eventnews/detail.php?cd=00020
+ 0\nhttps://prtimes.jp/main/html/rd/p/000000003.000035069.html\n\nHello Kitt
+ y 雪の王国\n2018年11月10日（土）～2019年1月31日（木）\n\nハローキティ雪の女王就任式\n2018年12月15日（土）\n17：0
+ 0～18：00\nじゃぶじゃぶ池前広場\n鈴木亜美がヒット曲やクリスマス曲を披露\n\nグリーティング\n13:30\n15:00
+LAST-MODIFIED:20181212T005428Z
+LOCATION:Nasu Garden Outlet\, Japan\, 〒329-3122 Tochigi-ken\, Nasushiobara-
+ shi\, Shionosaki\, 那須塩原市塩野崎１８４−７
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT 雪の王国
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20181208T140000Z
+DTEND:20181208T160000Z
+UID:1367o9oi04kbk1kt0ej3497uqd@google.com
+CREATED:20181210T234646Z
+DESCRIPTION:\nhttps://filipinotimes.net/feature/2018/12/10/hello-kitty-meet
+ s-fans-ahead-hello-kitty-run-dubai/ \n\nhttps://www.facebook.com/hellokitty
+ rundubai/posts/2261798777388965\n\nHello Kitty made special appearances to 
+ the public for a quick meet and greet with her fans across the UAE ahead of
+  the upcoming Hello Kitty Run Dubai presented by Babyshop\n\nOasis Center\,
+  November 29\, from 6:00 pm to 8:00 pm\nArabian Ranches\, December 8\, from
+  6:00 pm to 8:00 pm
+LAST-MODIFIED:20181210T234646Z
+LOCATION:Arabian Ranches - Dubai - United Arab Emirates
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT Ahead of Hello Kitty Run Dubai
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20181129T140000Z
+DTEND:20181129T160000Z
+UID:47d72dl2u4tgs4s1aklvpu1m0m@google.com
+CREATED:20181210T234607Z
+DESCRIPTION:\nhttps://filipinotimes.net/feature/2018/12/10/hello-kitty-meet
+ s-fans-ahead-hello-kitty-run-dubai/ \n\nhttps://www.facebook.com/hellokitty
+ rundubai/posts/2261798777388965\n\nHello Kitty made special appearances to 
+ the public for a quick meet and greet with her fans across the UAE ahead of
+  the upcoming Hello Kitty Run Dubai presented by Babyshop\n\nOasis Center\,
+  November 29\, from 6:00 pm to 8:00 pm\nArabian Ranches\, December 8\, from
+  6:00 pm to 8:00 pm
+LAST-MODIFIED:20181210T234607Z
+LOCATION:Oasis Mall\, Sheikh Zayed Road - 2nd Interchange - Dubai - United 
+ Arab Emirates
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT Ahead of Hello Kitty Run Dubai
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20181226T233000Z
+DTEND:20181227T023000Z
+UID:02p2g72ot37q35kbkfr47prdev@google.com
+CREATED:20181209T231228Z
+DESCRIPTION:http://www.unitedskates.com/public/seaford/schedule/special-eve
+ nts-long-island/index.cfm\nhttp://www.unitedskates.com/_upload/seaford/Skat
+ e%20With%20Hello%20Kitty(1).JPG\n\nAffordable Family Fun with Hello Kitty\n
+ December 26\, 2018\n6:30pm-9:00pm
+LAST-MODIFIED:20181209T231228Z
+LOCATION:United Skates of America Roller Skating Center\, 1276 Hicksville R
+ d\, Seaford\, NY 11783\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT United Skates
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20181208T200000Z
+DTEND:20181208T223000Z
+UID:60ehaclm1j6r11ivgfhba1s89b@google.com
+CREATED:20181208T112317Z
+DESCRIPTION:https://www.facebook.com/events/559106291220247/\nhttps://losan
+ geles.carpe-diem.events/calendar/8860038-meet-hello-kitty-at-sanrio-arcadia
+ -at-sanrio-arcadia/\n\nDecember 8th\nSanrio Arcadia\nHello Kitty will be he
+ re from 12-12:30 pm\, 1-1:30 pm and 2-2:30 pm for photos and fun in her sup
+ ercute holiday dress. 
+LAST-MODIFIED:20181208T112317Z
+LOCATION:Sanrio\, 400 S Baldwin Ave\, Arcadia\, CA 91007 アメリカ合衆国
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT Sanrio Arcadia
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20181215T020000Z
+DTEND:20181215T063000Z
+UID:0qqmkvpo72u44devv0nm71lmu6@google.com
+CREATED:20181207T191048Z
+DESCRIPTION:https://rosavia.hankyu.co.jp/topics/2018/1120000393.html\n\nマイメ
+ ロディのクリスマスミニステージ\n12/15（土）\n①11：00～　②13：00～　③15：00～\n１階　中央コンコース\n\nショーの撮影は可だ
+ が、SNSへの投稿は不可\n\n撮影会は各回先着30名\n当日10：00からステージ3回分の参加券を配布\n12月9日（日）～15日（土）までの3\,
+ 000円（税込・合算可）以上のレシート提示で1人様1枚
+LAST-MODIFIED:20181207T191048Z
+LOCATION:Rosavia\, 1-5 Eidaichō\, Ibaraki-shi\, Ōsaka-fu 567-0816\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MM ロサヴィア
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20181229T003000Z
+DTEND:20181229T040000Z
+UID:69n2oj491if76f3jdgu5837ahn@google.com
+CREATED:20181207T101323Z
+DESCRIPTION:http://www.kawaguchiauto.jp/2018ss/superstar33/event\n\nスーパースター
+ フェスタ2018\n12月27日-31日\n\nディアダニエル＆シナモロール ウェルカムグリーティング\n12/29(土) 09:30\n正門\n\n
+ ハローキティ＆ぐでたまのシンギング！ダンシング！クッキング！\n12/29(土) 10:30\, 12:00\nイベントホール\nショーの後にディアダ
+ ニエル＆シナモロールと撮影会\n12月27日の未確定車券抽選会で当選した400名が対象
+LAST-MODIFIED:20181207T101323Z
+LOCATION:Kawaguchi Auto Racing\, 5 Chome-21-1 Aoki\, Kawaguchi-shi\, Saitam
+ a-ken 332-0031\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT\,GU\,DN\,CN 川口オートレース
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20181208T060000Z
+DTEND:20181208T080000Z
+UID:5qqg6kj9rgskn8d9u2nrodo59p@google.com
+CREATED:20181207T095551Z
+DESCRIPTION:http://www.duokobe.com/pdf/xmas2018.pdf\n\nハローキティミニステージ\n12月8日\
+ n15:00\, 16:30\n浜の手デュオドーム
+LAST-MODIFIED:20181207T095551Z
+LOCATION:DUO KOBE\, 3 Chome-2-1 Aioichō\, Chūō-ku\, Kōbe-shi\, Hyōgo-ken 65
+ 0-0025\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT デュオこうべ
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20181208T180000Z
+DTEND:20181208T210000Z
+UID:30mirrunhabkv46e2fpsito1mo@google.com
+CREATED:20181207T012602Z
+DESCRIPTION:https://twitter.com/claires/status/1070452845034565632\nhttps:/
+ /www.facebook.com/events/287760085206886/\n\nHello Kitty Meet & Greet at Cl
+ aire's!\nSaturday\, 8 December 2018 from 12:00-15:00 CST\nWoodfield Mall\, 
+ 5 Woodfield Mall\, Schaumburg\, Illinois 60173
+LAST-MODIFIED:20181207T012603Z
+LOCATION:Claire's\, 104 Woodfield Mall f322\, Schaumburg\, IL 60173\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT Woodfield Mall
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20181225T070000Z
+DTEND:20181225T073000Z
+UID:5ihd5rr412soi9o9t7d40opvf4@google.com
+CREATED:20181206T015456Z
+DESCRIPTION:\n英語版ページでは12月12日、12月16日、12月25日となっているが、\n繁体字と簡体字のページでは12月2日、12月1
+ 6日、12月25日となっている。\n曜日的にも12月2日、12月16日、12月25日が正しいだろう。\nhttp://www.megabox.com.
+ hk/monthly_highlight.php?id=752&lang=tchi\nhttp://www.megabox.com.hk/monthl
+ y_highlight.php?id=752&lang=eng\nhttp://www.megabox.com.hk/monthly_highligh
+ t.php?mid=7-13&id=751&lang=tchi\n\nMegaBox・Little Twin Stars圣诞梦幻乐园\n2018年11
+ 月17日至2019年1月1日\n10:00am - 10:00pm \nL5中庭\n\nLITTLE TWIN STARS見面會\n12月2日及16日
+ （星期日），12月25日（聖誕節）\n3:00pm L5中庭
+LAST-MODIFIED:20181206T015709Z
+LOCATION:MegaBox\, Kowloon Bay\, Hong Kong
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:TS 圣诞梦幻乐园
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Hong_Kong:20181202T150000
+DTEND;TZID=Asia/Hong_Kong:20181202T153000
+RRULE:FREQ=WEEKLY;COUNT=2;INTERVAL=2;BYDAY=SU
+UID:6a2njllk6kfmm4he82rkjd82ok@google.com
+CREATED:20181206T015402Z
+DESCRIPTION:\n英語版ページでは12月12日、12月16日、12月25日となっているが、\n繁体字と簡体字のページでは12月2日、12月1
+ 6日、12月25日となっている。\n曜日的にも12月2日、12月16日、12月25日が正しいだろう。\nhttp://www.megabox.com.
+ hk/monthly_highlight.php?id=752&lang=tchi\nhttp://www.megabox.com.hk/monthl
+ y_highlight.php?id=752&lang=eng\nhttp://www.megabox.com.hk/monthly_highligh
+ t.php?mid=7-13&id=751&lang=tchi\n\nMegaBox・Little Twin Stars圣诞梦幻乐园\n2018年11
+ 月17日至2019年1月1日\n10:00am - 10:00pm \nL5中庭\n\nLITTLE TWIN STARS見面會\n12月2日及16日
+ （星期日），12月25日（聖誕節）\n3:00pm L5中庭
+LAST-MODIFIED:20181206T015654Z
+LOCATION:MegaBox\, Kowloon Bay\, Hong Kong
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:TS 圣诞梦幻乐园
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20181223T030000Z
+DTEND:20181223T063000Z
+UID:00fuhu6emp8i0r9t13fl566ve3@google.com
+CREATED:20181203T235429Z
+DESCRIPTION:http://www.chachatown.com/eventinfo/2594.html\n\nキティ&ミミィのハッピーフレ
+ ンドクリスマス\n2018/12/23\n12:00～\n15:00～
+LAST-MODIFIED:20181203T235429Z
+LOCATION:ChaCha Town Kokura\, 3 Chome-1-1 Sunatsu\, Kokurakita-ku\, Kitakyū
+ shū-shi\, Fukuoka-ken 802-0014\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KTキティ\,KTミミィ ハッピーフレンドクリスマス
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190302
+DTEND;VALUE=DATE:20190303
+RRULE:FREQ=DAILY;COUNT=2
+UID:0dt36d3a2a3141ig4l6jtbn9m7@google.com
+CREATED:20181203T235254Z
+DESCRIPTION:http://mt-heavens.com/winter/hello_kitty_event/\n\n1月02日（水）03日（
+ 木） KT\,DN 年の初めの運試し\n1月12日（土）13日（日） KT\,GU 5周年もそろそろ･･･\n1月19日（土）20日（日） KT\,D
+ N ハローキティ検定クイズ\n2月02日（水）03日（木） KT\,CN シナモンが帰ってきたよ！\n2月09日（土）10日（日） KT\,DN ダニ
+ エル壁ドン！\n2月16日（土）17日（日） KT\,MM もうすぐ春お花を咲かせましょう\n3月02日（土）03日（日） KT\,TS 今シーズンも
+ エンディングは･･･
+LAST-MODIFIED:20181203T235254Z
+LOCATION:Heavens Sonohara\, Japan\, 〒395-0304 Nagano-ken\, Shimoina-gun\, A
+ chi-mura\, Chisato\, 智里３７３１−４
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT\,TS ヘブンスそのはら
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190216
+DTEND;VALUE=DATE:20190217
+RRULE:FREQ=DAILY;COUNT=2
+UID:6e6609agglj37fmlg4p8t5hb3i@google.com
+CREATED:20181203T235239Z
+DESCRIPTION:http://mt-heavens.com/winter/hello_kitty_event/\n\n1月02日（水）03日（
+ 木） KT\,DN 年の初めの運試し\n1月12日（土）13日（日） KT\,GU 5周年もそろそろ･･･\n1月19日（土）20日（日） KT\,D
+ N ハローキティ検定クイズ\n2月02日（水）03日（木） KT\,CN シナモンが帰ってきたよ！\n2月09日（土）10日（日） KT\,DN ダニ
+ エル壁ドン！\n2月16日（土）17日（日） KT\,MM もうすぐ春お花を咲かせましょう\n3月02日（土）03日（日） KT\,TS 今シーズンも
+ エンディングは･･･
+LAST-MODIFIED:20181203T235239Z
+LOCATION:Heavens Sonohara\, Japan\, 〒395-0304 Nagano-ken\, Shimoina-gun\, A
+ chi-mura\, Chisato\, 智里３７３１−４
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT\,MM ヘブンスそのはら
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190209
+DTEND;VALUE=DATE:20190210
+RRULE:FREQ=DAILY;COUNT=2
+UID:7trmldroa8tr77v62ocm34g0rb@google.com
+CREATED:20181203T235226Z
+DESCRIPTION:http://mt-heavens.com/winter/hello_kitty_event/\n\n1月02日（水）03日（
+ 木） KT\,DN 年の初めの運試し\n1月12日（土）13日（日） KT\,GU 5周年もそろそろ･･･\n1月19日（土）20日（日） KT\,D
+ N ハローキティ検定クイズ\n2月02日（水）03日（木） KT\,CN シナモンが帰ってきたよ！\n2月09日（土）10日（日） KT\,DN ダニ
+ エル壁ドン！\n2月16日（土）17日（日） KT\,MM もうすぐ春お花を咲かせましょう\n3月02日（土）03日（日） KT\,TS 今シーズンも
+ エンディングは･･･
+LAST-MODIFIED:20181203T235226Z
+LOCATION:Heavens Sonohara\, Japan\, 〒395-0304 Nagano-ken\, Shimoina-gun\, A
+ chi-mura\, Chisato\, 智里３７３１−４
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT\,DN ヘブンスそのはら
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190202
+DTEND;VALUE=DATE:20190203
+RRULE:FREQ=DAILY;COUNT=2
+UID:41fq25m1rkt5ih3e29agqa6qf0@google.com
+CREATED:20181203T235208Z
+DESCRIPTION:http://mt-heavens.com/winter/hello_kitty_event/\n\n1月02日（水）03日（
+ 木） KT\,DN 年の初めの運試し\n1月12日（土）13日（日） KT\,GU 5周年もそろそろ･･･\n1月19日（土）20日（日） KT\,D
+ N ハローキティ検定クイズ\n2月02日（水）03日（木） KT\,CN シナモンが帰ってきたよ！\n2月09日（土）10日（日） KT\,DN ダニ
+ エル壁ドン！\n2月16日（土）17日（日） KT\,MM もうすぐ春お花を咲かせましょう\n3月02日（土）03日（日） KT\,TS 今シーズンも
+ エンディングは･･･
+LAST-MODIFIED:20181203T235208Z
+LOCATION:Heavens Sonohara\, Japan\, 〒395-0304 Nagano-ken\, Shimoina-gun\, A
+ chi-mura\, Chisato\, 智里３７３１−４
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT\,CN ヘブンスそのはら
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190119
+DTEND;VALUE=DATE:20190120
+RRULE:FREQ=DAILY;COUNT=2
+UID:4ipmc9484nbeq9vfu5i74uc88k@google.com
+CREATED:20181119T020554Z
+DESCRIPTION:http://mt-heavens.com/winter/hello_kitty_event/\n\n1月02日（水）03日（
+ 木） KT\,DN 年の初めの運試し\n1月12日（土）13日（日） KT\,GU 5周年もそろそろ･･･\n1月19日（土）20日（日） KT\,D
+ N ハローキティ検定クイズ\n2月02日（水）03日（木） KT\,CN シナモンが帰ってきたよ！\n2月09日（土）10日（日） KT\,DN ダニ
+ エル壁ドン！\n2月16日（土）17日（日） KT\,MM もうすぐ春お花を咲かせましょう\n3月02日（土）03日（日） KT\,TS 今シーズンも
+ エンディングは･･･
+LAST-MODIFIED:20181203T235147Z
+LOCATION:Heavens Sonohara\, Japan\, 〒395-0304 Nagano-ken\, Shimoina-gun\, A
+ chi-mura\, Chisato\, 智里３７３１−４
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT\,DN ヘブンスそのはら
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190112
+DTEND;VALUE=DATE:20190113
+RRULE:FREQ=DAILY;COUNT=2
+UID:2nrb208muktguet1i4oq8pishv@google.com
+CREATED:20181119T020524Z
+DESCRIPTION:http://mt-heavens.com/winter/hello_kitty_event/\n\n1月02日（水）03日（
+ 木） KT\,DN 年の初めの運試し\n1月12日（土）13日（日） KT\,GU 5周年もそろそろ･･･\n1月19日（土）20日（日） KT\,D
+ N ハローキティ検定クイズ\n2月02日（水）03日（木） KT\,CN シナモンが帰ってきたよ！\n2月09日（土）10日（日） KT\,DN ダニ
+ エル壁ドン！\n2月16日（土）17日（日） KT\,MM もうすぐ春お花を咲かせましょう\n3月02日（土）03日（日） KT\,TS 今シーズンも
+ エンディングは･･･
+LAST-MODIFIED:20181203T235135Z
+LOCATION:Heavens Sonohara\, Japan\, 〒395-0304 Nagano-ken\, Shimoina-gun\, A
+ chi-mura\, Chisato\, 智里３７３１−４
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT\,GU ヘブンスそのはら
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20190102T103000
+DTEND;TZID=Asia/Tokyo:20190102T150000
+RRULE:FREQ=DAILY;COUNT=2
+UID:2ac3m9264tpniokem0uu3i2uhn@google.com
+CREATED:20181119T020458Z
+DESCRIPTION:http://mt-heavens.com/winter/event.php\n\nキティちゃん＆ダニエル君\n【1月2日】\
+ n12時30分 キッズワールド\n14時30分 エンジェルコース滑走\n【1月3日】\n10時30分 キッズワールド\n12時30分 キッズワールド\
+ n14時30分 エンジェルコース滑走\n\nhttp://mt-heavens.com/winter/hello_kitty_event/\n\n1月
+ 02日（水）03日（木） KT\,DN 年の初めの運試し\n1月12日（土）13日（日） KT\,GU 5周年もそろそろ･･･\n1月19日（土）20
+ 日（日） KT\,DN ハローキティ検定クイズ\n2月02日（水）03日（木） KT\,CN シナモンが帰ってきたよ！\n2月09日（土）10日（日）
+  KT\,DN ダニエル壁ドン！\n2月16日（土）17日（日） KT\,MM もうすぐ春お花を咲かせましょう\n3月02日（土）03日（日） KT\
+ ,TS 今シーズンもエンディングは･･･
+LAST-MODIFIED:20181203T235121Z
+LOCATION:Heavens Sonohara\, Japan\, 〒395-0304 Nagano-ken\, Shimoina-gun\, A
+ chi-mura\, Chisato\, 智里３７３１−４
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT\,DN ヘブンスそのはら
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20181215T020000Z
+DTEND:20181215T062000Z
+UID:1n392ira3n2l3g85uece1gmgka@google.com
+CREATED:20181203T072657Z
+DESCRIPTION:https://www.sanrio.co.jp/news/gu-gudetamatsuri-20181203/\nhttps
+ ://twitter.com/sanrio_news/status/1069501526253670401\n\nぐでたまつり！おしり愛になって5周年
+ \n東京駅一番街 地下1F 東京キャラクターストリート内 いちばんプラザ\n12月7日（金）～12月21日（金）\n10:00～20:30 ※最終日は
+ 18:00まで\n\nぐでたま　ぐでーてぃんぐ\n12月15日（土）\n11:00～\n13:00～\n15:00～\n各回20分程度\n個別の撮影は
+ 実施せず
+LAST-MODIFIED:20181203T080153Z
+LOCATION:Tokyo Station Ichibangai\, 1 Chome-9-1 Marunouchi\, Chiyoda-ku\, T
+ ōkyō-to 100-0005\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:GU ぐでたまつり
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20181130T110000
+DTEND;TZID=America/New_York:20181130T180000
+RRULE:FREQ=DAILY;COUNT=3
+UID:45iv0slle0efgsas1cdoa5qmbv@google.com
+CREATED:20181129T070854Z
+DESCRIPTION:https://www.facebook.com/Sanrio/posts/10155937918087816/\nhttps
+ ://www.sanrio.com/blog_entries/aggretsukos-den-of-rage-nyc-at-barnes-noble\
+ nhttps://www.facebook.com/events/375165596379727/\n\nAggretsuko's DEN of RA
+ GE NYC at Barnes & Noble\nFriday\, November 30th through Sunday\, December 
+ 2nd\n11 AM to 6 PM\n\nBarnes & Noble (located in the SHC Department)\n150 E
+ ast 86th Street\nNew York\, NY 10028
+LAST-MODIFIED:20181203T031131Z
+LOCATION:Barnes & Noble\, 150 East 86th St\, New York\, NY 10028\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:AR Barnes & Noble
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190214T100000Z
+DTEND:20190214T130000Z
+UID:6jkiib9objrvdumu82n3i1rmiv@google.com
+CREATED:20181203T030313Z
+DESCRIPTION:https://www.facebook.com/events/2203688286585244/\nhttp://www.t
+ okyo-skytree.jp/event/special/disco2018/\n\nSUPER SKYTREE DISCO\n1/12(金)、1/
+ 19(金)、1/26(金)、2/2(金)、2/9(金)、2/14(水)、2/16(金)、2/23(金)\n各日19:00～22:00\n\n2/14(
+ Wed)\nDJ OSSHY\, TOMOYUKI\, TANAKA(FPM)\, YUKIBEB\, DJ Hello Kitty
+LAST-MODIFIED:20181203T030437Z
+LOCATION:Tokyo Skytree\, 1 Chome-1-2 Oshiage\, Sumida-ku\, Tōkyō-to 131-004
+ 5\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT SUPER SKYTREE DISCO
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20181116T120000Z
+DTEND:20181116T160000Z
+UID:4cegomhlmjl0nn1cdn8dmqashm@google.com
+CREATED:20181203T015340Z
+DESCRIPTION:https://www.facebook.com/events/207432563536031/\n\nHello kitty
+  × Chatime Launch Day\nFriday\, 16 November 2018 from 12:00-22:00 UTC\nChat
+ ime Piccadilly Circus 25-27 Shaftesbury Avenue London W1D 7EG\n\nHello Kitt
+ y herself will appear\n12 to 4pm
+LAST-MODIFIED:20181203T015340Z
+LOCATION:Chatime 日出茶太\, unit 3 ground floor\, 25-27 Shaftesbury Ave\, Soho\
+ , London W1D 7EG\, UK
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT Chatime Launch Day
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20181202T070000Z
+DTEND:20181202T080000Z
+UID:7crccidcb8a1es1kp1rgod73bn@google.com
+CREATED:20181203T013513Z
+DESCRIPTION:http://www.keishicho.metro.tokyo.jp/about_mpd/shokai/ichiran/ka
+ nkatsu/tamachuo/about_ps/kotsu_campaign.html\n\n多摩中央署 子どもと高齢者の交通事故防止キャンペーン\
+ n平成30年12月2日（日曜）午後4時から午後5時まで\n多摩センターパルテノン大通り\n\n多摩センタークリスマスイルミネーションの点灯とともに「T
+ OKYO交通安全キャンペーン」のセレモニーを行った後、キティちゃんやピーポくんとのグリーティング
+LAST-MODIFIED:20181203T013513Z
+LOCATION:Parthenon Avenue\, Japan\, 〒206-0033 Tōkyō-to\, Tama-shi\, Ochiai\
+ , 1 Chome−45\, 落合２丁目
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT 多摩中央署 交通事故防止キャンペーン
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20181215T030000Z
+DTEND:20181215T053000Z
+UID:01lugh2i1h4f1e3qdi37bficcs@google.com
+CREATED:20181203T013259Z
+DESCRIPTION:http://www.ario-hashimoto.jp/web/event/4c1d9d2b-18d5-4891-a2b2-
+ 7a6a08b4f886.html\n\nサンリオ ハローキティ クリスマス スペシャルミニステージ\n12月15日(土)\n12:00～\n14:0
+ 0～\n1階 グランドガーデン
+LAST-MODIFIED:20181203T013259Z
+LOCATION:Ario Hashimoto\, 1-２２ Ōyamachō\, Midori-ku\, Sagamihara-shi\, Kana
+ gawa-ken 252-0146\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT アリオ橋本
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20181215T030000Z
+DTEND:20181215T113000Z
+UID:3o3j9g62mlsiussssc5ug89eve@google.com
+CREATED:20181028T141445Z
+DESCRIPTION:http://www.listel-inawashiro.jp/information/713?c=1&y=&m=\nhttp
+ s://www.sanrio.co.jp/news/event-listel-inawashiro-20181215/\n\n《ハローキティのすてきな
+ ランチパーティ》\n12月15日（土）12:00～13:30【開場11:40】\n大人（中学生以上）3\,500円　　こども（小学生以下）2\,500
+ 円\n\n《ハローキティのすてきなディナーパーティ》\n12月15日（土）18:30～20:30【開場18:10】\nお一人様（1泊朝食＋ディナーショ
+ ー付）\n大人（中学生以上）15\,000円　　こども（3歳～小学生）10\,500円\n\nホテルシェフが用意した特別バイキング料理を食べながら、\
+ nハローキティ＆ディアダニエルのショーで楽しい時間を過ごしましょう♪\n\nご宿泊の方にはハローキティのお見送りも！\n※ディアダニエルのお見送りはご
+ ざいません。
+LAST-MODIFIED:20181203T013113Z
+LOCATION:ホテルリステル猪苗代\, 日本、〒969-2663 福島県耶麻郡猪苗代町大字川桁天王坂２４１４
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT\,DN ホテルリステル猪苗代
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20181205T030000Z
+DTEND:20181205T073000Z
+UID:6hgumsjb97u72afnstcbdbpg08@google.com
+CREATED:20181129T072307Z
+DESCRIPTION:https://twitter.com/EggSpuma/status/1067706032162463744\nhttps:
+ //twitter.com/sanrio_news/status/1068444547057836032\nhttps://www.sanrio.co
+ .jp/news/ts-cafe-egg-spuma-20181012/\n\n12/5\n12時・14時・16時\n各30分間\n\n各回先着30組
+ 限定でキキとララと写真撮影\nコラボメニューを注文、SNSにハッシュタグつきで投稿し、スタッフに見せる
+LAST-MODIFIED:20181130T101339Z
+LOCATION:EGG&SPUMA\, Japan\, 〒160-0022 Tōkyō-to\, Shinjuku-ku\, Shinjuku\, 
+ 3 Chome−38\, 新宿３−３８−１ 新宿ルミネエスト８F
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:TS EGG&SPUMA
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20181208T023000Z
+DTEND:20181208T073000Z
+UID:2o6vidahqja78oceddpo1q8pn3@google.com
+CREATED:20181126T040622Z
+DESCRIPTION:https://www.sanrio.co.jp/news/event-gg-musashikosugi-20181208/\
+ nhttps://twitter.com/sanrioshop_info/status/1068419203131039745\n\nハローキティ＆ミ
+ ミィと遊ぼう！（グランツリー武蔵小杉）\n4F スマイルスクエア\n12月8日（土）\n11:30 / 14:00 / 16:00\n\n写真撮影会は
+ 各回30名\n当日9:00～9:30に、東急武蔵小杉駅口で「購入予約券」配布\n4F サンリオギフトゲートにて税込み1\,080円以上お買い上げで、「
+ 購入予約券」を「写真撮影券」に交換
+LAST-MODIFIED:20181130T082139Z
+LOCATION:Grand Tree Musashikosugi\, 3 Chome-1135-1 Shinmarukohigashi\, Naka
+ hara-ku\, Kawasaki-shi\, Kanagawa-ken 211-0004\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KTキティ\,KTミミィ グランツリー武蔵小杉
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20181201
+DTEND;VALUE=DATE:20181202
+UID:149dviq1u6i49vtlbgkomg2bp2@google.com
+CREATED:20181130T081739Z
+DESCRIPTION:https://www.oasisshoppingmalls.com/ae/ar/dubai\n\nmeet & greet 
+ Hello Kitty\nThe Atrium\n1st December
+LAST-MODIFIED:20181130T081739Z
+LOCATION:Oasis Mall\, Sheikh Zayed Road - 2nd Interchange - Dubai - United 
+ Arab Emirates
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT Oasis Mall
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20181222T020000Z
+DTEND:20181222T063000Z
+UID:55vrp3ss9v00u3fpmc3i7u7jbl@google.com
+CREATED:20181130T080558Z
+DESCRIPTION:http://www.aeon.jp/sc/hamamatsuichino/event/event_e119430.html\
+ nhttp://www.aeon.jp/sc/hamamatsuichino/event/event_e119443.html\nhttp://www
+ .aeon.jp/sc/hamamatsuichino/event/event_e119449.html\n\nハローキティ クリスマスミニステージ\
+ n12月22日(土)\n(1)11:00～(2)13:30～(3)15:00～\n1F シンフォニーコート\n\nシナモロール クリスマスミニステージ
+ \n12月23日(日・祝)\n(1)11:00～(2)13:30～(3)15:00～\n1F シンフォニーコート\n\nポムポムプリン クリスマスミニ
+ ステージ\n12月24日(月・祝)\n(1)11:00～(2)13:30～(3)15:00～\n1F シンフォニーコート
+LAST-MODIFIED:20181130T080558Z
+LOCATION:イオン浜松市野店\, Japan\, 〒435-0052 Shizuoka-ken\, Hamamatsu-shi\, Higash
+ i-ku\, Tennōchō\, 諏訪１９８１−３
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT イオンモール浜松市野
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20181223T020000Z
+DTEND:20181223T063000Z
+UID:23pm8t54pau3aeik069co2nups@google.com
+CREATED:20181130T080541Z
+DESCRIPTION:http://www.aeon.jp/sc/hamamatsuichino/event/event_e119430.html\
+ nhttp://www.aeon.jp/sc/hamamatsuichino/event/event_e119443.html\nhttp://www
+ .aeon.jp/sc/hamamatsuichino/event/event_e119449.html\n\nハローキティ クリスマスミニステージ\
+ n12月22日(土)\n(1)11:00～(2)13:30～(3)15:00～\n1F シンフォニーコート\n\nシナモロール クリスマスミニステージ
+ \n12月23日(日・祝)\n(1)11:00～(2)13:30～(3)15:00～\n1F シンフォニーコート\n\nポムポムプリン クリスマスミニ
+ ステージ\n12月24日(月・祝)\n(1)11:00～(2)13:30～(3)15:00～\n1F シンフォニーコート
+LAST-MODIFIED:20181130T080541Z
+LOCATION:イオン浜松市野店\, Japan\, 〒435-0052 Shizuoka-ken\, Hamamatsu-shi\, Higash
+ i-ku\, Tennōchō\, 諏訪１９８１−３
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CN イオンモール浜松市野
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20181224T020000Z
+DTEND:20181224T063000Z
+UID:6qvg2aqlgqu0p4a1ld7t3prkrf@google.com
+CREATED:20181130T080232Z
+DESCRIPTION:http://www.aeon.jp/sc/hamamatsuichino/event/event_e119430.html\
+ nhttp://www.aeon.jp/sc/hamamatsuichino/event/event_e119443.html\nhttp://www
+ .aeon.jp/sc/hamamatsuichino/event/event_e119449.html\n\nハローキティ クリスマスミニステージ\
+ n12月22日(土)\n(1)11:00～(2)13:30～(3)15:00～\n1F シンフォニーコート\n\nシナモロール クリスマスミニステージ
+ \n12月23日(日・祝)\n(1)11:00～(2)13:30～(3)15:00～\n1F シンフォニーコート\n\nポムポムプリン クリスマスミニ
+ ステージ\n12月24日(月・祝)\n(1)11:00～(2)13:30～(3)15:00～\n1F シンフォニーコート
+LAST-MODIFIED:20181130T080529Z
+LOCATION:イオン浜松市野店\, Japan\, 〒435-0052 Shizuoka-ken\, Hamamatsu-shi\, Higash
+ i-ku\, Tennōchō\, 諏訪１９８１−３
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:PN イオンモール浜松市野
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20181208T020000Z
+DTEND:20181208T060000Z
+UID:22qm9dife01vsvri8veu8rl70p@google.com
+CREATED:20181130T015648Z
+DESCRIPTION:https://www.sanrio.co.jp/news/event-daimaru-umeda-20181208/\n\n
+ シナモン＆みるくと一緒にクリスマスを楽しもう♪（大丸梅田店 5F サンリオ）\n大丸梅田店 5F サンリオショップ店内\n12月8日（土）\n11:0
+ 0～ / 13:00～ / 14:30～\n\n写真撮影会は各回先着40名\nイベント当日9:00より1F東出入口にて、各回の「参加整理券」と交換でき
+ る「購入予約券」を配布\n10:00以降に5Fサンリオショップでシナモロール商品を含む通常商品（セール品除く）を税込み1\,080円以上お買い上げで「
+ 購入予約券」を「参加整理券」に交換
+LAST-MODIFIED:20181130T015648Z
+LOCATION:Daimaru Umeda\, Japan\, 〒530-8202 Ōsaka-fu\, Ōsaka-shi\, Kita-ku\,
+  Umeda\, 3 Chome−1\, 大阪市北区梅田３丁目１−１
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CNシナモン\,CNみるく 大丸梅田
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190225T030000Z
+DTEND:20190225T060000Z
+UID:5ufp8fbepvi935hhot9u0mddck@google.com
+CREATED:20181129T072854Z
+DESCRIPTION:https://www.rihga.co.jp/tokyo/event/kimono20190225\n\n「リーガロイヤルホ
+ テル東京」×「美しいキモノ」\nコラボレーション講座 第5弾\n大久保信子さんトークショー＆スペシャルランチパーティ\n2019年2月25日（月）\n
+ 12：00～15：00（受付 11：30～）\nロイヤルホール（3階）\n80名\n\n2019年2月4日（月）までに電話申し込み
+LAST-MODIFIED:20181129T072854Z
+LOCATION:Rihga Royal Hotel Tokyo\, 1 Chome-104-19 Totsukamachi\, Shinjuku-k
+ u\, Tōkyō-to 169-8613\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT 大久保信子トークショー
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20181209T030000Z
+DTEND:20181209T063000Z
+UID:342ikrgcpp7mu384k2a3ouoki2@google.com
+CREATED:20181129T072539Z
+DESCRIPTION:<a href="http://www.tobu-ohtawara.jp/" target="_blank">http://w
+ ww.tobu-ohtawara.jp/event/event1812.pdf</a><br><br>ハローキティがやってくる！握手＆撮影会<br>1
+ 2月9日（日）<br>12:00\, 13:30\, 15:00<br>3F あそび場
+LAST-MODIFIED:20181129T072622Z
+LOCATION:Tobu Department Store Otawara\, 1 Chome-2-2 Mihara\, Ōtawara-shi\,
+  Tochigi-ken 324-0047\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT 東武宇都宮百貨店 大田原
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20181223T003000Z
+DTEND:20181223T063000Z
+UID:0ahmvoign45onmbqh6t2t6ec0u@google.com
+CREATED:20181129T071800Z
+DESCRIPTION:https://www.seiburailway.jp/news/news-release/2018/20181128gude
+ tama_sayonaraevent.pdf\n\nスマイルトレイン 10th x ぐでたま 5th 記念キャンペーン\n\nぐでたまスマイルトレイン
+ さよならイベント電車\n2018年12月23日(日・祝)\n西武鉄道 池袋駅 南口改札外\n09:30\, 12:30\, 14:30\n乗車時間各回
+ 約60分\n\n11月28日(水) 15：00 ～ 12月3日(月)23:59 にWeb申し込み\n12月7日(金) 15：00 に当選発表
+LAST-MODIFIED:20181129T071800Z
+LOCATION:西武池袋駅\, 1 Chome-28-１ Minamiikebukuro\, Toshima-ku\, Tōkyō-to 171-0
+ 022\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:GU スマイルトレインさよならイベント電車
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20181224T040000Z
+DTEND:20181224T070000Z
+UID:57mmjvn8ho34np5mkdoldakq4d@google.com
+CREATED:20181129T071139Z
+DESCRIPTION:http://www.wakaba-walk.com/event/#event10886\n\nハローキティのハートフルクリス
+ マス\n12月24日（月・振休）\nキャラクターショー　　①13:00～　②15:00～\nハローキティ―握手会　①13:30～　②15:30～\nイ
+ ベント広場
+LAST-MODIFIED:20181129T071139Z
+LOCATION:Wakaba Walk\, 1 Chome-2-1 Fujimi\, Tsurugashima-shi\, Saitama-ken 
+ 350-2201\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT\,CN ハートフルクリスマス
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20181201T120000Z
+DTEND:20181201T173000Z
+UID:5sj79red9e4c0avp25e5309gmq@google.com
+CREATED:20181115T035800Z
+DESCRIPTION:https://uk.westfield.com/london/entertainment/events/christmas-
+ celebrations-at-ichiba/50725\nhttps://twitter.com/IchibaLondon/status/10663
+ 76259909894144\nhttps://www.ichibalondon.com/events\n\n\nChristmas Celebrat
+ ions At Ichiba at Westfield London\n1 Dec\n12:00 PM – 6:00 PM\n\nHello Kitt
+ y Meet & Greet\noutside the store\n12pm\, 2pm\, 4pm\, 5pm
+LAST-MODIFIED:20181129T000541Z
+LOCATION:Westfield London\, Ariel Way\, White City\, London W12 7GF\, UK
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT Westfield London
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -455,28 +2902,6 @@ SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:CN つれてってシナモン
 TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20181223T030000Z
-DTEND:20181223T070000Z
-UID:0c4r77n7b4im52lbao1bb7o5nj@google.com
-CREATED:20180304T130815Z
-DESCRIPTION:https://twitter.com/HappyFlight_cts/status/1064769129884770304\
- nhttp://www.new-chitose-airport.jp/ja/happy-flight/news/detail/post-27.html
- \nhttp://www.new-chitose-airport.jp/ja/happy-flight/news/detail/1223.html\n
- https://twitter.com/HappyFlight_cts/status/1067323931625844736\n\nリトルツインスター
- ズが遊びに来るよ \n\n12/23\n12:00 レジに挑戦\n14:00 ミニステージ\n15:30 撮影会\n\n\nhttps://twitt
- er.com/HappyFlight_cts/status/969371240199680000\n\n2018-04-28 土 XO\n2018-0
- 5-13 日 PN\n2018-06-23 土 MP\n2018-07-22 日 投票1位のキャラ\n2018-09-22 土 KR\n2018-10
- -28 日 KU\n2018-11-04 日 KT\n2018-12-23 土 TS\n2019-01-19 土 MM\n2019-02-10 日 C
- N\n2019-03-23 土 HG
-LAST-MODIFIED:20181127T094544Z
-LOCATION:新千歳空港国内線ターミナル\, 1292-33 Bibi\, Chitose-shi\, Hokkaidō 066-0012\, J
- apan
-SEQUENCE:1
-STATUS:CONFIRMED
-SUMMARY:TS ハッピーフライト
-TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20181215T020000Z
@@ -580,23 +3005,6 @@ LOCATION:イオンモール多摩平の森\, 日本、〒191-0062 東京都日�
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:KT 子育て応援Tokyoプロジェクト
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20181208T023000Z
-DTEND:20181208T073000Z
-UID:2o6vidahqja78oceddpo1q8pn3@google.com
-CREATED:20181126T040622Z
-DESCRIPTION:https://www.sanrio.co.jp/news/event-gg-musashikosugi-20181208/\
- n\nハローキティ＆ミミィと遊ぼう！（グランツリー武蔵小杉）\n4F スマイルスクエア\n12月8日（土）\n11:30 / 14:00 / 16:0
- 0\n\n写真撮影会は各回30名\n当日9:00～9:30に、東急武蔵小杉駅口で「購入予約券」配布\n4F サンリオギフトゲートにて税込み1\,080
- 円以上お買い上げで、「購入予約券」を「写真撮影券」に交換
-LAST-MODIFIED:20181126T040622Z
-LOCATION:Grand Tree Musashikosugi\, 3 Chome-1135-1 Shinmarukohigashi\, Naka
- hara-ku\, Kawasaki-shi\, Kanagawa-ken 211-0004\, Japan
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:KTキティ\,KTミミィ グランツリー武蔵小杉
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -1201,59 +3609,6 @@ SUMMARY:MM ジョンソンベビーデザインボトル
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20190119
-DTEND;VALUE=DATE:20190120
-RRULE:FREQ=DAILY;COUNT=2
-UID:4ipmc9484nbeq9vfu5i74uc88k@google.com
-CREATED:20181119T020554Z
-DESCRIPTION:http://mt-heavens.com/winter/event.php\n\nハローキティイベント\n\n2019年1月
- 2日(水)・3日(木)\nキティちゃん＆ダニエル君\n\n2019年1月12日(土)・13日(日)\nキティちゃん＆ぐでたま\n\n2019年1月19
- 日(土)・20日(日)\nキティちゃん＆ダニエル君
-LAST-MODIFIED:20181119T020554Z
-LOCATION:Heavens Sonohara\, Japan\, 〒395-0304 Nagano-ken\, Shimoina-gun\, A
- chi-mura\, Chisato\, 智里３７３１−４
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:KT\,DN ヘブンスそのはら
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20190112
-DTEND;VALUE=DATE:20190113
-RRULE:FREQ=DAILY;COUNT=2
-UID:2nrb208muktguet1i4oq8pishv@google.com
-CREATED:20181119T020524Z
-DESCRIPTION:http://mt-heavens.com/winter/event.php\n\nハローキティイベント\n\n2019年1月
- 2日(水)・3日(木)\nキティちゃん＆ダニエル君\n\n2019年1月12日(土)・13日(日)\nキティちゃん＆ぐでたま\n\n2019年1月19
- 日(土)・20日(日)\nキティちゃん＆ダニエル君
-LAST-MODIFIED:20181119T020539Z
-LOCATION:Heavens Sonohara\, Japan\, 〒395-0304 Nagano-ken\, Shimoina-gun\, A
- chi-mura\, Chisato\, 智里３７３１−４
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:KT\,GU ヘブンスそのはら
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20190102T103000
-DTEND;TZID=Asia/Tokyo:20190102T150000
-RRULE:FREQ=DAILY;COUNT=2
-UID:2ac3m9264tpniokem0uu3i2uhn@google.com
-CREATED:20181119T020458Z
-DESCRIPTION:http://mt-heavens.com/winter/event.php\n\nキティちゃん＆ダニエル君\n【1月2日】\
- n12時30分 キッズワールド\n14時30分 エンジェルコース滑走\n【1月3日】\n10時30分 キッズワールド\n12時30分 キッズワールド\
- n14時30分 エンジェルコース滑走\n\nhttp://mt-heavens.com/winter/event.php\n\nハローキティイベント\
- n\n2019年1月2日(水)・3日(木)\nキティちゃん＆ダニエル君\n\n2019年1月12日(土)・13日(日)\nキティちゃん＆ぐでたま\n\
- n2019年1月19日(土)・20日(日)\nキティちゃん＆ダニエル君
-LAST-MODIFIED:20181119T020458Z
-LOCATION:Heavens Sonohara\, Japan\, 〒395-0304 Nagano-ken\, Shimoina-gun\, A
- chi-mura\, Chisato\, 智里３７３１−４
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:KT\,DN ヘブンスそのはら
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20181119T023000Z
 DTEND:20181119T060000Z
 UID:3gb8i9l6apei8dgo4nuj8kvsas@google.com
@@ -1341,22 +3696,6 @@ LOCATION:Drusillas Park\, Alfriston Rd\, East Sussex BN26 5QS\, UK
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:KT Drusillas Park
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20181201T120000Z
-DTEND:20181201T173000Z
-UID:5sj79red9e4c0avp25e5309gmq@google.com
-CREATED:20181115T035800Z
-DESCRIPTION:https://uk.westfield.com/london/entertainment/events/christmas-
- celebrations-at-ichiba/50725\n\nChristmas Celebrations At Ichiba at Westfie
- ld London\n1 Dec\n12:00 PM – 6:00 PM\n\nHello Kitty Meet & Greet\noutside t
- he store\n12pm\, 2pm\, 4pm\, 5pm
-LAST-MODIFIED:20181115T035800Z
-LOCATION:Westfield London\, Ariel Way\, White City\, London W12 7GF\, UK
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:KT Westfield London
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -1877,21 +4216,6 @@ SUMMARY:KT 富山三菱自動車 富山南
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20181222T020000Z
-DTEND:20181222T063000Z
-UID:1k0ftke7orkcrknf50ta814mag@google.com
-CREATED:20181101T122951Z
-DESCRIPTION:https://www.tku.co.jp/event/hellokitty20181222/\n\nサンリオピューロランド2
- 5周年記念作品\nサンリオファミリーミュージカル　ハローキティのドリームトラベラー\n\n2018年12月22日（土）\n（上演1）開場10:00～ 
- 開演11:00\n（上演2）開場13:00～ 開演14:00\n市民会館シアーズホーム夢ホール
-LAST-MODIFIED:20181101T122951Z
-LOCATION:市民会館シアーズホーム夢ホール\, 日本、〒860-0805 熊本県熊本市中央区桜町１−３
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:ドリームトラベラー
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20181117T060000Z
 DTEND:20181117T062000Z
 UID:03vtt0f81t1vpf4vqib74bgauf@google.com
@@ -1992,24 +4316,6 @@ SUMMARY:CN えのたんとキノコフレンズ・ダンス教室
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20181215T030000Z
-DTEND:20181215T113000Z
-UID:3o3j9g62mlsiussssc5ug89eve@google.com
-CREATED:20181028T141445Z
-DESCRIPTION:http://www.listel-inawashiro.jp/information/713?c=1&y=&m=\n\n《ハ
- ローキティのすてきなランチパーティ》\n12月15日（土）12:00～13:30【開場11:40】\n大人（中学生以上）3\,500円　　こども（小学
- 生以下）2\,500円\n\n《ハローキティのすてきなディナーパーティ》\n12月15日（土）18:30～20:30【開場18:10】\nお一人様（1
- 泊朝食＋ディナーショー付）\n大人（中学生以上）15\,000円　　こども（3歳～小学生）10\,500円\n\nホテルシェフが用意した特別バイキング
- 料理を食べながら、\nハローキティ＆ディアダニエルのショーで楽しい時間を過ごしましょう♪\n\nご宿泊の方にはハローキティのお見送りも！\n※ディアダ
- ニエルのお見送りはございません。
-LAST-MODIFIED:20181028T141445Z
-LOCATION:ホテルリステル猪苗代\, 日本、〒969-2663 福島県耶麻郡猪苗代町大字川桁天王坂２４１４
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:KT\,DN ホテルリステル猪苗代
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20181028T030000Z
 DTEND:20181028T100000Z
 UID:10e52b8rbp4o2e0jibdkorcpth@google.com
@@ -2023,21 +4329,6 @@ LOCATION:
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:KT 南海グリル
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20181224T023000Z
-DTEND:20181224T070000Z
-UID:09u89fon7f0g3mdc5t706lfijf@google.com
-CREATED:20181028T124247Z
-DESCRIPTION:https://eplus.jp/sys/T1U14P0010175P0108P002004114P006001P003004
- 4\n\nサンリオファミリーミュージカル　ハローキティのドリームトラベラー\n2018/12/24(月・祝)　11：30開演　14：30開演\n福岡国
- 際会議場　メインホール
-LAST-MODIFIED:20181028T124247Z
-LOCATION:福岡コンベンションセンター福岡国際会議場\, 日本、〒812-0032 福岡県福岡市博多区石城町２−１
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:ドリームトラベラー
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -2272,21 +4563,6 @@ SUMMARY:TS Mystery Forest
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20181220T060000Z
-DTEND:20181220T103000Z
-UID:1e4upckni0d2d88svn3d4rcjra@google.com
-CREATED:20181022T141239Z
-DESCRIPTION:http://www.e-obs.com/event/event/20463.html\n\nサンリオファミリーミュージカル 
- ハローキティーのドリームトラベラー\n\n2018年12月20日(木)\n【1回目】15:00開演 【2回目】18:00開演（1時間前開場）\niic
- hikoグランシアタ\n\n発売日：2018年10月29日（月）
-LAST-MODIFIED:20181022T141239Z
-LOCATION:大分県立総合文化センター ｉｉｃｈｉｋｏ総合文化センター\, 日本、〒870-0029 大分県大分市高砂町２ 大分市高砂町２−３３
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:ドリームトラベラー
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20181028T020000Z
 DTEND:20181028T061500Z
 UID:6nfugmrketlr06kufp45l3fveg@google.com
@@ -2483,21 +4759,6 @@ LOCATION:Oyama Station\, 3 Chome-1 Shiroyamacho\, Oyama\, Tochigi Prefectur
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:KT オレンジハロウィン
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20190309T013000Z
-DTEND:20190309T060000Z
-UID:6uc19vocuvajfnknbf0chuu6ad@google.com
-CREATED:20180911T094716Z
-DESCRIPTION:https://t.pia.jp/pia/event/event.do?eventCd=1844379\n\n\nハローキティ
- のドリームトラベラー\n会場: 不二羽島文化センター スカイホール\n日時: 2019/3/9 10:30\, 13:30\nチケットは2018/12
- /15に10:30の回、12/16に13:30の回をそれぞれ発売開始。
-LAST-MODIFIED:20181019T003907Z
-LOCATION:不二羽島文化センター\,  日本、〒501-6244 岐阜県羽島市竹鼻町丸の内６丁目７
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:ドリームトラベラー
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -11005,46 +13266,6 @@ SUMMARY:HG ハッピーフライト
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20190210
-DTEND;VALUE=DATE:20190211
-UID:4o5vid28e2cr95vpfdnfjsbg8t@google.com
-CREATED:20180304T130849Z
-DESCRIPTION:<a href="https://www.google.com/url?q=https%3A%2F%2Ftwitter.com
- %2FHappyFlight_cts%2Fstatus%2F969371240199680000&amp\;sa=D&amp\;usd=2&amp\;
- usg=AFQjCNFHgyk9G8aXv_TqBMa1gr_Ae59AIA">https://twitter.com/HappyFlight_cts
- /status/969371240199680000</a><br><br>2018-04-28 土 XO<br>2018-05-13 日 PN<br
- >2018-06-23 土 MP<br>2018-07-22 日 投票1位のキャラ<br>2018-09-22 土 KR<br>2018-10-28 
- 日 KU<br>2018-11-04 日 KT<br>2018-12-23 土 TS<br>2019-01-19 土 MM<br>2019-02-10
-  日 CN<br>2019-03-23 土 HG
-LAST-MODIFIED:20180304T130849Z
-LOCATION:新千歳空港国内線ターミナル\, 1292-33 Bibi\, Chitose-shi\, Hokkaidō 066-0012\, J
- apan
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:CN ハッピーフライト
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20190119
-DTEND;VALUE=DATE:20190120
-UID:6e08opgpd1s70vhmhs2kf16ksv@google.com
-CREATED:20180304T130834Z
-DESCRIPTION:<a href="https://www.google.com/url?q=https%3A%2F%2Ftwitter.com
- %2FHappyFlight_cts%2Fstatus%2F969371240199680000&amp\;sa=D&amp\;usd=2&amp\;
- usg=AFQjCNFHgyk9G8aXv_TqBMa1gr_Ae59AIA">https://twitter.com/HappyFlight_cts
- /status/969371240199680000</a><br><br>2018-04-28 土 XO<br>2018-05-13 日 PN<br
- >2018-06-23 土 MP<br>2018-07-22 日 投票1位のキャラ<br>2018-09-22 土 KR<br>2018-10-28 
- 日 KU<br>2018-11-04 日 KT<br>2018-12-23 土 TS<br>2019-01-19 土 MM<br>2019-02-10
-  日 CN<br>2019-03-23 土 HG
-LAST-MODIFIED:20180304T130834Z
-LOCATION:新千歳空港国内線ターミナル\, 1292-33 Bibi\, Chitose-shi\, Hokkaidō 066-0012\, J
- apan
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:MM ハッピーフライト
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20181028
 DTEND;VALUE=DATE:20181029
 UID:5rd44ve7omof6eqbvm4ja978q2@google.com
@@ -12418,22 +14639,6 @@ SUMMARY:MM ららぽーとTOKYO-BAY
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20180203T010000Z
-DTEND:20180203T073000Z
-UID:03d12v2jphkc130svis2vmrc1l@google.com
-CREATED:20180122T123651Z
-DESCRIPTION:<a href="https://www.google.com/url?q=http%3A%2F%2Fwww.takahata
- fudoson.or.jp%2F%3Fp%3D2153&amp\;sa=D&amp\;usd=2&amp\;usg=AFQjCNG0zXnUR-R4_
- 4m47SfyfWwCnHcsnw">http://www.takahatafudoson.or.jp/?p=2153</a><br><br><br>
- 時間: ①10:00～ / ②11:00～ / ③13:00～ / ④15:00～ / ⑤16:00～
-LAST-MODIFIED:20180122T144124Z
-LOCATION:高幡不動尊金剛寺\, 東京都日野市高幡733
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:KT 節分豆撒式
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20180203T034000Z
 DTEND:20180203T054500Z
 UID:4suv7b7cof8t82q2ne3kr91cmj@google.com
@@ -13343,22 +15548,6 @@ SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:KT\,MM 微風松高
 TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20171224T010000Z
-DTEND:20171224T053000Z
-UID:5nrjpfhtgu8674t07ftsk1u591@google.com
-CREATED:20171218T144908Z
-DESCRIPTION:http://sagakeiba.lekumo.biz/news/2017/12/1224-3e19.html\n\n\nサン
- リオキャラクター「シナモロール」ミニステージ\n\n2017年12月24日（日） \n10時頃から「ミニステージ・ハイタッチ」\n12時頃から「ミニス
- テージ・ハイタッチ」\n14時頃から「撮影会（先着100名さま）」\n児童公園前広場特設ステージ 
-LAST-MODIFIED:20171218T144908Z
-LOCATION:佐賀競馬場\, Japan\, 〒841-0073 Saga-ken\, Tosu-shi\, 江島町Ejimamachi\, 字西
- 谷３２５６−２２８
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:CN 佐賀競馬場
-TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20171224T020000Z
@@ -32647,8 +34836,8 @@ SUMMARY:KT イオンモール名取
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Saigon:20160716T120000
-DTEND;TZID=Asia/Saigon:20160716T163000
+DTSTART;TZID=Asia/Ho_Chi_Minh:20160716T120000
+DTEND;TZID=Asia/Ho_Chi_Minh:20160716T163000
 RRULE:FREQ=DAILY;COUNT=2
 UID:kpajvo8k2c8jtqi87mth7dikto@google.com
 CREATED:20160706T134251Z
