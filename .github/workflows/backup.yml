@@ -1,0 +1,27 @@
+name: Backup calendars
+
+on:
+  schedule:
+  - cron: "30 19 * * *" # 04:30am in Japan
+
+jobs:
+  backup:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v1
+      with:
+        ref: test-actions
+    - name: backup
+      run: |
+        ./backup.sh
+    - name: git commit
+      run: |
+        git add *.ics
+        git config --local user.email "ohtake@users.noreply.github.com"
+        git config --local user.name "GitHub Actions"
+        git commit -m "actions at $(date +%F' '%T)" || exit 0 # Exit if nothing to commit
+    - name: git push
+      uses: ad-m/github-push-action@v0.5.0
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: test-actions
