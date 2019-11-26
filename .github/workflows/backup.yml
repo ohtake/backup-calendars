@@ -8,6 +8,8 @@ jobs:
   backup:
     runs-on: ubuntu-latest
     steps:
+    - name: install dos2unix
+      run: sudo apt-get install -y dos2unix
     - uses: actions/checkout@v1
       with:
         ref: test-actions
