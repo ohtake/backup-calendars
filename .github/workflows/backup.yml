@@ -12,7 +12,7 @@ jobs:
       run: sudo apt-get install -y dos2unix
     - uses: actions/checkout@v1
       with:
-        ref: test-actions
+        ref: actions
     - name: backup
       run: |
         ./backup.sh
@@ -26,4 +26,4 @@ jobs:
       uses: ad-m/github-push-action@v0.5.0
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        branch: test-actions
+        branch: actions
