@@ -384,6 +384,22 @@ RRULE:FREQ=YEARLY;BYMONTH=9;BYDAY=1SU
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+DTSTART:20200105T020000Z
+DTEND:20200105T063000Z
+UID:70olj9s82hlhpf4493p5qng0og@google.com
+CREATED:20191231T021747Z
+DESCRIPTION:<a href="https://www.e-a-site.com/event_info/detail/?id=29795&a
+ mp\;sr=27" id="ow644" __is_owner="true">https://www.e-a-site.com/event_info
+ /detail/?id=29795&amp\;sr=27</a><br><br><br>ハローキティと一緒にクイズやダンスをして盛り上がろう！<br>
+ ステージ終了後には、握手会もあるよ！<br>開催時刻: 11:00\, 13:30\, 15:00
+LAST-MODIFIED:20191231T021747Z
+LOCATION:海老名ハウジングギャラリー\, 日本、〒243-0432 神奈川県海老名市中央１丁目９−１０
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT 新春ミニステージ
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20200112T050000Z
 DTEND:20200112T083000Z
 UID:1grv4ciqfbt410mdirve2v67pq@google.com
