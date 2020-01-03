@@ -384,6 +384,94 @@ RRULE:FREQ=YEARLY;BYMONTH=9;BYDAY=1SU
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200118
+DTEND;VALUE=DATE:20200119
+UID:4giakff4kagbfvhqidbq5i6vpa@google.com
+CREATED:20200103T133631Z
+DESCRIPTION:https://tokyomegaillumi.jp/news/%e3%80%8c%e3%81%97%e3%81%aa%e3%
+ 81%8c%e3%82%8f%e5%8c%ba%e6%b0%91%e3%83%87%e3%83%bc%e3%80%8d%e9%96%8b%e5%82%
+ ac%ef%bc%81%ef%bc%81%e3%81%97%e3%81%aa%e3%81%8c%e3%82%8f%e8%a6%b3%e5%85%89%
+ e5%a4%a7%e4%bd%bf/\n\nTOKYO MEGA ILLUMI\n大井競馬場\n2019年10月5日(土)〜12月24日(火)※原則、
+ 大井競馬開催日以外の全日\n2020年1月4日(土)〜3月29日(日)※原則、金土日祝\n\nしながわ区民デー\n1/17(金)～1/19(日)\n1
+ /18(土)はしながわ観光大使「シナモロール」が来場
+LAST-MODIFIED:20200103T133631Z
+LOCATION:Oi Racecourse\, 2-chōme-1-2 Katsushima\, Shinagawa City\, Tōkyō-to
+  140-0012\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CN TOKYO MEGA ILLUMI
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200216
+DTEND;VALUE=DATE:20200217
+UID:5e4fpufmjul15lvb6vhvh5t5ar@google.com
+CREATED:20200103T133302Z
+DESCRIPTION:https://gotochikitty.com/gentei/469\n\n「クボタスピアーズ 」×「ハローキティ」コラボ\
+ nハローキティ DAY\n2020年1月25日（土） 大阪・万博記念競技場\n2020年2月16日（日） 東京・江東区夢の島競技場\nチームユニフォー
+ ムを着たハローキティが来場
+LAST-MODIFIED:20200103T133302Z
+LOCATION:Yumenoshima Athletics Stadium\, 1-chōme-1-2 Yumenoshima\, Koto Cit
+ y\, Tōkyō-to 136-0081\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT クボタスピアーズ
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200125
+DTEND;VALUE=DATE:20200126
+UID:4impk9o91r465gitm7dgm2tt2n@google.com
+CREATED:20200103T133245Z
+DESCRIPTION:https://gotochikitty.com/gentei/469\n\n「クボタスピアーズ 」×「ハローキティ」コラボ\
+ nハローキティ DAY\n2020年1月25日（土） 大阪・万博記念競技場\n2020年2月16日（日） 東京・江東区夢の島競技場\nチームユニフォー
+ ムを着たハローキティが来場
+LAST-MODIFIED:20200103T133245Z
+LOCATION:Expo '70 Commemorative Stadium\, 5-2 Senribanpakukōen\, Suita\, Os
+ aka 565-0826\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT クボタスピアーズ
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200105T020000Z
+DTEND:20200105T063000Z
+UID:7t8fnf2d12ii8j0b2e6soqdu0u@google.com
+CREATED:20200103T132703Z
+DESCRIPTION:https://mitsui-shopping-park.com/lalaport/kashiwa/event/1488675
+ .html\nhttps://www.sanrio.co.jp/news/event-lalaport-kashiwanoha-20191226/\n
+ \nハローキティ 45周年アニバーサリー　ミニステージ＆撮影会\nららぽーと柏の葉 本館2F クリスタルコート\n2020年1月5日（日）\n11:0
+ 0～ ミニステージ\n13:00～ 写真撮影会\n15:00～ ミニステージ\n\nハローキティとマイメロディがららぽーと柏の葉に遊びにくるよ\n撮影
+ 会の整理券は当日10：00より先着60組様へ会場にて配布
+LAST-MODIFIED:20200103T132703Z
+LOCATION:LaLaport Kashiwanoha\, 175 Wakashiba\, Kashiwa\, Chiba 277-8518\, 
+ Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT\,MM ららぽーと柏の葉
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200117
+DTEND;VALUE=DATE:20200121
+UID:04jalv4dta34aq44mc281l3qeu@google.com
+CREATED:20200103T132247Z
+DESCRIPTION:https://www.facebook.com/SanrioBrasil/posts/10158049441464954/\
+ n\nRio Matsuri\n17/01 (Sexta-feira): 10h às 22h\n18/01 (Sábado): 10h às 22h
+ \n19/01 (Domingo): 10h às 22h\n20/01 (Segunda-feira): 10h às 22h\nRIOCENTRO
+ \nAvenida Salvador Allende\, 6.555 Barra da Tijuca – Rio de Janeiro/RJ\n\nH
+ ello Kitty estará presente no evento Rio Matsuri\, de 17 a 20/01 no Rio de 
+ Janeiro.
+LAST-MODIFIED:20200103T132315Z
+LOCATION:Riocentro Convention & Event Center\, Av. Salvador Allende\, 6555 
+ - Barra da Tijuca\, Rio de Janeiro - RJ\, 22783-127\, Brazil
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:KT Rio Matsuri
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20200105T020000Z
 DTEND:20200105T063000Z
 UID:70olj9s82hlhpf4493p5qng0og@google.com
