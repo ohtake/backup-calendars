@@ -384,6 +384,23 @@ RRULE:FREQ=YEARLY;BYMONTH=9;BYDAY=1SU
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+DTSTART:20200113T020000Z
+DTEND:20200113T063000Z
+UID:3rrhri8etja4r64adjpnjq26qs@google.com
+CREATED:20200104T150724Z
+DESCRIPTION:https://mitsui-shopping-park.com/lalaport/tachikawa/event/14849
+ 24.html\n\nマイメロディ＆クロミ  ミニステージ\n1月13日(月・祝)\n11:00~ ミニステージ\n13:00~ ミニステージ\n15
+ :00~ 握手会\nららぽーと立川立飛 2Ｆ イベント広場・ステージ \n\n10:00より「握手会」の整理券を2Ｆイベント広場にて配布\n「握手会」
+ 整理券はお子様一人につき、当日のお買上げレシート1\,000円以上\n\n荒天の場合、予告無く中止する場合あり\n当日の写真撮影、動画撮影は禁止
+LAST-MODIFIED:20200104T150724Z
+LOCATION:Lalaport Tachikawa Tachihi\, 935番地の1 Izumichō\, Tachikawa\, Tōkyō-
+ to 190-0015\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MM\,KU ららぽーと立川立飛
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20200118
 DTEND;VALUE=DATE:20200119
 UID:4giakff4kagbfvhqidbq5i6vpa@google.com
