@@ -384,6 +384,24 @@ RRULE:FREQ=YEARLY;BYMONTH=9;BYDAY=1SU
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+DTSTART:20200105T001000Z
+DTEND:20200105T004000Z
+UID:2tt7fb9duvsbdrv9i2ge2e09ic@google.com
+CREATED:20191223T121436Z
+DESCRIPTION:https://umabi.jp/event/nakayama/202001/\n\n第1回中山競馬\n中山競馬場\n\n1.
+ 5[日]\n\n中山新春「大鏡開き」\nターフィー＆ハローキティが大鏡開きに登場\n9:10頃～\nグランプリガーデン\n雨天時は中止\n\n1.11
+ [土]・12[日]・13[祝・月]\n\nターフィーとじゃんけん大会\n①11:00～11:30 ②13:00～13:30 ③15:00～15:30\
+ n馬場内テラス\n雨天時は馬場内エリア入口前（銀だこ向かい）で実施、参加は小学生以下のお子様に限り1日1回まで、各回先着50名\n\n1.18[土]・
+ 19[日]\n\nご当地ターフィーが登場！\n①9:00～9:30 ②10:30～11:30 ③13:30～14:30 ④15:30～16:00\nう
+ まキッズひろば\n雨天時は馬場内エリア入口前周辺に登場
+LAST-MODIFIED:20200105T135722Z
+LOCATION:中山競馬場\, 日本、〒273-0037 千葉県船橋市古作１丁目１−１
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:TF\,KT 中山競馬
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20200113T020000Z
 DTEND:20200113T063000Z
 UID:3rrhri8etja4r64adjpnjq26qs@google.com
@@ -920,24 +938,6 @@ LOCATION:中山競馬場\, 日本、〒273-0037 千葉県船橋市古作１丁�
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:TF 中山競馬
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20200105T121000Z
-DTEND:20200105T124000Z
-UID:2tt7fb9duvsbdrv9i2ge2e09ic@google.com
-CREATED:20191223T121436Z
-DESCRIPTION:https://umabi.jp/event/nakayama/202001/\n\n第1回中山競馬\n中山競馬場\n\n1.
- 5[日]\n\n中山新春「大鏡開き」\nターフィー＆ハローキティが大鏡開きに登場\n9:10頃～\nグランプリガーデン\n雨天時は中止\n\n1.11
- [土]・12[日]・13[祝・月]\n\nターフィーとじゃんけん大会\n①11:00～11:30 ②13:00～13:30 ③15:00～15:30\
- n馬場内テラス\n雨天時は馬場内エリア入口前（銀だこ向かい）で実施、参加は小学生以下のお子様に限り1日1回まで、各回先着50名\n\n1.18[土]・
- 19[日]\n\nご当地ターフィーが登場！\n①9:00～9:30 ②10:30～11:30 ③13:30～14:30 ④15:30～16:00\nう
- まキッズひろば\n雨天時は馬場内エリア入口前周辺に登場
-LAST-MODIFIED:20191223T121436Z
-LOCATION:中山競馬場\, 日本、〒273-0037 千葉県船橋市古作１丁目１−１
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:TF\,KT 中山競馬
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
