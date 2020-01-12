@@ -384,6 +384,74 @@ RRULE:FREQ=YEARLY;BYMONTH=9;BYDAY=1SU
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+DTSTART:20200126T023000Z
+DTEND:20200126T070000Z
+UID:0np9hho7cc2fk4i9vnk6u9sk2j@google.com
+CREATED:20200112T111335Z
+DESCRIPTION:https://www.sanrio.co.jp/news/event-gg-aeonmall-kashihara-20200
+ 126/\n\nシナモロール写真撮影会\nイオンモール橿原 1F サンシャインコート\n2020年1月26日（日）\n11:30\n14:00\n15
+ :30\n\n各回30名\n当日9:30～からイオンモール橿原店 2F 21番入口にて購入予約券を配布\n2F サンリオギフトゲートにてシナモロール商
+ 品を含む税込み1\,000円以上（セール品・お楽しみ袋は除く）購入で「写真整理券」に交換
+LAST-MODIFIED:20200112T111335Z
+LOCATION:Aeon Mall Kashihara\, 7-chōme-20-1 Magarikawachō\, Kashihara\, Nar
+ a 634-0837\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CN イオンモール橿原
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200130T060000Z
+DTEND:20200130T092000Z
+UID:7d56aqb46od74cbbqbq58v29j5@google.com
+CREATED:20200112T111035Z
+DESCRIPTION:https://prtimes.jp/main/html/rd/p/000001231.000008372.html\n\nF
+ ANCY SANRIO CHARACTERS ～The Cupid Diner～\n伊勢丹新宿店 本館6階催物場\n1月29日～1月31日\n\nポチ
+ ャッコが遊びに来るよ！\n1月30日(木)イベント当日に「イベントオリジナルバームクーヘン」をご購入で先着40組限定でツーショット写真撮影会\n1月3
+ 0日(木)\n15:00-15:20\n16:30-16:50\n18:00-18:20
+LAST-MODIFIED:20200112T111035Z
+LOCATION:Isetan Shinjuku\, 3-chōme-14-1 Shinjuku\, Shinjuku City\, Tōkyō-to
+  160-0022\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:PC FANCY SANRIO CHARACTERS
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200125
+DTEND;VALUE=DATE:20200126
+RRULE:FREQ=DAILY;COUNT=2
+UID:5jopv1crr2fk76me2nn6biia6v@google.com
+CREATED:20200112T110537Z
+DESCRIPTION:<a href="https://www.sanrio.co.jp/news/mx-gg-ueno-open-20200110
+ /">https://www.sanrio.co.jp/news/mx-gg-ueno-open-20200110/</a><br><br>1/24（
+ 金）「Sanrio Gift Gate 上野店」がNEWオープン<br>東京都台東区上野4-8-6 プラザUビル1F&nbsp\;&nbsp\;<br
+ ><br>プリンが登場<br>1月25日（土）・26日（日）
+LAST-MODIFIED:20200112T110640Z
+LOCATION:上野プラザＵビル\, 4-chōme-8-6 Ueno\, Taito City\, Tōkyō-to 110-0005\, Jap
+ an
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:PN Sanrio Gift Gate 上野
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200112T020000Z
+DTEND:20200112T063000Z
+UID:22n3sfkva7nh422mtscbe0dpiq@google.com
+CREATED:20200112T110425Z
+DESCRIPTION:https://asp.shufoo.net/c/2019/12/27/c/9542053884084/index.html?
+ shopId=277536&chirashiId=9542053884084\n\nハローキティ＆ぐでたまのシンギング！ダンシング！クッキング！\nハ
+ ウジングワールド立川\n2020-01-12\n11:00\n15:00
+LAST-MODIFIED:20200112T110425Z
+LOCATION:ＡＢＣハウジング・ハウジングワールド立川\, 935-1 Izumichō\, Tachikawa\, Tōkyō-to 190-0
+ 015\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT\,GU クッキング
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20200112T023000Z
 DTEND:20200112T070000Z
 UID:7kb4toelqme4e666mrb2qogbhh@google.com
