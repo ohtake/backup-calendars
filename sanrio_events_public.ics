@@ -384,6 +384,28 @@ RRULE:FREQ=YEARLY;BYMONTH=9;BYDAY=1SU
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+DTSTART:20200118T020000Z
+DTEND:20200118T070000Z
+UID:0ngdgh4d4debrmkamlh9ugudcg@google.com
+CREATED:20191219T214015Z
+DESCRIPTION:<a href="https://www.housing-messe.com/kashiwashonan.html" id="
+ ow370" __is_owner="true">https://www.housing-messe.com/kashiwashonan.html</
+ a><a href="https://www.housing-messe.com/smp/tenjijo.php?n=kashiwashonan" i
+ d="ow374" __is_owner="true">https://www.housing-messe.com/smp/tenjijo.php?n
+ =kashiwashonan</a><br><a href="https://twitter.com/10hamuchan10/status/1216
+ 945281859637248" id="ow378" __is_owner="true">https://twitter.com/10hamucha
+ n10/status/1216945281859637248</a>&nbsp\;&nbsp\;<br><br>1月18日(土)<br>かしわ沼南住宅
+ 公園<br><br>ハローキティ　ミニステージ<br>①１１：００～　②１３：３０～　③１５：３０～（各回１５分）<br>〇ハローキティ握手＆撮影会<
+ br>①１１：１５～　②１３：４５～　③１５：４５～
+LAST-MODIFIED:20200114T054040Z
+LOCATION:かしわ沼南住宅公園\, Japan\, 〒277-0922 Chiba\, Kashiwa\, Ōshimata\, 2 Chome
+ −２−１
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT かしわ沼南住宅公園
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20200126T023000Z
 DTEND:20200126T070000Z
 UID:0np9hho7cc2fk4i9vnk6u9sk2j@google.com
@@ -1150,24 +1172,6 @@ LOCATION:TRESSA Yokohama PO\, Japan\, 〒222-0002 Kanagawa\, Yokohama\, Kohok
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:KT トレッサ横浜郵便局
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20200118T020000Z
-DTEND:20200118T070000Z
-UID:0ngdgh4d4debrmkamlh9ugudcg@google.com
-CREATED:20191219T214015Z
-DESCRIPTION:<br>https://www.housing-messe.com/kashiwashonan.html<a href="ht
- tps://www.housing-messe.com/smp/tenjijo.php?n=kashiwashonan" id="ow3449" __
- is_owner="true">https://www.housing-messe.com/smp/tenjijo.php?n=kashiwashon
- an</a><br><br>1月18日(土)<br>かしわ沼南住宅公園<br><br>ハローキティ　ミニステージ<br>①１１：００～　②１３：３０～
- 　③１５：３０～（各回１５分）<br>〇ハローキティ握手＆撮影会<br>①１１：１５～　②１３：４５～　③１５：４５～
-LAST-MODIFIED:20191220T172507Z
-LOCATION:かしわ沼南住宅公園\, Japan\, 〒277-0922 Chiba\, Kashiwa\, Ōshimata\, 2 Chome
- −２−１
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:KT かしわ沼南住宅公園
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
