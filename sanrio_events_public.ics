@@ -384,6 +384,140 @@ RRULE:FREQ=YEARLY;BYMONTH=9;BYDAY=1SU
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+DTSTART:20200118T030000Z
+DTEND:20200118T070000Z
+UID:49oj00i5ok16sei24o94u88dnc@google.com
+CREATED:20200115T105415Z
+DESCRIPTION:https://twitter.com/h_kiddyland/status/1217395795453890560\n\nキ
+ デイランド原宿店にマイメロディが遊びにやってきます！\n2020-01-18\n12:00\n14:00\n15:30\n\n当日マイメロディ商品を税
+ 込み2000円以上購入の先着60組に2ショット撮影会の整理券を配布
+LAST-MODIFIED:20200115T105415Z
+LOCATION:Kiddy Land\, 6-chōme-1-9 Jingūmae\, Shibuya City\, Tōkyō-to 150-00
+ 01\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MM キデイランド原宿店
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20200125T120000
+DTEND;TZID=Asia/Tokyo:20200125T163000
+RRULE:FREQ=DAILY;COUNT=2
+UID:5jopv1crr2fk76me2nn6biia6v@google.com
+CREATED:20200112T110537Z
+DESCRIPTION:<a href="https://www.sanrio.co.jp/news/mx-gg-ueno-open-20200110
+ /">https://www.sanrio.co.jp/news/mx-gg-ueno-open-20200110/</a><br><br>1/24（
+ 金）「Sanrio Gift Gate 上野店」がNEWオープン<br>東京都台東区上野4-8-6 プラザUビル1F&nbsp\;&nbsp\;<br
+ ><br><br>オープン記念イベント<br>1月25日（土）・26日（日）の2日間、Sanrio Gift Gate 上野店にプリンが遊びにくるよ<
+ br>Sanrio Gift Gate 上野店 店舗前<br>12:00～<br>14:00～<br>16:00～
+LAST-MODIFIED:20200115T090052Z
+LOCATION:上野プラザＵビル\, 4-chōme-8-6 Ueno\, Taito City\, Tōkyō-to 110-0005\, Jap
+ an
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:PN Sanrio Gift Gate 上野
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200216
+DTEND;VALUE=DATE:20200217
+UID:5e4fpufmjul15lvb6vhvh5t5ar@google.com
+CREATED:20200103T133302Z
+DESCRIPTION:<a href="https://gotochikitty.com/gentei/469">https://gotochiki
+ tty.com/gentei/469</a><br><br>「クボタスピアーズ 」×「ハローキティ」コラボ<br>ハローキティ DAY<br>2020
+ 年1月25日（土） 大阪・万博記念競技場<br>2020年2月16日（日） 東京・江東区夢の島競技場<br>チームユニフォームを着たハローキティが来場
+ <br><br><a href="http://www.kubota-spears.com/news/2019/11/15/110000.html" 
+ id="ow659" __is_owner="true">http://www.kubota-spears.com/news/2019/11/15/1
+ 10000.html</a><br>クボタスピアーズジャパンラグビートップリーグ2020<br>日野レッドドルフィンズ戦<br>2/16（日）<br>
+ 夢の島にキティちゃんがやってくる！！スッピーくん＆キティちゃんのコラボウェルカムグリーティング！&nbsp\;
+LAST-MODIFIED:20200115T054739Z
+LOCATION:Yumenoshima Athletics Stadium\, 1-chōme-1-2 Yumenoshima\, Koto Cit
+ y\, Tōkyō-to 136-0081\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT クボタスピアーズ
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200118T020000Z
+DTEND:20200118T063000Z
+UID:1cjv4onevtvhmgsa8g86gf2mf5@google.com
+CREATED:20190315T003342Z
+DESCRIPTION:<br>http://www.new-chitose-airport.jp/ja/happy-flight/news/deta
+ il/118-1.html<br>https://twitter.com/HappyFlight_cts/status/121700226673497
+ 2928<br><br>ポムポムプリン グリーティング<br>2020-01-18<br>11:00 ショップ撮影会<br>13:00 撮影会<br>
+ 15:00 耳ドン＆ハグハグタイム<br><a href="http://www.new-chitose-airport.jp/ja/happy-fl
+ ight/news/detail/-201910202039instagramtwitterfacebook.html" id="ow1587" __
+ is_owner="true">http://www.new-chitose-airport.jp/ja/happy-flight/news/deta
+ il/-201910202039instagramtwitterfacebook.html</a><br><a href="https://twitt
+ er.com/HappyFlight_cts/status/1106126184796942336">https://twitter.com/Happ
+ yFlight_cts/status/1106126184796942336</a><br><br>2019-10-12 KU<br>2019-10-
+ 26 CN<br>2019-11-02 KT<br>2019-12-07 TS<br>2019-12-21 MM<br>2020-01-18 PN<b
+ r>2020-02-08 KT<br>2020-03-21 CN
+LAST-MODIFIED:20200115T015110Z
+LOCATION:Hello Kitty Happy Flight\, Bibi\, Chitose\, Hokkaido 066-0012\, Ja
+ pan
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:PN ハッピーフライト
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200118T075000Z
+DTEND:20200118T095500Z
+UID:4giakff4kagbfvhqidbq5i6vpa@google.com
+CREATED:20200103T133631Z
+DESCRIPTION:<a href="https://tokyomegaillumi.jp/news/%e3%80%8c%e3%81%97%e3%
+ 81%aa%e3%81%8c%e3%82%8f%e5%8c%ba%e6%b0%91%e3%83%87%e3%83%bc%e3%80%8d%e9%96%
+ 8b%e5%82%ac%ef%bc%81%ef%bc%81%e3%81%97%e3%81%aa%e3%81%8c%e3%82%8f%e8%a6%b3%
+ e5%85%89%e5%a4%a7%e4%bd%bf/">https://tokyomegaillumi.jp/news/%e3%80%8c%e3%8
+ 1%97%e3%81%aa%e3%81%8c%e3%82%8f%e5%8c%ba%e6%b0%91%e3%83%87%e3%83%bc%e3%80%8
+ d%e9%96%8b%e5%82%ac%ef%bc%81%ef%bc%81%e3%81%97%e3%81%aa%e3%81%8c%e3%82%8f%e
+ 8%a6%b3%e5%85%89%e5%a4%a7%e4%bd%bf/</a><br><br>TOKYO MEGA ILLUMI<br>大井競馬場<b
+ r>2019年10月5日(土)〜12月24日(火)※原則、大井競馬開催日以外の全日<br>2020年1月4日(土)〜3月29日(日)※原則、金土日祝<
+ br><br>しながわ区民デー<br>1/17(金)～1/19(日)<br>1/18(土)はしながわ観光大使「シナモロール」が来場<br><br>16
+ :50～17:15<br>18:30～18:55<br><br>ステージイベント：G-FRONT1階 特設ステージ<br>グリーティング：G-FRON
+ T～オーロラの森周辺
+LAST-MODIFIED:20200115T014907Z
+LOCATION:Oi Racecourse\, 2-chōme-1-2 Katsushima\, Shinagawa City\, Tōkyō-to
+  140-0012\, Japan
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:CN TOKYO MEGA ILLUMI
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200113T100000Z
+DTEND:20200113T103000Z
+UID:4ki4ujf8llpdrm7hsua30mo3p4@google.com
+CREATED:20200115T014704Z
+DESCRIPTION:https://prtimes.jp/main/html/rd/p/000000063.000037097.html\n\n\
+ nThe Public stand 3周年Anniversary “DJ Hello Kitty PARTY”\nパブリックスタンド渋谷店\n1月13
+ 日（祝月）\n開場17:00～\nPARTY TIME 18:30～\n\n19:00～ DJ Hello Kitty (30分間)
+LAST-MODIFIED:20200115T014704Z
+LOCATION:Public Stand Shibuya\, Japan\, 〒150-0002 Tōkyō-to\, Shibuya City\,
+  Shibuya\, 1-chōme−25−６ 渋谷パークサイド共同ビル ２F
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT The Public stand 3周年
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200301T030000Z
+DTEND:20200301T093000Z
+UID:7hgd4va3otfng49htbr44dk4v8@google.com
+CREATED:20200115T014508Z
+DESCRIPTION:https://www.symphony-cruise.co.jp/season/detail.php?p=1395\n\nシ
+ ナモロール クルーズパーティー\n3月1日\n12:00-14:10 ランチクルーズ\n16:30-18:30 サンセットクルーズ
+LAST-MODIFIED:20200115T014508Z
+LOCATION:Symphony Cruise\, 2-chōme-7-104 Kaigan\, Minato City\, Tōkyō-to 10
+ 5-0022\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CN クルーズパーティー
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20200118T020000Z
 DTEND:20200118T070000Z
 UID:0ngdgh4d4debrmkamlh9ugudcg@google.com
@@ -438,24 +572,6 @@ SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:PC FANCY SANRIO CHARACTERS
 TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20200125
-DTEND;VALUE=DATE:20200126
-RRULE:FREQ=DAILY;COUNT=2
-UID:5jopv1crr2fk76me2nn6biia6v@google.com
-CREATED:20200112T110537Z
-DESCRIPTION:<a href="https://www.sanrio.co.jp/news/mx-gg-ueno-open-20200110
- /">https://www.sanrio.co.jp/news/mx-gg-ueno-open-20200110/</a><br><br>1/24（
- 金）「Sanrio Gift Gate 上野店」がNEWオープン<br>東京都台東区上野4-8-6 プラザUビル1F&nbsp\;&nbsp\;<br
- ><br>プリンが登場<br>1月25日（土）・26日（日）
-LAST-MODIFIED:20200112T110640Z
-LOCATION:上野プラザＵビル\, 4-chōme-8-6 Ueno\, Taito City\, Tōkyō-to 110-0005\, Jap
- an
-SEQUENCE:1
-STATUS:CONFIRMED
-SUMMARY:PN Sanrio Gift Gate 上野
-TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200112T020000Z
@@ -597,41 +713,6 @@ SEQUENCE:1
 STATUS:CONFIRMED
 SUMMARY:TF\,KT 中山競馬
 TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20200118
-DTEND;VALUE=DATE:20200119
-UID:4giakff4kagbfvhqidbq5i6vpa@google.com
-CREATED:20200103T133631Z
-DESCRIPTION:https://tokyomegaillumi.jp/news/%e3%80%8c%e3%81%97%e3%81%aa%e3%
- 81%8c%e3%82%8f%e5%8c%ba%e6%b0%91%e3%83%87%e3%83%bc%e3%80%8d%e9%96%8b%e5%82%
- ac%ef%bc%81%ef%bc%81%e3%81%97%e3%81%aa%e3%81%8c%e3%82%8f%e8%a6%b3%e5%85%89%
- e5%a4%a7%e4%bd%bf/\n\nTOKYO MEGA ILLUMI\n大井競馬場\n2019年10月5日(土)〜12月24日(火)※原則、
- 大井競馬開催日以外の全日\n2020年1月4日(土)〜3月29日(日)※原則、金土日祝\n\nしながわ区民デー\n1/17(金)～1/19(日)\n1
- /18(土)はしながわ観光大使「シナモロール」が来場
-LAST-MODIFIED:20200103T133631Z
-LOCATION:Oi Racecourse\, 2-chōme-1-2 Katsushima\, Shinagawa City\, Tōkyō-to
-  140-0012\, Japan
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:CN TOKYO MEGA ILLUMI
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20200216
-DTEND;VALUE=DATE:20200217
-UID:5e4fpufmjul15lvb6vhvh5t5ar@google.com
-CREATED:20200103T133302Z
-DESCRIPTION:https://gotochikitty.com/gentei/469\n\n「クボタスピアーズ 」×「ハローキティ」コラボ\
- nハローキティ DAY\n2020年1月25日（土） 大阪・万博記念競技場\n2020年2月16日（日） 東京・江東区夢の島競技場\nチームユニフォー
- ムを着たハローキティが来場
-LAST-MODIFIED:20200103T133302Z
-LOCATION:Yumenoshima Athletics Stadium\, 1-chōme-1-2 Yumenoshima\, Koto Cit
- y\, Tōkyō-to 136-0081\, Japan
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:KT クボタスピアーズ
-TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20200125
@@ -2601,22 +2682,6 @@ SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:TF\,KT ウインズ新宿
 TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20200216
-DTEND;VALUE=DATE:20200217
-UID:6aur6e16fs8a3psu20ukcc4fas@google.com
-CREATED:20191121T142534Z
-DESCRIPTION:http://www.kubota-spears.com/news/2019/11/15/110000.html\n\nクボタ
- スピアーズ\nジャパンラグビートップリーグ2020　日野レッドドルフィンズ戦\n2/16（日）\n夢の島にキティちゃんがやってくる！！スッピーくん＆キ
- ティちゃんのコラボウェルカムグリーティング！
-LAST-MODIFIED:20191121T142534Z
-LOCATION:Yumenoshima Athletics Stadium\, 1-chōme-1-2 Yumenoshima\, Koto Cit
- y\, Tōkyō-to 136-0081\, Japan
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:KT クボタスピアーズ
-TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20191124T020000Z
@@ -13392,24 +13457,6 @@ LOCATION:Hello Kitty Happy Flight\, Bibi\, Chitose\, Hokkaido 066-0012\, Ja
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:KT ハッピーフライト
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20200118
-DTEND;VALUE=DATE:20200119
-UID:1cjv4onevtvhmgsa8g86gf2mf5@google.com
-CREATED:20190315T003342Z
-DESCRIPTION:http://www.new-chitose-airport.jp/ja/happy-flight/news/detail/-
- 201910202039instagramtwitterfacebook.html\nhttps://twitter.com/HappyFlight_
- cts/status/1106126184796942336\n\n2019-10-12 KU\n2019-10-26 CN\n2019-11-02 
- KT\n2019-12-07 TS\n2019-12-21 MM\n2020-01-18 PN\n2020-02-08 KT\n2020-03-21 
- CN
-LAST-MODIFIED:20190315T003342Z
-LOCATION:Hello Kitty Happy Flight\, Bibi\, Chitose\, Hokkaido 066-0012\, Ja
- pan
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:PN ハッピーフライト
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
