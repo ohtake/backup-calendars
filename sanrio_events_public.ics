@@ -388,15 +388,40 @@ DTSTART:20200118T030000Z
 DTEND:20200118T070000Z
 UID:49oj00i5ok16sei24o94u88dnc@google.com
 CREATED:20200115T105415Z
-DESCRIPTION:https://twitter.com/h_kiddyland/status/1217395795453890560\n\nキ
- デイランド原宿店にマイメロディが遊びにやってきます！\n2020-01-18\n12:00\n14:00\n15:30\n\n当日マイメロディ商品を税
- 込み2000円以上購入の先着60組に2ショット撮影会の整理券を配布
-LAST-MODIFIED:20200115T105415Z
+DESCRIPTION:<br><a href="https://www.kiddyland.co.jp/event/mymelody20200118
+ /" id="ow388" __is_owner="true">https://www.kiddyland.co.jp/event/mymelody2
+ 0200118/</a>&nbsp\;<br><a href="https://twitter.com/h_kiddyland/status/1217
+ 395795453890560" id="ow384" __is_owner="true">https://twitter.com/h_kiddyla
+ nd/status/1217395795453890560</a><br><a href="https://www.facebook.com/hell
+ okitty.global/posts/2800292350032229/" id="ow392" __is_owner="true">https:/
+ /www.facebook.com/hellokitty.global/posts/2800292350032229/</a><br>&nbsp\;<
+ br>キデイランド原宿店にマイメロディが遊びにやってきます！<br>2020-01-18<br>12:00<br>14:00<br>15:30<br>
+ <br>当日マイメロディ商品を税込み2000円以上購入の先着60組に2ショット撮影会の整理券を配布
+LAST-MODIFIED:20200117T042658Z
 LOCATION:Kiddy Land\, 6-chōme-1-9 Jingūmae\, Shibuya City\, Tōkyō-to 150-00
  01\, Japan
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:MM キデイランド原宿店
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200126T023000Z
+DTEND:20200126T070000Z
+UID:0np9hho7cc2fk4i9vnk6u9sk2j@google.com
+CREATED:20200112T111335Z
+DESCRIPTION:<a href="https://www.sanrio.co.jp/news/event-gg-aeonmall-kashih
+ ara-20200126/">https://www.sanrio.co.jp/news/event-gg-aeonmall-kashihara-20
+ 200126/</a><br><br>https://twitter.com/sanrioshop_info/status/1217999185338
+ 781701<br><br>シナモロール写真撮影会<br>イオンモール橿原 1F サンシャインコート<br>2020年1月26日（日）<br>11:3
+ 0<br>14:00<br>15:30<br><br>各回30名<br>当日9:30～からイオンモール橿原店 2F 21番入口にて購入予約券を配布<b
+ r>2F サンリオギフトゲートにてシナモロール商品を含む税込み1\,000円以上（セール品・お楽しみ袋は除く）購入で「写真整理券」に交換
+LAST-MODIFIED:20200117T030654Z
+LOCATION:Aeon Mall Kashihara\, 7-chōme-20-1 Magarikawachō\, Kashihara\, Nar
+ a 634-0837\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CN イオンモール橿原
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -537,23 +562,6 @@ LOCATION:かしわ沼南住宅公園\, Japan\, 〒277-0922 Chiba\, Kashiwa\, Ōs
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:KT かしわ沼南住宅公園
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20200126T023000Z
-DTEND:20200126T070000Z
-UID:0np9hho7cc2fk4i9vnk6u9sk2j@google.com
-CREATED:20200112T111335Z
-DESCRIPTION:https://www.sanrio.co.jp/news/event-gg-aeonmall-kashihara-20200
- 126/\n\nシナモロール写真撮影会\nイオンモール橿原 1F サンシャインコート\n2020年1月26日（日）\n11:30\n14:00\n15
- :30\n\n各回30名\n当日9:30～からイオンモール橿原店 2F 21番入口にて購入予約券を配布\n2F サンリオギフトゲートにてシナモロール商
- 品を含む税込み1\,000円以上（セール品・お楽しみ袋は除く）購入で「写真整理券」に交換
-LAST-MODIFIED:20200112T111335Z
-LOCATION:Aeon Mall Kashihara\, 7-chōme-20-1 Magarikawachō\, Kashihara\, Nar
- a 634-0837\, Japan
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:CN イオンモール橿原
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
