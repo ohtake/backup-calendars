@@ -384,6 +384,60 @@ RRULE:FREQ=YEARLY;BYMONTH=9;BYDAY=1SU
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20200125T120000
+DTEND;TZID=Asia/Tokyo:20200125T163000
+RRULE:FREQ=DAILY;COUNT=2
+UID:5jopv1crr2fk76me2nn6biia6v@google.com
+CREATED:20200112T110537Z
+DESCRIPTION:<a href="https://www.sanrio.co.jp/news/mx-gg-ueno-open-20200110
+ /">https://www.sanrio.co.jp/news/mx-gg-ueno-open-20200110/</a><br>https://t
+ witter.com/sanrioshop_info/status/1219126654733209600<br><br>1/24（金）「Sanrio
+  Gift Gate 上野店」がNEWオープン<br>東京都台東区上野4-8-6 プラザUビル1F&nbsp\;&nbsp\;<br><br><br>
+ オープン記念イベント<br>1月25日（土）・26日（日）の2日間、Sanrio Gift Gate 上野店にプリンが遊びにくるよ<br>Sanrio
+  Gift Gate 上野店 店舗前<br>12:00～<br>14:00～<br>16:00～
+LAST-MODIFIED:20200120T053459Z
+LOCATION:上野プラザＵビル\, 4-chōme-8-6 Ueno\, Taito City\, Tōkyō-to 110-0005\, Jap
+ an
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:PN Sanrio Gift Gate 上野
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200202
+DTEND;VALUE=DATE:20200203
+UID:6u70dfh7hu9rjl3fq5ibphm023@google.com
+CREATED:20191219T204450Z
+DESCRIPTION:対象：保育士の資格をお持ちの方、保育士を目指す学生の方、保育の仕事に興味のある方\n事前登録制(募集定員600名)\n\nht
+ tps://www.atpress.ne.jp/news/201313\nhttps://www.hoiku-festa2020.jp/\n\n保育の
+ おしごと応援フェスタ2020 in TOKYO\n2020年2月2日(日)10:00～16:00(予定)\n東京国際フォーラム ホールB7\n\n元N
+ HK体操のお兄さん・小林よしひささんや、「TOKYO福祉のお仕事アンバサダー」を務めるハローキティほか多彩なゲストが登場
+LAST-MODIFIED:20200120T023508Z
+LOCATION:Tokyo International Forum\, 3-chōme-5-1 Marunouchi\, Chiyoda City\
+ , Tōkyō-to 100-0005\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT 保育のおしごと応援フェスタ
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200201
+DTEND;VALUE=DATE:20200202
+UID:34rvdjcju52juaguh8i36el00i@google.com
+CREATED:20191223T123207Z
+DESCRIPTION:https://www.sanrioanime.jp/event/event_59.html\nhttps://twitter
+ .com/cogimyun_sanrio/status/1207179157009883136\n\n『SANRIO EXPO2020』概要\n■日時
+ ：2020年2月1日（土）14：30～16：30\n■受付時間：14：00～14：30\n■開催場所：東京都品川区大崎近辺（場所の詳細は当選者に後日お
+ 知らせ）\n\n当日はこぎみゅんと一緒に写真撮影ができるグリーティングを予定
+LAST-MODIFIED:20200120T023430Z
+LOCATION:Gate City Osaki\, 1-chōme-11-1 Ōsaki\, Shinagawa City\, Tōkyō-to 1
+ 41-0032\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CG SANRIO EXPO
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20200125
 DTEND;VALUE=DATE:20200126
 UID:4impk9o91r465gitm7dgm2tt2n@google.com
@@ -549,25 +603,6 @@ LOCATION:Aeon Mall Kashihara\, 7-chōme-20-1 Magarikawachō\, Kashihara\, Nar
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:CN イオンモール橿原
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20200125T120000
-DTEND;TZID=Asia/Tokyo:20200125T163000
-RRULE:FREQ=DAILY;COUNT=2
-UID:5jopv1crr2fk76me2nn6biia6v@google.com
-CREATED:20200112T110537Z
-DESCRIPTION:<a href="https://www.sanrio.co.jp/news/mx-gg-ueno-open-20200110
- /">https://www.sanrio.co.jp/news/mx-gg-ueno-open-20200110/</a><br><br>1/24（
- 金）「Sanrio Gift Gate 上野店」がNEWオープン<br>東京都台東区上野4-8-6 プラザUビル1F&nbsp\;&nbsp\;<br
- ><br><br>オープン記念イベント<br>1月25日（土）・26日（日）の2日間、Sanrio Gift Gate 上野店にプリンが遊びにくるよ<
- br>Sanrio Gift Gate 上野店 店舗前<br>12:00～<br>14:00～<br>16:00～
-LAST-MODIFIED:20200115T090052Z
-LOCATION:上野プラザＵビル\, 4-chōme-8-6 Ueno\, Taito City\, Tōkyō-to 110-0005\, Jap
- an
-SEQUENCE:2
-STATUS:CONFIRMED
-SUMMARY:PN Sanrio Gift Gate 上野
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -1216,22 +1251,6 @@ SUMMARY:KT Sanrio Japanese Village
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20200201
-DTEND;VALUE=DATE:20200202
-UID:34rvdjcju52juaguh8i36el00i@google.com
-CREATED:20191223T123207Z
-DESCRIPTION:https://www.sanrioanime.jp/event/event_59.html\nhttps://twitter
- .com/cogimyun_sanrio/status/1207179157009883136\n\n『SANRIO EXPO2020』概要\n■日時
- ：2020年2月1日（土）14：30～16：30\n■受付時間：14：00～14：30\n■開催場所：東京都品川区大崎近辺（場所の詳細は当選者に後日お
- 知らせ）\n\n当日はこぎみゅんと一緒に写真撮影ができるグリーティングを予定
-LAST-MODIFIED:20191223T123207Z
-LOCATION:東京都品川区大崎近辺
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:CG SANRIO EXPO
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20200113T020000Z
 DTEND:20200113T063000Z
 UID:3kt2bip8slvt2oh1v1utgs6nu9@google.com
@@ -1587,22 +1606,6 @@ LOCATION:統一夢時代ショッピングモール 高雄ブランチ\, No. 789
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:KT\,MM OPEN!大氣球遊行
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20200202
-DTEND;VALUE=DATE:20200203
-UID:6u70dfh7hu9rjl3fq5ibphm023@google.com
-CREATED:20191219T204450Z
-DESCRIPTION:対象：保育士の資格をお持ちの方、保育士を目指す学生の方、保育の仕事に興味のある方\n事前登録制(募集定員600名)\n\nht
- tps://www.atpress.ne.jp/news/201313\nhttps://www.hoiku-festa2020.jp/\n\n保育の
- おしごと応援フェスタ2020 in TOKYO\n2020年2月2日(日)10:00～16:00(予定)\n東京国際フォーラム ホールB7\n\n元N
- HK体操のお兄さん・小林よしひささんや、「TOKYO福祉のお仕事アンバサダー」を務めるハローキティほか多彩なゲストが登場
-LAST-MODIFIED:20191219T204450Z
-LOCATION:東京国際フォーラム\, 日本、〒100-0005 東京都千代田区丸の内３丁目５−１
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:KT 保育のおしごと応援フェスタ
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
