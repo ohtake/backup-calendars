@@ -384,6 +384,29 @@ RRULE:FREQ=YEARLY;BYMONTH=9;BYDAY=1SU
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+DTSTART:20200130T060000Z
+DTEND:20200130T092000Z
+UID:7d56aqb46od74cbbqbq58v29j5@google.com
+CREATED:20200112T111035Z
+DESCRIPTION:<br><a href="https://www.instagram.com/p/B7iOkZYhtLm/">https://
+ www.instagram.com/p/B7iOkZYhtLm/</a>&nbsp\;<br><a href="https://prtimes.jp/
+ main/html/rd/p/000001231.000008372.html" id="ow1501" __is_owner="true">http
+ s://prtimes.jp/main/html/rd/p/000001231.000008372.html</a><br><a href="http
+ s://www.sanrio.co.jp/news/mx-fancy-sanrio-isetan-20200122/" id="ow1508" __i
+ s_owner="true">https://www.sanrio.co.jp/news/mx-fancy-sanrio-isetan-2020012
+ 2/</a><br><br>FANCY SANRIO CHARACTERS ～The Cupid Diner～<br>伊勢丹新宿店 本館6階催物場<b
+ r>1月29日～1月31日<br><br>ポチャッコが遊びに来るよ！<br>1月30日(木)イベント当日に「イベントオリジナルバームクーヘン」をご購入
+ で先着40組限定でツーショット写真撮影会<br>1月30日(木)<br>15:00-15:20<br>16:30-16:50<br>18:00-18:
+ 20
+LAST-MODIFIED:20200122T072806Z
+LOCATION:Isetan Shinjuku\, 3-chōme-14-1 Shinjuku\, Shinjuku City\, Tōkyō-to
+  160-0022\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:PC FANCY SANRIO CHARACTERS
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20200201T030000Z
 DTEND:20200201T070000Z
 UID:7sq3hvf0n0qqopeebmuhj659du@google.com
@@ -739,23 +762,6 @@ LOCATION:かしわ沼南住宅公園\, Japan\, 〒277-0922 Chiba\, Kashiwa\, Ōs
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:KT かしわ沼南住宅公園
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20200130T060000Z
-DTEND:20200130T092000Z
-UID:7d56aqb46od74cbbqbq58v29j5@google.com
-CREATED:20200112T111035Z
-DESCRIPTION:https://prtimes.jp/main/html/rd/p/000001231.000008372.html\n\nF
- ANCY SANRIO CHARACTERS ～The Cupid Diner～\n伊勢丹新宿店 本館6階催物場\n1月29日～1月31日\n\nポチ
- ャッコが遊びに来るよ！\n1月30日(木)イベント当日に「イベントオリジナルバームクーヘン」をご購入で先着40組限定でツーショット写真撮影会\n1月3
- 0日(木)\n15:00-15:20\n16:30-16:50\n18:00-18:20
-LAST-MODIFIED:20200112T111035Z
-LOCATION:Isetan Shinjuku\, 3-chōme-14-1 Shinjuku\, Shinjuku City\, Tōkyō-to
-  160-0022\, Japan
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:PC FANCY SANRIO CHARACTERS
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
