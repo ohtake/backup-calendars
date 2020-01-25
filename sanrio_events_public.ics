@@ -384,6 +384,79 @@ RRULE:FREQ=YEARLY;BYMONTH=9;BYDAY=1SU
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+DTSTART:20200405T020000Z
+DTEND:20200405T063000Z
+UID:6uag631fp0r02ii9go1jujjps3@google.com
+CREATED:20200125T132757Z
+DESCRIPTION:\nDescription:KT\,DN\,MM\,XO\,PN\,CN  \n\nhttps://www.qab.co.jp
+ /sanrio2020/\n\nQAB開局25周年記念\nサンリオファミリーミュージカル ピューロマスケティア ～3人のやさしい銃士たち～\n2020
+ 年4月5日（日）\n沖縄コンベンションセンター劇場棟\n【午前の部】開場10:30 / 開演11:00\n【午後の部】開場13:30 / 開演14:0
+ 0
+LAST-MODIFIED:20200125T132757Z
+LOCATION:Theater OCC- Conventional Center\, 4-chōme-3-1 Mashiki\, Ginowan-s
+ hi\, Okinawa 901-2224\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ピューロマスケティア
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20200202T110000
+DTEND;TZID=Asia/Tokyo:20200202T153000
+RRULE:FREQ=WEEKLY;WKST=SU;COUNT=2;INTERVAL=2;BYDAY=SU
+UID:7c1ker4g84cvlotvlqf449fpdh@google.com
+CREATED:20200125T132451Z
+DESCRIPTION:https://www.seibu-leisure.co.jp/event/20516/index.html\n\n2月メルヘ
+ ンタウンイベント\n2月2日（日）、16日（日）\n11:00～ ポチャッコとハッピーグリーティング\n13:00～ 2月バースデーセレブレーション\
+ n15:00～ ポチャッコと一緒に運動会
+LAST-MODIFIED:20200125T132451Z
+LOCATION:Seibuen Amusement Park\, 2964 Yamaguchi\, Tokorozawa\, Saitama 359
+ -1145\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:PC\,KT 西武園ゆうえんち
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200211T020000Z
+DTEND:20200211T023000Z
+UID:57eqva5utuo8h51bbbm3crh4r9@google.com
+CREATED:20200125T131649Z
+DESCRIPTION:https://www.city.saga.lg.jp/main/57778.html\n\n佐賀城下ひなまつり観光親善大使任
+ 命式\n2020-02-11 11:00-11:30\n旧古賀銀行
+LAST-MODIFIED:20200125T131649Z
+LOCATION:Former Koga Bank (Saga City Cultural Museum)\, 2-9 Yanagimachi\, S
+ aga\, 840-0823\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MM 佐賀城下ひなまつり観光親善大使任命式
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200208T020000Z
+DTEND:20200208T063000Z
+UID:2uq3tjobs8atbcp7nfpjoq3l9p@google.com
+CREATED:20190315T003358Z
+DESCRIPTION:<br>http://www.new-chitose-airport.jp/ja/happy-flight/news/deta
+ il/28.html<br>https://twitter.com/HappyFlight_cts/status/121954206980009574
+ 5<br><br>ハローキティがあそびにくるよ！<br>2/8（土）<br>11:00- ミニステージ<br>13:00- ミニステージ<br>15:
+ 00- 撮影会<br><a href="http://www.new-chitose-airport.jp/ja/happy-flight/news/
+ detail/-201910202039instagramtwitterfacebook.html" id="ow1975" __is_owner="
+ true">http://www.new-chitose-airport.jp/ja/happy-flight/news/detail/-201910
+ 202039instagramtwitterfacebook.html</a><br><a href="https://twitter.com/Hap
+ pyFlight_cts/status/1106126184796942336" id="ow1971" __is_owner="true">http
+ s://twitter.com/HappyFlight_cts/status/1106126184796942336</a><br><br>2019-
+ 10-12 KU<br>2019-10-26 CN<br>2019-11-02 KT<br>2019-12-07 TS<br>2019-12-21 M
+ M<br>2020-01-18 PN<br>2020-02-08 KT<br>2020-03-21 CN
+LAST-MODIFIED:20200125T130927Z
+LOCATION:Hello Kitty Happy Flight\, Bibi\, Chitose\, Hokkaido 066-0012\, Ja
+ pan
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:KT ハッピーフライト
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20200126T013000Z
 DTEND:20200126T060000Z
 UID:1s7qpc80ddq3omtmu9l41m9v5j@google.com
@@ -13725,24 +13798,6 @@ LOCATION:Hello Kitty Happy Flight\, Bibi\, Chitose\, Hokkaido 066-0012\, Ja
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:CN ハッピーフライト
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20200208
-DTEND;VALUE=DATE:20200209
-UID:2uq3tjobs8atbcp7nfpjoq3l9p@google.com
-CREATED:20190315T003358Z
-DESCRIPTION:http://www.new-chitose-airport.jp/ja/happy-flight/news/detail/-
- 201910202039instagramtwitterfacebook.html\nhttps://twitter.com/HappyFlight_
- cts/status/1106126184796942336\n\n2019-10-12 KU\n2019-10-26 CN\n2019-11-02 
- KT\n2019-12-07 TS\n2019-12-21 MM\n2020-01-18 PN\n2020-02-08 KT\n2020-03-21 
- CN
-LAST-MODIFIED:20190315T003358Z
-LOCATION:Hello Kitty Happy Flight\, Bibi\, Chitose\, Hokkaido 066-0012\, Ja
- pan
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:KT ハッピーフライト
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
