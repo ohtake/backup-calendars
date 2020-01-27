@@ -384,6 +384,78 @@ RRULE:FREQ=YEARLY;BYMONTH=9;BYDAY=1SU
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200122
+DTEND;VALUE=DATE:20200123
+UID:15b7mloprhcdf75ek7081e6cub@google.com
+CREATED:20200127T135604Z
+DESCRIPTION:<br><a href="https://twitter.com/aoni_official/status/121992007
+ 4162589696" id="ow815" __is_owner="true">https://twitter.com/aoni_official/
+ status/1219920074162589696</a><br><br><a href="https://www.ladyeve.net/arch
+ ives/063961" id="ow819" __is_owner="true">https://www.ladyeve.net/archives/
+ 063961</a>&nbsp\;<br><br>超英雄祭 KAMEN RIDER × SUPER SENTAI LIVE &amp\; SHOW 2
+ 020<br>1月22日(水)<br>横浜アリーナ
+LAST-MODIFIED:20200127T135604Z
+LOCATION:Yokohama Arena\, 3 Chome-10 Shinyokohama\, Kohoku Ward\, Yokohama\
+ , Kanagawa 222-0033\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT 超英雄祭 KAMEN RIDER × SUPER SENTAI LIVE & SHOW
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200216
+DTEND;VALUE=DATE:20200217
+UID:3noa59j7c19tvpkf6n72s7e3bs@google.com
+CREATED:20200127T135142Z
+DESCRIPTION:<a href="https://twitter.com/mooncat_n/status/12211670513030512
+ 64" id="ow487" __is_owner="true">https://twitter.com/mooncat_n/status/12211
+ 67051303051264</a>&nbsp\;&nbsp\;<br><br>2月16日日曜日<br>三菱自動車販売 二又瀬店
+LAST-MODIFIED:20200127T135227Z
+LOCATION:Mitsubishi\, 3-chōme-16-35 Sharyō\, Higashi-ku\, Fukuoka\, 812-006
+ 8\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT 三菱自動車 二又瀬
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200216T023000Z
+DTEND:20200216T060000Z
+UID:49i3r51s0cp1u7v9kneresru6h@google.com
+CREATED:20200124T041940Z
+DESCRIPTION:<a href="https://www.sanrio.co.jp/news/event-gg-aeonmall-natori
+ -20200216/">https://www.sanrio.co.jp/news/event-gg-aeonmall-natori-20200216
+ /</a><br><a href="https://natori-aeonmall.com/news/event/3407">https://nato
+ ri-aeonmall.com/news/event/3407</a>&nbsp\;&nbsp\;<br><br>マイメロディが遊びにくるよ！（San
+ rio Gift Gate イオンモール名取店）<br>2月16日（日） <br><br>11:30～ 写真撮影会<br>13:00～ ダンス＆抽選会
+ <br>14:30～ 写真撮影会<br><br>写真撮影会<br>30名様限定<br>イベント当日9:00より、Sanrio Gift Gate イオ
+ ンモール名取店にて、税込み1\,000円以上（お楽しみ袋等一部商品は対象外）購入で「整理券」をお渡し
+LAST-MODIFIED:20200127T134325Z
+LOCATION:Aeon Mall Natori\, Japan\, 〒981-1227 Miyagi\, Natori\, Morisekinos
+ hita\, 5-chōme−3−１
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MM イオンモール名取
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200216T020000Z
+DTEND:20200216T073000Z
+UID:0u502g2ano3ds8a9e9185jiag0@google.com
+CREATED:20200127T012916Z
+DESCRIPTION:https://www.sanrio.co.jp/news/event-gg-osaki-20200216/\n\n\nマイメ
+ ロディが遊びにくるよ！\nSanrio Gift Gate 大崎ニュー・シティ店\n2月16日（日）\n11:00\n14:00\n16:00\n\n
+ ステージ終了後には写真撮影会\n写真撮影会は各回30名限定\nイベント当日10:00より、大崎ニュー・シティ 1F Sanrio Gift Gateに
+ て、税込み1\,000円以上（お楽しみ袋・ゲーム等一部商品は対象外）購入で「写真撮影券」をお渡し
+LAST-MODIFIED:20200127T012916Z
+LOCATION:Osaki New City\, 1-chōme-6-4 Ōsaki\, Shinagawa City\, Tōkyō-to 141
+ -0032\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MM 大崎ニュー・シティ
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20200405T020000Z
 DTEND:20200405T063000Z
 UID:6uag631fp0r02ii9go1jujjps3@google.com
@@ -498,23 +570,6 @@ LOCATION:上野プラザＵビル\, 4-chōme-8-6 Ueno\, Taito City\, Tōkyō-to 
 SEQUENCE:2
 STATUS:CONFIRMED
 SUMMARY:PN Sanrio Gift Gate 上野
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20200216T023000Z
-DTEND:20200216T060000Z
-UID:49i3r51s0cp1u7v9kneresru6h@google.com
-CREATED:20200124T041940Z
-DESCRIPTION:https://www.sanrio.co.jp/news/event-gg-aeonmall-natori-20200216
- /\n\nマイメロディが遊びにくるよ！（Sanrio Gift Gate イオンモール名取店）\n2月16日（日） \n\n11:30～ 写真撮影会\
- n13:00～ ダンス＆抽選会\n14:30～ 写真撮影会\n\n写真撮影会\n30名様限定\nイベント当日9:00より、Sanrio Gift Ga
- te イオンモール名取店にて、税込み1\,000円以上（お楽しみ袋等一部商品は対象外）購入で「整理券」をお渡し
-LAST-MODIFIED:20200124T041940Z
-LOCATION:Aeon Mall Natori\, Japan\, 〒981-1227 Miyagi\, Natori\, Morisekinos
- hita\, 5-chōme−3−１
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:MM イオンモール名取
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
