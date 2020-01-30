@@ -384,6 +384,76 @@ RRULE:FREQ=YEARLY;BYMONTH=9;BYDAY=1SU
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20200215T100000
+DTEND;TZID=Asia/Tokyo:20200215T143000
+RRULE:FREQ=DAILY;COUNT=2
+UID:46adsjfknfurbt6efo5q1eo0e8@google.com
+CREATED:20200130T164011Z
+DESCRIPTION:http://hokutoinfo.com/news/4665/\n\n北斗フェブラリーフェスタ2020\n新函館北斗駅\n2
+ 020年2月15日(土)・16日(日)\n\nサンリオ ハローキティミニステージ\n2/15（土）・16(日)\n10:00～\n12:00～\n14
+ :00～\n北斗市観光交流センター1階 エスカレーター下\n\n下記対象店舗で1\,500円(税込)以上購入で各回先着30組まで整理券を配布\n対象店
+ 舗：北斗市観光交流センター本館・別館の全店舗、climat、tete cafe、ホテル・ラ・ジェント・プラザ函館北斗(食事・体験のみ)
+LAST-MODIFIED:20200130T164011Z
+LOCATION:Hokuto City Tourism Exchange Center\, 1-chome-1 Ichinowatari\, Hok
+ uto\, Hokkaido 041-1242\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT 北斗フェブラリーフェスタ
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200523T020000Z
+DTEND:20200523T073000Z
+UID:260jvqq97pro5i3kcft1utrsd6@google.com
+CREATED:20200130T163530Z
+DESCRIPTION:Description:KT\,DN\,MM\,XO\,PN\,CN  \n\nhttp://www.htv.jp/event
+ /event-list/200523.html\n\nサンリオファミリーミュージカル ピューロマスケティア\n広島文化学園HBGホール\n2020年5
+ 月23日（土）\n11：00開演\n15：00開演
+LAST-MODIFIED:20200130T163530Z
+LOCATION:Hiroshima Bunka Gakuen HBG Hall\, 3-3 Kakomachi\, Naka-ku\, Hirosh
+ ima\, 730-8787\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ピューロマスケティア
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200206T012000Z
+DTEND:20200206T063000Z
+UID:7597slcg82hj8ipgn8hpqoikek@google.com
+CREATED:20200130T163328Z
+DESCRIPTION:<a href="https://shinagawa-kanko.or.jp/event/shinagawanoripr/">
+ https://shinagawa-kanko.or.jp/event/shinagawanoripr/</a><br><a href="https:
+ //www.aquarium.gr.jp/news/2020/01/176/">https://www.aquarium.gr.jp/news/202
+ 0/01/176/</a>&nbsp\;&nbsp\;<br><br>品川海苔PR動画お披露目会＆海苔の日イベント<br>2020/02/06(木)<
+ br>しながわ水族館<br><br>品川海苔PR動画のお披露目会<br>10：20～10：55<br>スペシャルゲスト：品川紋次郎<br><br>品川
+ 紋次郎ステージショー<br>13：00～<br>15：00～
+LAST-MODIFIED:20200130T163358Z
+LOCATION:Shinagawa Aquarium\, 3-chōme-2-1 Katsushima\, Shinagawa City\, Tōk
+ yō-to 140-0012\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CN紋次郎 品川海苔PR動画お披露目会
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200531
+DTEND;VALUE=DATE:20200601
+UID:359au5nufrn2tie1eeue4p73dj@google.com
+CREATED:20200130T162456Z
+DESCRIPTION:https://www.rakuteneagles.jp/special/eaglesgirl/\nhttps://www.r
+ akuteneagles.jp/news/detail/00002739.html#sanrio\n\nイーグルス ガールデー\n2020-05-31
+  13:00 横浜DeNA戦\n2020-09-06 13:00 埼玉西武戦\n\n2020-05-31\nハローキティ、シナモロール、ポムポムプリン
+ が楽天生命パーク宮城に登場
+LAST-MODIFIED:20200130T162456Z
+LOCATION:Rakuten Seimei Park Miyagi\, 2-chōme-11-6 Miyagino\, Miyagino-ku\,
+  Sendai\, Miyagi 983-0045\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT\,CN\,PN イーグルス ガールデー
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20200202
 DTEND;VALUE=DATE:20200203
 UID:6u70dfh7hu9rjl3fq5ibphm023@google.com
