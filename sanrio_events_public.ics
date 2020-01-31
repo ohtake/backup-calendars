@@ -384,6 +384,29 @@ RRULE:FREQ=YEARLY;BYMONTH=9;BYDAY=1SU
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200202
+DTEND;VALUE=DATE:20200203
+UID:6u70dfh7hu9rjl3fq5ibphm023@google.com
+CREATED:20191219T204450Z
+DESCRIPTION:対象：保育士の資格をお持ちの方、保育士を目指す学生の方、保育の仕事に興味のある方<br>事前登録制(募集定員600名)<br>
+ <br><a href="https://www.atpress.ne.jp/news/201313">https://www.atpress.ne.
+ jp/news/201313</a><br><a href="https://www.hoiku-festa2020.jp/">https://www
+ .hoiku-festa2020.jp/</a><br><a href="https://www.sanrio.co.jp/news/kt-hoiku
+ -festa-20200129/" id="ow364" __is_owner="true">https://www.sanrio.co.jp/new
+ s/kt-hoiku-festa-20200129/<br></a><br><a href="https://www.facebook.com/hel
+ lokitty.japan/posts/3437986082941176/" id="ow368" __is_owner="true">https:/
+ /www.facebook.com/hellokitty.japan/posts/3437986082941176/</a><br><br>保育のおし
+ ごと応援フェスタ2020 in TOKYO<br>2020年2月2日(日)10:00～16:00(予定)<br>東京国際フォーラム ホールB7<br>
+ <br>元NHK体操のお兄さん・小林よしひささんや、「TOKYO福祉のお仕事アンバサダー」を務めるハローキティほか多彩なゲストが登場
+LAST-MODIFIED:20200131T061915Z
+LOCATION:Tokyo International Forum\, 3-chōme-5-1 Marunouchi\, Chiyoda City\
+ , Tōkyō-to 100-0005\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT 保育のおしごと応援フェスタ
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20200215T100000
 DTEND;TZID=Asia/Tokyo:20200215T143000
 RRULE:FREQ=DAILY;COUNT=2
@@ -451,27 +474,6 @@ LOCATION:Rakuten Seimei Park Miyagi\, 2-chōme-11-6 Miyagino\, Miyagino-ku\,
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:KT\,CN\,PN イーグルス ガールデー
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20200202
-DTEND;VALUE=DATE:20200203
-UID:6u70dfh7hu9rjl3fq5ibphm023@google.com
-CREATED:20191219T204450Z
-DESCRIPTION:対象：保育士の資格をお持ちの方、保育士を目指す学生の方、保育の仕事に興味のある方<br>事前登録制(募集定員600名)<br>
- <br><a href="https://www.atpress.ne.jp/news/201313">https://www.atpress.ne.
- jp/news/201313</a><br><a href="https://www.hoiku-festa2020.jp/">https://www
- .hoiku-festa2020.jp/</a><br><a href="https://www.sanrio.co.jp/news/kt-hoiku
- -festa-20200129/">https://www.sanrio.co.jp/news/kt-hoiku-festa-20200129/</a
- >&nbsp\;&nbsp\;<br><br>保育のおしごと応援フェスタ2020 in TOKYO<br>2020年2月2日(日)10:00～16:0
- 0(予定)<br>東京国際フォーラム ホールB7<br><br>元NHK体操のお兄さん・小林よしひささんや、「TOKYO福祉のお仕事アンバサダー」を務
- めるハローキティほか多彩なゲストが登場
-LAST-MODIFIED:20200129T014045Z
-LOCATION:Tokyo International Forum\, 3-chōme-5-1 Marunouchi\, Chiyoda City\
- , Tōkyō-to 100-0005\, Japan
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:KT 保育のおしごと応援フェスタ
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
