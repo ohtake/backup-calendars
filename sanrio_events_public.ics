@@ -384,6 +384,63 @@ RRULE:FREQ=YEARLY;BYMONTH=9;BYDAY=1SU
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200322
+DTEND;VALUE=DATE:20200406
+UID:2qk5vk77n8pn8k8ag97ku809s4@google.com
+CREATED:20200202T161534Z
+DESCRIPTION:http://sakurafarms.jp/sanrio-carnival/\n\nサンリオカーニバル\n2020-03-20
+  / 2020-04-05\n霧島さくらフルーツランド特設会場（鹿児島県霧島市国分重久５６３１−２）\n\nhttps://eplus.jp/sf/d
+ etail/3202440001-P0030001\n\nハローキティと触れ合えるライブショーやグリーティングなど内容盛り沢山
+LAST-MODIFIED:20200202T161534Z
+LOCATION:Sakurano Orchards\, 6029-3 Kokubushigehisa\, Kirishima\, Kagoshima
+  899-4301\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT 霧島さくらフルーツランド
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200202T031500Z
+DTEND:20200202T051500Z
+UID:6u70dfh7hu9rjl3fq5ibphm023@google.com
+CREATED:20191219T204450Z
+DESCRIPTION:対象：保育士の資格をお持ちの方、保育士を目指す学生の方、保育の仕事に興味のある方<br>事前登録制(募集定員600名)<br>
+ <br><a href="https://www.atpress.ne.jp/news/201313">https://www.atpress.ne.
+ jp/news/201313</a><br><a href="https://www.hoiku-festa2020.jp/">https://www
+ .hoiku-festa2020.jp/</a><br><a href="https://www.sanrio.co.jp/news/kt-hoiku
+ -festa-20200129/">https://www.sanrio.co.jp/news/kt-hoiku-festa-20200129/<br
+ ></a><br><a href="https://www.facebook.com/hellokitty.japan/posts/343798608
+ 2941176/">https://www.facebook.com/hellokitty.japan/posts/3437986082941176/
+ </a><br><br>保育のおしごと応援フェスタ2020 in TOKYO<br>2020年2月2日(日)10:00～16:00(予定)<br>東京
+ 国際フォーラム ホールB7<br><br>元NHK体操のお兄さん・小林よしひささんや、「TOKYO福祉のお仕事アンバサダー」を務めるハローキティほか多
+ 彩なゲストが登場<br><br>キティの出番<br>12:15-<br>13:45-
+LAST-MODIFIED:20200202T160725Z
+LOCATION:Tokyo International Forum\, 3-chōme-5-1 Marunouchi\, Chiyoda City\
+ , Tōkyō-to 100-0005\, Japan
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:KT 保育のおしごと応援フェスタ
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20200208T100000
+DTEND;TZID=Asia/Tokyo:20200208T153000
+RRULE:FREQ=DAILY;COUNT=2
+UID:057gh4s81h7tn0bgeir1s9gg9g@google.com
+CREATED:20200202T141643Z
+DESCRIPTION:http://www.jra.go.jp/news/202002/020102.html#cont5\n\n第71回さっぽろ雪
+ まつり協賛行事「札幌競馬場 雪フェスタ 2020」\nパークウインズ札幌競馬場 \n\n2月8日（土曜）から16日（日曜）\n\nターフィー＆ハローキ
+ ティが遊びにくる\n2月8日（土曜）・2月9日（日曜）\n10時00分から10時30分\n13時00分から13時30分\n15時00分から15時30分
+ \nターフパーク内
+LAST-MODIFIED:20200202T141643Z
+LOCATION:札幌競馬場\, 16-chōme-1-1 Kita 16 Jōnishi\, Chūō-ku\, Sapporo\, Hokkaid
+ o 060-0016\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:TF\,KT 札幌競馬場 雪フェスタ
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20191123T013000Z
 DTEND:20191123T060000Z
 UID:4o2jka7i5b3jjq93gmnnkfs6rr@google.com
@@ -441,29 +498,6 @@ SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:HV デビュー記念LIVE
 TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20200202
-DTEND;VALUE=DATE:20200203
-UID:6u70dfh7hu9rjl3fq5ibphm023@google.com
-CREATED:20191219T204450Z
-DESCRIPTION:対象：保育士の資格をお持ちの方、保育士を目指す学生の方、保育の仕事に興味のある方<br>事前登録制(募集定員600名)<br>
- <br><a href="https://www.atpress.ne.jp/news/201313">https://www.atpress.ne.
- jp/news/201313</a><br><a href="https://www.hoiku-festa2020.jp/">https://www
- .hoiku-festa2020.jp/</a><br><a href="https://www.sanrio.co.jp/news/kt-hoiku
- -festa-20200129/" id="ow364" __is_owner="true">https://www.sanrio.co.jp/new
- s/kt-hoiku-festa-20200129/<br></a><br><a href="https://www.facebook.com/hel
- lokitty.japan/posts/3437986082941176/" id="ow368" __is_owner="true">https:/
- /www.facebook.com/hellokitty.japan/posts/3437986082941176/</a><br><br>保育のおし
- ごと応援フェスタ2020 in TOKYO<br>2020年2月2日(日)10:00～16:00(予定)<br>東京国際フォーラム ホールB7<br>
- <br>元NHK体操のお兄さん・小林よしひささんや、「TOKYO福祉のお仕事アンバサダー」を務めるハローキティほか多彩なゲストが登場
-LAST-MODIFIED:20200131T061915Z
-LOCATION:Tokyo International Forum\, 3-chōme-5-1 Marunouchi\, Chiyoda City\
- , Tōkyō-to 100-0005\, Japan
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:KT 保育のおしごと応援フェスタ
-TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20200215T100000
