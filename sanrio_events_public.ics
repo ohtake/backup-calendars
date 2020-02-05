@@ -384,6 +384,62 @@ RRULE:FREQ=YEARLY;BYMONTH=9;BYDAY=1SU
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+DTSTART:20200211T020000Z
+DTEND:20200211T063000Z
+UID:57eqva5utuo8h51bbbm3crh4r9@google.com
+CREATED:20200125T131649Z
+DESCRIPTION:<a href="https://www.sanrio.co.jp/wp-content/uploads/2020/02/20
+ 200203-01.pdf" id="ow1036" __is_owner="true">https://www.sanrio.co.jp/wp-co
+ ntent/uploads/2020/02/20200203-01.pdf</a><br><a href="https://www.sanrio.co
+ .jp/news/mm-ku-saga-hinamatsuri-20200205/" id="ow1028" __is_owner="true">ht
+ tps://www.sanrio.co.jp/news/mm-ku-saga-hinamatsuri-20200205/</a><br><a href
+ ="https://www.city.saga.lg.jp/main/57931.html" id="ow1032" __is_owner="true
+ ">https://www.city.saga.lg.jp/main/57931.html</a><br><a href="https://www.s
+ agabai.com/main/4654.html">https://www.sagabai.com/main/4654.html</a>&nbsp\
+ ;&nbsp\;<br><a href="https://prtimes.jp/main/html/rd/p/000000179.000037629.
+ html">https://prtimes.jp/main/html/rd/p/000000179.000037629.html</a><br><br
+ >佐賀城下ひなまつり観光親善大使の任命式<br>2020年2月11日(火・祝)11:00～11:30<br>旧古賀銀行〔佐賀市歴史民俗館〕(佐賀県佐賀
+ 市柳町2-9)<br><br>着物姿のマイメロディとの写真撮影会<br>13:00～<br>15:00～<br><br>マイメロディとお花を咲かせよう
+ ！<br>2020年2月22日(土)<br>11:00～<br>13:00～<br>15:00～<br>656広場(佐賀市呉服元町2-25)<br>写
+ 真撮影会の参加には整理券が必要<br><a href="https://www.city.saga.lg.jp/main/57778.html">ht
+ tps://www.city.saga.lg.jp/main/57778.html</a><br><br>佐賀城下ひなまつり観光親善大使任命式<br>
+ 2020-02-11 11:00-11:30<br>旧古賀銀行
+LAST-MODIFIED:20200205T124554Z
+LOCATION:Former Koga Bank (Saga City Cultural Museum)\, 2-9 Yanagimachi\, S
+ aga\, 840-0823\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MM 佐賀城下ひなまつり観光親善大使任命式
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200222T020000Z
+DTEND:20200222T063000Z
+UID:70qck0nhfvd6r0855jdpv8jqg5@google.com
+CREATED:20200204T161020Z
+DESCRIPTION:<a href="https://www.sanrio.co.jp/wp-content/uploads/2020/02/20
+ 200203-01.pdf">https://www.sanrio.co.jp/wp-content/uploads/2020/02/20200203
+ -01.pdf</a><br><a href="https://www.sanrio.co.jp/news/mm-ku-saga-hinamatsur
+ i-20200205/">https://www.sanrio.co.jp/news/mm-ku-saga-hinamatsuri-20200205/
+ </a>&nbsp\;&nbsp\;<br><a href="https://www.city.saga.lg.jp/main/57931.html"
+ >https://www.city.saga.lg.jp/main/57931.html</a><br><a href="https://www.sa
+ gabai.com/main/4654.html">https://www.sagabai.com/main/4654.html</a>&nbsp\;
+ &nbsp\;<br><a href="https://prtimes.jp/main/html/rd/p/000000179.000037629.h
+ tml">https://prtimes.jp/main/html/rd/p/000000179.000037629.html</a><br><br>
+ 佐賀城下ひなまつり観光親善大使の任命式<br>2020年2月11日(火・祝)11:00～11:30<br>旧古賀銀行〔佐賀市歴史民俗館〕(佐賀県佐賀市
+ 柳町2-9)<br><br>着物姿のマイメロディとの写真撮影会<br>13:00～<br>15:00～<br><br>マイメロディとお花を咲かせよう！
+ <br>2020年2月22日(土)<br>11:00～<br>13:00～<br>15:00～<br>656広場(佐賀市呉服元町2-25)<br>写真
+ 撮影会の参加には整理券が必要<br><a href="https://www.city.saga.lg.jp/main/57778.html">htt
+ ps://www.city.saga.lg.jp/main/57778.html</a><br><br>佐賀城下ひなまつり観光親善大使任命式<br>2
+ 020-02-11 11:00-11:30<br>旧古賀銀行
+LAST-MODIFIED:20200205T124541Z
+LOCATION:656広場（むつごろう広場）\, 2-25 Gofuku Motomachi\, Saga\, 840-0824\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MM お花を咲かせよう
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20200215T010000Z
 DTEND:20200215T063000Z
 UID:0pnuogi5so9h2pe3unpkgkvvo3@google.com
@@ -445,47 +501,6 @@ LOCATION:Kiddy Land Osaka Umeda\, Japan\, 〒530-0012 Osaka\, Kita-ku\, Shiba
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:MM キデイランド大阪梅田
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20200222T020000Z
-DTEND:20200222T063000Z
-UID:70qck0nhfvd6r0855jdpv8jqg5@google.com
-CREATED:20200204T161020Z
-DESCRIPTION:https://www.sanrio.co.jp/wp-content/uploads/2020/02/20200203-01
- .pdf\nhttps://www.city.saga.lg.jp/main/57931.html\nhttps://prtimes.jp/main/
- html/rd/p/000000179.000037629.html\n\n佐賀城下ひなまつり観光親善大使の任命式\n2020年2月11日(火・祝)1
- 1:00～11:30\n旧古賀銀行〔佐賀市歴史民俗館〕(佐賀県佐賀市柳町2-9)\n\n着物姿のマイメロディとの写真撮影会\n13:00～\n15:0
- 0～\n\nマイメロディとお花を咲かせよう！\n2020年2月22日(土)\n11:00～\n13:00～\n15:00～\n656広場(佐賀市呉服元
- 町2-25)\n写真撮影会の参加には整理券が必要\nhttps://www.city.saga.lg.jp/main/57778.html\n\n佐賀
- 城下ひなまつり観光親善大使任命式\n2020-02-11 11:00-11:30\n旧古賀銀行
-LAST-MODIFIED:20200204T161020Z
-LOCATION:656広場（むつごろう広場）\, 2-25 Gofuku Motomachi\, Saga\, 840-0824\, Japan
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:MM お花を咲かせよう
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20200211T020000Z
-DTEND:20200211T063000Z
-UID:57eqva5utuo8h51bbbm3crh4r9@google.com
-CREATED:20200125T131649Z
-DESCRIPTION:<br>https://www.sanrio.co.jp/wp-content/uploads/2020/02/2020020
- 3-01.pdf<br>https://www.city.saga.lg.jp/main/57931.html<br>https://prtimes.
- jp/main/html/rd/p/000000179.000037629.html<br><br>佐賀城下ひなまつり観光親善大使の任命式<br>20
- 20年2月11日(火・祝)11:00～11:30<br>旧古賀銀行〔佐賀市歴史民俗館〕(佐賀県佐賀市柳町2-9)<br><br>着物姿のマイメロディと
- の写真撮影会<br>13:00～<br>15:00～<br><br>マイメロディとお花を咲かせよう！<br>2020年2月22日(土)<br>11:0
- 0～<br>13:00～<br>15:00～<br>656広場(佐賀市呉服元町2-25)<br>写真撮影会の参加には整理券が必要<br><a href
- ="https://www.city.saga.lg.jp/main/57778.html" id="ow1253" __is_owner="true
- ">https://www.city.saga.lg.jp/main/57778.html</a><br><br>佐賀城下ひなまつり観光親善大使任命式
- <br>2020-02-11 11:00-11:30<br>旧古賀銀行
-LAST-MODIFIED:20200204T160952Z
-LOCATION:Former Koga Bank (Saga City Cultural Museum)\, 2-9 Yanagimachi\, S
- aga\, 840-0823\, Japan
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:MM 佐賀城下ひなまつり観光親善大使任命式
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
