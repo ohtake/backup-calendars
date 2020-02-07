@@ -384,6 +384,263 @@ RRULE:FREQ=YEARLY;BYMONTH=9;BYDAY=1SU
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+DTSTART:20200222T020000Z
+DTEND:20200222T063000Z
+UID:7lk7pokg9knph0igv8v95o32tk@google.com
+CREATED:20200207T161215Z
+DESCRIPTION:https://mitsui-shopping-park.com/lalaport/tachikawa/event/15178
+ 04.html\n\nハローキティ＆ぐでたまのシンキング！ダンシング！クッキング！\n2月22日（土）\n11:00～ ショー\n13:00～ ショー
+ \n15:00～ 握手会\n2Fイベント広場・ステージ\n\n握手会の参加条件\nららぽーと立川立飛での当日1\,000円（税込・合算不可）以上のレシ
+ ート提示\n参加整理券は10:00から配布\n定員200名
+LAST-MODIFIED:20200207T161215Z
+LOCATION:Lalaport Tachikawa Tachihi\, 935番地の1 Izumichō\, Tachikawa\, Tōkyō-
+ to 190-0015\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT\,GU クッキング
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200222T063000Z
+DTEND:20200222T130000Z
+UID:4vihq8ppvcd3durbvue0dv730d@google.com
+CREATED:20200119T132554Z
+DESCRIPTION:<br><a href="https://www.cultural.pthg.gov.tw/Son/Art/arts02_1.
+ aspx?ID=5743">https://www.cultural.pthg.gov.tw/Son/Art/arts02_1.aspx?ID=574
+ 3</a>&nbsp\;<br>&nbsp\;<br><br>演出延期<br>3/28(六)14:30、19:30&nbsp\;&nbsp\;<br>
+ <br>&nbsp\;<br><a href="https://www.facebook.com/hellokittytw/posts/3368979
+ 733177382/">https://www.facebook.com/hellokittytw/posts/3368979733177382/</
+ a><br><a href="https://www.artsticket.com.tw/CKSCC2005/Product/Product00/Pr
+ oductsDetailsPage.aspx?ProductId=rotyiUrPteRkntufFmf9n">https://www.artstic
+ ket.com.tw/CKSCC2005/Product/Product00/ProductsDetailsPage.aspx?ProductId=r
+ otyiUrPteRkntufFmf9n</a>&nbsp\;&nbsp\;<br><br><br>Hello Kitty蝴蝶結王國互動古典音樂會<b
+ r>屏東演藝廳-音樂廳<br>2020/02/22(六)14:30<br>2020/02/22(六)19:30
+LAST-MODIFIED:20200207T141328Z
+LOCATION:Pingtung Performing Arts Center\, No. 4-17\, Minsheng Road\, Pingt
+ ung City\, Pingtung County\, Taiwan 900
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(延期) KT\,DN\,MM\,XO 蝴蝶結王國互動古典音樂會
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200328T063000Z
+DTEND:20200328T130000Z
+UID:1gi11boqcbor96q5nd6bhlna2t@google.com
+CREATED:20200207T141310Z
+DESCRIPTION:<br><a href="https://www.cultural.pthg.gov.tw/Son/Art/arts02_1.
+ aspx?ID=5743">https://www.cultural.pthg.gov.tw/Son/Art/arts02_1.aspx?ID=574
+ 3</a>&nbsp\;<br>&nbsp\;<br><br>演出延期<br>3/28(六)14:30、19:30&nbsp\;&nbsp\;<br>
+ <br>&nbsp\;<br><a href="https://www.facebook.com/hellokittytw/posts/3368979
+ 733177382/">https://www.facebook.com/hellokittytw/posts/3368979733177382/</
+ a><br><a href="https://www.artsticket.com.tw/CKSCC2005/Product/Product00/Pr
+ oductsDetailsPage.aspx?ProductId=rotyiUrPteRkntufFmf9n">https://www.artstic
+ ket.com.tw/CKSCC2005/Product/Product00/ProductsDetailsPage.aspx?ProductId=r
+ otyiUrPteRkntufFmf9n</a>&nbsp\;&nbsp\;<br><br><br>Hello Kitty蝴蝶結王國互動古典音樂會<b
+ r>屏東演藝廳-音樂廳<br>2020/02/22(六)14:30<br>2020/02/22(六)19:30
+LAST-MODIFIED:20200207T141310Z
+LOCATION:Pingtung Performing Arts Center\, No. 4-17\, Minsheng Road\, Pingt
+ ung City\, Pingtung County\, Taiwan 900
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT\,DN\,MM\,XO 蝴蝶結王國互動古典音樂會
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200215T030000Z
+DTEND:20200215T053000Z
+UID:10fn67i4upir8msll2qshebcc9@google.com
+CREATED:20200204T161251Z
+DESCRIPTION:<a href="https://www.kiddyland.co.jp/event/umeda_mymelody/">htt
+ ps://www.kiddyland.co.jp/event/umeda_mymelody/</a><br><a href="https://www.
+ facebook.com/hellokitty.global/posts/2844745682253562/">https://www.faceboo
+ k.com/hellokitty.global/posts/2844745682253562/</a><br><a href="https://twi
+ tter.com/u_kiddyland/status/1224881765241610242">https://twitter.com/u_kidd
+ yland/status/1224881765241610242</a>&nbsp\;&nbsp\;<br><br>キデイランド大阪梅田店にマイメロデ
+ ィが遊びにくるよ！<br>2020-02-15<br>12:00-<br>14:00-<br>阪急三番街北館地下1階 ふれあい広場<br><br>各回
+ 先着20組<br>当日マイメロディ商品を2000円以上購入で整理券
+LAST-MODIFIED:20200207T141128Z
+LOCATION:Kiddy Land Osaka Umeda\, Japan\, 〒530-0012 Osaka\, Kita-ku\, Shiba
+ ta\, 1-chōme−1−３ 阪急三番街北館
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MM キデイランド大阪梅田
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200322
+DTEND;VALUE=DATE:20200323
+UID:1ncfudval7lsipsmjnvogd0toh@google.com
+CREATED:20200207T141039Z
+DESCRIPTION:https://www.fujiyakuhin.co.jp/drugstore/festa/\n\n富士薬品グループ Pres
+ ents 第11回お客様感謝フェスタ in さいたまスーパーアリーナ\n2020-03-22\n09:30-16:00\n\nハローキティ&マイメロデ
+ ィ&ぼんぼんりぼんのミラクルパーティ
+LAST-MODIFIED:20200207T141039Z
+LOCATION:Saitama Super Arena\, 8 Shintoshin\, Chuo Ward\, Saitama\, 330-911
+ 1\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT\,MM\,BO ミラクルパーティ
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200208T200000Z
+DTEND:20200209T000000Z
+UID:0h1pqs8a0nq5v2ggqammp962i4@google.com
+CREATED:20200207T140150Z
+DESCRIPTION:<a href="https://www.facebook.com/events/274419046869790/">http
+ s://www.facebook.com/events/274419046869790/</a><br><a href="https://www.in
+ stagram.com/p/B8NQpBcBDLR/">https://www.instagram.com/p/B8NQpBcBDLR/</a>&nb
+ sp\;&nbsp\;<br><br>Spread the Love with Pochacco - Card Making and Meet &am
+ p\; Greet<br>2 dates · 8 Feb – 9 Feb · PST<br>Sanrio Japanese Village\, 115
+  Japanese Village Plaza Mall\, Los Angeles\, California 90012<br><br>POCHAC
+ CO MEET &amp\; GREET:<br>Saturday\, February 8th<br>12pm - 4pm
+LAST-MODIFIED:20200207T140408Z
+LOCATION:Sanrio Japanese Village\, 115 Japanese Village Plaza Mall\, Los An
+ geles\, CA 90012\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:PC Sanrio Japanese Village
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20200215T100000
+DTEND;TZID=Asia/Tokyo:20200215T143000
+RRULE:FREQ=DAILY;COUNT=2
+UID:46adsjfknfurbt6efo5q1eo0e8@google.com
+CREATED:20200130T164011Z
+DESCRIPTION:<a href="http://hokutoinfo.com/news/4665/">http://hokutoinfo.co
+ m/news/4665/</a><br><a href="https://www.sanrio.co.jp/news/event-hokuto-feb
+ fes2020-20200215/">https://www.sanrio.co.jp/news/event-hokuto-febfes2020-20
+ 200215/</a>&nbsp\;&nbsp\;<br><br>北斗フェブラリーフェスタ2020<br>新函館北斗駅<br>2020年2月15日(土
+ )・16日(日)<br><br>サンリオ ハローキティミニステージ<br>2/15（土）・16(日)<br>10:00～<br>12:00～<br>1
+ 4:00～<br>北斗市観光交流センター1階 エスカレーター下<br><br>下記対象店舗で1\,500円(税込)以上購入で各回先着30組まで整理券を
+ 配布<br>対象店舗：北斗市観光交流センター本館・別館の全店舗、climat、tete cafe、ホテル・ラ・ジェント・プラザ函館北斗(食事・体験のみ
+ )
+LAST-MODIFIED:20200207T135539Z
+LOCATION:Hokuto City Tourism Exchange Center\, 1-chome-1 Ichinowatari\, Hok
+ uto\, Hokkaido 041-1242\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT 北斗フェブラリーフェスタ
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200306T100000Z
+DTEND:20200306T103000Z
+UID:1qh65l3qn81mjfrkplovgpsq7p@google.com
+CREATED:20200207T135252Z
+DESCRIPTION:<a href="https://cinnamoroll-officialfanclub.com/contents/29364
+ 5">https://cinnamoroll-officialfanclub.com/contents/293645</a><br><a href="
+ https://www.sanrio.co.jp/wp-content/uploads/2020/02/20200206.pdf">https://w
+ ww.sanrio.co.jp/wp-content/uploads/2020/02/20200206.pdf</a><br><a href="htt
+ ps://prtimes.jp/main/html/rd/p/000000184.000037629.html">https://prtimes.jp
+ /main/html/rd/p/000000184.000037629.html</a>&nbsp\;<br>&nbsp\;<br>シナモロール 20
+ 20～2021年 卓上スクールカレンダー発売記念書店イベント<br><br><a href="https://www.hmv.co.jp/news/a
+ rticle/2001301031/">https://www.hmv.co.jp/news/article/2001301031/</a><br>3
+ /6（金）　19時～　東京都内某所 ※会場は当選者のみにお知らせ<br><br><a href="https://www.yaesu-book.co.
+ jp/events/other/17800/">https://www.yaesu-book.co.jp/events/other/17800/</a
+ ><br>3/22（日）　13：00～/14：30～/16：00～　八重洲ブックセンター　八重洲本店<br><br><a href="https://
+ www.yurindo.co.jp/tokyo-hachioji/3012">https://www.yurindo.co.jp/tokyo-hach
+ ioji/3012</a><br>3/29（日）　13：00～/14：30～/16：00～　有隣堂　セレオ八王子店
+LAST-MODIFIED:20200207T135458Z
+LOCATION:Tokyo\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CN 卓上スクールカレンダー
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200322T040000Z
+DTEND:20200322T073000Z
+UID:071tsqkql4nm0s5rhu9ek7cmed@google.com
+CREATED:20200207T135351Z
+DESCRIPTION:<a href="https://cinnamoroll-officialfanclub.com/contents/29364
+ 5">https://cinnamoroll-officialfanclub.com/contents/293645</a><br><a href="
+ https://www.sanrio.co.jp/wp-content/uploads/2020/02/20200206.pdf">https://w
+ ww.sanrio.co.jp/wp-content/uploads/2020/02/20200206.pdf</a><br><a href="htt
+ ps://prtimes.jp/main/html/rd/p/000000184.000037629.html">https://prtimes.jp
+ /main/html/rd/p/000000184.000037629.html</a>&nbsp\;<br>&nbsp\;<br>シナモロール 20
+ 20～2021年 卓上スクールカレンダー発売記念書店イベント<br><br><a href="https://www.hmv.co.jp/news/a
+ rticle/2001301031/">https://www.hmv.co.jp/news/article/2001301031/</a><br>3
+ /6（金）　19時～　東京都内某所 ※会場は当選者のみにお知らせ<br><br><a href="https://www.yaesu-book.co.
+ jp/events/other/17800/">https://www.yaesu-book.co.jp/events/other/17800/</a
+ ><br>3/22（日）　13：00～/14：30～/16：00～　八重洲ブックセンター　八重洲本店<br><br><a href="https://
+ www.yurindo.co.jp/tokyo-hachioji/3012">https://www.yurindo.co.jp/tokyo-hach
+ ioji/3012</a><br>3/29（日）　13：00～/14：30～/16：00～　有隣堂　セレオ八王子店
+LAST-MODIFIED:20200207T135451Z
+LOCATION:Yaesu Book Center\, 2-chōme-5-1 Yaesu\, Chuo City\, Tōkyō-to 104-8
+ 456\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CN 卓上スクールカレンダー
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200329T040000Z
+DTEND:20200329T073000Z
+UID:2svvi0hcbrpptg96jas4gbpmdp@google.com
+CREATED:20200207T135414Z
+DESCRIPTION:<a href="https://cinnamoroll-officialfanclub.com/contents/29364
+ 5">https://cinnamoroll-officialfanclub.com/contents/293645</a><br><a href="
+ https://www.sanrio.co.jp/wp-content/uploads/2020/02/20200206.pdf">https://w
+ ww.sanrio.co.jp/wp-content/uploads/2020/02/20200206.pdf</a><br><a href="htt
+ ps://prtimes.jp/main/html/rd/p/000000184.000037629.html">https://prtimes.jp
+ /main/html/rd/p/000000184.000037629.html</a>&nbsp\;&nbsp\;<br><br>シナモロール 20
+ 20～2021年 卓上スクールカレンダー発売記念書店イベント<br><br><a href="https://www.hmv.co.jp/news/a
+ rticle/2001301031/">https://www.hmv.co.jp/news/article/2001301031/</a><br>3
+ /6（金）　19時～　東京都内某所 ※会場は当選者のみにお知らせ<br><br><a href="https://www.yaesu-book.co.
+ jp/events/other/17800/">https://www.yaesu-book.co.jp/events/other/17800/</a
+ ><br>3/22（日）　13：00～/14：30～/16：00～　八重洲ブックセンター　八重洲本店<br><br><a href="https://
+ www.yurindo.co.jp/tokyo-hachioji/3012">https://www.yurindo.co.jp/tokyo-hach
+ ioji/3012</a><br>3/29（日）　13：00～/14：30～/16：00～　有隣堂　セレオ八王子店
+LAST-MODIFIED:20200207T135444Z
+LOCATION:有隣堂 セレオ八王子店\, Japan\, 〒192-0083 Tōkyō-to\, Hachioji\, Asahichō\, 1
+ −１ セレオ八王子北館 8F
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CN 卓上スクールカレンダー
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200222T020000Z
+DTEND:20200222T060000Z
+UID:460hnps45q0vb6lvc96d3qjm0r@google.com
+CREATED:20200207T134440Z
+DESCRIPTION:https://www.sanrio.co.jp/news/event-daimaru-umeda-20200222/\n\n
+ ポチャッコが遊びにくるよ！（大丸梅田店 サンリオ）\n大丸梅田店 5F サンリオショップ店内\n2月22日（土）\n11:00\n13:00\n14:
+ 30\n\n各回先着40名\n当日9:00より、大丸梅田店 1F南ゲート広場東側にて、各回の「撮影会整理券」と交換できる「購入予約券」を配布\n10:
+ 00以降大丸梅田店 5F サンリオショップでのお会計時に、「購入予約券」を「撮影会整理券」に交換\nポチャッコ商品を含む税込み1\,000円以上
+LAST-MODIFIED:20200207T134507Z
+LOCATION:Daimaru Umeda\, 3-chōme-1-1 Umeda\, Kita-ku\, Osaka\, 530-0001\, J
+ apan
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:PC 大丸梅田
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200215T020000Z
+DTEND:20200215T063000Z
+UID:6gpnsmqtpe68lir5m9alkslcbf@google.com
+CREATED:20200204T160357Z
+DESCRIPTION:<a href="https://www.sanrio.co.jp/news/event-nagoya-takashimaya
+ -20200215/">https://www.sanrio.co.jp/news/event-nagoya-takashimaya-20200215
+ /</a><br>https://twitter.com/sanrioshop_info/status/1225708773475381249<br>
+ <br>こぎみゅんと一緒に写真撮影会（Sanrio Gift Gate タカシマヤ ゲートタワーモール店）<br>タカシマヤ ゲートタワーモール 7F
+  ローズテラス<br>2月15日（土）<br>11:00<br>13:00<br>15:00<br><br>写真撮影会<br>各回30名限定<br>イ
+ ベント当日9:00より、タカシマヤ ゲートタワーモール 2F サロン アダム エ ロペ前にて、各回分の「参加整理券」と交換できる「購入予約券」を配布<
+ br>当日10:00から7F サンリオギフトゲートにて、サンリオ商品を税込み1\,000円以上（お楽しみ袋・ゲーム等一部商品は対象外）購入で「参加整理
+ 券」に交換
+LAST-MODIFIED:20200207T091442Z
+LOCATION:JR Takashimaya Gate Tower Mall\, 1-chōme-1-3 Meieki\, Nakamura War
+ d\, Nagoya\, Aichi 450-0002\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CG  タカシマヤ ゲートタワーモール
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20200211T020000Z
 DTEND:20200211T063000Z
 UID:57eqva5utuo8h51bbbm3crh4r9@google.com
@@ -488,22 +745,6 @@ SUMMARY:HV デビュー記念LIVE
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20200215T030000Z
-DTEND:20200215T053000Z
-UID:10fn67i4upir8msll2qshebcc9@google.com
-CREATED:20200204T161251Z
-DESCRIPTION:https://www.kiddyland.co.jp/event/umeda_mymelody/\n\nキデイランド大阪梅田
- 店にマイメロディが遊びにくるよ！\n2020-02-15\n12:00-\n14:00-\n阪急三番街北館地下1階 ふれあい広場\n\n各回先着20組
- \n当日マイメロディ商品を2000円以上購入で整理券
-LAST-MODIFIED:20200204T161251Z
-LOCATION:Kiddy Land Osaka Umeda\, Japan\, 〒530-0012 Osaka\, Kita-ku\, Shiba
- ta\, 1-chōme−1−３ 阪急三番街北館
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:MM キデイランド大阪梅田
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20200229T020000Z
 DTEND:20200229T073000Z
 UID:6vf08mk53chsjb8m7tmg8rtl29@google.com
@@ -518,24 +759,6 @@ LOCATION:Grand Tree Musashikosugi\, 3-chōme-1135-1 Shinmarukohigashi\, Naka
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:PC グランツリー武蔵小杉
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20200215T020000Z
-DTEND:20200215T063000Z
-UID:6gpnsmqtpe68lir5m9alkslcbf@google.com
-CREATED:20200204T160357Z
-DESCRIPTION:https://www.sanrio.co.jp/news/event-nagoya-takashimaya-20200215
- /\n\nこぎみゅんと一緒に写真撮影会（Sanrio Gift Gate タカシマヤ ゲートタワーモール店）\nタカシマヤ ゲートタワーモール 7F 
- ローズテラス\n2月15日（土）\n11:00\n13:00\n15:00\n\n写真撮影会\n各回30名限定\nイベント当日9:00より、タカシマヤ
-  ゲートタワーモール 2F サロン アダム エ ロペ前にて、各回分の「参加整理券」と交換できる「購入予約券」を配布\n当日10:00から7F サンリオ
- ギフトゲートにて、サンリオ商品を税込み1\,000円以上（お楽しみ袋・ゲーム等一部商品は対象外）購入で「参加整理券」に交換
-LAST-MODIFIED:20200204T160357Z
-LOCATION:JR Takashimaya Gate Tower Mall\, 1-chōme-1-3 Meieki\, Nakamura War
- d\, Nagoya\, Aichi 450-0002\, Japan
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:CG  タカシマヤ ゲートタワーモール
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -633,24 +856,6 @@ LOCATION:Gate City Osaki\, 1-chōme-11-1 Ōsaki\, Shinagawa City\, Tōkyō-to 1
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:MM\,KN SANRIO EXPO
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20200215T100000
-DTEND;TZID=Asia/Tokyo:20200215T143000
-RRULE:FREQ=DAILY;COUNT=2
-UID:46adsjfknfurbt6efo5q1eo0e8@google.com
-CREATED:20200130T164011Z
-DESCRIPTION:http://hokutoinfo.com/news/4665/\n\n北斗フェブラリーフェスタ2020\n新函館北斗駅\n2
- 020年2月15日(土)・16日(日)\n\nサンリオ ハローキティミニステージ\n2/15（土）・16(日)\n10:00～\n12:00～\n14
- :00～\n北斗市観光交流センター1階 エスカレーター下\n\n下記対象店舗で1\,500円(税込)以上購入で各回先着30組まで整理券を配布\n対象店
- 舗：北斗市観光交流センター本館・別館の全店舗、climat、tete cafe、ホテル・ラ・ジェント・プラザ函館北斗(食事・体験のみ)
-LAST-MODIFIED:20200130T164011Z
-LOCATION:Hokuto City Tourism Exchange Center\, 1-chome-1 Ichinowatari\, Hok
- uto\, Hokkaido 041-1242\, Japan
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:KT 北斗フェブラリーフェスタ
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -1154,25 +1359,6 @@ SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:KT クボタスピアーズ
 TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20200222T063000Z
-DTEND:20200222T130000Z
-UID:4vihq8ppvcd3durbvue0dv730d@google.com
-CREATED:20200119T132554Z
-DESCRIPTION:https://www.facebook.com/hellokittytw/posts/3368979733177382/<b
- r><a href="https://www.artsticket.com.tw/CKSCC2005/Product/Product00/Produc
- tsDetailsPage.aspx?ProductId=rotyiUrPteRkntufFmf9n">https://www.artsticket.
- com.tw/CKSCC2005/Product/Product00/ProductsDetailsPage.aspx?ProductId=rotyi
- UrPteRkntufFmf9n</a>&nbsp\;&nbsp\;<br><br><br>Hello Kitty蝴蝶結王國互動古典音樂會<br>屏東
- 演藝廳-音樂廳<br>2020/02/22(六)14:30<br>2020/02/22(六)19:30
-LAST-MODIFIED:20200119T132554Z
-LOCATION:Pingtung Performing Arts Center\, No. 4-17\, Minsheng Road\, Pingt
- ung City\, Pingtung County\, Taiwan 900
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:KT\,DN\,MM\,XO 蝴蝶結王國互動古典音樂會
-TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20200328
