@@ -384,6 +384,38 @@ RRULE:FREQ=YEARLY;BYMONTH=9;BYDAY=1SU
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200328
+DTEND;VALUE=DATE:20200329
+UID:2lliqpl8eu25q1ktkn544parhm@google.com
+CREATED:20200208T160626Z
+DESCRIPTION:https://twitter.com/HappyFlight_cts/status/1226070145195364352\
+ n\nポムポムプリンパーティ\n2020年3月28
+LAST-MODIFIED:20200208T160626Z
+LOCATION:Hello Kitty Happy Flight\, Bibi\, Chitose\, Hokkaido 066-0012\, Ja
+ pan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:PN ハッピーフライト
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200208T013000Z
+DTEND:20200208T040000Z
+UID:0pfppikim4k3m4uld6d08da767@google.com
+CREATED:20200208T154139Z
+DESCRIPTION:対象：小中学生とその保護者、食育やスポーツ栄養に興味のある方\n\nhttps://shinagawa-kanko.or.jp
+ /event/syoku-cinnamon/\nhttp://cinnamon-shinagawa.jp/event/#event1629\n\n動け
+ るからだは食事から！シナモロールと楽しく学ぼう！\nきゅりあん8F\n2020-02-08 10:00-14:30\n\nしながわ観光大使 シナモロー
+ ルイベント\n10：30～　ミニクイズ&ダンス（場所：8F 大ホール）\n12：30～　撮影会 など（場所：8F 大ホールホワイエ）
+LAST-MODIFIED:20200208T154139Z
+LOCATION:Curian\, 5-chōme-18-1 Higashiōi\, 品川区 Shinagawa City\, Tōkyō-to 14
+ 0-0011\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CN 動けるからだは食事から
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20200222T020000Z
 DTEND:20200222T063000Z
 UID:7lk7pokg9knph0igv8v95o32tk@google.com
