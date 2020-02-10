@@ -384,6 +384,22 @@ RRULE:FREQ=YEARLY;BYMONTH=9;BYDAY=1SU
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200315
+DTEND;VALUE=DATE:20200316
+UID:1nmofsoddsmhc28ufvs3n6asib@google.com
+CREATED:20200210T104329Z
+DESCRIPTION:ストロベリーワールドフェス2020\n3月14日（土） 9：00〜15：30\n3月15日（日） 9：00〜15：30\nメイ
+ ン会場：井頭公園東駐車場\nサテライト会場：久保記念観光文化交流館／道の駅にのみや\n\nハローキティ＆ぐてたまステージショー\nサブステージにて握手
+ 会もある\n3月15日（日）
+LAST-MODIFIED:20200210T104329Z
+LOCATION:Igashira Koen Higashi Parking Lot\, Japan\, 〒321-4415 Tochigi\, Mo
+ ka\, Shimokomoriya\, ９９ 番地
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT\,GU ストロベリーワールドフェス
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20200328
 DTEND;VALUE=DATE:20200329
 UID:2lliqpl8eu25q1ktkn544parhm@google.com
