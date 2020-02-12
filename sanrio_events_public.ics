@@ -384,6 +384,46 @@ RRULE:FREQ=YEARLY;BYMONTH=9;BYDAY=1SU
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+DTSTART:20200222T020000Z
+DTEND:20200222T063000Z
+UID:7lk7pokg9knph0igv8v95o32tk@google.com
+CREATED:20200207T161215Z
+DESCRIPTION:<a href="https://mitsui-shopping-park.com/lalaport/tachikawa/ev
+ ent/1517804.html">https://mitsui-shopping-park.com/lalaport/tachikawa/event
+ /1517804.html</a><br><a href="https://www.sanrio.co.jp/news/event-lalaport-
+ tachikawa-20200222/">https://www.sanrio.co.jp/news/event-lalaport-tachikawa
+ -20200222/</a>&nbsp\;&nbsp\;<br><br>ハローキティ＆ぐでたまのシンキング！ダンシング！クッキング！<br>2月22日
+ （土）<br>11:00～ ショー<br>13:00～ ショー<br>15:00～ 握手会<br>2Fイベント広場・ステージ<br><br>握手会の参
+ 加条件<br>ららぽーと立川立飛での当日1\,000円（税込・合算不可）以上のレシート提示<br>参加整理券は10:00から配布<br>定員200名
+LAST-MODIFIED:20200212T112013Z
+LOCATION:Lalaport Tachikawa Tachihi\, 935番地の1 Izumichō\, Tachikawa\, Tōkyō-
+ to 190-0015\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT\,GU クッキング
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200216T020000Z
+DTEND:20200216T073000Z
+UID:0u502g2ano3ds8a9e9185jiag0@google.com
+CREATED:20200127T012916Z
+DESCRIPTION:<a href="https://www.sanrio.co.jp/news/event-gg-osaki-20200216/
+ ">https://www.sanrio.co.jp/news/event-gg-osaki-20200216/</a><br><a href="ht
+ tp://sanrio.cocolog-nifty.com/shop/2020/02/post-ff0e7c.html" id="ow367" __i
+ s_owner="true">http://sanrio.cocolog-nifty.com/shop/2020/02/post-ff0e7c.htm
+ l</a>&nbsp\;<br><br>マイメロディ ダンス＆写真撮影会<br>Sanrio Gift Gate 大崎ニュー・シティ店<br>2月16
+ 日（日）<br>11:00<br>14:00<br>16:00<br><br>写真撮影会は各回30名限定<br>イベント当日10:00より、大崎ニュー
+ ・シティ 1F Sanrio Gift Gateにて、税込み1\,000円以上（お楽しみ袋・ゲーム等一部商品は対象外）購入で「写真撮影券」をお渡し
+LAST-MODIFIED:20200212T105454Z
+LOCATION:Osaki New City\, 1-chōme-6-4 Ōsaki\, Shinagawa City\, Tōkyō-to 141
+ -0032\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MM 大崎ニュー・シティ
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20200315
 DTEND;VALUE=DATE:20200316
 UID:1nmofsoddsmhc28ufvs3n6asib@google.com
@@ -429,23 +469,6 @@ LOCATION:Curian\, 5-chōme-18-1 Higashiōi\, 品川区 Shinagawa City\, Tōkyō-
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:CN 動けるからだは食事から
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20200222T020000Z
-DTEND:20200222T063000Z
-UID:7lk7pokg9knph0igv8v95o32tk@google.com
-CREATED:20200207T161215Z
-DESCRIPTION:https://mitsui-shopping-park.com/lalaport/tachikawa/event/15178
- 04.html\n\nハローキティ＆ぐでたまのシンキング！ダンシング！クッキング！\n2月22日（土）\n11:00～ ショー\n13:00～ ショー
- \n15:00～ 握手会\n2Fイベント広場・ステージ\n\n握手会の参加条件\nららぽーと立川立飛での当日1\,000円（税込・合算不可）以上のレシ
- ート提示\n参加整理券は10:00から配布\n定員200名
-LAST-MODIFIED:20200207T161215Z
-LOCATION:Lalaport Tachikawa Tachihi\, 935番地の1 Izumichō\, Tachikawa\, Tōkyō-
- to 190-0015\, Japan
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:KT\,GU クッキング
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -1011,23 +1034,6 @@ LOCATION:Aeon Mall Natori\, Japan\, 〒981-1227 Miyagi\, Natori\, Morisekinos
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:MM イオンモール名取
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20200216T020000Z
-DTEND:20200216T073000Z
-UID:0u502g2ano3ds8a9e9185jiag0@google.com
-CREATED:20200127T012916Z
-DESCRIPTION:https://www.sanrio.co.jp/news/event-gg-osaki-20200216/\n\n\nマイメ
- ロディが遊びにくるよ！\nSanrio Gift Gate 大崎ニュー・シティ店\n2月16日（日）\n11:00\n14:00\n16:00\n\n
- ステージ終了後には写真撮影会\n写真撮影会は各回30名限定\nイベント当日10:00より、大崎ニュー・シティ 1F Sanrio Gift Gateに
- て、税込み1\,000円以上（お楽しみ袋・ゲーム等一部商品は対象外）購入で「写真撮影券」をお渡し
-LAST-MODIFIED:20200127T012916Z
-LOCATION:Osaki New City\, 1-chōme-6-4 Ōsaki\, Shinagawa City\, Tōkyō-to 141
- -0032\, Japan
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:MM 大崎ニュー・シティ
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
