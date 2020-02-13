@@ -384,6 +384,23 @@ RRULE:FREQ=YEARLY;BYMONTH=9;BYDAY=1SU
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+DTSTART:20200222T013000Z
+DTEND:20200222T063000Z
+UID:3fpf0vc4drs10cq98uh3agn8dr@google.com
+CREATED:20200213T074345Z
+DESCRIPTION:https://www.westjr.co.jp/press/article/2020/02/page_15605.html\
+ n\n地域とみんなをつないで結ぶ。「ハローキティ新幹線 展」\n京都鉄道博物館\n\n「オープニングセレモニー」開催\n2020年（令和2年）2月22
+ 日（土曜日） 10時30分ごろ\n本館1階 500系新幹線\n\nハローキティと「ハローキティ新幹線」コラボ撮影会\n2020年2月22日（土曜日） 
+ 13時30分、15時\n本館1階 500系新幹線前\nツーショット不可 
+LAST-MODIFIED:20200213T074345Z
+LOCATION:Kyoto Railway Museum\, Kankijicho\, Shimogyo Ward\, Kyoto\, 600-88
+ 35\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT ハローキティ新幹線展
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20200222T020000Z
 DTEND:20200222T063000Z
 UID:7lk7pokg9knph0igv8v95o32tk@google.com
