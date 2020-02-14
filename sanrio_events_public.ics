@@ -384,6 +384,47 @@ RRULE:FREQ=YEARLY;BYMONTH=9;BYDAY=1SU
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+DTSTART:20200215T020000Z
+DTEND:20200215T063000Z
+UID:6gpnsmqtpe68lir5m9alkslcbf@google.com
+CREATED:20200204T160357Z
+DESCRIPTION:<a href="https://www.sanrio.co.jp/news/event-nagoya-takashimaya
+ -20200215/">https://www.sanrio.co.jp/news/event-nagoya-takashimaya-20200215
+ /</a><br><a href="https://twitter.com/sanrioshop_info/status/12257087734753
+ 81249" id="ow417" __is_owner="true">https://twitter.com/sanrioshop_info/sta
+ tus/1225708773475381249</a><br>https://twitter.com/cogimyun_sanrio/status/1
+ 228215302237765632<br><br>こぎみゅんと一緒に写真撮影会（Sanrio Gift Gate タカシマヤ ゲートタワーモール店）
+ <br>タカシマヤ ゲートタワーモール 7F ローズテラス<br>2月15日（土）<br>11:00<br>13:00<br>15:00<br><br
+ >写真撮影会<br>各回30名限定<br>イベント当日9:00より、タカシマヤ ゲートタワーモール 2F サロン アダム エ ロペ前にて、各回分の「参
+ 加整理券」と交換できる「購入予約券」を配布<br>当日10:00から7F サンリオギフトゲートにて、サンリオ商品を税込み1\,000円以上（お楽しみ袋
+ ・ゲーム等一部商品は対象外）購入で「参加整理券」に交換
+LAST-MODIFIED:20200214T071544Z
+LOCATION:JR Takashimaya Gate Tower Mall\, 1-chōme-1-3 Meieki\, Nakamura War
+ d\, Nagoya\, Aichi 450-0002\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CG  タカシマヤ ゲートタワーモール
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200216
+DTEND;VALUE=DATE:20200217
+UID:3noa59j7c19tvpkf6n72s7e3bs@google.com
+CREATED:20200127T135142Z
+DESCRIPTION:<a href="https://twitter.com/mooncat_n/status/12211670513030512
+ 64">https://twitter.com/mooncat_n/status/1221167051303051264</a>&nbsp\;&nbs
+ p\;<br><a href="https://twitter.com/mooncat_n/status/1227936574676983808">h
+ ttps://twitter.com/mooncat_n/status/1227936574676983808</a><br>&nbsp\;<br>2
+ 月16日日曜日<br>三菱自動車販売 二又瀬店
+LAST-MODIFIED:20200214T014721Z
+LOCATION:Mitsubishi\, 3-chōme-16-35 Sharyō\, Higashi-ku\, Fukuoka\, 812-006
+ 8\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT 三菱自動車 二又瀬
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20200222T013000Z
 DTEND:20200222T063000Z
 UID:3fpf0vc4drs10cq98uh3agn8dr@google.com
@@ -708,27 +749,6 @@ SUMMARY:PC 大丸梅田
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20200215T020000Z
-DTEND:20200215T063000Z
-UID:6gpnsmqtpe68lir5m9alkslcbf@google.com
-CREATED:20200204T160357Z
-DESCRIPTION:<a href="https://www.sanrio.co.jp/news/event-nagoya-takashimaya
- -20200215/">https://www.sanrio.co.jp/news/event-nagoya-takashimaya-20200215
- /</a><br>https://twitter.com/sanrioshop_info/status/1225708773475381249<br>
- <br>こぎみゅんと一緒に写真撮影会（Sanrio Gift Gate タカシマヤ ゲートタワーモール店）<br>タカシマヤ ゲートタワーモール 7F
-  ローズテラス<br>2月15日（土）<br>11:00<br>13:00<br>15:00<br><br>写真撮影会<br>各回30名限定<br>イ
- ベント当日9:00より、タカシマヤ ゲートタワーモール 2F サロン アダム エ ロペ前にて、各回分の「参加整理券」と交換できる「購入予約券」を配布<
- br>当日10:00から7F サンリオギフトゲートにて、サンリオ商品を税込み1\,000円以上（お楽しみ袋・ゲーム等一部商品は対象外）購入で「参加整理
- 券」に交換
-LAST-MODIFIED:20200207T091442Z
-LOCATION:JR Takashimaya Gate Tower Mall\, 1-chōme-1-3 Meieki\, Nakamura War
- d\, Nagoya\, Aichi 450-0002\, Japan
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:CG  タカシマヤ ゲートタワーモール
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20200211T020000Z
 DTEND:20200211T063000Z
 UID:57eqva5utuo8h51bbbm3crh4r9@google.com
@@ -1015,22 +1035,6 @@ LOCATION:Yokohama Arena\, 3 Chome-10 Shinyokohama\, Kohoku Ward\, Yokohama\
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:KT 超英雄祭 KAMEN RIDER × SUPER SENTAI LIVE & SHOW
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20200216
-DTEND;VALUE=DATE:20200217
-UID:3noa59j7c19tvpkf6n72s7e3bs@google.com
-CREATED:20200127T135142Z
-DESCRIPTION:<a href="https://twitter.com/mooncat_n/status/12211670513030512
- 64" id="ow487" __is_owner="true">https://twitter.com/mooncat_n/status/12211
- 67051303051264</a>&nbsp\;&nbsp\;<br><br>2月16日日曜日<br>三菱自動車販売 二又瀬店
-LAST-MODIFIED:20200127T135227Z
-LOCATION:Mitsubishi\, 3-chōme-16-35 Sharyō\, Higashi-ku\, Fukuoka\, 812-006
- 8\, Japan
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:KT 三菱自動車 二又瀬
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
