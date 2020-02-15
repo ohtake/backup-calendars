@@ -384,6 +384,26 @@ RRULE:FREQ=YEARLY;BYMONTH=9;BYDAY=1SU
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+DTSTART:20200216T020000Z
+DTEND:20200216T063000Z
+UID:3noa59j7c19tvpkf6n72s7e3bs@google.com
+CREATED:20200127T135142Z
+DESCRIPTION:<a href="https://twitter.com/mooncat_n/status/12211670513030512
+ 64">https://twitter.com/mooncat_n/status/1221167051303051264</a>&nbsp\;&nbs
+ p\;<br><a href="https://twitter.com/mooncat_n/status/1227936574676983808">h
+ ttps://twitter.com/mooncat_n/status/1227936574676983808</a><br><a href="htt
+ ps://twitter.com/mooncat_n/status/1228677569794363393">https://twitter.com/
+ mooncat_n/status/1228677569794363393</a>&nbsp\;&nbsp\;<br>&nbsp\;<br>三菱自動車販
+ 売 二又瀬店&nbsp\;<br>2月16日日曜日<br>11:00-<br>13:30-<br>15:00-
+LAST-MODIFIED:20200215T165225Z
+LOCATION:Mitsubishi\, 3-chōme-16-35 Sharyō\, Higashi-ku\, Fukuoka\, 812-006
+ 8\, Japan
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:KT 三菱自動車 二又瀬
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20200215T020000Z
 DTEND:20200215T063000Z
 UID:6gpnsmqtpe68lir5m9alkslcbf@google.com
@@ -405,24 +425,6 @@ SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:CG  タカシマヤ ゲートタワーモール
 TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20200216
-DTEND;VALUE=DATE:20200217
-UID:3noa59j7c19tvpkf6n72s7e3bs@google.com
-CREATED:20200127T135142Z
-DESCRIPTION:<a href="https://twitter.com/mooncat_n/status/12211670513030512
- 64">https://twitter.com/mooncat_n/status/1221167051303051264</a>&nbsp\;&nbs
- p\;<br><a href="https://twitter.com/mooncat_n/status/1227936574676983808">h
- ttps://twitter.com/mooncat_n/status/1227936574676983808</a><br>&nbsp\;<br>2
- 月16日日曜日<br>三菱自動車販売 二又瀬店
-LAST-MODIFIED:20200214T014721Z
-LOCATION:Mitsubishi\, 3-chōme-16-35 Sharyō\, Higashi-ku\, Fukuoka\, 812-006
- 8\, Japan
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:KT 三菱自動車 二又瀬
-TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200222T013000Z
