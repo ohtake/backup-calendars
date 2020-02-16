@@ -384,6 +384,32 @@ RRULE:FREQ=YEARLY;BYMONTH=9;BYDAY=1SU
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200216
+DTEND;VALUE=DATE:20200217
+UID:5e4fpufmjul15lvb6vhvh5t5ar@google.com
+CREATED:20200103T133302Z
+DESCRIPTION:<a href="https://gotochikitty.com/gentei/469">https://gotochiki
+ tty.com/gentei/469</a><br><a href="https://www.facebook.com/hellokitty.glob
+ al/posts/2803348663059931/">https://www.facebook.com/hellokitty.global/post
+ s/2803348663059931/</a>&nbsp\;&nbsp\;<br><a href="https://www.sanrio.co.jp/
+ news/mx-kubota-spears-20200117/">https://www.sanrio.co.jp/news/mx-kubota-sp
+ ears-20200117/</a>&nbsp\;<br>&nbsp\;<br>「クボタスピアーズ 」×「ハローキティ」コラボ<br>ハローキティ D
+ AY<br>2020年1月25日（土） 大阪・万博記念競技場<br>2020年2月16日（日） 東京・江東区夢の島競技場<br>チームユニフォームを着
+ たハローキティが来場<br><br>https://twitter.com/Kubota_Spears/status/1228849207454253
+ 057<br><br><br>ハローキティとスッピーが皆様にご挨拶&nbsp\;&nbsp\;<br><br>競技場正面玄関<br>10時45分<br
+ >12時15分<br>&nbsp\;<br><a href="http://www.kubota-spears.com/news/2019/11/15
+ /110000.html">http://www.kubota-spears.com/news/2019/11/15/110000.html</a><
+ br>クボタスピアーズジャパンラグビートップリーグ2020<br>日野レッドドルフィンズ戦<br>2/16（日）<br>夢の島にキティちゃんがやってく
+ る！！スッピーくん＆キティちゃんのコラボウェルカムグリーティング！&nbsp\;
+LAST-MODIFIED:20200216T011929Z
+LOCATION:Yumenoshima Athletics Stadium\, 1-chōme-1-2 Yumenoshima\, Koto Cit
+ y\, Tōkyō-to 136-0081\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT クボタスピアーズ
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20200216T020000Z
 DTEND:20200216T063000Z
 UID:3noa59j7c19tvpkf6n72s7e3bs@google.com
@@ -1408,30 +1434,6 @@ DESCRIPTION:<a href="https://gotochikitty.com/gentei/469">https://gotochiki
 LAST-MODIFIED:20200119T132841Z
 LOCATION:Expo '70 Commemorative Stadium\, 5-2 Senribanpakukōen\, Suita\, Os
  aka 565-0826\, Japan
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:KT クボタスピアーズ
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20200216
-DTEND;VALUE=DATE:20200217
-UID:5e4fpufmjul15lvb6vhvh5t5ar@google.com
-CREATED:20200103T133302Z
-DESCRIPTION:<a href="https://gotochikitty.com/gentei/469">https://gotochiki
- tty.com/gentei/469</a><br><a href="https://www.facebook.com/hellokitty.glob
- al/posts/2803348663059931/">https://www.facebook.com/hellokitty.global/post
- s/2803348663059931/</a>&nbsp\;&nbsp\;<br><a href="https://www.sanrio.co.jp/
- news/mx-kubota-spears-20200117/">https://www.sanrio.co.jp/news/mx-kubota-sp
- ears-20200117/</a>&nbsp\;<br>&nbsp\;<br>「クボタスピアーズ 」×「ハローキティ」コラボ<br>ハローキティ D
- AY<br>2020年1月25日（土） 大阪・万博記念競技場<br>2020年2月16日（日） 東京・江東区夢の島競技場<br>チームユニフォームを着
- たハローキティが来場<br><br><a href="http://www.kubota-spears.com/news/2019/11/15/110
- 000.html">http://www.kubota-spears.com/news/2019/11/15/110000.html</a><br>ク
- ボタスピアーズジャパンラグビートップリーグ2020<br>日野レッドドルフィンズ戦<br>2/16（日）<br>夢の島にキティちゃんがやってくる！！ス
- ッピーくん＆キティちゃんのコラボウェルカムグリーティング！&nbsp\;
-LAST-MODIFIED:20200119T132825Z
-LOCATION:Yumenoshima Athletics Stadium\, 1-chōme-1-2 Yumenoshima\, Koto Cit
- y\, Tōkyō-to 136-0081\, Japan
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:KT クボタスピアーズ
