@@ -384,6 +384,26 @@ RRULE:FREQ=YEARLY;BYMONTH=9;BYDAY=1SU
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+DTSTART:20200222T020000Z
+DTEND:20200222T060000Z
+UID:460hnps45q0vb6lvc96d3qjm0r@google.com
+CREATED:20200207T134440Z
+DESCRIPTION:<a href="https://www.sanrio.co.jp/news/event-daimaru-umeda-2020
+ 0222/">https://www.sanrio.co.jp/news/event-daimaru-umeda-20200222/</a><br>h
+ ttps://twitter.com/sanrioshop_info/status/1229248096535638016<br><br>ポチャッコが
+ 遊びにくるよ！（大丸梅田店 サンリオ）<br>大丸梅田店 5F サンリオショップ店内<br>2月22日（土）<br>11:00<br>13:00<br
+ >14:30<br><br>各回先着40名<br>当日9:00より、大丸梅田店 1F南ゲート広場東側にて、各回の「撮影会整理券」と交換できる「購入予約
+ 券」を配布<br>10:00以降大丸梅田店 5F サンリオショップでのお会計時に、「購入予約券」を「撮影会整理券」に交換<br>ポチャッコ商品を含む税
+ 込み1\,000円以上
+LAST-MODIFIED:20200217T042117Z
+LOCATION:Daimaru Umeda\, 3-chōme-1-1 Umeda\, Kita-ku\, Osaka\, 530-0001\, J
+ apan
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:PC 大丸梅田
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20200216
 DTEND;VALUE=DATE:20200217
 UID:5e4fpufmjul15lvb6vhvh5t5ar@google.com
@@ -757,23 +777,6 @@ LOCATION:有隣堂 セレオ八王子店\, Japan\, 〒192-0083 Tōkyō-to\, Hach
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:CN 卓上スクールカレンダー
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20200222T020000Z
-DTEND:20200222T060000Z
-UID:460hnps45q0vb6lvc96d3qjm0r@google.com
-CREATED:20200207T134440Z
-DESCRIPTION:https://www.sanrio.co.jp/news/event-daimaru-umeda-20200222/\n\n
- ポチャッコが遊びにくるよ！（大丸梅田店 サンリオ）\n大丸梅田店 5F サンリオショップ店内\n2月22日（土）\n11:00\n13:00\n14:
- 30\n\n各回先着40名\n当日9:00より、大丸梅田店 1F南ゲート広場東側にて、各回の「撮影会整理券」と交換できる「購入予約券」を配布\n10:
- 00以降大丸梅田店 5F サンリオショップでのお会計時に、「購入予約券」を「撮影会整理券」に交換\nポチャッコ商品を含む税込み1\,000円以上
-LAST-MODIFIED:20200207T134507Z
-LOCATION:Daimaru Umeda\, 3-chōme-1-1 Umeda\, Kita-ku\, Osaka\, 530-0001\, J
- apan
-SEQUENCE:1
-STATUS:CONFIRMED
-SUMMARY:PC 大丸梅田
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
