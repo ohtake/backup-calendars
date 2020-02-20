@@ -384,6 +384,179 @@ RRULE:FREQ=YEARLY;BYMONTH=9;BYDAY=1SU
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Jakarta:20200418T150000
+DTEND;TZID=Asia/Jakarta:20200418T183000
+RRULE:FREQ=WEEKLY;WKST=SU;COUNT=8;BYDAY=SA,SU
+UID:7tvntm7ngof3p5vogjqgcr706e@google.com
+CREATED:20200220T180142Z
+DESCRIPTION:https://www.instagram.com/p/B8isGJ3hmCS/\n\nSANRIO CHARACTERS P
+ LAYHOUSE\n14 February 2020 - 10 May 2020\n2nd Floor Atrium\n\nMM\, XO\n3pm\
+ , 6pm\n2020-02-21 Sat (←たぶん22日の間違い)\n2020-02-22 Sun (←たぶん23日の間違い)\n2020-02-
+ 29 Sat\n2020-03-01 Sun\n2020-03-21 Sat\n2020-03-22 Sun\n2020-03-28 Sat\n202
+ 0-03-29 Sun\n\nKT\, CN\n3pm\, 6pm\n2020-04-18 Sat\n2020-04-19 Sun\n2020-04-
+ 25 Sat\n2020-04-26 Sun\n2020-05-02 Sat\n2020-05-03 Sun\n2020-05-09 Sat\n202
+ 0-05-10 Sun
+LAST-MODIFIED:20200220T180142Z
+LOCATION:Atrium\, Jalan Senen Raya\, RT.9/RW.1\, Senen\, Kec. Senen\, Kota 
+ Jakarta Pusat\, Daerah Khusus Ibukota Jakarta 10410\, Indonesia
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT\,CN Sanrio Characters Playhouse
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Jakarta:20200321T150000
+DTEND;TZID=Asia/Jakarta:20200321T183000
+RRULE:FREQ=WEEKLY;WKST=SU;COUNT=4;BYDAY=SA,SU
+UID:35fb5895krodjjioa1d4atqp72@google.com
+CREATED:20200220T180057Z
+DESCRIPTION:https://www.instagram.com/p/B8isGJ3hmCS/\n\nSANRIO CHARACTERS P
+ LAYHOUSE\n14 February 2020 - 10 May 2020\n2nd Floor Atrium\n\nMM\, XO\n3pm\
+ , 6pm\n2020-02-21 Sat (←たぶん22日の間違い)\n2020-02-22 Sun (←たぶん23日の間違い)\n2020-02-
+ 29 Sat\n2020-03-01 Sun\n2020-03-21 Sat\n2020-03-22 Sun\n2020-03-28 Sat\n202
+ 0-03-29 Sun\n\nKT\, CN\n3pm\, 6pm\n2020-04-18 Sat\n2020-04-19 Sun\n2020-04-
+ 25 Sat\n2020-04-26 Sun\n2020-05-02 Sat\n2020-05-03 Sun\n2020-05-09 Sat\n202
+ 0-05-10 Sun
+LAST-MODIFIED:20200220T180057Z
+LOCATION:Atrium\, Jalan Senen Raya\, RT.9/RW.1\, Senen\, Kec. Senen\, Kota 
+ Jakarta Pusat\, Daerah Khusus Ibukota Jakarta 10410\, Indonesia
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MM\,XO Sanrio Characters Playhouse
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Jakarta:20200222T150000
+DTEND;TZID=Asia/Jakarta:20200222T183000
+RRULE:FREQ=WEEKLY;WKST=SU;COUNT=4;BYDAY=SA,SU
+UID:6anrih8e1778kubaje2f00pod6@google.com
+CREATED:20200220T180014Z
+DESCRIPTION:https://www.instagram.com/p/B8isGJ3hmCS/\n\nSANRIO CHARACTERS P
+ LAYHOUSE\n14 February 2020 - 10 May 2020\n2nd Floor Atrium\n\nMM\, XO\n3pm\
+ , 6pm\n2020-02-21 Sat (←たぶん22日の間違い)\n2020-02-22 Sun (←たぶん23日の間違い)\n2020-02-
+ 29 Sat\n2020-03-01 Sun\n2020-03-21 Sat\n2020-03-22 Sun\n2020-03-28 Sat\n202
+ 0-03-29 Sun\n\nKT\, CN\n3pm\, 6pm\n2020-04-18 Sat\n2020-04-19 Sun\n2020-04-
+ 25 Sat\n2020-04-26 Sun\n2020-05-02 Sat\n2020-05-03 Sun\n2020-05-09 Sat\n202
+ 0-05-10 Sun
+LAST-MODIFIED:20200220T180035Z
+LOCATION:Atrium\, Jalan Senen Raya\, RT.9/RW.1\, Senen\, Kec. Senen\, Kota 
+ Jakarta Pusat\, Daerah Khusus Ibukota Jakarta 10410\, Indonesia
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:MM\,XO Sanrio Characters Playhouse
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200224T040000Z
+DTEND:20200224T083000Z
+UID:4mn47klk18vlb7rhlnpf0dtrh7@google.com
+CREATED:20200220T174901Z
+DESCRIPTION:http://omurakyotei.jp/event/#992\n\nボートレース大村\n\nハローキティミニステージ\n2
+ 月24日（月）\n13:00頃～\n15:00頃～\n17:00頃～\nイベントホール
+LAST-MODIFIED:20200220T174901Z
+LOCATION:BOAT RACE OMURA\, 1-chōme-15-1 Kushima\, Ōmura\, Nagasaki 856-0834
+ \, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT ボートレース大村
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20200321T112000
+DTEND;TZID=Asia/Tokyo:20200321T152000
+RRULE:FREQ=DAILY;COUNT=2
+UID:6us4s86o00feb7b68v9nsd7a1u@google.com
+CREATED:20200220T174611Z
+DESCRIPTION:https://www.kankou-shimane.com/news/13789.html\nhttps://www.kan
+ kou-shimane.com/jp/wp-content/uploads/2020/02/bihada_shimane_hibiya.pdf\n\n
+ 美肌県しまねin日比谷 「日比谷しまね館」オープンプレイベント\n2020年3月21日（土）11:00～17:00\n2020年3月22日（日）11:
+ 00～15:00\n日比谷ゴジラスクエア（千代田区有楽町1丁目2-2　日比谷シャンテ前）\n\nハローキティ×しまねっこグリーティング\n21日 12
+ :20\n21日 14:50\n22日 11:20\n22日 14:20
+LAST-MODIFIED:20200220T174611Z
+LOCATION:日比谷ゴジラスクエア\, Japan\, 〒100-0006 Tōkyō-to\, Chiyoda City\, Yūrakuchō
+ \, 1-chōme−2−２ 日比谷シャンテ内
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT 日比谷しまね館
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200314
+DTEND;VALUE=DATE:20200315
+RRULE:FREQ=DAILY;COUNT=2
+UID:26lr3iabuhlo4ifnpsabaifuon@google.com
+CREATED:20200220T174253Z
+DESCRIPTION:http://www.city.kawasaki.jp/820/page/0000114688.html\n\n川崎市バス70
+ 周年記念イベント 川崎ブレイブサンダースとの「同級生コラボ」\n令和2年3月14日（土）・15（日） Bリーグ公式戦（VS レバンガ北海道）\n時間は
+ 両日ともに午後から\n等々力緑地催し物広場\n\nかわさきノルフィン・ハローキティとの記念撮影会
+LAST-MODIFIED:20200220T174253Z
+LOCATION:Todoroki Green Space\, 1-1 Todoroki\, Nakahara-ku\, Kawasaki\, Kan
+ agawa 210-8577\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT 川崎ブレイブサンダース
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200710
+DTEND;VALUE=DATE:20200711
+RRULE:FREQ=DAILY;COUNT=3
+UID:0ejdng1mrb2frg0v35se0gsuja@google.com
+CREATED:20200220T174015Z
+DESCRIPTION:https://hyperjapan.co.uk/performer/hello-kitty/\nhttps://hyperj
+ apan.co.uk/news-2020/the-kawaii-icon-is-coming-to-hyper-japan-2020/\n\nHype
+ r Japan Festival 2020\n10\, 11\, 12 July 2020\nOlympia London\n\nFrom Frida
+ y 10 July to Sunday 12th July\, Hello Kitty lands in amazing Hyper Japan fo
+ r meet and greet
+LAST-MODIFIED:20200220T174015Z
+LOCATION:Olympia London\, Hammersmith Rd\, Hammersmith\, London W14 8UX\, U
+ K
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT  Hyper Japan Festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200315T031000Z
+DTEND:20200315T060000Z
+UID:1nmofsoddsmhc28ufvs3n6asib@google.com
+CREATED:20200210T104329Z
+DESCRIPTION:<br><a href="https://ichigo-summit-moka.jp/event">https://ichig
+ o-summit-moka.jp/event</a>&nbsp\;<br><a href="https://www.sanrio.co.jp/news
+ /event-ichigo-summit-20200315/">https://www.sanrio.co.jp/news/event-ichigo-
+ summit-20200315/</a>&nbsp\;&nbsp\;<br><br>&nbsp\;<br>ストロベリーワールドフェス2020<br>3
+ 月14日（土） 9：00〜15：30<br>3月15日（日） 9：00〜15：30<br>メイン会場：井頭公園東駐車場<br>サテライト会場：久保記念
+ 観光文化交流館／道の駅にのみや<br><br><br>ハローキティ＆ぐでたまミニステージ<br>3月15日（日） 12:10～<br>メインステージ<
+ br><br>ハローキティ＆ぐでたま撮影会<br>3月15日（日） 14:30～<br>サブステージ<br>当日13:00より、メインステージ左側テン
+ トで先着30組様に整理券を配布
+LAST-MODIFIED:20200220T173652Z
+LOCATION:Igashira Koen Higashi Parking Lot\, Japan\, 〒321-4415 Tochigi\, Mo
+ ka\, Shimokomoriya\, ９９ 番地
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:KT\,GU ストロベリーワールドフェス
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200223T030000Z
+DTEND:20200223T063000Z
+UID:79qadd58l7n72hofk6ssvdjq5m@google.com
+CREATED:20200220T173428Z
+DESCRIPTION:<br><a href="https://www.sanrio.co.jp/news/pn-event-komatsu-kab
+ ukky-20200217/">https://www.sanrio.co.jp/news/pn-event-komatsu-kabukky-2020
+ 0217/</a>&nbsp\;<br>&nbsp\;<br>ポムポムプリンが「カブッキー」のお祝いにいくよ！（石川県小松市）<br>2月23日（日・
+ 祝）<br><br>カブッキーとポムポムプリン握手会<br>12:00～12:30<br>カブッキーランド（小松市土居原町10-10 こまつアズスクエ
+ ア 1F）<br>6カ月～小学6年生のお子さまとその保護者　※大人のみでのご入場は不可<br><br>カブッキー誕生日会<br>15:00～15:30
+ <br>イオンモール新小松 1F 祭広場（石川県小松市清六町315）
+LAST-MODIFIED:20200220T173437Z
+LOCATION:カブッキーランド\, Japan\, 〒923-8640 Ishikawa\, Komatsu\, Doiharamachi\, １
+ ０−１０ こまつアズスクエア １階
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:PN カブッキー誕生日会
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20200222T020000Z
 DTEND:20200222T060000Z
 UID:460hnps45q0vb6lvc96d3qjm0r@google.com
@@ -528,22 +701,6 @@ SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:MM 大崎ニュー・シティ
 TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20200315
-DTEND;VALUE=DATE:20200316
-UID:1nmofsoddsmhc28ufvs3n6asib@google.com
-CREATED:20200210T104329Z
-DESCRIPTION:ストロベリーワールドフェス2020\n3月14日（土） 9：00〜15：30\n3月15日（日） 9：00〜15：30\nメイ
- ン会場：井頭公園東駐車場\nサテライト会場：久保記念観光文化交流館／道の駅にのみや\n\nハローキティ＆ぐてたまステージショー\nサブステージにて握手
- 会もある\n3月15日（日）
-LAST-MODIFIED:20200210T104329Z
-LOCATION:Igashira Koen Higashi Parking Lot\, Japan\, 〒321-4415 Tochigi\, Mo
- ka\, Shimokomoriya\, ９９ 番地
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:KT\,GU ストロベリーワールドフェス
-TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20200328
