@@ -384,6 +384,112 @@ RRULE:FREQ=YEARLY;BYMONTH=9;BYDAY=1SU
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+DTSTART:20200223T030000Z
+DTEND:20200223T063000Z
+UID:79qadd58l7n72hofk6ssvdjq5m@google.com
+CREATED:20200220T173428Z
+DESCRIPTION:<br><a href="https://www.sanrio.co.jp/news/pn-event-komatsu-kab
+ ukky-20200217/">https://www.sanrio.co.jp/news/pn-event-komatsu-kabukky-2020
+ 0217/</a>&nbsp\;<br>&nbsp\;<br>新型コロナウイルス（COVID-19）の感染症拡大の防止のため中止<br><br>ポムポ
+ ムプリンが「カブッキー」のお祝いにいくよ！（石川県小松市）<br>2月23日（日・祝）<br><br>カブッキーとポムポムプリン握手会<br>12:0
+ 0～12:30<br>カブッキーランド（小松市土居原町10-10 こまつアズスクエア 1F）<br>6カ月～小学6年生のお子さまとその保護者　※大人の
+ みでのご入場は不可<br><br>カブッキー誕生日会<br>15:00～15:30<br>イオンモール新小松 1F 祭広場（石川県小松市清六町315）
+LAST-MODIFIED:20200221T141209Z
+LOCATION:カブッキーランド\, Japan\, 〒923-8640 Ishikawa\, Komatsu\, Doiharamachi\, １
+ ０−１０ こまつアズスクエア １階
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(中止) PN カブッキー誕生日会
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200229T020000Z
+DTEND:20200229T073000Z
+UID:6vf08mk53chsjb8m7tmg8rtl29@google.com
+CREATED:20200204T160559Z
+DESCRIPTION:<a href="https://twitter.com/sanrioshop_info/status/12307507314
+ 19807744" id="ow367" __is_owner="true">https://twitter.com/sanrioshop_info/
+ status/1230750731419807744</a><br><a href="https://twitter.com/10hamuchan10
+ /status/1230815893225013248">https://twitter.com/10hamuchan10/status/123081
+ 5893225013248</a>&nbsp\;&nbsp\;<br><br>新型コロナウイルス（COVID-19）の感染症拡大の防止のため中止&nb
+ sp\;&nbsp\;&nbsp\;<br><br><a href="https://www.sanrio.co.jp/news/event-gg-m
+ usashikosugi-20200229/">https://www.sanrio.co.jp/news/event-gg-musashikosug
+ i-20200229/</a><br><a href="https://twitter.com/10hamuchan10/status/1229409
+ 602044739584" id="ow374" __is_owner="true">https://twitter.com/10hamuchan10
+ /status/1229409602044739584</a>&nbsp\;<br><br>ポチャッコが遊びにくるよ！（Sanrio Gift Gat
+ e グランツリー武蔵小杉店）<br>グランツリー武蔵小杉 4F スマイルスクエア<br>2月29日（土）<br>11:00<br>14:00<br>1
+ 6:00<br><br>写真撮影会<br>各回先着30名<br>イベント当日10:00より、4F SanrioGift Gateにて、税込み1\,00
+ 0円以上（お楽しみ袋類、ゲーム等一部対象外の商品がございます）購入で「写真撮影券」を配布
+LAST-MODIFIED:20200221T112704Z
+LOCATION:Grand Tree Musashikosugi\, 3-chōme-1135-1 Shinmarukohigashi\, Naka
+ hara-ku\, Kawasaki\, Kanagawa 211-0004\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(中止) PC グランツリー武蔵小杉
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200222T020000Z
+DTEND:20200222T063000Z
+UID:7lk7pokg9knph0igv8v95o32tk@google.com
+CREATED:20200207T161215Z
+DESCRIPTION:<a href="https://mitsui-shopping-park.com/lalaport/tachikawa/ev
+ ent/1517804.html">https://mitsui-shopping-park.com/lalaport/tachikawa/event
+ /1517804.html</a><br><a href="https://www.sanrio.co.jp/news/event-lalaport-
+ tachikawa-20200222/">https://www.sanrio.co.jp/news/event-lalaport-tachikawa
+ -20200222/</a>&nbsp\;&nbsp\;<br><br>お客様の健康と安全を第一に中止<br><br>ハローキティ＆ぐでたまのシンキン
+ グ！ダンシング！クッキング！<br>2月22日（土）<br>11:00～ ショー<br>13:00～ ショー<br>15:00～ 握手会<br>2Fイ
+ ベント広場・ステージ<br><br>握手会の参加条件<br>ららぽーと立川立飛での当日1\,000円（税込・合算不可）以上のレシート提示<br>参加整
+ 理券は10:00から配布<br>定員200名
+LAST-MODIFIED:20200221T110153Z
+LOCATION:Lalaport Tachikawa Tachihi\, 935番地の1 Izumichō\, Tachikawa\, Tōkyō-
+ to 190-0015\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(中止) KT\,GU クッキング
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200307
+DTEND;VALUE=DATE:20200308
+UID:4nq8tkg3g3pic7vb4aggkl95v8@google.com
+CREATED:20200221T092756Z
+DESCRIPTION:https://twitter.com/sanrioshop_info/status/1230755583902355457\
+ n\n新型コロナウイルス（COVID-19）の感染症拡大の防止のため中止\n\nシナモロール　グリーティング\n3/7（土）\n水戸京成百貨店 7F 
+ サンリオ
+LAST-MODIFIED:20200221T092756Z
+LOCATION:Keisei Department Store\, Japan\, 〒310-0026 Ibaraki\, Mito\, Izumi
+ chō\, 1-chōme−6\, 水戸市泉町１丁目６−１
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(中止) CN 水戸京成百貨店
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200222T020000Z
+DTEND:20200222T060000Z
+UID:460hnps45q0vb6lvc96d3qjm0r@google.com
+CREATED:20200207T134440Z
+DESCRIPTION:<a href="https://twitter.com/sanrioshop_info/status/12307505184
+ 83406848" id="ow1337" __is_owner="true">https://twitter.com/sanrioshop_info
+ /status/1230750518483406848</a>&nbsp\;&nbsp\;<br><br><br>新型コロナウイルス（COVID-19
+ ）の感染症拡大の防止のため中止&nbsp\;<br><br><a href="https://www.sanrio.co.jp/news/event-
+ daimaru-umeda-20200222/">https://www.sanrio.co.jp/news/event-daimaru-umeda-
+ 20200222/</a><br><a href="https://twitter.com/sanrioshop_info/status/122924
+ 8096535638016">https://twitter.com/sanrioshop_info/status/12292480965356380
+ 16</a><br><br>ポチャッコが遊びにくるよ！（大丸梅田店 サンリオ）<br>大丸梅田店 5F サンリオショップ店内<br>2月22日（土）<
+ br>11:00<br>13:00<br>14:30<br><br>各回先着40名<br>当日9:00より、大丸梅田店 1F南ゲート広場東側にて、各回
+ の「撮影会整理券」と交換できる「購入予約券」を配布<br>10:00以降大丸梅田店 5F サンリオショップでのお会計時に、「購入予約券」を「撮影会整理
+ 券」に交換<br>ポチャッコ商品を含む税込み1\,000円以上
+LAST-MODIFIED:20200221T071754Z
+LOCATION:Daimaru Umeda\, 3-chōme-1-1 Umeda\, Kita-ku\, Osaka\, 530-0001\, J
+ apan
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:(中止) PC 大丸梅田
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Jakarta:20200418T150000
 DTEND;TZID=Asia/Jakarta:20200418T183000
 RRULE:FREQ=WEEKLY;WKST=SU;COUNT=8;BYDAY=SA,SU
@@ -538,45 +644,6 @@ SUMMARY:KT\,GU ストロベリーワールドフェス
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20200223T030000Z
-DTEND:20200223T063000Z
-UID:79qadd58l7n72hofk6ssvdjq5m@google.com
-CREATED:20200220T173428Z
-DESCRIPTION:<br><a href="https://www.sanrio.co.jp/news/pn-event-komatsu-kab
- ukky-20200217/">https://www.sanrio.co.jp/news/pn-event-komatsu-kabukky-2020
- 0217/</a>&nbsp\;<br>&nbsp\;<br>ポムポムプリンが「カブッキー」のお祝いにいくよ！（石川県小松市）<br>2月23日（日・
- 祝）<br><br>カブッキーとポムポムプリン握手会<br>12:00～12:30<br>カブッキーランド（小松市土居原町10-10 こまつアズスクエ
- ア 1F）<br>6カ月～小学6年生のお子さまとその保護者　※大人のみでのご入場は不可<br><br>カブッキー誕生日会<br>15:00～15:30
- <br>イオンモール新小松 1F 祭広場（石川県小松市清六町315）
-LAST-MODIFIED:20200220T173437Z
-LOCATION:カブッキーランド\, Japan\, 〒923-8640 Ishikawa\, Komatsu\, Doiharamachi\, １
- ０−１０ こまつアズスクエア １階
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:PN カブッキー誕生日会
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20200222T020000Z
-DTEND:20200222T060000Z
-UID:460hnps45q0vb6lvc96d3qjm0r@google.com
-CREATED:20200207T134440Z
-DESCRIPTION:<a href="https://www.sanrio.co.jp/news/event-daimaru-umeda-2020
- 0222/">https://www.sanrio.co.jp/news/event-daimaru-umeda-20200222/</a><br>h
- ttps://twitter.com/sanrioshop_info/status/1229248096535638016<br><br>ポチャッコが
- 遊びにくるよ！（大丸梅田店 サンリオ）<br>大丸梅田店 5F サンリオショップ店内<br>2月22日（土）<br>11:00<br>13:00<br
- >14:30<br><br>各回先着40名<br>当日9:00より、大丸梅田店 1F南ゲート広場東側にて、各回の「撮影会整理券」と交換できる「購入予約
- 券」を配布<br>10:00以降大丸梅田店 5F サンリオショップでのお会計時に、「購入予約券」を「撮影会整理券」に交換<br>ポチャッコ商品を含む税
- 込み1\,000円以上
-LAST-MODIFIED:20200217T042117Z
-LOCATION:Daimaru Umeda\, 3-chōme-1-1 Umeda\, Kita-ku\, Osaka\, 530-0001\, J
- apan
-SEQUENCE:1
-STATUS:CONFIRMED
-SUMMARY:PC 大丸梅田
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20200216
 DTEND;VALUE=DATE:20200217
 UID:5e4fpufmjul15lvb6vhvh5t5ar@google.com
@@ -660,26 +727,6 @@ LOCATION:Kyoto Railway Museum\, Kankijicho\, Shimogyo Ward\, Kyoto\, 600-88
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:KT ハローキティ新幹線展
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20200222T020000Z
-DTEND:20200222T063000Z
-UID:7lk7pokg9knph0igv8v95o32tk@google.com
-CREATED:20200207T161215Z
-DESCRIPTION:<a href="https://mitsui-shopping-park.com/lalaport/tachikawa/ev
- ent/1517804.html">https://mitsui-shopping-park.com/lalaport/tachikawa/event
- /1517804.html</a><br><a href="https://www.sanrio.co.jp/news/event-lalaport-
- tachikawa-20200222/">https://www.sanrio.co.jp/news/event-lalaport-tachikawa
- -20200222/</a>&nbsp\;&nbsp\;<br><br>ハローキティ＆ぐでたまのシンキング！ダンシング！クッキング！<br>2月22日
- （土）<br>11:00～ ショー<br>13:00～ ショー<br>15:00～ 握手会<br>2Fイベント広場・ステージ<br><br>握手会の参
- 加条件<br>ららぽーと立川立飛での当日1\,000円（税込・合算不可）以上のレシート提示<br>参加整理券は10:00から配布<br>定員200名
-LAST-MODIFIED:20200212T112013Z
-LOCATION:Lalaport Tachikawa Tachihi\, 935番地の1 Izumichō\, Tachikawa\, Tōkyō-
- to 190-0015\, Japan
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:KT\,GU クッキング
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -1038,23 +1085,6 @@ LOCATION:Tokyu Department Main store\, 2-chōme-24-1 Dōgenzaka\, Shibuya Cit
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:HV デビュー記念LIVE
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20200229T020000Z
-DTEND:20200229T073000Z
-UID:6vf08mk53chsjb8m7tmg8rtl29@google.com
-CREATED:20200204T160559Z
-DESCRIPTION:https://www.sanrio.co.jp/news/event-gg-musashikosugi-20200229/\
- n\nポチャッコが遊びにくるよ！（Sanrio Gift Gate グランツリー武蔵小杉店）\nグランツリー武蔵小杉 4F スマイルスクエア\n2月2
- 9日（土）\n11:00\n14:00\n16:00\n\n写真撮影会\n各回先着30名\nイベント当日10:00より、4F SanrioGift G
- ateにて、税込み1\,000円以上（お楽しみ袋類、ゲーム等一部対象外の商品がございます）購入で「写真撮影券」を配布
-LAST-MODIFIED:20200204T160559Z
-LOCATION:Grand Tree Musashikosugi\, 3-chōme-1135-1 Shinmarukohigashi\, Naka
- hara-ku\, Kawasaki\, Kanagawa 211-0004\, Japan
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:PC グランツリー武蔵小杉
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
