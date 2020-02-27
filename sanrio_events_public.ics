@@ -384,6 +384,210 @@ RRULE:FREQ=YEARLY;BYMONTH=9;BYDAY=1SU
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+DTSTART:20200306T100000Z
+DTEND:20200306T103000Z
+UID:1qh65l3qn81mjfrkplovgpsq7p@google.com
+CREATED:20200207T135252Z
+DESCRIPTION:国内外での新型コロナウイルス（COVID-19）の感染症拡大の防止のため、お客様と従業員の安全を考慮し、3月6日（金）に予定し
+ ておりましたハイタッチ会を延期<br>3月22日（日）、3月29日（日）の開催は検討中<br><br><a href="https://cinnamo
+ roll-officialfanclub.com/contents/293645" id="ow2266" __is_owner="true">htt
+ ps://cinnamoroll-officialfanclub.com/contents/293645</a><br><a href="https:
+ //www.sanrio.co.jp/wp-content/uploads/2020/02/20200206.pdf">https://www.san
+ rio.co.jp/wp-content/uploads/2020/02/20200206.pdf</a><br><a href="https://p
+ rtimes.jp/main/html/rd/p/000000184.000037629.html">https://prtimes.jp/main/
+ html/rd/p/000000184.000037629.html</a>&nbsp\;<br><br>シナモロール 2020～2021年 卓上スク
+ ールカレンダー発売記念書店イベント<br><br><a href="https://www.hmv.co.jp/news/article/200130
+ 1031/">https://www.hmv.co.jp/news/article/2001301031/</a><br>3/6（金）　19時～　東京
+ 都内某所 ※会場は当選者のみにお知らせ<br><br><a href="https://www.yaesu-book.co.jp/events/oth
+ er/17800/">https://www.yaesu-book.co.jp/events/other/17800/</a><br>3/22（日）　
+ 13：00～/14：30～/16：00～　八重洲ブックセンター　八重洲本店<br><br><a href="https://www.yurindo.c
+ o.jp/tokyo-hachioji/3012">https://www.yurindo.co.jp/tokyo-hachioji/3012</a>
+ <br>3/29（日）　13：00～/14：30～/16：00～　有隣堂　セレオ八王子店
+LAST-MODIFIED:20200227T135353Z
+LOCATION:Tokyo\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(延期) CN 卓上スクールカレンダー
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200301T030000Z
+DTEND:20200301T093000Z
+UID:7hgd4va3otfng49htbr44dk4v8@google.com
+CREATED:20200115T014508Z
+DESCRIPTION:<a href="https://www.symphony-cruise.co.jp/season/detail.php?p=
+ 1395" id="ow1895" __is_owner="true">https://www.symphony-cruise.co.jp/seaso
+ n/detail.php?p=1395</a><br><a href="https://www.symphony-cruise.co.jp/infor
+ mation/3623">https://www.symphony-cruise.co.jp/information/3623</a>&nbsp\;&
+ nbsp\;<br><br>シナモロール クルーズパーティー<br>3月1日<br>12:00-14:10 ランチクルーズ<br>16:30-18:3
+ 0 サンセットクルーズ
+LAST-MODIFIED:20200227T135318Z
+LOCATION:Symphony Cruise\, 2-chōme-7-104 Kaigan\, Minato City\, Tōkyō-to 10
+ 5-0022\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CN クルーズパーティー
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200229T000000Z
+DTEND:20200229T014000Z
+UID:7q3achia4jo1qptmdsvofo4i2g@google.com
+CREATED:20200227T134721Z
+DESCRIPTION:https://www.facebook.com/events/514547972819077/\nhttps://twitt
+ er.com/aggretsuko/status/1232832804012134401\n\nAnime Celebration at the Fu
+ nko Hollywood Store!\n\nFebruary 28th\nFunko Hollywood store\n\nAggretsuko 
+ Meet 'n Greet:\n4pm-4:20pm\n4:40pm-5pm\n5:20pm-5:40pm
+LAST-MODIFIED:20200227T134721Z
+LOCATION:Funko Hollywood\, 6201 Hollywood Blvd #100\, Los Angeles\, CA 9002
+ 8 アメリカ合衆国
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:AR Funko Hollywood Store
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200328
+DTEND;VALUE=DATE:20200329
+RRULE:FREQ=DAILY;COUNT=2
+UID:0drh0nlsi1lu3dtu71qsjsdje1@google.com
+CREATED:20200227T094421Z
+DESCRIPTION:https://sky-lantern.info/\n\n桜スカイランタン2020\n京都府立植物園\n2020-03-28\
+ ,29\n16:00-20:30\n定員 各日2000\n\nハローキティとポムポムプリンによるステージショー
+LAST-MODIFIED:20200227T094421Z
+LOCATION:Kyoto Botanical Gardens\, Shimogamo Hangicho\, Sakyo Ward\, Kyoto\
+ , 606-0823\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT\,PN 桜スカイランタン
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200322T020000Z
+DTEND:20200322T063000Z
+UID:3rjf7rmg8vausqguircuctm439@google.com
+CREATED:20200227T093927Z
+DESCRIPTION:https://www.seibu-leisure.co.jp/event/20520/index.html\n\n3月1日（
+ 日）、8日（日）、22日（日）\n11:00～ マイメロディとハッピーグリーティング\n13:00～ 3月バースデーセレブレーション\n15:00～ 
+ マイメロディのプリンセスアカデミー
+LAST-MODIFIED:20200227T093927Z
+LOCATION:Seibuen Amusement Park\, 2964 Yamaguchi\, Tokorozawa\, Saitama 359
+ -1145\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MM\,KT 西武園ゆうえんち
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20200301T110000
+DTEND;TZID=Asia/Tokyo:20200301T153000
+RRULE:FREQ=WEEKLY;WKST=SU;COUNT=2;BYDAY=SU
+UID:51prhackn7vo88hmkfkuh7g61u@google.com
+CREATED:20200227T093915Z
+DESCRIPTION:https://www.seibu-leisure.co.jp/event/20520/index.html\n\n3月1日（
+ 日）、8日（日）、22日（日）\n11:00～ マイメロディとハッピーグリーティング\n13:00～ 3月バースデーセレブレーション\n15:00～ 
+ マイメロディのプリンセスアカデミー
+LAST-MODIFIED:20200227T093915Z
+LOCATION:Seibuen Amusement Park\, 2964 Yamaguchi\, Tokorozawa\, Saitama 359
+ -1145\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MM\,KT 西武園ゆうえんち
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200229T200000Z
+DTEND:20200301T000000Z
+UID:4t7pnjq5ck4441t0upjboss7ih@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
+  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
+ gle.com
+CREATED:20200227T093639Z
+DESCRIPTION:https://www.facebook.com/events/184555606168132/\nhttps://www.f
+ acebook.com/Sanrio/posts/10157011118212816/\nhttps://www.facebook.com/Sanri
+ o/posts/10157019284752816\n\nLeap Year Time Capsule Event - Meet Pochacco!\
+ nSaturday\, 29 February 2020 from 12:00-16:00 PST\nSanrio Japanese Village
+LAST-MODIFIED:20200227T093650Z
+LOCATION:Sanrio Japanese Village\, 115 Japanese Village Plaza Mall\, Los An
+ geles\, CA 90012\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:PC Sanrio Japanese Village
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200301T020000Z
+DTEND:20200301T063000Z
+UID:2gk1aq072qdtuql2hron4bv0mh@google.com
+CREATED:20200131T230139Z
+DESCRIPTION:HV = PC\, TX\, KR\, XO\, HG\, AP<br><br><a href="https://www.sa
+ nrio.co.jp/news/hv-hapidanbui-debutlive-20200225/">https://www.sanrio.co.jp
+ /news/hv-hapidanbui-debutlive-20200225/</a>&nbsp\;&nbsp\;<br><a href="https
+ ://www.sanrio.co.jp/wp-content/uploads/2020/02/20200225.pdf">https://www.sa
+ nrio.co.jp/wp-content/uploads/2020/02/20200225.pdf</a><br><a href="https://
+ prtimes.jp/main/html/rd/p/000000192.000037629.html">https://prtimes.jp/main
+ /html/rd/p/000000192.000037629.html</a><br><a href="https://www.sanrio.co.j
+ p/wp-content/uploads/2020/02/20200131a.pdf">https://www.sanrio.co.jp/wp-con
+ tent/uploads/2020/02/20200131a.pdf</a>&nbsp\;&nbsp\;<br><br><br>新型コロナウイルス(C
+ OVID-19)のため中止<br>代替として、「はぴだんぶい」のデビュー記念LIVEをサンリオピューロランドで無観客開催し、「はぴだんぶい」公式Twi
+ tterでライブ放送<br><br><a href="https://www.sanrio.co.jp/news/hv-hapidanbui-debu
+ t-20200131/">https://www.sanrio.co.jp/news/hv-hapidanbui-debut-20200131/</a
+ ><br><a href="https://www.sanrio.co.jp/wp-content/uploads/2020/01/20200131.
+ pdf">https://www.sanrio.co.jp/wp-content/uploads/2020/01/20200131.pdf</a><b
+ r><a href="https://www.fashion-press.net/news/57917/2">https://www.fashion-
+ press.net/news/57917/2</a>&nbsp\;&nbsp\;<br><br>みんなをちょっとハッピーにしたい男子6人組ユニット「は
+ ぴだんぶい」がデビュー！<br><br>「はぴだんぶい」 pop-up ショップオープン初日に、ポチャッコがお店にやってきます。<br>2月15日(土
+ )<br>10:00～<br>13:00～<br>15:00～<br>各回20分(予定)<br>東急百貨店 渋谷駅・東横店西館1階 SHIBUYAスク
+ ランブルI<br>ポップアップステージA 「はぴだんぶい」 pop-up ショップ<br>ツーショット撮影禁止<br><br>デビュー記念LIVEイベ
+ ント<br>3月1日（日）<br>11:00～<br>13:00～<br>15:00～<br>各回約20分<br>東急百貨店 本店 屋上 アクセス情報
+ <br><br>雨天時のグリーティングスケジュール（各回約20分）<br>11:00～：ポチャッコ・あひるのペックル<br>13:00～：バッドばつ丸
+ ・ハンギョドン<br>15:00～：タキシードサム・けろけろけろっぴ<br>ツーショット禁止
+LAST-MODIFIED:20200227T093349Z
+LOCATION:Tokyu Department Main store\, 2-chōme-24-1 Dōgenzaka\, Shibuya Cit
+ y\, Tōkyō-to 150-0043\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(中止) HV デビュー記念LIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200315T031000Z
+DTEND:20200315T060000Z
+UID:1nmofsoddsmhc28ufvs3n6asib@google.com
+CREATED:20200210T104329Z
+DESCRIPTION:新型コロナウイルス（COVID-19）のため中止<br><br><a href="https://ichigo-summit-
+ moka.jp/event">https://ichigo-summit-moka.jp/event</a>&nbsp\;<br><a href="h
+ ttps://www.sanrio.co.jp/news/event-ichigo-summit-20200315/" id="ow801" __is
+ _owner="true">https://www.sanrio.co.jp/news/event-ichigo-summit-20200315/</
+ a>&nbsp\;&nbsp\;<br><br>&nbsp\;<br>ストロベリーワールドフェス2020<br>3月14日（土） 9：00〜15：30
+ <br>3月15日（日） 9：00〜15：30<br>メイン会場：井頭公園東駐車場<br>サテライト会場：久保記念観光文化交流館／道の駅にのみや<br
+ ><br><br>ハローキティ＆ぐでたまミニステージ<br>3月15日（日） 12:10～<br>メインステージ<br><br>ハローキティ＆ぐでたま
+ 撮影会<br>3月15日（日） 14:30～<br>サブステージ<br>当日13:00より、メインステージ左側テントで先着30組様に整理券を配布
+LAST-MODIFIED:20200227T091736Z
+LOCATION:Igashira Koen Higashi Parking Lot\, Japan\, 〒321-4415 Tochigi\, Mo
+ ka\, Shimokomoriya\, ９９ 番地
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:(中止) KT\,GU ストロベリーワールドフェス
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200321T064500Z
+DTEND:20200321T071500Z
+UID:61okekr3ect6g6r5cbvogiju78@google.com
+CREATED:20200227T091544Z
+DESCRIPTION:http://www.parthenon.or.jp/act/3743.html\n\nパルTAMA感謝祭～32年ありがとう、
+ そして新たなステージへ～\n2020年03月21日 (土)\n時間15：00～16：15（予定）\n場所パルテノン多摩大階段下ステージ\n※雨天時は2
+ Fフリースペースにて実施\n\n・セレモニー\n・スペシャルステージ\n[1]ベルブブラスバンド 演奏\n[2]des ailes 26 （ディゼル）
+ ＆三姿舞 ライブ\n[3]ハローキティ＆マイメロディ＆ぼんぼんりぼんのミラクルパーティ★
+LAST-MODIFIED:20200227T091544Z
+LOCATION:Parthenon Tama\, 2 Chome-35 Ochiai\, Tama\, Tokyo 206-0033\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT\,MM\,BO ミラクルパーティ
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20200223T030000Z
 DTEND:20200223T063000Z
 UID:79qadd58l7n72hofk6ssvdjq5m@google.com
@@ -624,27 +828,6 @@ SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:KT  Hyper Japan Festival
 TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20200315T031000Z
-DTEND:20200315T060000Z
-UID:1nmofsoddsmhc28ufvs3n6asib@google.com
-CREATED:20200210T104329Z
-DESCRIPTION:<br><a href="https://ichigo-summit-moka.jp/event">https://ichig
- o-summit-moka.jp/event</a>&nbsp\;<br><a href="https://www.sanrio.co.jp/news
- /event-ichigo-summit-20200315/">https://www.sanrio.co.jp/news/event-ichigo-
- summit-20200315/</a>&nbsp\;&nbsp\;<br><br>&nbsp\;<br>ストロベリーワールドフェス2020<br>3
- 月14日（土） 9：00〜15：30<br>3月15日（日） 9：00〜15：30<br>メイン会場：井頭公園東駐車場<br>サテライト会場：久保記念
- 観光文化交流館／道の駅にのみや<br><br><br>ハローキティ＆ぐでたまミニステージ<br>3月15日（日） 12:10～<br>メインステージ<
- br><br>ハローキティ＆ぐでたま撮影会<br>3月15日（日） 14:30～<br>サブステージ<br>当日13:00より、メインステージ左側テン
- トで先着30組様に整理券を配布
-LAST-MODIFIED:20200220T173652Z
-LOCATION:Igashira Koen Higashi Parking Lot\, Japan\, 〒321-4415 Tochigi\, Mo
- ka\, Shimokomoriya\, ９９ 番地
-SEQUENCE:1
-STATUS:CONFIRMED
-SUMMARY:KT\,GU ストロベリーワールドフェス
-TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20200216
@@ -910,31 +1093,6 @@ SUMMARY:KT 北斗フェブラリーフェスタ
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20200306T100000Z
-DTEND:20200306T103000Z
-UID:1qh65l3qn81mjfrkplovgpsq7p@google.com
-CREATED:20200207T135252Z
-DESCRIPTION:<a href="https://cinnamoroll-officialfanclub.com/contents/29364
- 5">https://cinnamoroll-officialfanclub.com/contents/293645</a><br><a href="
- https://www.sanrio.co.jp/wp-content/uploads/2020/02/20200206.pdf">https://w
- ww.sanrio.co.jp/wp-content/uploads/2020/02/20200206.pdf</a><br><a href="htt
- ps://prtimes.jp/main/html/rd/p/000000184.000037629.html">https://prtimes.jp
- /main/html/rd/p/000000184.000037629.html</a>&nbsp\;<br>&nbsp\;<br>シナモロール 20
- 20～2021年 卓上スクールカレンダー発売記念書店イベント<br><br><a href="https://www.hmv.co.jp/news/a
- rticle/2001301031/">https://www.hmv.co.jp/news/article/2001301031/</a><br>3
- /6（金）　19時～　東京都内某所 ※会場は当選者のみにお知らせ<br><br><a href="https://www.yaesu-book.co.
- jp/events/other/17800/">https://www.yaesu-book.co.jp/events/other/17800/</a
- ><br>3/22（日）　13：00～/14：30～/16：00～　八重洲ブックセンター　八重洲本店<br><br><a href="https://
- www.yurindo.co.jp/tokyo-hachioji/3012">https://www.yurindo.co.jp/tokyo-hach
- ioji/3012</a><br>3/29（日）　13：00～/14：30～/16：00～　有隣堂　セレオ八王子店
-LAST-MODIFIED:20200207T135458Z
-LOCATION:Tokyo\, Japan
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:CN 卓上スクールカレンダー
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20200322T040000Z
 DTEND:20200322T073000Z
 UID:071tsqkql4nm0s5rhu9ek7cmed@google.com
@@ -1062,32 +1220,6 @@ LOCATION:Tokyu Department Store\, 2-chōme-24-1 Shibuya\, Shibuya City\, Tōk
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:PC はぴだんぶい pop-up ショップ
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20200301T020000Z
-DTEND:20200301T063000Z
-UID:2gk1aq072qdtuql2hron4bv0mh@google.com
-CREATED:20200131T230139Z
-DESCRIPTION:HV = PC\, TX\, KR\, XO\, HG\, AP<br><br><a href="https://www.sa
- nrio.co.jp/news/hv-hapidanbui-debut-20200131/">https://www.sanrio.co.jp/new
- s/hv-hapidanbui-debut-20200131/</a><br><a href="https://www.sanrio.co.jp/wp
- -content/uploads/2020/01/20200131.pdf" id="ow2168" __is_owner="true">https:
- //www.sanrio.co.jp/wp-content/uploads/2020/01/20200131.pdf</a><br><a href="
- https://www.fashion-press.net/news/57917/2">https://www.fashion-press.net/n
- ews/57917/2</a>&nbsp\;&nbsp\;<br><br>みんなをちょっとハッピーにしたい男子6人組ユニット「はぴだんぶい」がデビュー
- ！<br><br>「はぴだんぶい」 pop-up ショップオープン初日に、ポチャッコがお店にやってきます。<br>2月15日(土)<br>10:00～
- <br>13:00～<br>15:00～<br>各回20分(予定)<br>東急百貨店 渋谷駅・東横店西館1階 SHIBUYAスクランブルI<br>ポッ
- プアップステージA 「はぴだんぶい」 pop-up ショップ<br>ツーショット撮影禁止<br><br>デビュー記念LIVEイベント<br>3月1日（
- 日）<br>11:00～<br>13:00～<br>15:00～<br>各回約20分<br>東急百貨店 本店 屋上 アクセス情報<br><br>雨天時
- のグリーティングスケジュール（各回約20分）<br>11:00～：ポチャッコ・あひるのペックル<br>13:00～：バッドばつ丸・ハンギョドン<br>
- 15:00～：タキシードサム・けろけろけろっぴ<br>ツーショット禁止
-LAST-MODIFIED:20200204T162720Z
-LOCATION:Tokyu Department Main store\, 2-chōme-24-1 Dōgenzaka\, Shibuya Cit
- y\, Tōkyō-to 150-0043\, Japan
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:HV デビュー記念LIVE
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -1798,21 +1930,6 @@ LOCATION:Public Stand Shibuya\, Japan\, 〒150-0002 Tōkyō-to\, Shibuya City\,
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:KT The Public stand 3周年
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20200301T030000Z
-DTEND:20200301T093000Z
-UID:7hgd4va3otfng49htbr44dk4v8@google.com
-CREATED:20200115T014508Z
-DESCRIPTION:https://www.symphony-cruise.co.jp/season/detail.php?p=1395\n\nシ
- ナモロール クルーズパーティー\n3月1日\n12:00-14:10 ランチクルーズ\n16:30-18:30 サンセットクルーズ
-LAST-MODIFIED:20200115T014508Z
-LOCATION:Symphony Cruise\, 2-chōme-7-104 Kaigan\, Minato City\, Tōkyō-to 10
- 5-0022\, Japan
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:CN クルーズパーティー
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
