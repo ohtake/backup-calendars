@@ -384,6 +384,32 @@ RRULE:FREQ=YEARLY;BYMONTH=9;BYDAY=1SU
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20200301T110000
+DTEND;TZID=Asia/Tokyo:20200301T153000
+UID:51prhackn7vo88hmkfkuh7g61u@google.com
+RECURRENCE-ID;TZID=Asia/Tokyo:20200301T110000
+CREATED:20200227T093915Z
+DESCRIPTION:<a href="https://www.seibu-leisure.co.jp/20200280Info.pdf">http
+ s://www.seibu-leisure.co.jp/20200280Info.pdf</a><br><a href="https://www.se
+ iburailway.jp/news/information/20200228information.pdf">https://www.seibura
+ ilway.jp/news/information/20200228information.pdf</a><br><a href="https://t
+ witter.com/seibuenyuuenchi/status/1233352174781882368">https://twitter.com/
+ seibuenyuuenchi/status/1233352174781882368</a><br><br>「新型コロナウイルス感染症対策本部」が20
+ 20年2月25日に発表した基本方針の重要事項を踏まえ、新型コロナウイルスの感染拡大を防ぐため、西武園ゆうえんち全施設を臨時休園<br><br>休園期間
+ ：2020年2月29日(土)～3月15日(日)<br>※営業再開日は3月16日(月)を予定<br>休園施設：園内すべての施設<br><br><a hr
+ ef="https://www.seibu-leisure.co.jp/event/20520/index.html">https://www.sei
+ bu-leisure.co.jp/event/20520/index.html</a><br><br>3月1日（日）、8日（日）、22日（日）<br>
+ 11:00～ マイメロディとハッピーグリーティング<br>13:00～ 3月バースデーセレブレーション<br>15:00～ マイメロディのプリンセスア
+ カデミー
+LAST-MODIFIED:20200228T224617Z
+LOCATION:Seibuen Amusement Park\, 2964 Yamaguchi\, Tokorozawa\, Saitama 359
+ -1145\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(中止) MM\,KT 西武園ゆうえんち
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20200328
 DTEND;VALUE=DATE:20200329
 UID:2lliqpl8eu25q1ktkn544parhm@google.com
@@ -450,33 +476,6 @@ DESCRIPTION:<a href="https://www.seibu-leisure.co.jp/20200280Info.pdf" id="
  r><br>3月1日（日）、8日（日）、22日（日）<br>11:00～ マイメロディとハッピーグリーティング<br>13:00～ 3月バースデーセレ
  ブレーション<br>15:00～ マイメロディのプリンセスアカデミー
 LAST-MODIFIED:20200228T113737Z
-LOCATION:Seibuen Amusement Park\, 2964 Yamaguchi\, Tokorozawa\, Saitama 359
- -1145\, Japan
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:(中止) MM\,KT 西武園ゆうえんち
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20200301T110000
-DTEND;TZID=Asia/Tokyo:20200301T153000
-UID:51prhackn7vo88hmkfkuh7g61u@google.com
-RECURRENCE-ID;TZID=Asia/Tokyo:20200301T110000
-CREATED:20200227T093915Z
-DESCRIPTION:<a href="https://www.seibu-leisure.co.jp/20200280Info.pdf" id="
- ow942" __is_owner="true">https://www.seibu-leisure.co.jp/20200280Info.pdf</
- a><br><a href="https://www.seiburailway.jp/news/information/20200228informa
- tion.pdf" id="ow946" __is_owner="true">https://www.seiburailway.jp/news/inf
- ormation/20200228information.pdf</a><br><a href="https://twitter.com/seibue
- nyuuenchi/status/1233352174781882368" id="ow950" __is_owner="true">https://
- twitter.com/seibuenyuuenchi/status/1233352174781882368</a><br><br>「新型コロナウイル
- ス感染症対策本部」が2020年2月25日に発表した基本方針の重要事項を踏まえ、新型コロナウイルスの感染拡大を防ぐため、西武園ゆうえんち全施設を臨時休園
- <br><br>休園期間：2020年2月29日(土)～3月15日(日)<br>※営業再開日は3月16日(月)を予定<br>休園施設：園内すべての施設<
- br><br><a href="https://www.seibu-leisure.co.jp/event/20520/index.html">htt
- ps://www.seibu-leisure.co.jp/event/20520/index.html</a><br><br>3月1日（日）、8日（日
- ）、22日（日）<br>11:00～ マイメロディとハッピーグリーティング<br>13:00～ 3月バースデーセレブレーション<br>15:00～ マ
- イメロディのプリンセスアカデミー
-LAST-MODIFIED:20200228T113724Z
 LOCATION:Seibuen Amusement Park\, 2964 Yamaguchi\, Tokorozawa\, Saitama 359
  -1145\, Japan
 SEQUENCE:0
