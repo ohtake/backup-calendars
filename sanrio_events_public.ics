@@ -384,6 +384,23 @@ RRULE:FREQ=YEARLY;BYMONTH=9;BYDAY=1SU
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200322
+DTEND;VALUE=DATE:20200323
+UID:1ncfudval7lsipsmjnvogd0toh@google.com
+CREATED:20200207T141039Z
+DESCRIPTION:<a href="https://www.fujiyakuhin.co.jp/drugstore/festa/">https:
+ //www.fujiyakuhin.co.jp/drugstore/festa/</a><br><br>新型コロナウイルス感染症（COVID-19）に
+ より中止<br><br>富士薬品グループ Presents 第11回お客様感謝フェスタ in さいたまスーパーアリーナ<br>2020-03-22<b
+ r>09:30-16:00<br><br>ハローキティ&amp\;マイメロディ&amp\;ぼんぼんりぼんのミラクルパーティ
+LAST-MODIFIED:20200302T040946Z
+LOCATION:Saitama Super Arena\, 8 Shintoshin\, Chuo Ward\, Saitama\, 330-911
+ 1\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(中止) KT\,MM\,BO ミラクルパーティ
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20200301T110000
 DTEND;TZID=Asia/Tokyo:20200301T153000
 UID:51prhackn7vo88hmkfkuh7g61u@google.com
@@ -1244,22 +1261,6 @@ SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:MM キデイランド大阪梅田
 TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20200322
-DTEND;VALUE=DATE:20200323
-UID:1ncfudval7lsipsmjnvogd0toh@google.com
-CREATED:20200207T141039Z
-DESCRIPTION:https://www.fujiyakuhin.co.jp/drugstore/festa/\n\n富士薬品グループ Pres
- ents 第11回お客様感謝フェスタ in さいたまスーパーアリーナ\n2020-03-22\n09:30-16:00\n\nハローキティ&マイメロデ
- ィ&ぼんぼんりぼんのミラクルパーティ
-LAST-MODIFIED:20200207T141039Z
-LOCATION:Saitama Super Arena\, 8 Shintoshin\, Chuo Ward\, Saitama\, 330-911
- 1\, Japan
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:KT\,MM\,BO ミラクルパーティ
-TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200208T200000Z
