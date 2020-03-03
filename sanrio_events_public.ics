@@ -384,6 +384,59 @@ RRULE:FREQ=YEARLY;BYMONTH=9;BYDAY=1SU
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+DTSTART:20200321T064500Z
+DTEND:20200321T071500Z
+UID:61okekr3ect6g6r5cbvogiju78@google.com
+CREATED:20200227T091544Z
+DESCRIPTION:<br>新型コロナウイルス感染拡大を懸念し中止（2020.3/3（火）17:00現在）&nbsp\;<br><br><a hr
+ ef="http://www.parthenon.or.jp/act/3743.html" id="ow436" __is_owner="true">
+ http://www.parthenon.or.jp/act/3743.html</a><br><br>パルTAMA感謝祭～32年ありがとう、そして新
+ たなステージへ～<br>2020年03月21日 (土)<br>時間15：00～16：15（予定）<br>場所パルテノン多摩大階段下ステージ<br>※雨
+ 天時は2Fフリースペースにて実施<br><br>・セレモニー<br>・スペシャルステージ<br>[1]ベルブブラスバンド 演奏<br>[2]des a
+ iles 26 （ディゼル）＆三姿舞 ライブ<br>[3]ハローキティ＆マイメロディ＆ぼんぼんりぼんのミラクルパーティ★
+LAST-MODIFIED:20200303T105102Z
+LOCATION:Parthenon Tama\, 2 Chome-35 Ochiai\, Tama\, Tokyo 206-0033\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(中止) KT\,MM\,BO ミラクルパーティ
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200314
+DTEND;VALUE=DATE:20200315
+RRULE:FREQ=DAILY;COUNT=2
+UID:26lr3iabuhlo4ifnpsabaifuon@google.com
+CREATED:20200220T174253Z
+DESCRIPTION:新型コロナウイルス感染症の拡大を防ぐため、また、参加者及び関係者の健康や安全面を第一に考え中止<br><a href="htt
+ p://www.city.kawasaki.jp/820/page/0000114688.html">http://www.city.kawasaki
+ .jp/820/page/0000114688.html</a><br><br>川崎市バス70周年記念イベント 川崎ブレイブサンダースとの「同級生コラ
+ ボ」<br>令和2年3月14日（土）・15（日） Bリーグ公式戦（VS レバンガ北海道）<br>時間は両日ともに午後から<br>等々力緑地催し物広場<
+ br><br>かわさきノルフィン・ハローキティとの記念撮影会
+LAST-MODIFIED:20200303T012352Z
+LOCATION:Todoroki Green Space\, 1-1 Todoroki\, Nakahara-ku\, Kawasaki\, Kan
+ agawa 210-8577\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(中止) KT 川崎ブレイブサンダース
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200307T200000Z
+DTEND:20200308T000000Z
+UID:73etef9ciprci08g7ubth7ikl8@google.com
+CREATED:20200302T212550Z
+DESCRIPTION:https://twitter.com/sanrio/status/1234584298512175105\nhttps://
+ www.facebook.com/events/1515813621916807/\n\nCinnamoroll Meet & Greet!\n\nS
+ aturday\, March 7\n12pm-4pm \nSanrio Japanese Village
+LAST-MODIFIED:20200302T212550Z
+LOCATION:Sanrio Japanese Village\, 115 Japanese Village Plaza Mall\, Los An
+ geles\, CA 90012 アメリカ合衆国
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CN Sanrio Japanese Village
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20200322
 DTEND;VALUE=DATE:20200323
 UID:1ncfudval7lsipsmjnvogd0toh@google.com
@@ -881,22 +934,6 @@ SUMMARY:(中止) KT\,GU ストロベリーワールドフェス
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20200321T064500Z
-DTEND:20200321T071500Z
-UID:61okekr3ect6g6r5cbvogiju78@google.com
-CREATED:20200227T091544Z
-DESCRIPTION:http://www.parthenon.or.jp/act/3743.html\n\nパルTAMA感謝祭～32年ありがとう、
- そして新たなステージへ～\n2020年03月21日 (土)\n時間15：00～16：15（予定）\n場所パルテノン多摩大階段下ステージ\n※雨天時は2
- Fフリースペースにて実施\n\n・セレモニー\n・スペシャルステージ\n[1]ベルブブラスバンド 演奏\n[2]des ailes 26 （ディゼル）
- ＆三姿舞 ライブ\n[3]ハローキティ＆マイメロディ＆ぼんぼんりぼんのミラクルパーティ★
-LAST-MODIFIED:20200227T091544Z
-LOCATION:Parthenon Tama\, 2 Chome-35 Ochiai\, Tama\, Tokyo 206-0033\, Japan
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:KT\,MM\,BO ミラクルパーティ
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20200223T030000Z
 DTEND:20200223T063000Z
 UID:79qadd58l7n72hofk6ssvdjq5m@google.com
@@ -1035,23 +1072,6 @@ SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:KT 日比谷しまね館
 TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20200314
-DTEND;VALUE=DATE:20200315
-RRULE:FREQ=DAILY;COUNT=2
-UID:26lr3iabuhlo4ifnpsabaifuon@google.com
-CREATED:20200220T174253Z
-DESCRIPTION:http://www.city.kawasaki.jp/820/page/0000114688.html\n\n川崎市バス70
- 周年記念イベント 川崎ブレイブサンダースとの「同級生コラボ」\n令和2年3月14日（土）・15（日） Bリーグ公式戦（VS レバンガ北海道）\n時間は
- 両日ともに午後から\n等々力緑地催し物広場\n\nかわさきノルフィン・ハローキティとの記念撮影会
-LAST-MODIFIED:20200220T174253Z
-LOCATION:Todoroki Green Space\, 1-1 Todoroki\, Nakahara-ku\, Kawasaki\, Kan
- agawa 210-8577\, Japan
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:KT 川崎ブレイブサンダース
-TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20200710
