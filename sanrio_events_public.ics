@@ -384,6 +384,107 @@ RRULE:FREQ=YEARLY;BYMONTH=9;BYDAY=1SU
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20200321T112000
+DTEND;TZID=Asia/Tokyo:20200321T152000
+RRULE:FREQ=DAILY;COUNT=2
+UID:6us4s86o00feb7b68v9nsd7a1u@google.com
+CREATED:20200220T174611Z
+DESCRIPTION:<a href="https://www.kankou-shimane.com/news/13789.html" id="ow
+ 787" __is_owner="true">https://www.kankou-shimane.com/news/13789.html</a><b
+ r><br>新型コロナウイルスの感染拡大防止のため中止<br><br><a href="https://www.kankou-shimane.com/
+ news/13789.html" id="ow791" __is_owner="true">https://www.kankou-shimane.co
+ m/news/13789.html</a><br><a href="https://www.kankou-shimane.com/jp/wp-cont
+ ent/uploads/2020/02/bihada_shimane_hibiya.pdf" id="ow796" __is_owner="true"
+ >https://www.kankou-shimane.com/jp/wp-content/uploads/2020/02/bihada_shiman
+ e_hibiya.pdf</a><br><br>美肌県しまねin日比谷 「日比谷しまね館」オープンプレイベント<br>2020年3月21日（土）11:
+ 00～17:00<br>2020年3月22日（日）11:00～15:00<br>日比谷ゴジラスクエア（千代田区有楽町1丁目2-2　日比谷シャンテ前）<
+ br><br>ハローキティ×しまねっこグリーティング<br>21日 12:20<br>21日 14:50<br>22日 11:20<br>22日 14
+ :20
+LAST-MODIFIED:20200305T134755Z
+LOCATION:日比谷ゴジラスクエア\, Japan\, 〒100-0006 Tōkyō-to\, Chiyoda City\, Yūrakuchō
+ \, 1-chōme−2−２ 日比谷シャンテ内
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(中止) KT 日比谷しまね館
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200613T070000Z
+DTEND:20200613T113000Z
+UID:2psd51uk8a1l015oc1nqgunpoi@google.com
+CREATED:20200305T124647Z
+DESCRIPTION:<a href="http://mmtsrun.com/">http://mmtsrun.com/</a>&nbsp\;&nb
+ sp\;<br><a href="https://www.facebook.com/113600393363571/posts/21913559947
+ 6716/">https://www.facebook.com/113600393363571/posts/219135599476716/</a>&
+ nbsp\;<br><br>活動延期<br>2020年6月13日 星期六 15:00-19:30<br>永和綠寶石河濱公園 (暫定)<br><br>※
+ 若您在日期上不許可，您可以選擇參與第二場經典星空夜跑(暫定於2020/10在台中舉行)<br><br><a href="http://mmtsrun.
+ com/">http://mmtsrun.com/</a><br><a href="https://www.facebook.com/hellokit
+ tytw/posts/3007630855978940/">https://www.facebook.com/hellokittytw/posts/3
+ 007630855978940/</a><br><br>美樂蒂&amp\;雙星仙子 45週年 經典星空夜跑<br>2020年3月28日 星期六 16:
+ 00-19:30<br>台北市大佳河濱公園（暫定，實際可使用地點需待台北市政府審核後確認）&nbsp\;&nbsp\;
+LAST-MODIFIED:20200305T124647Z
+LOCATION:永和緑宝石緑地\, 234 台湾 新北市 永和区
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MM\,TS\,KT 經典星空夜跑
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200328T080000Z
+DTEND:20200328T113000Z
+UID:0mu71u4s3jmpaud1sg6fjm6h5h@google.com
+CREATED:20190920T125353Z
+DESCRIPTION:<a href="http://mmtsrun.com/">http://mmtsrun.com/</a>&nbsp\;&nb
+ sp\;<br><a href="https://www.facebook.com/113600393363571/posts/21913559947
+ 6716/">https://www.facebook.com/113600393363571/posts/219135599476716/</a>&
+ nbsp\;<br><br>活動延期<br>2020年6月13日 星期六 15:00-19:30<br>永和綠寶石河濱公園 (暫定)<br><br>※
+ 若您在日期上不許可，您可以選擇參與第二場經典星空夜跑(暫定於2020/10在台中舉行)<br><br><a href="http://mmtsrun.
+ com/" id="ow1062" __is_owner="true">http://mmtsrun.com/</a><br><a href="htt
+ ps://www.facebook.com/hellokittytw/posts/3007630855978940/">https://www.fac
+ ebook.com/hellokittytw/posts/3007630855978940/</a><br><br>美樂蒂&amp\;雙星仙子 45週
+ 年 經典星空夜跑<br>2020年3月28日 星期六 16:00-19:30<br>台北市大佳河濱公園（暫定，實際可使用地點需待台北市政府審核後確認）
+LAST-MODIFIED:20200305T124352Z
+LOCATION:Dajia Riverside Park\, 104\, Taiwan\, 台北市中山區晴光里
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(延期) MM\,TS\,KT 經典星空夜跑
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200320
+DTEND;VALUE=DATE:20200321
+RRULE:FREQ=DAILY;COUNT=3
+UID:0nvvc931pcm29vg5krjb8j25c0@google.com
+CREATED:20200305T054515Z
+DESCRIPTION:http://www.tamacenter-cm.com/\n\n多摩センタースプリングフェスタ2020\n3月20日～3月2
+ 2日\n新型コロナウイルス（COVID-19）の影響を考慮し中止
+LAST-MODIFIED:20200305T054528Z
+LOCATION:ココリア前十字路\, 1-chōme-1 Ochiai\, Tama\, Tōkyō-to 206-0033\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(中止) KT 多摩センタースプリングフェスタ
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200405T020000Z
+DTEND:20200405T063000Z
+UID:6uag631fp0r02ii9go1jujjps3@google.com
+CREATED:20200125T132757Z
+DESCRIPTION:KT\,DN\,MM\,XO\,PN\,CN<br><br><a href="https://www.qab.co.jp/sa
+ nrio2020/">https://www.qab.co.jp/sanrio2020/</a><br><a href="https://www.ok
+ ashigoten.co.jp/news/10284/">https://www.okashigoten.co.jp/news/10284/</a>&
+ nbsp\;&nbsp\;<br><br>QAB開局25周年記念<br>サンリオファミリーミュージカル ピューロマスケティア ～3人のやさしい銃士たち
+ ～<br>2020年4月5日（日）<br>沖縄コンベンションセンター劇場棟<br>【午前の部】開場10:30 / 開演11:00<br>【午後の部】開
+ 場13:30 / 開演14:00
+LAST-MODIFIED:20200305T022434Z
+LOCATION:Theater OCC- Conventional Center\, 4-chōme-3-1 Mashiki\, Ginowan-s
+ hi\, Okinawa 901-2224\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ピューロマスケティア
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20200321T064500Z
 DTEND:20200321T071500Z
 UID:61okekr3ect6g6r5cbvogiju78@google.com
@@ -1055,25 +1156,6 @@ SUMMARY:KT ボートレース大村
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20200321T112000
-DTEND;TZID=Asia/Tokyo:20200321T152000
-RRULE:FREQ=DAILY;COUNT=2
-UID:6us4s86o00feb7b68v9nsd7a1u@google.com
-CREATED:20200220T174611Z
-DESCRIPTION:https://www.kankou-shimane.com/news/13789.html\nhttps://www.kan
- kou-shimane.com/jp/wp-content/uploads/2020/02/bihada_shimane_hibiya.pdf\n\n
- 美肌県しまねin日比谷 「日比谷しまね館」オープンプレイベント\n2020年3月21日（土）11:00～17:00\n2020年3月22日（日）11:
- 00～15:00\n日比谷ゴジラスクエア（千代田区有楽町1丁目2-2　日比谷シャンテ前）\n\nハローキティ×しまねっこグリーティング\n21日 12
- :20\n21日 14:50\n22日 11:20\n22日 14:20
-LAST-MODIFIED:20200220T174611Z
-LOCATION:日比谷ゴジラスクエア\, Japan\, 〒100-0006 Tōkyō-to\, Chiyoda City\, Yūrakuchō
- \, 1-chōme−2−２ 日比谷シャンテ内
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:KT 日比谷しまね館
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20200710
 DTEND;VALUE=DATE:20200711
 RRULE:FREQ=DAILY;COUNT=3
@@ -1640,23 +1722,6 @@ LOCATION:Aeon Mall Natori\, Japan\, 〒981-1227 Miyagi\, Natori\, Morisekinos
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:MM イオンモール名取
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20200405T020000Z
-DTEND:20200405T063000Z
-UID:6uag631fp0r02ii9go1jujjps3@google.com
-CREATED:20200125T132757Z
-DESCRIPTION:\nDescription:KT\,DN\,MM\,XO\,PN\,CN  \n\nhttps://www.qab.co.jp
- /sanrio2020/\n\nQAB開局25周年記念\nサンリオファミリーミュージカル ピューロマスケティア ～3人のやさしい銃士たち～\n2020
- 年4月5日（日）\n沖縄コンベンションセンター劇場棟\n【午前の部】開場10:30 / 開演11:00\n【午後の部】開場13:30 / 開演14:0
- 0
-LAST-MODIFIED:20200125T132757Z
-LOCATION:Theater OCC- Conventional Center\, 4-chōme-3-1 Mashiki\, Ginowan-s
- hi\, Okinawa 901-2224\, Japan
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:ピューロマスケティア
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -7436,21 +7501,6 @@ LOCATION:Shinjuku L Tower\, 1-chōme-6-1 Nishishinjuku\, Shinjuku City\, Tōk
 SEQUENCE:1
 STATUS:CONFIRMED
 SUMMARY:KT レディGO Project
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20200328T080000Z
-DTEND:20200328T113000Z
-UID:0mu71u4s3jmpaud1sg6fjm6h5h@google.com
-CREATED:20190920T125353Z
-DESCRIPTION:http://mmtsrun.com/\nhttps://www.facebook.com/hellokittytw/post
- s/3007630855978940/\n\n美樂蒂&雙星仙子 45週年 經典星空夜跑\n2020年3月28日 星期六 16:00-19:30\n台北
- 市大佳河濱公園（暫定，實際可使用地點需待台北市政府審核後確認）
-LAST-MODIFIED:20190920T125353Z
-LOCATION:Dajia Riverside Park\, 104\, Taiwan\, 台北市中山區晴光里
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:MM\,TS\,KT 經典星空夜跑
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
