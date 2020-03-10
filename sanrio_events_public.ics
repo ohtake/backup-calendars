@@ -384,6 +384,56 @@ RRULE:FREQ=YEARLY;BYMONTH=9;BYDAY=1SU
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20200502T123000
+DTEND;TZID=Asia/Tokyo:20200502T160000
+RRULE:FREQ=DAILY;COUNT=5
+UID:6f3nkcvkrn7jfs22olm5uc1lin@google.com
+CREATED:20200310T153730Z
+DESCRIPTION:http://www.toei-eigamura.com/event/detail/269\n\nハローキティの映画村じゃっく
+ \n3/14 - 7/5\n\nはろうきてぃ太夫の映画村道中\n5/2 - 5/6\n12:30\n15:30
+LAST-MODIFIED:20200310T153741Z
+LOCATION:Toei Kyoto Studio Park\, １０ Uzumasa Higashihachiokacho\, Ukyo Ward
+ \, Kyoto\, 616-8161\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT 東映太秦映画村
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200314T040000Z
+DTEND:20200314T043000Z
+UID:1bp06q2lt5iru1hd0nqksr3bic@google.com
+CREATED:20200309T212355Z
+DESCRIPTION:https://www.facebook.com/259052694170117/posts/3532978100110877
+ /\nhttp://2020taipeiazalea.taipei/act.php?fbclid=IwAR2fE9DntkRb42FIDwsWtrcV
+ poZQ1nMF3ijTYOyPyKM9IJVM721TtQGmxp4\n\n2020 3/14～4/5 台北杜鵑花季\n\n3/14 音樂會活動當天
+ 還有Kitty見面會\n時間：12:00～12:30\n地點：大安森林公園 兒童小舞台\n活動資格：\n當天現場11:30 於 兒童小舞台發送號碼牌\
+ n或者現在就到@taipeitravel 台北旅遊網臉書\n參加留言抽獎活動，就有機會優先與 Hello Kitty見面合照哦
+LAST-MODIFIED:20200309T212355Z
+LOCATION:大安公園\, No. 1號\, Section 2\, Xinsheng South Road\, Da’an District\,
+  Taipei City\, 台湾 106
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT 台北杜鵑花季
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200320T203000Z
+DTEND:20200320T223000Z
+UID:2gstchij9qggm61l16jfjodm44@google.com
+CREATED:20200309T211743Z
+DESCRIPTION:https://www.instagram.com/p/B9e37MQFuJD/?igshid=12gfh7nw0l50q\n
+ \nMeet and Greet with Cinnamoroll!\n\nMARCH 20TH\nHELLO KITTY GRAND CAFE\n1
+ :30PM - 3:30PM
+LAST-MODIFIED:20200309T211743Z
+LOCATION:Hello Kitty Grand Cafe\, 860 Spectrum Center Dr\, Irvine\, CA 9261
+ 8 アメリカ合衆国
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CN Hello Kitty Grand Cafe
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20200215T053500Z
 DTEND:20200215T093000Z
 UID:46s4ip92p7psa6l3b7apq3454l@google.com
