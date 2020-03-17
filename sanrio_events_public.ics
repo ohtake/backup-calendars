@@ -384,6 +384,54 @@ RRULE:FREQ=YEARLY;BYMONTH=9;BYDAY=1SU
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+DTSTART:20200322T040000Z
+DTEND:20200322T073000Z
+UID:071tsqkql4nm0s5rhu9ek7cmed@google.com
+CREATED:20200207T135351Z
+DESCRIPTION:<a href="https://cinnamoroll-officialfanclub.com/contents/29364
+ 5">https://cinnamoroll-officialfanclub.com/contents/293645</a><br><a href="
+ https://www.sanrio.co.jp/wp-content/uploads/2020/02/20200206.pdf">https://w
+ ww.sanrio.co.jp/wp-content/uploads/2020/02/20200206.pdf</a><br><a href="htt
+ ps://prtimes.jp/main/html/rd/p/000000184.000037629.html">https://prtimes.jp
+ /main/html/rd/p/000000184.000037629.html</a>&nbsp\;<br>&nbsp\;<br>シナモロール 20
+ 20～2021年 卓上スクールカレンダー発売記念書店イベント<br><br><a href="https://www.hmv.co.jp/news/a
+ rticle/2001301031/">https://www.hmv.co.jp/news/article/2001301031/</a><br>3
+ /6（金）　19時～　東京都内某所 ※会場は当選者のみにお知らせ<br><br><a href="https://www.yaesu-book.co.
+ jp/events/other/17800/">https://www.yaesu-book.co.jp/events/other/17800/</a
+ ><br>3/22（日）　13：00～/14：30～/16：00～　八重洲ブックセンター　八重洲本店<br><br><a href="https://
+ www.yurindo.co.jp/tokyo-hachioji/3012">https://www.yurindo.co.jp/tokyo-hach
+ ioji/3012</a><br>3/29（日）　13：00～/14：30～/16：00～　有隣堂　セレオ八王子店
+LAST-MODIFIED:20200317T060902Z
+LOCATION:Yaesu Book Center\, 2-chōme-5-1 Yaesu\, Chuo City\, Tōkyō-to 104-8
+ 456\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(延期) CN 卓上スクールカレンダー
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200320T203000Z
+DTEND:20200320T223000Z
+UID:2gstchij9qggm61l16jfjodm44@google.com
+CREATED:20200309T211743Z
+DESCRIPTION:<a href="https://www.instagram.com/p/B90dniUF7yC/" id="ow653" _
+ _is_owner="true">https://www.instagram.com/p/B90dniUF7yC/</a><br><a href="h
+ ttps://www.facebook.com/Sanrio/photos/pcb.10157075675162816/101570756749928
+ 16/">https://www.facebook.com/Sanrio/photos/pcb.10157075675162816/101570756
+ 74992816/</a><br><br>All Hello Kitty Cafe locations will be temporarily clo
+ sed<br><br><a href="https://www.instagram.com/p/B9e37MQFuJD/?igshid=12gfh7n
+ w0l50q">https://www.instagram.com/p/B9e37MQFuJD/?igshid=12gfh7nw0l50q</a><b
+ r><br>Meet and Greet with Cinnamoroll!<br><br>MARCH 20TH<br>HELLO KITTY GRA
+ ND CAFE<br>1:30PM - 3:30PM
+LAST-MODIFIED:20200317T052909Z
+LOCATION:Hello Kitty Grand Cafe\, 860 Spectrum Center Dr\, Irvine\, CA 9261
+ 8 アメリカ合衆国
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(中止) CN Hello Kitty Grand Cafe
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20200502T123000
 DTEND;TZID=Asia/Tokyo:20200502T160000
 RRULE:FREQ=DAILY;COUNT=5
@@ -415,22 +463,6 @@ LOCATION:大安公園\, No. 1號\, Section 2\, Xinsheng South Road\, Da’an Dis
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:KT 台北杜鵑花季
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20200320T203000Z
-DTEND:20200320T223000Z
-UID:2gstchij9qggm61l16jfjodm44@google.com
-CREATED:20200309T211743Z
-DESCRIPTION:https://www.instagram.com/p/B9e37MQFuJD/?igshid=12gfh7nw0l50q\n
- \nMeet and Greet with Cinnamoroll!\n\nMARCH 20TH\nHELLO KITTY GRAND CAFE\n1
- :30PM - 3:30PM
-LAST-MODIFIED:20200309T211743Z
-LOCATION:Hello Kitty Grand Cafe\, 860 Spectrum Center Dr\, Irvine\, CA 9261
- 8 アメリカ合衆国
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:CN Hello Kitty Grand Cafe
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -1584,32 +1616,6 @@ LOCATION:Hokuto City Tourism Exchange Center\, 1-chome-1 Ichinowatari\, Hok
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:KT 北斗フェブラリーフェスタ
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20200322T040000Z
-DTEND:20200322T073000Z
-UID:071tsqkql4nm0s5rhu9ek7cmed@google.com
-CREATED:20200207T135351Z
-DESCRIPTION:<a href="https://cinnamoroll-officialfanclub.com/contents/29364
- 5">https://cinnamoroll-officialfanclub.com/contents/293645</a><br><a href="
- https://www.sanrio.co.jp/wp-content/uploads/2020/02/20200206.pdf">https://w
- ww.sanrio.co.jp/wp-content/uploads/2020/02/20200206.pdf</a><br><a href="htt
- ps://prtimes.jp/main/html/rd/p/000000184.000037629.html">https://prtimes.jp
- /main/html/rd/p/000000184.000037629.html</a>&nbsp\;<br>&nbsp\;<br>シナモロール 20
- 20～2021年 卓上スクールカレンダー発売記念書店イベント<br><br><a href="https://www.hmv.co.jp/news/a
- rticle/2001301031/">https://www.hmv.co.jp/news/article/2001301031/</a><br>3
- /6（金）　19時～　東京都内某所 ※会場は当選者のみにお知らせ<br><br><a href="https://www.yaesu-book.co.
- jp/events/other/17800/">https://www.yaesu-book.co.jp/events/other/17800/</a
- ><br>3/22（日）　13：00～/14：30～/16：00～　八重洲ブックセンター　八重洲本店<br><br><a href="https://
- www.yurindo.co.jp/tokyo-hachioji/3012">https://www.yurindo.co.jp/tokyo-hach
- ioji/3012</a><br>3/29（日）　13：00～/14：30～/16：00～　有隣堂　セレオ八王子店
-LAST-MODIFIED:20200207T135451Z
-LOCATION:Yaesu Book Center\, 2-chōme-5-1 Yaesu\, Chuo City\, Tōkyō-to 104-8
- 456\, Japan
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:CN 卓上スクールカレンダー
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
