@@ -384,6 +384,58 @@ RRULE:FREQ=YEARLY;BYMONTH=9;BYDAY=1SU
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+DTSTART:20200329T040000Z
+DTEND:20200329T073000Z
+UID:2svvi0hcbrpptg96jas4gbpmdp@google.com
+CREATED:20200207T135414Z
+DESCRIPTION:<br>3月29日（日）に有隣堂セレオ八王子店にて開催を予定しておりました『シナモロール 2020～2021年 卓上スクールカ
+ レンダー』発売記念イベント「シナモンとハイタッチ！」ですが、現在発生している新型コロナウイルス感染症拡大防止のため、お客様をはじめ関係する皆様の安全を
+ 考慮し、開催日を延期させていただきます。&nbsp\;&nbsp\;<br><br><a href="https://cinnamoroll-offi
+ cialfanclub.com/contents/293645" id="ow869" __is_owner="true">https://cinna
+ moroll-officialfanclub.com/contents/293645</a><br><a href="https://www.sanr
+ io.co.jp/wp-content/uploads/2020/02/20200206.pdf">https://www.sanrio.co.jp/
+ wp-content/uploads/2020/02/20200206.pdf</a><br><a href="https://prtimes.jp/
+ main/html/rd/p/000000184.000037629.html">https://prtimes.jp/main/html/rd/p/
+ 000000184.000037629.html</a>&nbsp\;&nbsp\;<br><br>シナモロール 2020～2021年 卓上スクールカ
+ レンダー発売記念書店イベント<br><br><a href="https://www.hmv.co.jp/news/article/200130103
+ 1/">https://www.hmv.co.jp/news/article/2001301031/</a><br>3/6（金）　19時～　東京都内某
+ 所 ※会場は当選者のみにお知らせ<br><br><a href="https://www.yaesu-book.co.jp/events/other/
+ 17800/">https://www.yaesu-book.co.jp/events/other/17800/</a><br>3/22（日）　13：
+ 00～/14：30～/16：00～　八重洲ブックセンター　八重洲本店<br><br><a href="https://www.yurindo.co.j
+ p/tokyo-hachioji/3012">https://www.yurindo.co.jp/tokyo-hachioji/3012</a><br
+ >3/29（日）　13：00～/14：30～/16：00～　有隣堂　セレオ八王子店
+LAST-MODIFIED:20200319T061140Z
+LOCATION:有隣堂 セレオ八王子店\, Japan\, 〒192-0083 Tōkyō-to\, Hachioji\, Asahichō\, 1
+ −１ セレオ八王子北館 8F
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(延期) CN 卓上スクールカレンダー
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200322T170000Z
+DTEND:20200322T190000Z
+UID:6qjaccnpffmat7goss0v3d5ten@google.com
+CREATED:20200306T130420Z
+DESCRIPTION:<br>In response to the widespread outbreak\, Macy’s\, Inc. anno
+ unced that it will temporarily close all stores. As a result\, all in-store
+  Special Events will be canceled until further notice. This includes the He
+ llo Kitty appearance and event on Sunday\, March 22&nbsp\;<br><br><a href="
+ https://www.facebook.com/events/885996858525616/" id="ow421" __is_owner="tr
+ ue">https://www.facebook.com/events/885996858525616/</a><br><a href="https:
+ //www.instagram.com/p/B9W9Uhkl1cA/">https://www.instagram.com/p/B9W9Uhkl1cA
+ /</a><br><br>Macy's Hello Kitty Pop-Up Shop<br>from Sunday\, March 15th unt
+ il April 15th<br><br>MEET &amp\; GREET WITH HELLO KITTY<br>3/22 from 12pm-2
+ pm<br>Arrive early and be one of the first 200 guests in line to meet the o
+ ne-and-only Hello Kitty!
+LAST-MODIFIED:20200319T061023Z
+LOCATION:Macy's\, 111 N State St\, Chicago\, IL 60602\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(中止) KT Macy's Hello Kitty Pop-Up Shop
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20200322T040000Z
 DTEND:20200322T073000Z
 UID:071tsqkql4nm0s5rhu9ek7cmed@google.com
@@ -481,23 +533,6 @@ LOCATION:West Japan General Exhibition Center New Wing\, 3-chōme-8-1 Asano\
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:KT 東アジア文化都市2020北九州
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20200322T170000Z
-DTEND:20200322T190000Z
-UID:6qjaccnpffmat7goss0v3d5ten@google.com
-CREATED:20200306T130420Z
-DESCRIPTION:https://www.facebook.com/events/885996858525616/\nhttps://www.i
- nstagram.com/p/B9W9Uhkl1cA/\n\nMacy's Hello Kitty Pop-Up Shop\nfrom Sunday\
- , March 15th until April 15th\n\nMEET & GREET WITH HELLO KITTY\n3/22 from 1
- 2pm-2pm\nArrive early and be one of the first 200 guests in line to meet th
- e one-and-only Hello Kitty!
-LAST-MODIFIED:20200306T130420Z
-LOCATION:メイシーズ\, 111 N State St\, Chicago\, IL 60602 アメリカ合衆国
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:KT Macy's Hello Kitty Pop-Up Shop
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -1616,32 +1651,6 @@ LOCATION:Hokuto City Tourism Exchange Center\, 1-chome-1 Ichinowatari\, Hok
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:KT 北斗フェブラリーフェスタ
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20200329T040000Z
-DTEND:20200329T073000Z
-UID:2svvi0hcbrpptg96jas4gbpmdp@google.com
-CREATED:20200207T135414Z
-DESCRIPTION:<a href="https://cinnamoroll-officialfanclub.com/contents/29364
- 5">https://cinnamoroll-officialfanclub.com/contents/293645</a><br><a href="
- https://www.sanrio.co.jp/wp-content/uploads/2020/02/20200206.pdf">https://w
- ww.sanrio.co.jp/wp-content/uploads/2020/02/20200206.pdf</a><br><a href="htt
- ps://prtimes.jp/main/html/rd/p/000000184.000037629.html">https://prtimes.jp
- /main/html/rd/p/000000184.000037629.html</a>&nbsp\;&nbsp\;<br><br>シナモロール 20
- 20～2021年 卓上スクールカレンダー発売記念書店イベント<br><br><a href="https://www.hmv.co.jp/news/a
- rticle/2001301031/">https://www.hmv.co.jp/news/article/2001301031/</a><br>3
- /6（金）　19時～　東京都内某所 ※会場は当選者のみにお知らせ<br><br><a href="https://www.yaesu-book.co.
- jp/events/other/17800/">https://www.yaesu-book.co.jp/events/other/17800/</a
- ><br>3/22（日）　13：00～/14：30～/16：00～　八重洲ブックセンター　八重洲本店<br><br><a href="https://
- www.yurindo.co.jp/tokyo-hachioji/3012">https://www.yurindo.co.jp/tokyo-hach
- ioji/3012</a><br>3/29（日）　13：00～/14：30～/16：00～　有隣堂　セレオ八王子店
-LAST-MODIFIED:20200207T135444Z
-LOCATION:有隣堂 セレオ八王子店\, Japan\, 〒192-0083 Tōkyō-to\, Hachioji\, Asahichō\, 1
- −１ セレオ八王子北館 8F
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:CN 卓上スクールカレンダー
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
