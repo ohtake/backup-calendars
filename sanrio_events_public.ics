@@ -384,6 +384,59 @@ RRULE:FREQ=YEARLY;BYMONTH=9;BYDAY=1SU
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200819
+DTEND;VALUE=DATE:20200820
+UID:5g6pifdladbavab39e2dkcuv3c@google.com
+CREATED:20200324T053024Z
+DESCRIPTION:新型コロナウィルス感染症の拡大を防ぐという観点から8月19日（水）に延期\nKT\,DN\,MM\,XO\,PN\,CN\n\
+ nhttps://www.qab.co.jp/sanrio2020/\nhttps://www.okashigoten.co.jp/news/1028
+ 4/  \n\nQAB開局25周年記念\nサンリオファミリーミュージカル ピューロマスケティア ～3人のやさしい銃士たち～\n2020年4月5日（日）
+ \n沖縄コンベンションセンター劇場棟\n【午前の部】開場10:30 / 開演11:00\n【午後の部】開場13:30 / 開演14:00
+LAST-MODIFIED:20200324T053024Z
+LOCATION:Theater OCC- Conventional Center\, 4-chōme-3-1 Mashiki\, Ginowan-s
+ hi\, Okinawa 901-2224\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ピューロマスケティア
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200405T020000Z
+DTEND:20200405T063000Z
+UID:6uag631fp0r02ii9go1jujjps3@google.com
+CREATED:20200125T132757Z
+DESCRIPTION:<br>新型コロナウィルス感染症の拡大を防ぐという観点から8月19日（水）に延期<br>KT\,DN\,MM\,XO\,PN\
+ ,CN<br><br><a href="https://www.qab.co.jp/sanrio2020/">https://www.qab.co.j
+ p/sanrio2020/</a><br><a href="https://www.okashigoten.co.jp/news/10284/" id
+ ="ow720" __is_owner="true">https://www.okashigoten.co.jp/news/10284/</a>&nb
+ sp\;&nbsp\;<br><br>QAB開局25周年記念<br>サンリオファミリーミュージカル ピューロマスケティア ～3人のやさしい銃士たち～<
+ br>2020年4月5日（日）<br>沖縄コンベンションセンター劇場棟<br>【午前の部】開場10:30 / 開演11:00<br>【午後の部】開場1
+ 3:30 / 開演14:00
+LAST-MODIFIED:20200324T052954Z
+LOCATION:Theater OCC- Conventional Center\, 4-chōme-3-1 Mashiki\, Ginowan-s
+ hi\, Okinawa 901-2224\, Japan
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:(延期) ピューロマスケティア
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200322T020000Z
+DTEND:20200322T063000Z
+UID:3rjf7rmg8vausqguircuctm439@google.com
+CREATED:20200227T093927Z
+DESCRIPTION:https://www.seibu-leisure.co.jp/event/20520/index.html\n\n3月1日（
+ 日）、8日（日）、22日（日）\n11:00～ マイメロディとハッピーグリーティング\n13:00～ 3月バースデーセレブレーション\n15:00～ 
+ マイメロディのプリンセスアカデミー
+LAST-MODIFIED:20200324T052554Z
+LOCATION:Seibuen Amusement Park\, 2964 Yamaguchi\, Tokorozawa\, Saitama 359
+ -1145\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(中止) MM\,KT 西武園ゆうえんち
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20200329T040000Z
 DTEND:20200329T073000Z
 UID:2svvi0hcbrpptg96jas4gbpmdp@google.com
@@ -734,25 +787,6 @@ SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:(中止) KT 多摩センタースプリングフェスタ
 TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20200405T020000Z
-DTEND:20200405T063000Z
-UID:6uag631fp0r02ii9go1jujjps3@google.com
-CREATED:20200125T132757Z
-DESCRIPTION:KT\,DN\,MM\,XO\,PN\,CN<br><br><a href="https://www.qab.co.jp/sa
- nrio2020/">https://www.qab.co.jp/sanrio2020/</a><br><a href="https://www.ok
- ashigoten.co.jp/news/10284/">https://www.okashigoten.co.jp/news/10284/</a>&
- nbsp\;&nbsp\;<br><br>QAB開局25周年記念<br>サンリオファミリーミュージカル ピューロマスケティア ～3人のやさしい銃士たち
- ～<br>2020年4月5日（日）<br>沖縄コンベンションセンター劇場棟<br>【午前の部】開場10:30 / 開演11:00<br>【午後の部】開
- 場13:30 / 開演14:00
-LAST-MODIFIED:20200305T022434Z
-LOCATION:Theater OCC- Conventional Center\, 4-chōme-3-1 Mashiki\, Ginowan-s
- hi\, Okinawa 901-2224\, Japan
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:ピューロマスケティア
-TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200321T064500Z
@@ -1229,22 +1263,6 @@ SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:KT\,PN 桜スカイランタン
 TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20200322T020000Z
-DTEND:20200322T063000Z
-UID:3rjf7rmg8vausqguircuctm439@google.com
-CREATED:20200227T093927Z
-DESCRIPTION:https://www.seibu-leisure.co.jp/event/20520/index.html\n\n3月1日（
- 日）、8日（日）、22日（日）\n11:00～ マイメロディとハッピーグリーティング\n13:00～ 3月バースデーセレブレーション\n15:00～ 
- マイメロディのプリンセスアカデミー
-LAST-MODIFIED:20200227T093927Z
-LOCATION:Seibuen Amusement Park\, 2964 Yamaguchi\, Tokorozawa\, Saitama 359
- -1145\, Japan
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:MM\,KT 西武園ゆうえんち
-TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20200301T110000
