@@ -384,6 +384,70 @@ RRULE:FREQ=YEARLY;BYMONTH=9;BYDAY=1SU
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20191012
+DTEND;VALUE=DATE:20191014
+UID:7dmkrok8g2euqouoa9fpppmiui@google.com
+CREATED:20190827T165406Z
+DESCRIPTION:<br>20歳以上の女性限定<br>https://twitter.com/u_harada/status/118217485
+ 8525855744<br>https://twitter.com/u_harada/status/1182218881890258945<br><b
+ r>台風19号により2020年3月28日に延期<br><br><a href="http://tipsy.chu.jp/sche/2019/1012.
+ html">http://tipsy.chu.jp/sche/2019/1012.html</a><br><br>TIPSY-東京-<br>2019.
+  10. 12 SAT<br>23:00-5:00<br><br>DJ Hello Kitty
+LAST-MODIFIED:20200325T214057Z
+LOCATION:ageha\, 2-chōme-2-10 Shinkiba\, Koto City\, Tōkyō-to 136-0082\, Ja
+ pan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(延期) KT TIPSY 東京
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201024T070000Z
+DTEND:20201024T113000Z
+UID:5491b8mqgr6259k29rmrle2u0j@google.com
+CREATED:20200325T213849Z
+DESCRIPTION:<a href="http://mmtsrun.com/tp/">http://mmtsrun.com/tp/</a><br>
+ (1)台北場<br>2020年6月13日 星期六 15:00-19:30<br>永和綠寶石河濱公園 (暫定)&nbsp\;&nbsp\;<br><br
+ ><a href="http://mmtsrun.com/">http://mmtsrun.com/</a>&nbsp\;&nbsp\;<br>(2)
+ 台中場<br>2020年10月24日 星期六 15:00-19:30<br>台中<br><br><a href="https://www.facebo
+ ok.com/113600393363571/posts/219135599476716/">https://www.facebook.com/113
+ 600393363571/posts/219135599476716/</a>&nbsp\;<br>活動延期&nbsp\;&nbsp\;<br><br
+ ><a href="http://mmtsrun.com/">http://mmtsrun.com/</a><br><a href="https://
+ www.facebook.com/hellokittytw/posts/3007630855978940/">https://www.facebook
+ .com/hellokittytw/posts/3007630855978940/</a><br>美樂蒂&amp\;雙星仙子 45週年 經典星空夜跑<
+ br>2020年3月28日 星期六 16:00-19:30<br>台北市大佳河濱公園（暫定，實際可使用地點需待台北市政府審核後確認）&nbsp\;&n
+ bsp\;&nbsp\;&nbsp\;
+LAST-MODIFIED:20200325T213849Z
+LOCATION:台中\, 台湾 台中 北区 台中
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MM\,TS\,KT 經典星空夜跑
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200613T070000Z
+DTEND:20200613T113000Z
+UID:2psd51uk8a1l015oc1nqgunpoi@google.com
+CREATED:20200305T124647Z
+DESCRIPTION:<a href="http://mmtsrun.com/tp/">http://mmtsrun.com/tp/</a><br>
+ (1)台北場<br>2020年6月13日 星期六 15:00-19:30<br>永和綠寶石河濱公園 (暫定)&nbsp\;&nbsp\;<br><br
+ ><a href="http://mmtsrun.com/">http://mmtsrun.com/</a>&nbsp\;&nbsp\;<br>(2)
+ 台中場<br>2020年10月24日 星期六 15:00-19:30<br>台中<br><br><a href="https://www.facebo
+ ok.com/113600393363571/posts/219135599476716/">https://www.facebook.com/113
+ 600393363571/posts/219135599476716/</a>&nbsp\;<br>活動延期&nbsp\;&nbsp\;<br><br
+ ><a href="http://mmtsrun.com/">http://mmtsrun.com/</a><br><a href="https://
+ www.facebook.com/hellokittytw/posts/3007630855978940/">https://www.facebook
+ .com/hellokittytw/posts/3007630855978940/</a><br>美樂蒂&amp\;雙星仙子 45週年 經典星空夜跑<
+ br>2020年3月28日 星期六 16:00-19:30<br>台北市大佳河濱公園（暫定，實際可使用地點需待台北市政府審核後確認）&nbsp\;&n
+ bsp\;
+LAST-MODIFIED:20200325T213604Z
+LOCATION:永和緑宝石緑地\, 234 台湾 新北市 永和区
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MM\,TS\,KT 經典星空夜跑
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20200819
 DTEND;VALUE=DATE:20200820
 UID:5g6pifdladbavab39e2dkcuv3c@google.com
@@ -732,27 +796,6 @@ LOCATION:日比谷ゴジラスクエア\, Japan\, 〒100-0006 Tōkyō-to\, Chiyo
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:(中止) KT 日比谷しまね館
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20200613T070000Z
-DTEND:20200613T113000Z
-UID:2psd51uk8a1l015oc1nqgunpoi@google.com
-CREATED:20200305T124647Z
-DESCRIPTION:<a href="http://mmtsrun.com/">http://mmtsrun.com/</a>&nbsp\;&nb
- sp\;<br><a href="https://www.facebook.com/113600393363571/posts/21913559947
- 6716/">https://www.facebook.com/113600393363571/posts/219135599476716/</a>&
- nbsp\;<br><br>活動延期<br>2020年6月13日 星期六 15:00-19:30<br>永和綠寶石河濱公園 (暫定)<br><br>※
- 若您在日期上不許可，您可以選擇參與第二場經典星空夜跑(暫定於2020/10在台中舉行)<br><br><a href="http://mmtsrun.
- com/">http://mmtsrun.com/</a><br><a href="https://www.facebook.com/hellokit
- tytw/posts/3007630855978940/">https://www.facebook.com/hellokittytw/posts/3
- 007630855978940/</a><br><br>美樂蒂&amp\;雙星仙子 45週年 經典星空夜跑<br>2020年3月28日 星期六 16:
- 00-19:30<br>台北市大佳河濱公園（暫定，實際可使用地點需待台北市政府審核後確認）&nbsp\;&nbsp\;
-LAST-MODIFIED:20200305T124647Z
-LOCATION:永和緑宝石緑地\, 234 台湾 新北市 永和区
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:MM\,TS\,KT 經典星空夜跑
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -6675,24 +6718,6 @@ LOCATION:Misaki Park\, 3990 Tannowa\, Misaki\, Sennan-gun\, Osaka 599-0301\
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:(中止) CN\,MM\,PN サンリオハロウィーンパレード
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20191012
-DTEND;VALUE=DATE:20191014
-UID:7dmkrok8g2euqouoa9fpppmiui@google.com
-CREATED:20190827T165406Z
-DESCRIPTION:<br>20歳以上の女性限定<br>https://twitter.com/u_harada/status/118217485
- 8525855744<br>https://twitter.com/u_harada/status/1182218881890258945<br><b
- r>台風19号により2020年3月28日に延期<br><br><a href="http://tipsy.chu.jp/sche/2019/1012.
- html">http://tipsy.chu.jp/sche/2019/1012.html</a><br><br>TIPSY-東京-<br>2019.
-  10. 12 SAT<br>23:00-5:00<br><br>DJ Hello Kitty
-LAST-MODIFIED:20191011T061619Z
-LOCATION:ageha\, 2-chōme-2-10 Shinkiba\, Koto City\, Tōkyō-to 136-0082\, Ja
- pan
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:(中止) KT TIPSY 東京
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
