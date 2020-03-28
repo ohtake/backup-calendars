@@ -384,6 +384,96 @@ RRULE:FREQ=YEARLY;BYMONTH=9;BYDAY=1SU
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Jakarta:20200418T150000
+DTEND;TZID=Asia/Jakarta:20200418T183000
+RRULE:FREQ=WEEKLY;WKST=SU;COUNT=8;BYDAY=SA,SU
+UID:7tvntm7ngof3p5vogjqgcr706e@google.com
+CREATED:20200220T180142Z
+DESCRIPTION:<br>https://www.instagram.com/p/B-Lt3UDlfwH/<br><br>Due to circ
+ umstance of COVID-19\, SANRIO Playhouse a t Lenmarc Mall will be temporaril
+ y colosed until further notice<br><a href="https://www.instagram.com/p/B8is
+ GJ3hmCS/" id="ow2312" __is_owner="true">https://www.instagram.com/p/B8isGJ3
+ hmCS/</a><br><br>SANRIO CHARACTERS PLAYHOUSE<br>14 February 2020 - 10 May 2
+ 020<br>2nd Floor Atrium<br><br>MM\, XO<br>3pm\, 6pm<br>2020-02-21 Sat (←たぶん
+ 22日の間違い)<br>2020-02-22 Sun (←たぶん23日の間違い)<br>2020-02-29 Sat<br>2020-03-01 Su
+ n<br>2020-03-21 Sat<br>2020-03-22 Sun<br>2020-03-28 Sat<br>2020-03-29 Sun<b
+ r><br>KT\, CN<br>3pm\, 6pm<br>2020-04-18 Sat<br>2020-04-19 Sun<br>2020-04-2
+ 5 Sat<br>2020-04-26 Sun<br>2020-05-02 Sat<br>2020-05-03 Sun<br>2020-05-09 S
+ at<br>2020-05-10 Sun
+LAST-MODIFIED:20200328T145646Z
+LOCATION:Atrium\, Jalan Senen Raya\, RT.9/RW.1\, Senen\, Kec. Senen\, Kota 
+ Jakarta Pusat\, Daerah Khusus Ibukota Jakarta 10410\, Indonesia
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(中止) KT\,CN Sanrio Characters Playhouse
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Jakarta:20200328T150000
+DTEND;TZID=Asia/Jakarta:20200328T183000
+RRULE:FREQ=WEEKLY;WKST=SU;COUNT=2;BYDAY=SA,SU
+UID:5qepku6o7nrthcc53d1ggvr3mm@google.com
+CREATED:20200328T145555Z
+DESCRIPTION:\nhttps://www.instagram.com/p/B-Lt3UDlfwH/\n\nDue to circumstan
+ ce of COVID-19\, SANRIO Playhouse a t Lenmarc Mall will be temporarily clos
+ ed until further notice\nhttps://www.instagram.com/p/B8isGJ3hmCS/\n\nSANRIO
+  CHARACTERS PLAYHOUSE\n14 February 2020 - 10 May 2020\n2nd Floor Atrium\n\n
+ MM\, XO\n3pm\, 6pm\n2020-02-21 Sat (←たぶん22日の間違い)\n2020-02-22 Sun (←たぶん23日の間
+ 違い)\n2020-02-29 Sat\n2020-03-01 Sun\n2020-03-21 Sat\n2020-03-22 Sun\n2020-0
+ 3-28 Sat\n2020-03-29 Sun\n\nKT\, CN\n3pm\, 6pm\n2020-04-18 Sat\n2020-04-19 
+ Sun\n2020-04-25 Sat\n2020-04-26 Sun\n2020-05-02 Sat\n2020-05-03 Sun\n2020-0
+ 5-09 Sat\n2020-05-10 Sun
+LAST-MODIFIED:20200328T145555Z
+LOCATION:Atrium\, Jalan Senen Raya\, RT.9/RW.1\, Senen\, Kec. Senen\, Kota 
+ Jakarta Pusat\, Daerah Khusus Ibukota Jakarta 10410\, Indonesia
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(中止) MM\,XO Sanrio Characters Playhouse
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Jakarta:20200321T150000
+DTEND;TZID=Asia/Jakarta:20200321T183000
+RRULE:FREQ=WEEKLY;WKST=SU;COUNT=2;BYDAY=SA,SU
+UID:35fb5895krodjjioa1d4atqp72@google.com
+CREATED:20200220T180057Z
+DESCRIPTION:https://www.instagram.com/p/B8isGJ3hmCS/\n\nSANRIO CHARACTERS P
+ LAYHOUSE\n14 February 2020 - 10 May 2020\n2nd Floor Atrium\n\nMM\, XO\n3pm\
+ , 6pm\n2020-02-21 Sat (←たぶん22日の間違い)\n2020-02-22 Sun (←たぶん23日の間違い)\n2020-02-
+ 29 Sat\n2020-03-01 Sun\n2020-03-21 Sat\n2020-03-22 Sun\n2020-03-28 Sat\n202
+ 0-03-29 Sun\n\nKT\, CN\n3pm\, 6pm\n2020-04-18 Sat\n2020-04-19 Sun\n2020-04-
+ 25 Sat\n2020-04-26 Sun\n2020-05-02 Sat\n2020-05-03 Sun\n2020-05-09 Sat\n202
+ 0-05-10 Sun
+LAST-MODIFIED:20200328T145515Z
+LOCATION:Atrium\, Jalan Senen Raya\, RT.9/RW.1\, Senen\, Kec. Senen\, Kota 
+ Jakarta Pusat\, Daerah Khusus Ibukota Jakarta 10410\, Indonesia
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MM\,XO Sanrio Characters Playhouse
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Jakarta:20200222T150000
+DTEND;TZID=Asia/Jakarta:20200222T183000
+RRULE:FREQ=WEEKLY;WKST=SU;COUNT=4;BYDAY=SA,SU
+UID:6anrih8e1778kubaje2f00pod6@google.com
+CREATED:20200220T180014Z
+DESCRIPTION:https://www.instagram.com/p/B8isGJ3hmCS/\n\nSANRIO CHARACTERS P
+ LAYHOUSE\n14 February 2020 - 10 May 2020\n2nd Floor Atrium\n\nMM\, XO\n3pm\
+ , 6pm\n2020-02-21 Sat (←たぶん22日の間違い)\n2020-02-22 Sun (←たぶん23日の間違い)\n2020-02-
+ 29 Sat\n2020-03-01 Sun\n2020-03-21 Sat\n2020-03-22 Sun\n2020-03-28 Sat\n202
+ 0-03-29 Sun\n\nKT\, CN\n3pm\, 6pm\n2020-04-18 Sat\n2020-04-19 Sun\n2020-04-
+ 25 Sat\n2020-04-26 Sun\n2020-05-02 Sat\n2020-05-03 Sun\n2020-05-09 Sat\n202
+ 0-05-10 Sun
+LAST-MODIFIED:20200328T145451Z
+LOCATION:Atrium\, Jalan Senen Raya\, RT.9/RW.1\, Senen\, Kec. Senen\, Kota 
+ Jakarta Pusat\, Daerah Khusus Ibukota Jakarta 10410\, Indonesia
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:MM\,XO Sanrio Characters Playhouse
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20191012
 DTEND;VALUE=DATE:20191014
 UID:7dmkrok8g2euqouoa9fpppmiui@google.com
@@ -1410,69 +1500,6 @@ SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:(中止) KT\,GU クッキング
 TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Jakarta:20200418T150000
-DTEND;TZID=Asia/Jakarta:20200418T183000
-RRULE:FREQ=WEEKLY;WKST=SU;COUNT=8;BYDAY=SA,SU
-UID:7tvntm7ngof3p5vogjqgcr706e@google.com
-CREATED:20200220T180142Z
-DESCRIPTION:https://www.instagram.com/p/B8isGJ3hmCS/\n\nSANRIO CHARACTERS P
- LAYHOUSE\n14 February 2020 - 10 May 2020\n2nd Floor Atrium\n\nMM\, XO\n3pm\
- , 6pm\n2020-02-21 Sat (←たぶん22日の間違い)\n2020-02-22 Sun (←たぶん23日の間違い)\n2020-02-
- 29 Sat\n2020-03-01 Sun\n2020-03-21 Sat\n2020-03-22 Sun\n2020-03-28 Sat\n202
- 0-03-29 Sun\n\nKT\, CN\n3pm\, 6pm\n2020-04-18 Sat\n2020-04-19 Sun\n2020-04-
- 25 Sat\n2020-04-26 Sun\n2020-05-02 Sat\n2020-05-03 Sun\n2020-05-09 Sat\n202
- 0-05-10 Sun
-LAST-MODIFIED:20200220T180142Z
-LOCATION:Atrium\, Jalan Senen Raya\, RT.9/RW.1\, Senen\, Kec. Senen\, Kota 
- Jakarta Pusat\, Daerah Khusus Ibukota Jakarta 10410\, Indonesia
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:KT\,CN Sanrio Characters Playhouse
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Jakarta:20200321T150000
-DTEND;TZID=Asia/Jakarta:20200321T183000
-RRULE:FREQ=WEEKLY;WKST=SU;COUNT=4;BYDAY=SA,SU
-UID:35fb5895krodjjioa1d4atqp72@google.com
-CREATED:20200220T180057Z
-DESCRIPTION:https://www.instagram.com/p/B8isGJ3hmCS/\n\nSANRIO CHARACTERS P
- LAYHOUSE\n14 February 2020 - 10 May 2020\n2nd Floor Atrium\n\nMM\, XO\n3pm\
- , 6pm\n2020-02-21 Sat (←たぶん22日の間違い)\n2020-02-22 Sun (←たぶん23日の間違い)\n2020-02-
- 29 Sat\n2020-03-01 Sun\n2020-03-21 Sat\n2020-03-22 Sun\n2020-03-28 Sat\n202
- 0-03-29 Sun\n\nKT\, CN\n3pm\, 6pm\n2020-04-18 Sat\n2020-04-19 Sun\n2020-04-
- 25 Sat\n2020-04-26 Sun\n2020-05-02 Sat\n2020-05-03 Sun\n2020-05-09 Sat\n202
- 0-05-10 Sun
-LAST-MODIFIED:20200220T180057Z
-LOCATION:Atrium\, Jalan Senen Raya\, RT.9/RW.1\, Senen\, Kec. Senen\, Kota 
- Jakarta Pusat\, Daerah Khusus Ibukota Jakarta 10410\, Indonesia
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:MM\,XO Sanrio Characters Playhouse
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Jakarta:20200222T150000
-DTEND;TZID=Asia/Jakarta:20200222T183000
-RRULE:FREQ=WEEKLY;WKST=SU;COUNT=4;BYDAY=SA,SU
-UID:6anrih8e1778kubaje2f00pod6@google.com
-CREATED:20200220T180014Z
-DESCRIPTION:https://www.instagram.com/p/B8isGJ3hmCS/\n\nSANRIO CHARACTERS P
- LAYHOUSE\n14 February 2020 - 10 May 2020\n2nd Floor Atrium\n\nMM\, XO\n3pm\
- , 6pm\n2020-02-21 Sat (←たぶん22日の間違い)\n2020-02-22 Sun (←たぶん23日の間違い)\n2020-02-
- 29 Sat\n2020-03-01 Sun\n2020-03-21 Sat\n2020-03-22 Sun\n2020-03-28 Sat\n202
- 0-03-29 Sun\n\nKT\, CN\n3pm\, 6pm\n2020-04-18 Sat\n2020-04-19 Sun\n2020-04-
- 25 Sat\n2020-04-26 Sun\n2020-05-02 Sat\n2020-05-03 Sun\n2020-05-09 Sat\n202
- 0-05-10 Sun
-LAST-MODIFIED:20200220T180035Z
-LOCATION:Atrium\, Jalan Senen Raya\, RT.9/RW.1\, Senen\, Kec. Senen\, Kota 
- Jakarta Pusat\, Daerah Khusus Ibukota Jakarta 10410\, Indonesia
-SEQUENCE:1
-STATUS:CONFIRMED
-SUMMARY:MM\,XO Sanrio Characters Playhouse
-TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200224T040000Z
