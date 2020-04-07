@@ -384,6 +384,40 @@ RRULE:FREQ=YEARLY;BYMONTH=9;BYDAY=1SU
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+DTSTART:20200429T020000Z
+DTEND:20200429T063000Z
+UID:6990hpu9tqal1ehnhp5n295oum@google.com
+CREATED:20200407T163023Z
+DESCRIPTION:<a href="https://www.aeon.jp/sc/sagamihara/event/event_e220448.
+ html">https://www.aeon.jp/sc/sagamihara/event/event_e220448.html</a>&nbsp\;
+ <br><br><br>大人気のハローキティが遊びに来るよ♪みんなで一緒にダンスをしよう♪<br>ダンス&amp\;写真撮影会<br><br>4月29
+ 日(水・祝)<br>11:00～11:30<br>13:00～13:30<br>15:00～15:30<br>1F パブリックスペース
+LAST-MODIFIED:20200407T163023Z
+LOCATION:AEON Sagamihara Shopping Center\, 2-chōme-10-1 Kobuchi\, Minami-ku
+ \, Sagamihara\, Kanagawa 252-0344\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT イオン相模原ショッピングセンター
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200418T020000Z
+DTEND:20200418T063000Z
+UID:1mtp3hetv522mecc31sh1dafhh@google.com
+CREATED:20191204T212743Z
+DESCRIPTION:<br>新型コロナウイルス感染拡大の影響から、お客様の健康と安全面を考慮した結果、公演を中止<br>KT\,DN\,MM\,X
+ O\,PN\,CN<br><br><a href="https://www.tsb.jp/tsb-event/archives/6433">https
+ ://www.tsb.jp/tsb-event/archives/6433</a><br><br>サンリオファミリーミュージカル　ピューロマスケティア
+ ～3人のやさしい銃士たち～<br><br>2020年4月18日（土）<br>（1）11:00公演（2）14:00公演<br>開場時間は開演の30分前<
+ br>ホクト文化ホール　大ホール<br><br>【チケット一般発売日】2020年1月18日（土）10:00～
+LAST-MODIFIED:20200406T121647Z
+LOCATION:長野県県民文化会館（ホクト文化ホール）\, 日本、〒380-0928 長野県長野市若里１丁目１−３
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(中止) ピューロマスケティア
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Jakarta:20200418T150000
 DTEND;TZID=Asia/Jakarta:20200418T183000
 RRULE:FREQ=WEEKLY;WKST=SU;COUNT=8;BYDAY=SA,SU
@@ -3896,21 +3930,6 @@ LOCATION:Musashi Kyuryo National Government Park\, Japan\, 〒355-0802 埼玉県
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:KT\,MM 国営武蔵丘陵森林公園
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20200418T020000Z
-DTEND:20200418T063000Z
-UID:1mtp3hetv522mecc31sh1dafhh@google.com
-CREATED:20191204T212743Z
-DESCRIPTION:KT\,DN\,MM\,XO\,PN\,CN\n\nhttps://www.tsb.jp/tsb-event/archives
- /6433\n\nサンリオファミリーミュージカル　ピューロマスケティア～3人のやさしい銃士たち～\n\n2020年4月18日（土）\n（1）11:00
- 公演（2）14:00公演\n開場時間は開演の30分前\nホクト文化ホール　大ホール\n\n【チケット一般発売日】2020年1月18日（土）10:00～
-LAST-MODIFIED:20191204T212743Z
-LOCATION:長野県県民文化会館（ホクト文化ホール）\, 日本、〒380-0928 長野県長野市若里１丁目１−３
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:ピューロマスケティア
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
