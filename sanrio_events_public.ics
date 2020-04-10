@@ -384,6 +384,23 @@ RRULE:FREQ=YEARLY;BYMONTH=9;BYDAY=1SU
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200425
+DTEND;VALUE=DATE:20200511
+UID:49fuqgev879pnjm7grcgi2e67j@google.com
+CREATED:20200305T211813Z
+DESCRIPTION:中止\n\n新型コロナウイルス感染症の発生を受け延期\n延期後の開催期間：2020年4月25日（土）～5月10日（日）\n\n
+ http://sakurafarms.jp/sanrio-carnival/ (http://sakurafarms.jp/sanrio-carniv
+ al/)\n\nサンリオカーニバル\n2020-03-20 / 2020-04-05\n霧島さくらフルーツランド特設会場（鹿児島県霧島市国分重久５６３
+ １−２）\n\nhttps://eplus.jp/sf/detail/3202440001-P0030001 (https://eplus.jp/sf
+ /detail/3202440001-P0030001)\n\nハローキティと触れ合えるライブショーやグリーティングなど内容盛り沢山
+LAST-MODIFIED:20200409T203438Z
+LOCATION:さくら農園\, 日本、〒899-4301 鹿児島県霧島市国分重久６０２９−３
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(中止) KT 霧島さくらフルーツランド
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20200405T013000Z
 DTEND:20200405T060000Z
 UID:75nseovs8k7ufl6d5apm0vg445@google.com
@@ -874,24 +891,6 @@ SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:ピューロマスケティア
 TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20200425
-DTEND;VALUE=DATE:20200511
-UID:49fuqgev879pnjm7grcgi2e67j@google.com
-CREATED:20200305T211813Z
-DESCRIPTION:新型コロナウイルス感染症の発生を受け延期<br>延期後の開催期間：2020年4月25日（土）～5月10日（日）<br><br>
- <a href="http://sakurafarms.jp/sanrio-carnival/">http://sakurafarms.jp/sanr
- io-carnival/</a><br><br>サンリオカーニバル<br>2020-03-20 / 2020-04-05<br>霧島さくらフルーツラン
- ド特設会場（鹿児島県霧島市国分重久５６３１−２）<br><br><a href="https://eplus.jp/sf/detail/3202440
- 001-P0030001">https://eplus.jp/sf/detail/3202440001-P0030001</a><br><br>ハロー
- キティと触れ合えるライブショーやグリーティングなど内容盛り沢山
-LAST-MODIFIED:20200305T211813Z
-LOCATION:さくら農園\, 日本、〒899-4301 鹿児島県霧島市国分重久６０２９−３
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:KT 霧島さくらフルーツランド
-TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20200322
