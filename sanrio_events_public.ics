@@ -384,6 +384,49 @@ RRULE:FREQ=YEARLY;BYMONTH=9;BYDAY=1SU
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+DTSTART:20200523T020000Z
+DTEND:20200523T073000Z
+UID:260jvqq97pro5i3kcft1utrsd6@google.com
+CREATED:20200130T163530Z
+DESCRIPTION:Description:KT\,DN\,MM\,XO\,PN\,CN&nbsp\;&nbsp\;<br><br><a href
+ ="https://www.htv.jp/event/event-list/200523.html">https://www.htv.jp/event
+ /event-list/200523.html</a><br><a href="https://www.puroland.jp/performance
+ /puro_musketeer.html">https://www.puroland.jp/performance/puro_musketeer.ht
+ ml</a><br><br>新型コロナウイルスの感染拡大防止及びお客様やスタッフの健康と安全を最優先に考慮した結果、公演を延期<br><br>振替公演
+ 日程<br>2021年4月3日（土）　広島文化学園HBGホール<br>（１）11:00開演 ／（２）15:00開演<br><br><a href="h
+ ttp://www.htv.jp/event/event-list/200523.html">http://www.htv.jp/event/even
+ t-list/200523.html</a><br><br>サンリオファミリーミュージカル ピューロマスケティア<br>広島文化学園HBGホール<br
+ >2020年5月23日（土）<br>11：00開演<br>15：00開演
+LAST-MODIFIED:20200427T102750Z
+LOCATION:Hiroshima Bunka Gakuen HBG Hall\, 3-3 Kakomachi\, Naka-ku\, Hirosh
+ ima\, 730-8787\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(延期) ピューロマスケティア
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210403T020000Z
+DTEND:20210403T073000Z
+UID:5igb4fi4r0msam7uqernr39a14@google.com
+CREATED:20200427T102733Z
+DESCRIPTION:Description:KT\,DN\,MM\,XO\,PN\,CN&nbsp\;&nbsp\;<br><br><a href
+ ="https://www.htv.jp/event/event-list/200523.html">https://www.htv.jp/event
+ /event-list/200523.html</a><br><a href="https://www.puroland.jp/performance
+ /puro_musketeer.html">https://www.puroland.jp/performance/puro_musketeer.ht
+ ml</a><br><br>新型コロナウイルスの感染拡大防止及びお客様やスタッフの健康と安全を最優先に考慮した結果、公演を延期<br><br>振替公演
+ 日程<br>2021年4月3日（土）　広島文化学園HBGホール<br>（１）11:00開演 ／（２）15:00開演<br><br><a href="h
+ ttp://www.htv.jp/event/event-list/200523.html">http://www.htv.jp/event/even
+ t-list/200523.html</a><br><br>サンリオファミリーミュージカル ピューロマスケティア<br>広島文化学園HBGホール<br
+ >2020年5月23日（土）<br>11：00開演<br>15：00開演&nbsp\;&nbsp\;
+LAST-MODIFIED:20200427T102733Z
+LOCATION:広島文化学園HBGホール\, 日本、〒730-8787 広島県広島市中区加古町３−３
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ピューロマスケティア
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20200429T020000Z
 DTEND:20200429T063000Z
 UID:6990hpu9tqal1ehnhp5n295oum@google.com
@@ -1950,22 +1993,6 @@ LOCATION:Gate City Osaki\, 1-chōme-11-1 Ōsaki\, Shinagawa City\, Tōkyō-to 1
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:MM\,KN SANRIO EXPO
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20200523T020000Z
-DTEND:20200523T073000Z
-UID:260jvqq97pro5i3kcft1utrsd6@google.com
-CREATED:20200130T163530Z
-DESCRIPTION:Description:KT\,DN\,MM\,XO\,PN\,CN  \n\nhttp://www.htv.jp/event
- /event-list/200523.html\n\nサンリオファミリーミュージカル ピューロマスケティア\n広島文化学園HBGホール\n2020年5
- 月23日（土）\n11：00開演\n15：00開演
-LAST-MODIFIED:20200130T163530Z
-LOCATION:Hiroshima Bunka Gakuen HBG Hall\, 3-3 Kakomachi\, Naka-ku\, Hirosh
- ima\, 730-8787\, Japan
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:ピューロマスケティア
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
