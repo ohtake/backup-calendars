@@ -384,6 +384,43 @@ RRULE:FREQ=YEARLY;BYMONTH=9;BYDAY=1SU
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200531
+DTEND;VALUE=DATE:20200601
+UID:359au5nufrn2tie1eeue4p73dj@google.com
+CREATED:20200130T162456Z
+DESCRIPTION:<br>新型コロナウイルス感染拡大の影響に伴い、中止<br><br><a href="https://www.rakutene
+ agles.jp/special/eaglesgirl/">https://www.rakuteneagles.jp/special/eaglesgi
+ rl/</a><br><a href="https://www.rakuteneagles.jp/news/detail/00002739.html#
+ sanrio">https://www.rakuteneagles.jp/news/detail/00002739.html#sanrio</a><b
+ r><br>イーグルス ガールデー<br>2020-05-31 13:00 横浜DeNA戦<br>2020-09-06 13:00 埼玉西武戦<br>
+ <br>2020-05-31<br>ハローキティ、シナモロール、ポムポムプリンが楽天生命パーク宮城に登場
+LAST-MODIFIED:20200501T002430Z
+LOCATION:Rakuten Seimei Park Miyagi\, 2-chōme-11-6 Miyagino\, Miyagino-ku\,
+  Sendai\, Miyagi 983-0045\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(中止) KT\,CN\,PN イーグルス ガールデー
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20200502T123000
+DTEND;TZID=Asia/Tokyo:20200502T160000
+RRULE:FREQ=DAILY;COUNT=5
+UID:6f3nkcvkrn7jfs22olm5uc1lin@google.com
+CREATED:20200310T153730Z
+DESCRIPTION:「はろうきてぃ太夫の映画村道中」はおそらく中止（下記のページから当該の情報が消えているため）。<br><br><a href=
+ "http://www.toei-eigamura.com/event/detail/269">http://www.toei-eigamura.co
+ m/event/detail/269</a><br><br>ハローキティの映画村じゃっく<br>3/14 - 7/5<br><br>はろうきてぃ太夫の
+ 映画村道中<br>5/2 - 5/6<br>12:30<br>15:30
+LAST-MODIFIED:20200501T001958Z
+LOCATION:Toei Kyoto Studio Park\, １０ Uzumasa Higashihachiokacho\, Ukyo Ward
+ \, Kyoto\, 616-8161\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(中止) KT 東映太秦映画村
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20200523T020000Z
 DTEND:20200523T073000Z
 UID:260jvqq97pro5i3kcft1utrsd6@google.com
@@ -802,22 +839,6 @@ SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:(中止) CN Hello Kitty Grand Cafe
 TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20200502T123000
-DTEND;TZID=Asia/Tokyo:20200502T160000
-RRULE:FREQ=DAILY;COUNT=5
-UID:6f3nkcvkrn7jfs22olm5uc1lin@google.com
-CREATED:20200310T153730Z
-DESCRIPTION:http://www.toei-eigamura.com/event/detail/269\n\nハローキティの映画村じゃっく
- \n3/14 - 7/5\n\nはろうきてぃ太夫の映画村道中\n5/2 - 5/6\n12:30\n15:30
-LAST-MODIFIED:20200310T153741Z
-LOCATION:Toei Kyoto Studio Park\, １０ Uzumasa Higashihachiokacho\, Ukyo Ward
- \, Kyoto\, 616-8161\, Japan
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:KT 東映太秦映画村
-TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200314T040000Z
@@ -2013,23 +2034,6 @@ SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:CN紋次郎 品川海苔PR動画お披露目会
 TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20200531
-DTEND;VALUE=DATE:20200601
-UID:359au5nufrn2tie1eeue4p73dj@google.com
-CREATED:20200130T162456Z
-DESCRIPTION:https://www.rakuteneagles.jp/special/eaglesgirl/\nhttps://www.r
- akuteneagles.jp/news/detail/00002739.html#sanrio\n\nイーグルス ガールデー\n2020-05-31
-  13:00 横浜DeNA戦\n2020-09-06 13:00 埼玉西武戦\n\n2020-05-31\nハローキティ、シナモロール、ポムポムプリン
- が楽天生命パーク宮城に登場
-LAST-MODIFIED:20200130T162456Z
-LOCATION:Rakuten Seimei Park Miyagi\, 2-chōme-11-6 Miyagino\, Miyagino-ku\,
-  Sendai\, Miyagi 983-0045\, Japan
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:KT\,CN\,PN イーグルス ガールデー
-TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20200122
