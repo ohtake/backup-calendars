@@ -384,6 +384,22 @@ RRULE:FREQ=YEARLY;BYMONTH=9;BYDAY=1SU
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+DTSTART;TZID=Australia/Sydney:20190711T110000
+DTEND;TZID=Australia/Sydney:20190711T140000
+RRULE:FREQ=WEEKLY;WKST=SU;COUNT=3;BYDAY=SA,SU,TH
+UID:5c1bfgipmt0uhsb82ut8hqi0fk@google.com
+CREATED:20200524T063416Z
+DESCRIPTION:https://hillsdistrictmums.com.au/meet-hello-kitty-at-castle-mal
+ l/\n\nMeet Hello Kitty these school holidays at Castle Mall.\nThursday 11\,
+  Saturday 13 & Sunday 14 July\, 11am – 2pm.
+LAST-MODIFIED:20200524T063416Z
+LOCATION:Castle Mall\, 4-16 Terminus St\, Castle Hill NSW 2154\, Australia
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT Castle Mall
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20200531
 DTEND;VALUE=DATE:20200601
 UID:359au5nufrn2tie1eeue4p73dj@google.com
