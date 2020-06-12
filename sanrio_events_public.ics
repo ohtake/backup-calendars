@@ -384,6 +384,63 @@ RRULE:FREQ=YEARLY;BYMONTH=9;BYDAY=1SU
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+DTSTART:20210417T020000Z
+DTEND:20210417T140000Z
+UID:0qer9jd1cla70ar1bj28kur5l2@google.com
+CREATED:20200612T122309Z
+DESCRIPTION:http://mmtsrun.com/\n再々延期\n(1)台北場 2021年4月10日 星期六 15:00-19:30 永和
+ 綠寶石河濱公園 (暫定)\n(2)台中場 2021年4月17日 星期六 10:00-22:00 台中\n\nhttp://mmtsrun.com/ \
+ n再延期\n(1)台北場 2020年6月13日 星期六 15:00-19:30 永和綠寶石河濱公園 (暫定)  \n(2)台中場 2020年10月24
+ 日 星期六 15:00-19:30 台中\n\nhttps://www.facebook.com/113600393363571/posts/2191
+ 35599476716/\n延期\n\nhttp://mmtsrun.com/\nhttps://www.facebook.com/hellokitt
+ ytw/posts/3007630855978940/\n美樂蒂&雙星仙子 45週年 經典星空夜跑\n2020年3月28日 星期六 16:00-19:
+ 30\n台北市大佳河濱公園（暫定，實際可使用地點需待台北市政府審核後確認）
+LAST-MODIFIED:20200612T122309Z
+LOCATION:台中\, 台湾 台中 北区 台中
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MM\,TS\,KT 經典星空夜跑
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210410T070000Z
+DTEND:20210410T113000Z
+UID:7sebmkscqt1rb698bv5aj4tfen@google.com
+CREATED:20200612T122156Z
+DESCRIPTION:http://mmtsrun.com/\n再々延期\n(1)台北場 2021年4月10日 星期六 15:00-19:30 永和
+ 綠寶石河濱公園 (暫定)\n(2)台中場 2021年4月17日 星期六 10:00-22:00 台中\n\nhttp://mmtsrun.com/ \
+ n再延期\n(1)台北場 2020年6月13日 星期六 15:00-19:30 永和綠寶石河濱公園 (暫定)  \n(2)台中場 2020年10月24
+ 日 星期六 15:00-19:30 台中\n\nhttps://www.facebook.com/113600393363571/posts/2191
+ 35599476716/\n延期\n\nhttp://mmtsrun.com/\nhttps://www.facebook.com/hellokitt
+ ytw/posts/3007630855978940/\n美樂蒂&雙星仙子 45週年 經典星空夜跑\n2020年3月28日 星期六 16:00-19:
+ 30\n台北市大佳河濱公園（暫定，實際可使用地點需待台北市政府審核後確認）
+LAST-MODIFIED:20200612T122156Z
+LOCATION:永和緑宝石緑地\, 234 台湾 新北市 永和区
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MM\,TS\,KT 經典星空夜跑
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200613T070000Z
+DTEND:20200613T113000Z
+UID:2psd51uk8a1l015oc1nqgunpoi@google.com
+CREATED:20200305T124647Z
+DESCRIPTION:http://mmtsrun.com/\n再々延期\n(1)台北場 2021年4月10日 星期六 15:00-19:30 永和
+ 綠寶石河濱公園 (暫定)\n(2)台中場 2021年4月17日 星期六 10:00-22:00 台中\n\nhttp://mmtsrun.com/ \
+ n再延期\n(1)台北場 2020年6月13日 星期六 15:00-19:30 永和綠寶石河濱公園 (暫定)  \n(2)台中場 2020年10月24
+ 日 星期六 15:00-19:30 台中\n\nhttps://www.facebook.com/113600393363571/posts/2191
+ 35599476716/\n延期\n\nhttp://mmtsrun.com/\nhttps://www.facebook.com/hellokitt
+ ytw/posts/3007630855978940/\n美樂蒂&雙星仙子 45週年 經典星空夜跑\n2020年3月28日 星期六 16:00-19:
+ 30\n台北市大佳河濱公園（暫定，實際可使用地點需待台北市政府審核後確認）
+LAST-MODIFIED:20200612T121944Z
+LOCATION:永和緑宝石緑地\, 234 台湾 新北市 永和区
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(延期) MM\,TS\,KT 經典星空夜跑
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20181201
 DTEND;VALUE=DATE:20181202
 UID:4pm4ieg6ustqsf3vu5s9aelk4r@google.com
@@ -687,29 +744,6 @@ DESCRIPTION:<a href="http://mmtsrun.com/tp/">http://mmtsrun.com/tp/</a><br>
  bsp\;&nbsp\;&nbsp\;
 LAST-MODIFIED:20200325T213849Z
 LOCATION:台中\, 台湾 台中 北区 台中
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:MM\,TS\,KT 經典星空夜跑
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20200613T070000Z
-DTEND:20200613T113000Z
-UID:2psd51uk8a1l015oc1nqgunpoi@google.com
-CREATED:20200305T124647Z
-DESCRIPTION:<a href="http://mmtsrun.com/tp/">http://mmtsrun.com/tp/</a><br>
- (1)台北場<br>2020年6月13日 星期六 15:00-19:30<br>永和綠寶石河濱公園 (暫定)&nbsp\;&nbsp\;<br><br
- ><a href="http://mmtsrun.com/">http://mmtsrun.com/</a>&nbsp\;&nbsp\;<br>(2)
- 台中場<br>2020年10月24日 星期六 15:00-19:30<br>台中<br><br><a href="https://www.facebo
- ok.com/113600393363571/posts/219135599476716/">https://www.facebook.com/113
- 600393363571/posts/219135599476716/</a>&nbsp\;<br>活動延期&nbsp\;&nbsp\;<br><br
- ><a href="http://mmtsrun.com/">http://mmtsrun.com/</a><br><a href="https://
- www.facebook.com/hellokittytw/posts/3007630855978940/">https://www.facebook
- .com/hellokittytw/posts/3007630855978940/</a><br>美樂蒂&amp\;雙星仙子 45週年 經典星空夜跑<
- br>2020年3月28日 星期六 16:00-19:30<br>台北市大佳河濱公園（暫定，實際可使用地點需待台北市政府審核後確認）&nbsp\;&n
- bsp\;
-LAST-MODIFIED:20200325T213604Z
-LOCATION:永和緑宝石緑地\, 234 台湾 新北市 永和区
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:MM\,TS\,KT 經典星空夜跑
