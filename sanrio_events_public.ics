@@ -394,6 +394,25 @@ RRULE:FREQ=YEARLY;BYMONTH=9;BYDAY=1SU
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+DTSTART:20200905T051000Z
+DTEND:20200905T054000Z
+UID:7bkt3ljfkhfapasi4qe3913f1f@google.com
+CREATED:20200904T114830Z
+DESCRIPTION:https://www.facebook.com/259052694170117/posts/4257808567627823
+ /\nhttps://www.coldstone.com.tw/news/news_detail.aspx?id=86\n\n蛋黃哥一日店長\n\n何
+ 日：2020/9/5(六) \n何時：13:10-13:40 限時30分鐘 (當日11:00-13:00來買禮盒才有機會獲得合影喔)\n何地：COLD
+  STONE港站門市 (南港City Link \; 台北市南港區忠孝東路七段369號C棟2F)\n何拍：\nA.當天13:00前購買蛋黃哥懶得過中秋
+ 禮盒或三麗鷗系列商品，即可獲得與蛋黃哥合影一次（名額限量30組，額滿為止）\nB.當天14:00前購買中秋禮盒(不限款式)，每盒可獲得慵懶幸運轉盤乙次
+ ，有機會獲得一個月免費吃冰(市值$4950) (人人有獎)
+LAST-MODIFIED:20200904T114830Z
+LOCATION:Cold Stone酷聖石氷淇淋港站門市\, 115 台湾 Taipei City\, Nangang District\, Sec
+ tion 7\, Zhongxiao East Road\, 369號C棟2樓
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:GU COLD STONE港站門市一日店長
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20200822T020000Z
 DTEND:20200822T063000Z
 UID:6bu49k6da6rdrpg20aq7mr8ed8@google.com
