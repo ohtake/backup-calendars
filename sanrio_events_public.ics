@@ -394,6 +394,68 @@ RRULE:FREQ=YEARLY;BYMONTH=9;BYDAY=1SU
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+DTSTART:20210124T020000Z
+DTEND:20210124T063000Z
+UID:36pm5qtmuvtmenbo3i8e1951c2@google.com
+CREATED:20200905T053510Z
+DESCRIPTION:https://eplus.jp/sf/detail/3312310001\n\nピューロマスケティア～3人のやさしい銃士たち
+ ～\n草津市立草津クレアホール\n2021/1/24(日)\n開演：11:00～ (開場 10:30～)\n開演：14:00～ (開場 13:30～)
+ \n\nKT\,DN\,MM\,XO\,PN\,CN
+LAST-MODIFIED:20200905T053510Z
+LOCATION:草津市立草津クレアホール\, 6-chōme-15-11 Noji\, Kusatsu\, Shiga 525-0059\, Jap
+ an
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ピューロマスケティア
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200913T023000Z
+DTEND:20200913T055000Z
+UID:0r4tctcg745rdl5r6uhgvivqae@google.com
+CREATED:20200905T053255Z
+DESCRIPTION:https://asp.shufoo.net/t/spasp/chirashi/284617/33410522585083/\
+ n\nABCハウジング千里住宅公園\n\nリトルツインスターズ45周年アニバーサリーステージ\nTwinkleキラキラLIVE\n\n9/13（日）\
+ n11:30-11:50\n14:30-14:50\n\n当日10時からイベントブースにて整理券を各回先着45名に配布
+LAST-MODIFIED:20200905T053255Z
+LOCATION:ABCハウジング 千里住宅公園\, 1-7 Senribanpakukōen\, Suita\, Osaka 565-0826\, 
+ Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:TS TwinkleキラキラLIVE
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20201121
+DTEND;VALUE=DATE:20201123
+UID:6j3i0a6gr3fh0pfjp9h6elceo5@google.com
+CREATED:20200904T220505Z
+DESCRIPTION: https://www.niusnews.com/=P043g443\n\n\nPink Hug Party 抱抱節\n\n
+ 11.21 SAT - 11.22 SUN\n1100-2100\n信義香堤廣場\n\n三麗鷗除了與小魔女DoReMi聯名之外，今年還會與妞新聞合作舉
+ 辦抱抱節，屆時雙星仙子、美樂蒂都會到場與大家見面，2020年11月21日與11月22日，我們在信義香堤大道不見不散
+LAST-MODIFIED:20200904T220505Z
+LOCATION:新光三越信義香堤大道廣場\, Sinji\, 信義區台北市 台湾 110
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MM\,TS 抱抱節
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200905T080000Z
+DTEND:20200905T083000Z
+UID:539e4qs5drc2u5hp9ckn3vri8n@google.com
+CREATED:20200904T215129Z
+DESCRIPTION:https://www.facebook.com/hellokittytw/posts/4267312903344056\n\
+ nArnold Palmer x Hello Kitty\n\n9/5(六) 11:00~16:30 (Kitty出場時間為16:00~16:30)\
+ n中壢大江購物中心4樓Arnold Palmer小雨傘包包專櫃\n購買『愛的抱抱』系列包款還可以跟Hello Kitty合拍抱抱拍立得照
+LAST-MODIFIED:20200904T215130Z
+LOCATION:Dajiang Shopping Center\, 320 台湾 桃園 中レキ
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT Arnold Palmer x Hello Kitty
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20200905T051000Z
 DTEND:20200905T054000Z
 UID:7bkt3ljfkhfapasi4qe3913f1f@google.com
