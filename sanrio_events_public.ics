@@ -394,6 +394,108 @@ RRULE:FREQ=YEARLY;BYMONTH=9;BYDAY=1SU
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20201221
+DTEND;VALUE=DATE:20210101
+UID:76g80rth5gvmaejep7m4ubtef7@google.com
+CREATED:20200907T120614Z
+DESCRIPTION:http://www.tokyo-monorail.co.jp/news/pdf/press_20200904.pdf\n\n
+ 乗ってHappy♪「キキ＆ララ モノレール」Instagramキャンペーン\n\n公式Instagramをフォローした上、「#キキララモノレール」とハ
+ ッシュタグをつけて投稿いただいた方の中から、抽選で15名様を「リトルツインスターズとのグリーティング」へご招待\n\n2020年9月14日（月）～20
+ 20年10月31日（土）投稿分\n11月下旬：当選者宛てにダイレクトメッセージを送信\n12月下旬：当社施設内でのグリーティングを予定（詳細は当選者に
+ 通知）
+LAST-MODIFIED:20200907T120614Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:TS キキ＆ララ モノレール
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201024T070000Z
+DTEND:20201024T113000Z
+UID:5491b8mqgr6259k29rmrle2u0j@google.com
+CREATED:20200325T213849Z
+DESCRIPTION:<a href="http://mmtsrun.com/">http://mmtsrun.com/</a><br>再々延期<b
+ r>(1)台北場 2021年4月10日 星期六 15:00-19:30 永和綠寶石河濱公園 (暫定)<br>(2)台中場 2021年4月17日 星期六
+  10:00-22:00 台中<br><br><a href="http://mmtsrun.com/">http://mmtsrun.com/</a
+ >&nbsp\;<br>再延期<br>(1)台北場 2020年6月13日 星期六 15:00-19:30 永和綠寶石河濱公園 (暫定)&nbsp\;<
+ br>(2)台中場 2020年10月24日 星期六 15:00-19:30 台中<br><br><a href="https://www.facebo
+ ok.com/113600393363571/posts/219135599476716/">https://www.facebook.com/113
+ 600393363571/posts/219135599476716/</a><br>延期<br><br><a href="http://mmtsru
+ n.com/">http://mmtsrun.com/</a><br><a href="https://www.facebook.com/hellok
+ ittytw/posts/3007630855978940/">https://www.facebook.com/hellokittytw/posts
+ /3007630855978940/</a><br>美樂蒂&amp\;雙星仙子 45週年 經典星空夜跑<br>2020年3月28日 星期六 16:00
+ -19:30<br>台北市大佳河濱公園（暫定，實際可使用地點需待台北市政府審核後確認）
+LAST-MODIFIED:20200907T115927Z
+LOCATION:台中\, 台湾 台中 北区 台中
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(延期) MM\,TS\,KT 經典星空夜跑
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210410T070000Z
+DTEND:20210410T113000Z
+UID:7sebmkscqt1rb698bv5aj4tfen@google.com
+CREATED:20200612T122156Z
+DESCRIPTION:<a href="http://mmtsrun.com/">http://mmtsrun.com/</a><br>再々延期<b
+ r>(1)台北場 2021年4月10日 星期六 15:00-19:30 永和綠寶石河濱公園 (暫定)<br>(2)台中場 2021年4月17日 星期六
+  10:00-22:00 台中<br><br><a href="http://mmtsrun.com/">http://mmtsrun.com/</a
+ >&nbsp\;<br>再延期<br>(1)台北場 2020年6月13日 星期六 15:00-19:30 永和綠寶石河濱公園 (暫定)&nbsp\;<
+ br>(2)台中場 2020年10月24日 星期六 15:00-19:30 台中<br><br><a href="https://www.facebo
+ ok.com/113600393363571/posts/219135599476716/">https://www.facebook.com/113
+ 600393363571/posts/219135599476716/</a><br>延期<br><br><a href="http://mmtsru
+ n.com/">http://mmtsrun.com/</a><br><a href="https://www.facebook.com/hellok
+ ittytw/posts/3007630855978940/">https://www.facebook.com/hellokittytw/posts
+ /3007630855978940/</a><br>美樂蒂&amp\;雙星仙子 45週年 經典星空夜跑<br>2020年3月28日 星期六 16:00
+ -19:30<br>台北市大佳河濱公園（暫定，實際可使用地點需待台北市政府審核後確認）
+LAST-MODIFIED:20200907T115855Z
+LOCATION:永和緑宝石緑地\, 234 台湾 新北市 永和区
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MM\,TS\,KT 經典星空夜跑
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210417T020000Z
+DTEND:20210417T140000Z
+UID:0qer9jd1cla70ar1bj28kur5l2@google.com
+CREATED:20200612T122309Z
+DESCRIPTION:<a href="http://mmtsrun.com/">http://mmtsrun.com/</a><br>再々延期<b
+ r>(1)台北場 2021年4月10日 星期六 15:00-19:30 永和綠寶石河濱公園 (暫定)<br>(2)台中場 2021年4月17日 星期六
+  10:00-22:00 台中<br><br><a href="http://mmtsrun.com/">http://mmtsrun.com/</a
+ > <br>再延期<br>(1)台北場 2020年6月13日 星期六 15:00-19:30 永和綠寶石河濱公園 (暫定)  <br>(2)台中場 2
+ 020年10月24日 星期六 15:00-19:30 台中<br><br><a href="https://www.facebook.com/1136
+ 00393363571/posts/219135599476716/">https://www.facebook.com/11360039336357
+ 1/posts/219135599476716/</a><br>延期<br><br><a href="http://mmtsrun.com/">htt
+ p://mmtsrun.com/</a><br><a href="https://www.facebook.com/hellokittytw/post
+ s/3007630855978940/">https://www.facebook.com/hellokittytw/posts/3007630855
+ 978940/</a><br>美樂蒂&amp\;雙星仙子 45週年 經典星空夜跑<br>2020年3月28日 星期六 16:00-19:30<br>台
+ 北市大佳河濱公園（暫定，實際可使用地點需待台北市政府審核後確認）
+LAST-MODIFIED:20200907T115848Z
+LOCATION:台中\, 台湾 台中 北区 台中
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MM\,TS\,KT 經典星空夜跑
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20201121
+DTEND;VALUE=DATE:20201123
+UID:6j3i0a6gr3fh0pfjp9h6elceo5@google.com
+CREATED:20200904T220505Z
+DESCRIPTION:&nbsp\;<a href="https://www.niusnews.com/=P043g443">https://www
+ .niusnews.com/=P043g443</a><br><br>Pink Hug Party 抱抱節<br><br>11.21 SAT - 11
+ .22 SUN<br>1100-2100<br>信義香堤廣場<br><br>三麗鷗除了與小魔女DoReMi聯名之外，今年還會與妞新聞合作舉辦抱抱節，屆
+ 時雙星仙子、美樂蒂都會到場與大家見面，2020年11月21日與11月22日，我們在信義香堤大道不見不散
+LAST-MODIFIED:20200907T115313Z
+LOCATION:新光三越信義香堤大道廣場\, Sinji\, 信義區台北市 台湾 110
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MM\,TS 抱抱節
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20210124T020000Z
 DTEND:20210124T063000Z
 UID:36pm5qtmuvtmenbo3i8e1951c2@google.com
@@ -424,21 +526,6 @@ SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:TS TwinkleキラキラLIVE
 TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20201121
-DTEND;VALUE=DATE:20201123
-UID:6j3i0a6gr3fh0pfjp9h6elceo5@google.com
-CREATED:20200904T220505Z
-DESCRIPTION: https://www.niusnews.com/=P043g443\n\n\nPink Hug Party 抱抱節\n\n
- 11.21 SAT - 11.22 SUN\n1100-2100\n信義香堤廣場\n\n三麗鷗除了與小魔女DoReMi聯名之外，今年還會與妞新聞合作舉
- 辦抱抱節，屆時雙星仙子、美樂蒂都會到場與大家見面，2020年11月21日與11月22日，我們在信義香堤大道不見不散
-LAST-MODIFIED:20200904T220505Z
-LOCATION:新光三越信義香堤大道廣場\, Sinji\, 信義區台北市 台湾 110
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:MM\,TS 抱抱節
-TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200905T080000Z
@@ -832,44 +919,6 @@ SUMMARY:(延期) ピューロマスケティア
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20210417T020000Z
-DTEND:20210417T140000Z
-UID:0qer9jd1cla70ar1bj28kur5l2@google.com
-CREATED:20200612T122309Z
-DESCRIPTION:http://mmtsrun.com/\n再々延期\n(1)台北場 2021年4月10日 星期六 15:00-19:30 永和
- 綠寶石河濱公園 (暫定)\n(2)台中場 2021年4月17日 星期六 10:00-22:00 台中\n\nhttp://mmtsrun.com/ \
- n再延期\n(1)台北場 2020年6月13日 星期六 15:00-19:30 永和綠寶石河濱公園 (暫定)  \n(2)台中場 2020年10月24
- 日 星期六 15:00-19:30 台中\n\nhttps://www.facebook.com/113600393363571/posts/2191
- 35599476716/\n延期\n\nhttp://mmtsrun.com/\nhttps://www.facebook.com/hellokitt
- ytw/posts/3007630855978940/\n美樂蒂&雙星仙子 45週年 經典星空夜跑\n2020年3月28日 星期六 16:00-19:
- 30\n台北市大佳河濱公園（暫定，實際可使用地點需待台北市政府審核後確認）
-LAST-MODIFIED:20200612T122309Z
-LOCATION:台中\, 台湾 台中 北区 台中
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:MM\,TS\,KT 經典星空夜跑
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20210410T070000Z
-DTEND:20210410T113000Z
-UID:7sebmkscqt1rb698bv5aj4tfen@google.com
-CREATED:20200612T122156Z
-DESCRIPTION:http://mmtsrun.com/\n再々延期\n(1)台北場 2021年4月10日 星期六 15:00-19:30 永和
- 綠寶石河濱公園 (暫定)\n(2)台中場 2021年4月17日 星期六 10:00-22:00 台中\n\nhttp://mmtsrun.com/ \
- n再延期\n(1)台北場 2020年6月13日 星期六 15:00-19:30 永和綠寶石河濱公園 (暫定)  \n(2)台中場 2020年10月24
- 日 星期六 15:00-19:30 台中\n\nhttps://www.facebook.com/113600393363571/posts/2191
- 35599476716/\n延期\n\nhttp://mmtsrun.com/\nhttps://www.facebook.com/hellokitt
- ytw/posts/3007630855978940/\n美樂蒂&雙星仙子 45週年 經典星空夜跑\n2020年3月28日 星期六 16:00-19:
- 30\n台北市大佳河濱公園（暫定，實際可使用地點需待台北市政府審核後確認）
-LAST-MODIFIED:20200612T122156Z
-LOCATION:永和緑宝石緑地\, 234 台湾 新北市 永和区
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:MM\,TS\,KT 經典星空夜跑
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20200613T070000Z
 DTEND:20200613T113000Z
 UID:2psd51uk8a1l015oc1nqgunpoi@google.com
@@ -1173,29 +1222,6 @@ SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:(延期) KT TIPSY 東京
 TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20201024T070000Z
-DTEND:20201024T113000Z
-UID:5491b8mqgr6259k29rmrle2u0j@google.com
-CREATED:20200325T213849Z
-DESCRIPTION:<a href="http://mmtsrun.com/tp/">http://mmtsrun.com/tp/</a><br>
- (1)台北場<br>2020年6月13日 星期六 15:00-19:30<br>永和綠寶石河濱公園 (暫定)&nbsp\;&nbsp\;<br><br
- ><a href="http://mmtsrun.com/">http://mmtsrun.com/</a>&nbsp\;&nbsp\;<br>(2)
- 台中場<br>2020年10月24日 星期六 15:00-19:30<br>台中<br><br><a href="https://www.facebo
- ok.com/113600393363571/posts/219135599476716/">https://www.facebook.com/113
- 600393363571/posts/219135599476716/</a>&nbsp\;<br>活動延期&nbsp\;&nbsp\;<br><br
- ><a href="http://mmtsrun.com/">http://mmtsrun.com/</a><br><a href="https://
- www.facebook.com/hellokittytw/posts/3007630855978940/">https://www.facebook
- .com/hellokittytw/posts/3007630855978940/</a><br>美樂蒂&amp\;雙星仙子 45週年 經典星空夜跑<
- br>2020年3月28日 星期六 16:00-19:30<br>台北市大佳河濱公園（暫定，實際可使用地點需待台北市政府審核後確認）&nbsp\;&n
- bsp\;&nbsp\;&nbsp\;
-LAST-MODIFIED:20200325T213849Z
-LOCATION:台中\, 台湾 台中 北区 台中
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:MM\,TS\,KT 經典星空夜跑
-TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200322T020000Z
