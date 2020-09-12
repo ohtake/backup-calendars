@@ -394,6 +394,41 @@ RRULE:FREQ=YEARLY;BYMONTH=9;BYDAY=1SU
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+DTSTART:20200905T080000Z
+DTEND:20200905T083000Z
+UID:539e4qs5drc2u5hp9ckn3vri8n@google.com
+CREATED:20200904T215129Z
+DESCRIPTION:<a href="https://www.facebook.com/hellokittytw/posts/4267312903
+ 344056">https://www.facebook.com/hellokittytw/posts/4267312903344056</a><br
+ >https://www.facebook.com/ArnoldPalmer.taiwan.bag/posts/728849034329098<br>
+ <br>Arnold Palmer x Hello Kitty<br><br>9/5(六) 11:00~16:30 (Kitty出場時間為16:00~
+ 16:30)<br>中壢大江購物中心4樓Arnold Palmer小雨傘包包專櫃<br>購買『愛的抱抱』系列包款還可以跟Hello Kitty合拍抱抱
+ 拍立得照
+LAST-MODIFIED:20200911T211020Z
+LOCATION:Dajiang Shopping Center\, 320 台湾 桃園 中レキ
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT Arnold Palmer x Hello Kitty
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200912T080000Z
+DTEND:20200912T083000Z
+UID:3s83ovonerdn2btike6hln3be4@google.com
+CREATED:20200911T210826Z
+DESCRIPTION:https://www.facebook.com/hellokittytw/posts/4304163872992292\nh
+ ttps://www.facebook.com/ArnoldPalmer.taiwan.bag/posts/734046627142672\n\nAr
+ nold Palmer x Hello Kitty\n\n9/12(六)10:30~16:30(Kitty出場時間為16:00~16:30)\n台中T
+ op City大遠百 10樓Arnold Palmer小雨傘包包專櫃\n只要購買【愛的抱抱】系列包包就可以跟Kitty合拍抱抱拍立得紀念照唷
+LAST-MODIFIED:20200911T210826Z
+LOCATION:Top City Taichung\, No. 251號\, Section 3\, Taiwan Boulevard\, Xitu
+ n District\, Taichung City\, 台湾 407
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT Arnold Palmer x Hello Kitty
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20201221
 DTEND;VALUE=DATE:20210101
 UID:76g80rth5gvmaejep7m4ubtef7@google.com
@@ -525,21 +560,6 @@ LOCATION:ABCハウジング 千里住宅公園\, 1-7 Senribanpakukōen\, Suita\,
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:TS TwinkleキラキラLIVE
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20200905T080000Z
-DTEND:20200905T083000Z
-UID:539e4qs5drc2u5hp9ckn3vri8n@google.com
-CREATED:20200904T215129Z
-DESCRIPTION:https://www.facebook.com/hellokittytw/posts/4267312903344056\n\
- nArnold Palmer x Hello Kitty\n\n9/5(六) 11:00~16:30 (Kitty出場時間為16:00~16:30)\
- n中壢大江購物中心4樓Arnold Palmer小雨傘包包專櫃\n購買『愛的抱抱』系列包款還可以跟Hello Kitty合拍抱抱拍立得照
-LAST-MODIFIED:20200904T215130Z
-LOCATION:Dajiang Shopping Center\, 320 台湾 桃園 中レキ
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:KT Arnold Palmer x Hello Kitty
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
