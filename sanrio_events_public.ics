@@ -394,6 +394,22 @@ RRULE:FREQ=YEARLY;BYMONTH=9;BYDAY=1SU
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+DTSTART:20200919T020000Z
+DTEND:20200919T053000Z
+UID:7ll1fp963rmg1ikto2ucapnois@google.com
+CREATED:20200914T133512Z
+DESCRIPTION:https://www.minyu-net.com/event/culture/scramble/FM20200914-536
+ 618.php\n\n福島市大町に設置されるエールポストの完成記念イベント「エールポストから家族・友人に手紙を送ろう」\n特別ゲストとしてハローキティ
+ も応援に駆け付ける\n\n2020年9月19日 ①午前11時 ②午後2時（各先着10組）\nチェンバおおまち\n福島民友新聞社事業局（電話０２４・５２
+ ３・１３３４・平日午前１０時～午後４時）へ電話で予約
+LAST-MODIFIED:20200914T133512Z
+LOCATION:チェンバおおまち\, 日本、〒960-8041 福島県福島市大町４−１５
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT エールポスト
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20200921T020000Z
 DTEND:20200921T063000Z
 UID:6ogppmv6o6u43gmk736paqcupc@google.com
