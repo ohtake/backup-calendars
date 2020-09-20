@@ -394,6 +394,23 @@ RRULE:FREQ=YEARLY;BYMONTH=9;BYDAY=1SU
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20201010T110000
+DTEND;TZID=Asia/Tokyo:20201010T153000
+RRULE:FREQ=DAILY;UNTIL=20201011T145959Z
+UID:3g9ugrhuvtgdn3smsj7gcmhbtp@google.com
+CREATED:20200920T011017Z
+DESCRIPTION:https://prtimes.jp/main/html/rd/p/000000001.000065676.html\n\nハ
+ ローキティと一緒にぶどう狩り\nコロナ禍の中、鹿児島の子供たちに少しでも夢と希望を与えられるイベントとして開催\n\n日程：10月10日（土）～11日
+ （日）\n時間：①11：00～/②13：00～/③15：00～\n場所：霧島さくらフルーツランド（ぶどうテラス内及びぶどう園）\n内容：ハローキティと
+ のグリーティングや記念撮影（人数限定※先着順、無料）
+LAST-MODIFIED:20200920T011017Z
+LOCATION:霧島さくらフルーツランド\, 日本、〒892-0828 鹿児島県鹿児島市金生町６−６
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT 霧島さくらフルーツランド
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20200919T020000Z
 DTEND:20200919T053000Z
 UID:7ll1fp963rmg1ikto2ucapnois@google.com
