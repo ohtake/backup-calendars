@@ -394,6 +394,41 @@ RRULE:FREQ=YEARLY;BYMONTH=9;BYDAY=1SU
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+DTSTART:20201025T020000Z
+DTEND:20201025T064500Z
+UID:6u9fks24le3k05n9nhoqdogbg7@google.com
+CREATED:20201011T135954Z
+DESCRIPTION:http://www.mallage.com/shobu/event_list.php#323\n\nハローキティ撮影会\n1
+ 0月25日(日) ①11:00～ ②12:30～ ③14:00～ ④15:30～(各回15分を予定)\n1F 滝のコート\n\n撮影会参加整理券を、当
+ 日10:00より、「1F 滝のコート入口外側（国道122号側）」にて、 先着順（各回先着25組）で配布\n10:30以降も整理券に残りがある場合は、「
+ 1F滝のコート」イベント会場での整理券配布を継続
+LAST-MODIFIED:20201011T135954Z
+LOCATION:モラージュ菖蒲\, 日本、〒346-0106 埼玉県久喜市菖蒲町菖蒲６００５−１
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT モラージュ菖蒲
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201031T020000Z
+DTEND:20201031T070000Z
+UID:01n7vpldhmb4qp6475c9qiarrm@google.com
+CREATED:20201001T181246Z
+DESCRIPTION:<a href="http://pieri.sc/event/detail/552/">http://pieri.sc/eve
+ nt/detail/552/</a><br><a href="https://rstaff.co.jp/news/20201001-422/">htt
+ ps://rstaff.co.jp/news/20201001-422/</a><br><br>【6周年スペシャルイベント】ハローキティと遊ぼう！ハロ
+ ウィーンミニステージ＆撮影会<br><br>10月31日(土)<br>ミニステージ ①11:00～ ②14:00～(各回先着70組)<br>撮影会 ①
+ 12:30～ ②15:30～(各回先着50組)<br>1Fピエリコート<br><br>当日10:00より「1F(1-8)入り口側(琵琶湖側)」にて整理
+ 券配布
+LAST-MODIFIED:20201011T131927Z
+LOCATION:PIERI MORIYAMA\, 2620-5 Imahamachō\, Moriyama\, Shiga 524-0101\, J
+ apan
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:KT ピエリ守山
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20201024T020000Z
 DTEND:20201024T063000Z
 UID:01se2165jujo1oc3l896p4cj0r@google.com
@@ -441,21 +476,6 @@ SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:MM SHIBUYA SCRAMBLE FESTIVAL
 TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20201031
-DTEND;VALUE=DATE:20201101
-UID:01n7vpldhmb4qp6475c9qiarrm@google.com
-CREATED:20201001T181246Z
-DESCRIPTION:https://rstaff.co.jp/news/20201001-422/\n\nハローキティ写真撮影会\n10月31日(
- 土)\nピエリ守山(堅田駅/守山駅)
-LAST-MODIFIED:20201001T181246Z
-LOCATION:PIERI MORIYAMA\, 2620-5 Imahamachō\, Moriyama\, Shiga 524-0101\, J
- apan
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:KT ピエリ守山
-TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210124T020000Z
