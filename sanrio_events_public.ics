@@ -394,6 +394,23 @@ RRULE:FREQ=YEARLY;BYMONTH=9;BYDAY=1SU
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+DTSTART:20201031T020000Z
+DTEND:20201031T063000Z
+UID:4sh2jh68sv6ipk2fqjt2eebl8h@google.com
+CREATED:20201014T130953Z
+DESCRIPTION:事前予約制（当日参加不可）\n2020年10月20日（火）までにメールで応募\n\nhttp://www.new-chitos
+ e-airport.jp/ja/happy-flight/news/detail/1031.html\nhttps://twitter.com/Hap
+ pyFlight_cts/status/1316323785490874368\n\n2020年10月31日（土）\n有料ゾーン内\n1100 ミニシ
+ ョー（年間パスポート保持者10名・一般20名）\n1300 撮影会（20組）\n1500 撮影会（20組）\n撮影会参加には入場券と撮影会参加料100
+ 0円が必要
+LAST-MODIFIED:20201014T130953Z
+LOCATION:ハローキティ ハッピーフライト\, 日本、〒066-0012 北海道千歳市美々
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:PN ハッピーフライト
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20201025T020000Z
 DTEND:20201025T064500Z
 UID:6u9fks24le3k05n9nhoqdogbg7@google.com
