@@ -394,6 +394,28 @@ RRULE:FREQ=YEARLY;BYMONTH=9;BYDAY=1SU
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+DTSTART:20201205T020000Z
+DTEND:20201205T060000Z
+UID:73c3ikgnolm156b7tq4vh770k0@google.com
+CREATED:20201021T100509Z
+DESCRIPTION:&nbsp\;3歳～小学生（保護者同伴）の小松市民のみ申し込み可 <br>「保護者だけ」「子どもだけ」では申し込み不可<br>
+ 11月15日（日曜日）18時までに申込フォームから申し込み  <br><br><a href="https://www.city.komatsu.lg
+ .jp/shiseijoho/80syuunenkinen/11250.html">https://www.city.komatsu.lg.jp/sh
+ iseijoho/80syuunenkinen/11250.html</a> <br><a href="https://twitter.com/kom
+ atsu_city/status/1318765087142805505">https://twitter.com/komatsu_city/stat
+ us/1318765087142805505</a><br><br>市制80周年特別記念事業「ミラクルギフトパレードスペシャルミニライブショー」<br
+ >ポムポムプリンやハローキティなど、人気の6キャラクターとダンサーが華やかなステージを披露、カブッキーも特別出演<br><br>〈日時〉 12月5日（
+ 土曜日） 11時～、13時30分～ 2回公演<br>〈会場〉 こまつ芸術劇場うらら大ホール<br>〈内容〉 あいさつ、スペシャルミニライブショー、お楽
+ しみプレゼントの抽選発表<br>〈対象〉 保護者同伴の子ども（3歳～小学生） ※市民限定<br>〈定員〉 約100組 ※保護者（1人）＋子ども（2人ま
+ で）のグループ × 2回公演<br>〈備考〉 ステージは写真撮影可
+LAST-MODIFIED:20201021T100549Z
+LOCATION:こまつ芸術劇場うらら 大ホール\, 日本、〒923-0921 石川県小松市土居原町７１０
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ミラクルギフトパレードスペシャルミニライブショー
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20201024T073000Z
 DTEND:20201024T083000Z
 UID:4qgee7ompubg34g3srkr97insd@google.com
