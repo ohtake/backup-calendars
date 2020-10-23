@@ -394,6 +394,29 @@ RRULE:FREQ=YEARLY;BYMONTH=9;BYDAY=1SU
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+DTSTART:20201024T070000Z
+DTEND:20201024T113000Z
+UID:5491b8mqgr6259k29rmrle2u0j@google.com
+CREATED:20200325T213849Z
+DESCRIPTION:<a href="http://mmtsrun.com/">http://mmtsrun.com/</a><br>再々延期<b
+ r>(1)台北場 2021年4月10日 星期六 15:00-19:30 永和綠寶石河濱公園 (暫定)<br>(2)台中場 2021年4月17日 星期六
+  10:00-22:00 台中<br><br><a href="http://mmtsrun.com/">http://mmtsrun.com/</a
+ >&nbsp\;<br>再延期<br>(1)台北場 2020年6月13日 星期六 15:00-19:30 永和綠寶石河濱公園 (暫定)&nbsp\;<
+ br>(2)台中場 2020年10月24日 星期六 15:00-19:30 台中<br><br><a href="https://www.facebo
+ ok.com/113600393363571/posts/219135599476716/">https://www.facebook.com/113
+ 600393363571/posts/219135599476716/</a><br>延期<br><br><a href="http://mmtsru
+ n.com/">http://mmtsrun.com/</a><br><a href="https://www.facebook.com/hellok
+ ittytw/posts/3007630855978940/">https://www.facebook.com/hellokittytw/posts
+ /3007630855978940/</a><br>美樂蒂&amp\;雙星仙子 45週年 經典星空夜跑<br>2020年3月28日 星期六 16:00
+ -19:30<br>台北市大佳河濱公園（暫定，實際可使用地點需待台北市政府審核後確認）
+LAST-MODIFIED:20201023T132916Z
+LOCATION:台中\, 台湾 台中 北区 台中
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(延期) MM\,TS\,KT 經典星空夜跑
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20201115T020000Z
 DTEND:20201115T050000Z
 UID:3v0ot2pld6a4irro4rd793ombg@google.com
@@ -717,29 +740,6 @@ SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:TS キキ＆ララ モノレール
 TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20201024T070000Z
-DTEND:20201024T113000Z
-UID:5491b8mqgr6259k29rmrle2u0j@google.com
-CREATED:20200325T213849Z
-DESCRIPTION:<a href="http://mmtsrun.com/">http://mmtsrun.com/</a><br>再々延期<b
- r>(1)台北場 2021年4月10日 星期六 15:00-19:30 永和綠寶石河濱公園 (暫定)<br>(2)台中場 2021年4月17日 星期六
-  10:00-22:00 台中<br><br><a href="http://mmtsrun.com/">http://mmtsrun.com/</a
- >&nbsp\;<br>再延期<br>(1)台北場 2020年6月13日 星期六 15:00-19:30 永和綠寶石河濱公園 (暫定)&nbsp\;<
- br>(2)台中場 2020年10月24日 星期六 15:00-19:30 台中<br><br><a href="https://www.facebo
- ok.com/113600393363571/posts/219135599476716/">https://www.facebook.com/113
- 600393363571/posts/219135599476716/</a><br>延期<br><br><a href="http://mmtsru
- n.com/">http://mmtsrun.com/</a><br><a href="https://www.facebook.com/hellok
- ittytw/posts/3007630855978940/">https://www.facebook.com/hellokittytw/posts
- /3007630855978940/</a><br>美樂蒂&amp\;雙星仙子 45週年 經典星空夜跑<br>2020年3月28日 星期六 16:00
- -19:30<br>台北市大佳河濱公園（暫定，實際可使用地點需待台北市政府審核後確認）
-LAST-MODIFIED:20200907T115927Z
-LOCATION:台中\, 台湾 台中 北区 台中
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:(延期) MM\,TS\,KT 經典星空夜跑
-TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210410T070000Z
