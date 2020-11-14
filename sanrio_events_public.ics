@@ -394,6 +394,26 @@ RRULE:FREQ=YEARLY;BYMONTH=9;BYDAY=1SU
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+DTSTART:20201114T064500Z
+DTEND:20201114T071500Z
+UID:4uoifnkc4o880ibsdobhc6ov45@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
+  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
+ gle.com
+CREATED:20201112T123205Z
+DESCRIPTION:https://www.alvark-tokyo.jp/lp/game_20201114_20201115/ \nhttps:
+ //prtimes.jp/main/html/rd/p/000000113.000035222.html\n\n11月14日(土)・15日(日)\nア
+ リーナ立川立飛\nBリーグ2020-21シーズン第9節 三遠ネオフェニックス戦\n\n12:45　場外ブースオープン\n13:00　FC先行入場開始\
+ n13:15　一般入場開始\n14:15　プライムタイムショー\n14:30　選手入場\n15:03　スターティング５紹介\n15:05　試合開始\n
+ 15:45頃　ハーフタイムショー\n\n◆11/14(土) ハーフタイムショー「マイメロディ&クロミ」
+LAST-MODIFIED:20201114T083401Z
+LOCATION:アリーナ立川立飛\, 日本、〒190-0015 東京都立川市泉町５００−４
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MM\,KU アルバルク東京ファミリーデー
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20201031T030000Z
 DTEND:20201031T052000Z
 UID:3lc4v9dlccc5ju4j1p5hs29qoa@google.com
