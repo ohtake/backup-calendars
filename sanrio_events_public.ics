@@ -394,6 +394,38 @@ RRULE:FREQ=YEARLY;BYMONTH=9;BYDAY=1SU
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+DTSTART:20201219T000900Z
+DTEND:20201219T024800Z
+UID:7lreveusnqnedjnj9uouras1v3@google.com
+CREATED:20201115T125729Z
+DESCRIPTION:https://prtimes.jp/main/html/rd/p/000000609.000004858.html\n\n赤
+ い風船「ハローキティと一緒に ハローキティ新幹線で行く広島」\n2020年12月19日（土）出発\n\nハローキティが各車両にやってくる♪\n往路はハ
+ ローキティが新幹線に乗車し、各車両におじゃまします\n新大阪9：09頃発 → 広島11：48頃着
+LAST-MODIFIED:20201115T125729Z
+LOCATION:広島駅\, 日本、〒732-0822 広島県広島市南区松原町１−２番３７号
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT ハローキティ新幹線で行く広島
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210131
+DTEND;VALUE=DATE:20210201
+UID:32nsb123jl6s2a0ml1jdtm9sqg@google.com
+CREATED:20201115T124916Z
+DESCRIPTION:https://www.hoiku-festa2021.jp/wp-content/uploads/2020/10/3df34
+ f76afd02944e92c58ed27fd9394.pdf\nhttps://www.hoiku-festa2021.jp/\n\n保育のおしごと
+ 応援フェスタ2021 in TOKYO\n2021/1/31(日) 10:00-16:00\n東京国際フォーラム ホールB7\n\n当日は、ハローキテ
+ ィとホイクマ・ホイクマンがあそびにくる\n\n参加対象となる方\n● 保育の仕事に興味のある方\n● 保育資格をお持ちの方\n● 保育士資格取得を目指
+ している方\n● 復職を考えている方
+LAST-MODIFIED:20201115T124916Z
+LOCATION:東京国際フォーラム ホールB\, 日本、〒100-0005 東京都千代田区丸の内３丁目５−１
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT 保育のおしごと応援フェスタ
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20201114T064500Z
 DTEND:20201114T071500Z
 UID:4uoifnkc4o880ibsdobhc6ov45@google.com
