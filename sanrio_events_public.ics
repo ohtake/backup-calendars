@@ -394,6 +394,23 @@ RRULE:FREQ=YEARLY;BYMONTH=9;BYDAY=1SU
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210131
+DTEND;VALUE=DATE:20210201
+UID:32nsb123jl6s2a0ml1jdtm9sqg@google.com
+CREATED:20201115T124916Z
+DESCRIPTION:参加対象となる方\n● 保育の仕事に興味のある方\n● 保育資格をお持ちの方\n● 保育士資格取得を目指している方\n● 復職
+ を考えている方\n\nhttps://www.hoiku-festa2021.jp/wp-content/uploads/2020/10/3df34f
+ 76afd02944e92c58ed27fd9394.pdf\nhttps://www.hoiku-festa2021.jp/\n\n保育のおしごと応
+ 援フェスタ2021 in TOKYO\n2021/1/31(日) 10:00-16:00\n東京国際フォーラム ホールB7\n\n当日は、ハローキティ
+ とホイクマ・ホイクマンがあそびにくる
+LAST-MODIFIED:20201115T225222Z
+LOCATION:東京国際フォーラム ホールB\, 日本、〒100-0005 東京都千代田区丸の内３丁目５−１
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT 保育のおしごと応援フェスタ
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20201219T000900Z
 DTEND:20201219T024800Z
 UID:7lreveusnqnedjnj9uouras1v3@google.com
@@ -407,23 +424,6 @@ SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:KT ハローキティ新幹線で行く広島
 TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20210131
-DTEND;VALUE=DATE:20210201
-UID:32nsb123jl6s2a0ml1jdtm9sqg@google.com
-CREATED:20201115T124916Z
-DESCRIPTION:https://www.hoiku-festa2021.jp/wp-content/uploads/2020/10/3df34
- f76afd02944e92c58ed27fd9394.pdf\nhttps://www.hoiku-festa2021.jp/\n\n保育のおしごと
- 応援フェスタ2021 in TOKYO\n2021/1/31(日) 10:00-16:00\n東京国際フォーラム ホールB7\n\n当日は、ハローキテ
- ィとホイクマ・ホイクマンがあそびにくる\n\n参加対象となる方\n● 保育の仕事に興味のある方\n● 保育資格をお持ちの方\n● 保育士資格取得を目指
- している方\n● 復職を考えている方
-LAST-MODIFIED:20201115T124916Z
-LOCATION:東京国際フォーラム ホールB\, 日本、〒100-0005 東京都千代田区丸の内３丁目５−１
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:KT 保育のおしごと応援フェスタ
-TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20201114T064500Z
