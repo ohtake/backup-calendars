@@ -394,6 +394,53 @@ RRULE:FREQ=YEARLY;BYMONTH=9;BYDAY=1SU
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+DTSTART:20201129T020000Z
+DTEND:20201129T083000Z
+UID:3t62hngicjc948d604dhs21pk5@google.com
+CREATED:20201124T113318Z
+DESCRIPTION:https://suzuka-aeonmall.com/news/event/3051\n\n★サンリオ BLACK FRID
+ AY撮影会★\nクロミ、バッドばつ丸がBLACK FRIDAYにあわせてイオンモール鈴鹿に登場\n\n2020/11/29 (日)\n(1)11:00
+ ～ (2)13:00～ (3)15:00～ (4)17:00～\n専門店街1階　中央コート\n\n各回先着50組\n参加条件：イオンモールアプリで「イ
+ オンモール鈴鹿」お気に入りモール登録画面を提示
+LAST-MODIFIED:20201124T113318Z
+LOCATION:イオンモール鈴鹿\, 日本、〒513-0834 三重県鈴鹿市庄野羽山４丁目１−２
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KU\,XO イオンモール鈴鹿
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201122T080000Z
+DTEND:20201122T100000Z
+UID:5t7kl7d3fki1apq5vi2an8imh5@google.com
+CREATED:20201124T112835Z
+DESCRIPTION:https://tokyomegaillumi.jp/cms/events/event/%e3%81%97%e3%81%aa%
+ e3%81%8c%e3%82%8f%e5%8c%ba%e6%b0%91%e3%83%87%e3%83%bc-2/\n\n東京メガイルミ\n2020年1
+ 1月21日 ～ 2020年11月23日\nしながわ区民デー\n\nしながわ観光大使「シナモロール」が遊びにくる\n11/22（日）①17:00～ ②1
+ 8:30～\n晴天時：パドック内\n雨天時：G-FRONT １階
+LAST-MODIFIED:20201124T112835Z
+LOCATION:大井競馬場\, 日本、〒140-0012 東京都品川区勝島２丁目１−２
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CN 東京メガイルミ
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201213T020000Z
+DTEND:20201213T050000Z
+UID:4motjd68cicuuv3ie50mg8vl8p@google.com
+CREATED:20201124T101104Z
+DESCRIPTION:https://yomiuriland.com/show/xmas/index.html\nハローキティ&マイメロディ もうす
+ ぐクリスマス\n\n場所: よみうりランド 日テレらんらんホール\n時刻: 11:00\, 13:30\n出演: ハローキティ・マイメロディ\n観覧に
+ は、当日会場前で配布する「座席指定付き入場券」（無料）が必要
+LAST-MODIFIED:20201124T101104Z
+LOCATION:よみうりランド\, 日本、〒206-8725 東京都稲城市多摩区矢野口４丁目１−４０１５−１
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT\,MM もうすぐクリスマス
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20210131
 DTEND;VALUE=DATE:20210201
 UID:32nsb123jl6s2a0ml1jdtm9sqg@google.com
