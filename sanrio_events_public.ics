@@ -394,6 +394,39 @@ RRULE:FREQ=YEARLY;BYMONTH=9;BYDAY=1SU
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20201223T103000
+DTEND;TZID=Asia/Tokyo:20201223T142000
+RRULE:FREQ=DAILY;UNTIL=20201224T145959Z
+UID:470cqbonbtedtsuemufuj7js02@google.com
+CREATED:20201125T122614Z
+DESCRIPTION:https://www.sanrio.co.jp/news/event-miracle-sunshinecity-202011
+ 25/\n\n2020冬ミラクルサイン会\nハローキティ&マイメロディ もうすぐクリスマス\n\n12月23日（水）・12月24日（木）\n1回目：1
+ 0:30～10:50\n2回目：14:00～14:20\nサンシャインシティ 噴水広場
+LAST-MODIFIED:20201125T122614Z
+LOCATION:サンシャインシティ 噴水広場\, 日本、〒170-8630 東京都豊島区東池袋３丁目１ サンシャインシティ 専門店街アルパ B1
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT\,MM もうすぐクリスマス
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20201128T120000
+DTEND;TZID=Asia/Tokyo:20201128T183000
+RRULE:FREQ=DAILY;UNTIL=20201129T145959Z
+UID:7s3vpqdlu0mam1jmij531ktvnf@google.com
+CREATED:20201125T122326Z
+DESCRIPTION:https://www.symphony-cruise.co.jp/season/detail.php?p=1395\nhtt
+ ps://www.atpress.ne.jp/news/236528\n\nシナモロール クルーズパーティー\n11月28日・29日\nランチクルーズ
+ (第一部)12:00～14:10\nサンセットクルーズ(第二部)16:30～18:30\n\nオンライン シナモロール クルーズパーティー\n11月2
+ 8日 13:25～13:50頃
+LAST-MODIFIED:20201125T122326Z
+LOCATION:シンフォニークルーズ\, 日本、〒105-0022 東京都港区海岸２丁目７−１０４
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CN クルーズパーティー
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20201129T020000Z
 DTEND:20201129T083000Z
 UID:3t62hngicjc948d604dhs21pk5@google.com
