@@ -394,6 +394,163 @@ RRULE:FREQ=YEARLY;BYMONTH=9;BYDAY=1SU
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+DTSTART:20201224T080000Z
+DTEND:20201224T083000Z
+UID:6boidn68825j4c8gsnd4656rsd@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
+  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
+ gle.com
+CREATED:20201124T114456Z
+DESCRIPTION:https://xmas-piano.live/\n\nみんなでつくる！未来へつながる！ハラミちゃん×サンリオキャラクターズが
+ おくるArio・GRANDTREE・PRIMETREE XmasリモートLIVE\n\n下記会場ではハラミちゃんが生演奏を披露\n各会場にサンリオキャ
+ ラクターが登場\n当日会場にて観覧エリアの抽選券を配布\n\n12.5(Sat)14:00 セブンパークアリオ柏、ハラミちゃん＆キキララ\n12.6(
+ Sun)15:00 グランツリー武蔵小杉、ハラミちゃん＆クロミ\n12.12(Sat)15:00 アリオ八尾、ハラミちゃん＆マイメロディ\n12.13
+ (Sun)15:00 アリオ札幌、ハラミちゃん＆ハローキティ\n12.24(Thu)17:00 プライムツリー赤池、ハラミちゃん＆ポムポムプリン
+LAST-MODIFIED:20201207T125143Z
+LOCATION:プライムツリー赤池\, 日本、〒470-0126 愛知県日進市赤池町箕ノ手１
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:PN Xmas LIVE
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20201226T133000
+DTEND;TZID=Asia/Tokyo:20201226T175000
+RRULE:FREQ=DAILY;UNTIL=20201227T145959Z
+UID:0c9pi92e301pf80olf82dng6ab@google.com
+CREATED:20201207T124945Z
+DESCRIPTION:新型コロナウイルスの感染拡大の状況を考慮し中止\n\nhttps://www.u-treasure-onlineshop.jp
+ /event-news/20201117-sanrio-gr/\n\n「U-TREASURE コンセプトストア池袋」のオープンを記念して、 12月26
+ 日（土） 、 12月27日（日） の2日間限定で サンリオキャラクターズから「ハローキティ」と「ぐでたま」のグリーティングイベントを開催\n\n12月
+ 26日（土） 、 12月27日（日）　\nU-TREASURE コンセプトストア池袋\n①13:30～13:50\n②15:30～15:50\n③17
+ :30～17:50
+LAST-MODIFIED:20201207T124945Z
+LOCATION:U-TREASURE コンセプトストア池袋\, 日本、〒170-0013 東京都豊島区東池袋１丁目２３−５ オトメイトビル ４F
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(中止) KT\,GU U-TREASUREコンセプトストア池袋
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201213T013000Z
+DTEND:20201213T063000Z
+UID:2b2irkeqrjclc58edeo4ei65ae@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
+  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
+ gle.com
+CREATED:20201201T125539Z
+DESCRIPTION:https://nha.or.jp/nissin/event/entry-12753.html\n\nハローキティ＆マイメロデ
+ ィのクリスマス スペシャルミニステージ\n\n2020年12月13日(日)\n①10:30 ②13:30 ③15:00\nナゴヤハウジングセンター日進
+ 梅森会場 イベント広場
+LAST-MODIFIED:20201207T124513Z
+LOCATION:ナゴヤハウジングセンター 日進梅森会場\, 日本、〒470-0132 愛知県日進市梅森町西田面１５
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT\,MM もうすぐクリスマス
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201213T060000Z
+DTEND:20201213T063000Z
+UID:1ng8496f0uhf9b4iuvpr7vl2es@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
+  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
+ gle.com
+CREATED:20201124T114423Z
+DESCRIPTION:https://xmas-piano.live/\n\nみんなでつくる！未来へつながる！ハラミちゃん×サンリオキャラクターズが
+ おくるArio・GRANDTREE・PRIMETREE XmasリモートLIVE\n\n下記会場ではハラミちゃんが生演奏を披露\n各会場にサンリオキャ
+ ラクターが登場\n当日会場にて観覧エリアの抽選券を配布\n\n12.5(Sat)14:00 セブンパークアリオ柏、ハラミちゃん＆キキララ\n12.6(
+ Sun)15:00 グランツリー武蔵小杉、ハラミちゃん＆クロミ\n12.12(Sat)15:00 アリオ八尾、ハラミちゃん＆マイメロディ\n12.13
+ (Sun)15:00 アリオ札幌、ハラミちゃん＆ハローキティ\n12.24(Thu)17:00 プライムツリー赤池、ハラミちゃん＆ポムポムプリン
+LAST-MODIFIED:20201207T124456Z
+LOCATION:アリオ札幌\, 日本、〒065-8518 北海道札幌市東区北７条東９丁目２−２０
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT Xmas LIVE
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201212T060000Z
+DTEND:20201212T063000Z
+UID:2v991noe5ectv04j6gm0k4mtmn@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
+  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
+ gle.com
+CREATED:20201124T114345Z
+DESCRIPTION:<br>諸般の事情により中止<br><a href="https://xmas-piano.live/">https://xm
+ as-piano.live/</a><br><br>みんなでつくる！未来へつながる！ハラミちゃん×サンリオキャラクターズがおくるArio・GRANDT
+ REE・PRIMETREE XmasリモートLIVE<br><br>下記会場ではハラミちゃんが生演奏を披露<br>各会場にサンリオキャラクターが登場<
+ br>当日会場にて観覧エリアの抽選券を配布<br><br>12.5(Sat)14:00 セブンパークアリオ柏、ハラミちゃん＆キキララ<br>12.6(
+ Sun)15:00 グランツリー武蔵小杉、ハラミちゃん＆クロミ<br>12.12(Sat)15:00 アリオ八尾、ハラミちゃん＆マイメロディ<br>1
+ 2.13(Sun)15:00 アリオ札幌、ハラミちゃん＆ハローキティ<br>12.24(Thu)17:00 プライムツリー赤池、ハラミちゃん＆ポムポム
+ プリン
+LAST-MODIFIED:20201207T124444Z
+LOCATION:アリオ八尾\, 日本、〒581-0803 大阪府八尾市光町２丁目３
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(中止) MM Xmas LIVE
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201205T050000Z
+DTEND:20201205T053000Z
+UID:5camgh55i286vk1nnk0so0splo@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
+  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
+ gle.com
+CREATED:20201124T114207Z
+DESCRIPTION:<a href="https://xmas-piano.live/">https://xmas-piano.live/</a>
+ <br><br>みんなでつくる！未来へつながる！ハラミちゃん×サンリオキャラクターズがおくるArio・GRANDTREE・PRIMETREE Xmas
+ リモートLIVE<br><br>下記会場ではハラミちゃんが生演奏を披露<br>各会場にサンリオキャラクターが登場<br>当日会場にて観覧エリアの抽選券
+ を配布<br><br>12.5(Sat)14:00 セブンパークアリオ柏、ハラミちゃん＆キキララ<br>12.6(Sun)15:00 グランツリー武蔵
+ 小杉、ハラミちゃん＆クロミ<br>12.12(Sat)15:00 アリオ八尾、ハラミちゃん＆マイメロディ<br>12.13(Sun)15:00 アリオ
+ 札幌、ハラミちゃん＆ハローキティ<br>12.24(Thu)17:00 プライムツリー赤池、ハラミちゃん＆ポムポムプリン
+LAST-MODIFIED:20201207T124316Z
+LOCATION:セブンパーク アリオ柏\, 日本、〒277-0922 千葉県柏市大島田１丁目６−１
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:TS Xmas LIVE
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201206T060000Z
+DTEND:20201206T063000Z
+UID:71gqfgib61s2jvr79brf0qoi5u@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
+  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
+ gle.com
+CREATED:20201124T114301Z
+DESCRIPTION:https://xmas-piano.live/\n\nみんなでつくる！未来へつながる！ハラミちゃん×サンリオキャラクターズが
+ おくるArio・GRANDTREE・PRIMETREE XmasリモートLIVE\n\n下記会場ではハラミちゃんが生演奏を披露\n各会場にサンリオキャ
+ ラクターが登場\n当日会場にて観覧エリアの抽選券を配布\n\n12.5(Sat)14:00 セブンパークアリオ柏、ハラミちゃん＆キキララ\n12.6(
+ Sun)15:00 グランツリー武蔵小杉、ハラミちゃん＆クロミ\n12.12(Sat)15:00 アリオ八尾、ハラミちゃん＆マイメロディ\n12.13
+ (Sun)15:00 アリオ札幌、ハラミちゃん＆ハローキティ\n12.24(Thu)17:00 プライムツリー赤池、ハラミちゃん＆ポムポムプリン
+LAST-MODIFIED:20201207T124247Z
+LOCATION:グランツリー武蔵小杉\, 日本、〒211-0004 神奈川県川崎市中原区新丸子東３丁目１１３５−１
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KU Xmas LIVE
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201128T050000Z
+DTEND:20201128T073000Z
+UID:7mddtc2ujqf2f5geruin0m2ku8@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
+  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
+ gle.com
+CREATED:20201125T122826Z
+DESCRIPTION:https://hashimoto.ario.jp/event/2400000602/\n\nマイメロディがおくる アリオ橋本
+ スペシャルスケーティングイベント♪\nアリオ橋本のスケートリンクにマイメロディが遊びに来るよ♪\nクリスマスを楽しむスペシャルイベントを開催！\n\n
+ 11/28(土) ①午後2時～ ②午後4時～\n橋本駅側口広場スケートリンク
+LAST-MODIFIED:20201207T123956Z
+LOCATION:アリオ橋本\, 日本、〒252-0146 神奈川県相模原市緑区大山町１−２２
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MM アリオ橋本
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20201223T103000
 DTEND;TZID=Asia/Tokyo:20201223T142000
 RRULE:FREQ=DAILY;UNTIL=20201224T145959Z
