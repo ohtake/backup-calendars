@@ -394,6 +394,28 @@ RRULE:FREQ=YEARLY;BYMONTH=9;BYDAY=1SU
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+DTSTART:20201213T060000Z
+DTEND:20201213T063000Z
+UID:1ng8496f0uhf9b4iuvpr7vl2es@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
+  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
+ gle.com
+CREATED:20201124T114423Z
+DESCRIPTION:<br>諸般の事情により中止<br><a href="https://xmas-piano.live/" id="ow352"
+  __is_owner="true">https://xmas-piano.live/</a><br><br>みんなでつくる！未来へつながる！ハラミち
+ ゃん×サンリオキャラクターズがおくるArio・GRANDTREE・PRIMETREE XmasリモートLIVE<br><br>下記会場ではハラミちゃん
+ が生演奏を披露<br>各会場にサンリオキャラクターが登場<br>当日会場にて観覧エリアの抽選券を配布<br><br>12.5(Sat)14:00 セブ
+ ンパークアリオ柏、ハラミちゃん＆キキララ<br>12.6(Sun)15:00 グランツリー武蔵小杉、ハラミちゃん＆クロミ<br>12.12(Sat)1
+ 5:00 アリオ八尾、ハラミちゃん＆マイメロディ<br>12.13(Sun)15:00 アリオ札幌、ハラミちゃん＆ハローキティ<br>12.24(Th
+ u)17:00 プライムツリー赤池、ハラミちゃん＆ポムポムプリン
+LAST-MODIFIED:20201211T111553Z
+LOCATION:アリオ札幌\, 日本、〒065-8518 北海道札幌市東区北７条東９丁目２−２０
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(中止) KT Xmas LIVE
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20201224T080000Z
 DTEND:20201224T083000Z
 UID:6boidn68825j4c8gsnd4656rsd@google.com
@@ -447,26 +469,6 @@ LOCATION:ナゴヤハウジングセンター 日進梅森会場\, 日本、〒4
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:KT\,MM もうすぐクリスマス
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20201213T060000Z
-DTEND:20201213T063000Z
-UID:1ng8496f0uhf9b4iuvpr7vl2es@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
-  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
- gle.com
-CREATED:20201124T114423Z
-DESCRIPTION:https://xmas-piano.live/\n\nみんなでつくる！未来へつながる！ハラミちゃん×サンリオキャラクターズが
- おくるArio・GRANDTREE・PRIMETREE XmasリモートLIVE\n\n下記会場ではハラミちゃんが生演奏を披露\n各会場にサンリオキャ
- ラクターが登場\n当日会場にて観覧エリアの抽選券を配布\n\n12.5(Sat)14:00 セブンパークアリオ柏、ハラミちゃん＆キキララ\n12.6(
- Sun)15:00 グランツリー武蔵小杉、ハラミちゃん＆クロミ\n12.12(Sat)15:00 アリオ八尾、ハラミちゃん＆マイメロディ\n12.13
- (Sun)15:00 アリオ札幌、ハラミちゃん＆ハローキティ\n12.24(Thu)17:00 プライムツリー赤池、ハラミちゃん＆ポムポムプリン
-LAST-MODIFIED:20201207T124456Z
-LOCATION:アリオ札幌\, 日本、〒065-8518 北海道札幌市東区北７条東９丁目２−２０
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:KT Xmas LIVE
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
