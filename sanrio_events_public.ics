@@ -394,6 +394,24 @@ RRULE:FREQ=YEARLY;BYMONTH=9;BYDAY=1SU
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20210529T110000
+DTEND;TZID=Asia/Tokyo:20210529T153000
+RRULE:FREQ=DAILY;COUNT=2
+UID:3t7k6pesp1l3lgodmirpuqp7sq@google.com
+CREATED:20210309T144023Z
+DESCRIPTION:https://www.tbs.co.jp/event/puro_musketeer/\n\nサンリオファミリーミュージカル\
+ n「ピューロマスケティア〜3人のやさしい銃士たち〜」\n\n2021年5月29日（土）\n【1公演目】11:00開演\n【2公演目】14:00開演\n
+ 2021年5月30日（日）\n【1公演目】11:00開演\n【2公演目】14:00開演\n※開場は開演の30分前\n\nオンライン配信あり\n\nKT
+ \,DN\,MM\,XO\,PN\,CN
+LAST-MODIFIED:20210309T144023Z
+LOCATION:Yurakucho Yomiuri Hall\, Japan\, 〒100-0006 Tokyo\, Chiyoda City\, 
+ Yūrakuchō\, 1-chōme−11−１ 読売会館７F
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ピューロマスケティア
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20210131
 DTEND;VALUE=DATE:20210201
 UID:32nsb123jl6s2a0ml1jdtm9sqg@google.com
