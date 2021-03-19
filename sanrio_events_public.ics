@@ -394,6 +394,41 @@ RRULE:FREQ=YEARLY;BYMONTH=9;BYDAY=1SU
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+DTSTART:20210403T020000Z
+DTEND:20210403T083000Z
+UID:2l39k72v0f7d1l649fqpm7k5pg@google.com
+CREATED:20210319T173227Z
+DESCRIPTION:<a href="https://suzuka-aeonmall.com/news/event/3148">https://s
+ uzuka-aeonmall.com/news/event/3148</a><br><br>イースター ハローキティ撮影会<br>専門店街1階　中央コ
+ ート<br>2021/04/03 (土)<br>(1) 11:00～<br>(2) 13:00～<br>(3) 15:00～<br>(4) 17:00
+ ～<br>開催30分前（初回のみ1時間前）より会場にて整理券を配布<br>各回先着50名<br>参加条件：イオンモールアプリ イオンモール鈴鹿お気に入
+ りモール登録画面呈示
+LAST-MODIFIED:20210319T173516Z
+LOCATION:AEON MALL Suzuka Store\, 4-chōme-1-2 Shōnohayama\, Suzuka\, Mie 51
+ 3-0834\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT イースター撮影会
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210320T011500Z
+DTEND:20210320T050000Z
+UID:0fakt11100kcr6kh0ds3814k3b@google.com
+CREATED:20210319T173015Z
+DESCRIPTION:https://www.bbt.co.jp/hellokitty-exhibition/index.html\n\nハローキテ
+ ィコレクション展\n2021/3/20(土)～4/6(火)\n富山大和　6階催事ホール\n\nハローキティコレクション展 オープニングイベント\nグラ
+ ンドプラザに ハローキティがあそびにくるよ！\n3月20日（土）\n1. 10:15～10:45\n2. 11:45～12:15\n3. 13:30～
+ 14:00\nタイムスケジュール\n・富山市限定キティの紹介：5分\n・1. 3. はダンス、2. はクイズ：10分\n・写真撮影会：10分\n毎回1
+ 0組限定でハローキティとの写真撮影会を実施\n整理券を各回の15分前から配布
+LAST-MODIFIED:20210319T173015Z
+LOCATION:Grand Plaza\, 3-chōme-8-39 Sōgawa\, Toyama\, 930-0083\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT ハローキティコレクション展
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20210314T023000Z
 DTEND:20210314T072000Z
 UID:38c42ibpugf8k3uclrqosa68lo@google.com
