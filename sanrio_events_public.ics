@@ -394,6 +394,41 @@ RRULE:FREQ=YEARLY;BYMONTH=9;BYDAY=1SU
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20210327T130000
+DTEND;TZID=Asia/Tokyo:20210327T173000
+RRULE:FREQ=DAILY;COUNT=2
+UID:5hmmhs89dsrn6h1i1quiq7ugdl@google.com
+CREATED:20210326T162202Z
+DESCRIPTION:https://www.0101.co.jp/078/store-info/fair.html?article_id=3668
+ 7\n\nミュークルドリーミー プレイランド in マルイファミリー溝口\n2021年3月27日(土)～2021年3月28日(日)\nマルイファミリー
+ 溝口　5F 特設会場\n10時30分～20時00分※最終日は18時\n\nみゅーちゃん写真撮影会\n1回目 13:00～\n2回目 15:00～\n3
+ 回目 17:00～\n各回先着50名
+LAST-MODIFIED:20210326T162244Z
+LOCATION:Marui Family Mizonokuchi\, 1-chōme-4-1 Mizonokuchi\, Takatsu Ward\
+ , Kawasaki\, Kanagawa 213-0001\, Japan
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:MW ミュークルドリーミー プレイランド
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210402T060000Z
+DTEND:20210402T062000Z
+UID:1otshjtfbkh8mvbjl13779vvto@google.com
+CREATED:20210326T123650Z
+DESCRIPTION:https://www.facebook.com/259052694170117/posts/5180601172015220
+ /\n\nSANRIO GIFT GATE布丁狗兒童節見面會\n\n活動時間：4/2(五) 下午2:00~2:20\n活動地點：新光三越台中中港店 6
+ F Sanrio專櫃\n參加辦法：自3/26(五)起，在台中新光三越Sanrio專櫃單筆消費滿600元(需要包含一個布丁狗商品唷)就送合影券一張，活動
+ 當日憑合影券就可以與布丁狗合影留念\n\n本次活動限量發40張合影券\n每人限兌換兩張合影券1\n合影券數量有限送發完為止
+LAST-MODIFIED:20210326T123650Z
+LOCATION:新光三越 台中中港店\, No. 301\, Section 3\, Taiwan Blvd\, Xitun District\, 
+ Taichung City\, 台湾 407
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:PN 新光三越台中中港店
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20210403T020000Z
 DTEND:20210403T083000Z
 UID:2l39k72v0f7d1l649fqpm7k5pg@google.com
