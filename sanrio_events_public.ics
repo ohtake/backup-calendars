@@ -394,6 +394,54 @@ RRULE:FREQ=YEARLY;BYMONTH=9;BYDAY=1SU
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+DTSTART:20210328T035000Z
+DTEND:20210328T060000Z
+UID:7batknnn1omb7p6q08bn41891u@google.com
+CREATED:20210406T005746Z
+DESCRIPTION:https://twitter.com/sagamikankichi/status/1376002151365845003\n
+ https://twitter.com/sagamikankichi/status/1376002151365845003\n\nサガテレビ春フェス2
+ 021\n3月27日(土)、28日(日)\n10:00～17:00\nサガテレビ社屋周辺\n\nJAグループ佐賀 presents 佐賀みかん x ハ
+ ローキティステージ\n28日\n12:50-\n14:30-
+LAST-MODIFIED:20210406T005746Z
+LOCATION:Jōnai\, 1-chōme−6−１０\, Japan\, 〒840-0041 Saga\, Jōnai\, 1-chōme−6−
+ １０ サガテレビ
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT 佐賀みかん
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210416
+DTEND;VALUE=DATE:20210417
+UID:5e4gn0kd29fbq8v1kli5uchseu@google.com
+CREATED:20210406T005313Z
+DESCRIPTION:https://twitter.com/pom2purin_cafe/status/1378298190571577344\n
+ https://www.sanrio.co.jp/news/pn-cafe-harajuku-open-20210406/\n\n2021年4月14日
+ （水） リニューアル\n2021年4月16日（金）夕方 プリン登場（予約制）
+LAST-MODIFIED:20210406T005313Z
+LOCATION:Pompompurin Cafe Harajuku\, Japan\, 〒150-0001 Tokyo\, Shibuya City
+ \, Jingūmae\, 1-chōme−7−１ CUTE CUBE HARAJUKU 3階
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:PN ポムポムプリンカフェ原宿
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210418T020000Z
+DTEND:20210418T063000Z
+UID:5621npdccg7nkrvid6onrj3ijb@google.com
+CREATED:20210406T004853Z
+DESCRIPTION:http://kanagawatenjijo.com/koten/hq-yokohama.php#post_41203\n\n
+ ハローキティミニステージ＆撮影会\n2021年4月18日（日）\n11:00～\n13:00～\n15:00～\n住宅展示場内
+LAST-MODIFIED:20210406T004853Z
+LOCATION:ハウスクエア横浜\, 1-chōme-4-1 Nakagawa\, Tsuzuki Ward\, 横浜市都筑区 Kanagawa 2
+ 24-0001\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT ハウスクエア横浜
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20210403T113000
 DTEND;TZID=Asia/Tokyo:20210403T163000
 RRULE:FREQ=DAILY;COUNT=2
