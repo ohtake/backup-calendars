@@ -394,6 +394,27 @@ RRULE:FREQ=YEARLY;BYMONTH=9;BYDAY=1SU
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+DTSTART:20210416T080000Z
+DTEND:20210416T113000Z
+UID:5e4gn0kd29fbq8v1kli5uchseu@google.com
+CREATED:20210406T005313Z
+DESCRIPTION:https://passmarket.yahoo.co.jp/event/show/detail/02r1qewi2gk11.
+ html<br><br>【ポムポムプリンカフェ リニューアル記念】ポムポムプリンBirthdayグリーティング<br>2021/4/16(金) <br
+ >16:30〜18:00<br>18:00〜19:30<br>19:30〜21:00<br>プリンくんの登場は各回とも開始から30分後を予定<br><
+ br><a href="https://twitter.com/pom2purin_cafe/status/1378298190571577344" 
+ id="ow2994" __is_owner="true">https://twitter.com/pom2purin_cafe/status/137
+ 8298190571577344</a><br><a href="https://www.sanrio.co.jp/news/pn-cafe-hara
+ juku-open-20210406/">https://www.sanrio.co.jp/news/pn-cafe-harajuku-open-20
+ 210406/</a><br><br>2021年4月14日（水） リニューアル<br>2021年4月16日（金）夕方 プリン登場（予約制）
+LAST-MODIFIED:20210407T131107Z
+LOCATION:Pompompurin Cafe Harajuku\, Japan\, 〒150-0001 Tokyo\, Shibuya City
+ \, Jingūmae\, 1-chōme−7−１ CUTE CUBE HARAJUKU 3階
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:PN ポムポムプリンカフェ原宿
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20210328T035000Z
 DTEND:20210328T060000Z
 UID:7batknnn1omb7p6q08bn41891u@google.com
@@ -409,22 +430,6 @@ SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:KT 佐賀みかん
 TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20210416
-DTEND;VALUE=DATE:20210417
-UID:5e4gn0kd29fbq8v1kli5uchseu@google.com
-CREATED:20210406T005313Z
-DESCRIPTION:https://twitter.com/pom2purin_cafe/status/1378298190571577344\n
- https://www.sanrio.co.jp/news/pn-cafe-harajuku-open-20210406/\n\n2021年4月14日
- （水） リニューアル\n2021年4月16日（金）夕方 プリン登場（予約制）
-LAST-MODIFIED:20210406T005313Z
-LOCATION:Pompompurin Cafe Harajuku\, Japan\, 〒150-0001 Tokyo\, Shibuya City
- \, Jingūmae\, 1-chōme−7−１ CUTE CUBE HARAJUKU 3階
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:PN ポムポムプリンカフェ原宿
-TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210418T020000Z
