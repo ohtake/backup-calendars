@@ -394,6 +394,23 @@ RRULE:FREQ=YEARLY;BYMONTH=9;BYDAY=1SU
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+DTSTART:20210410T034500Z
+DTEND:20210410T065000Z
+UID:4p8u409qqjc4eigmracs48qhiu@google.com
+CREATED:20210409T160220Z
+DESCRIPTION:https://www.enosui.com/evententry.php?eid=01913&s=09\n\nあわたん＆シナ
+ モロールの大冒険\n4月9日（金）～5月24日（月）\n\nあわたん & シナモロールの大冒険 撮影会\n4月10日（土）\n12:45\n15:30
+ \n各20分\n相模湾ゾーン 2F フォトコーナー\n各回 先着20組\n8:15より湘南お祭り広場にて整理券配布\n記念写真＋キーホルダーセット 2
+ \,500円
+LAST-MODIFIED:20210409T160220Z
+LOCATION:Enoshima Aquarium\, 2-chōme-19-1 Katasekaigan\, Fujisawa\, Kanagaw
+ a 251-0035\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CN あわたん＆シナモロールの大冒険
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20210416T080000Z
 DTEND:20210416T113000Z
 UID:5e4gn0kd29fbq8v1kli5uchseu@google.com
