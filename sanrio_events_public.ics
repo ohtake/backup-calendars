@@ -394,6 +394,42 @@ RRULE:FREQ=YEARLY;BYMONTH=9;BYDAY=1SU
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+DTSTART:20210411T020000Z
+DTEND:20210411T063000Z
+UID:1s3e0ajmmbfd2jemp64aeacd53@google.com
+CREATED:20210416T004607Z
+DESCRIPTION:https://kyushu.toyotahome.co.jp/showroom/rkb%E4%BD%8F%E5%AE%85%
+ E5%B1%95%E5%B0%8F%E5%80%89%E5%8D%97\n\n4/11(日）ファミリーフェスタ\n\nハローキティミニステージ\n①1
+ 1：00～　②13：00～　③15：00～\n各回先着30組・観覧無料\n\nサンリオキャラクタープレイランド\n（シナモロールフワフワ/シナモロール
+ ボールプール/砂絵作り/キッズネイル）\n11：00～17：00
+LAST-MODIFIED:20210416T004607Z
+LOCATION:RKB住宅展 小倉南 総合案内所\, 3914-6 Kusami\, Kokuraminami Ward\, Kitakyushu\
+ , Fukuoka 800-0231\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT RKB住宅展小倉南
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210424T020000Z
+DTEND:20210424T063000Z
+UID:1susbljnpb64r0e78lo70hec2d@google.com
+CREATED:20210416T004052Z
+DESCRIPTION:https://www.aeon.jp/sc/yahatahigashi/event/event_e287446.html\n
+ \nマイメロディ グリーティング&写真撮影会\n日程：4月24日(土)\n時間：(1)11:00～ (2)13:00～ (3)15:00～ (各回30
+ 分)\n場所：1F いちいがしの広場\n\n各回先着20名様限定\n写真撮影会に参加のお客さまには、お買い上げのキャラクター大賞の投票チップ+2枚プレ
+ ゼント!\n・当日10:00より、3F サンリオギフトゲートにて、各回の「参加予約券」を配布致します。\n(お並び順にご希望の時間をお伺いしますが、各
+ 回定員に達しますと承れない場合がございます。また参加はお1人様1回限りとさせて頂きます。)\n・10:00より、3F サンリオギフトゲートにて、税込1
+ \,100円以上お買い上げいただくと、「参加予約券」を「写真撮影参加券」に交換させていただきます。
+LAST-MODIFIED:20210416T004052Z
+LOCATION:ÆON MALL YAHATA-East\, 3-chōme-2-102 Higashida\, Yahatahigashi War
+ d\, Kitakyushu\, Fukuoka 805-0071\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MM イオンモール八幡東
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20210410T034500Z
 DTEND:20210410T065000Z
 UID:4p8u409qqjc4eigmracs48qhiu@google.com
