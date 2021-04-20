@@ -394,6 +394,352 @@ RRULE:FREQ=YEARLY;BYMONTH=9;BYDAY=1SU
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+DTSTART:20210515T023000Z
+DTEND:20210515T073000Z
+UID:2335lupnj9fs039p6eja2gi5sh@google.com
+CREATED:20210420T114548Z
+DESCRIPTION:https://www.sanrio.co.jp/news/event-gg-aeonmall-tsukuba-2021051
+ 5/\n\nクロミが遊びにくるよ！（イオンモールつくば店）\nイオンモールつくば 1F イーストコート\n5月15日（土）\n①11:30 / ②14
+ :00 / ③16:00　※各回30名様限定\n\n写真撮影会 参加方法\n各回先着30名様限定\nイベント当日10:00から、3F Sanrio G
+ ift Gate イオンモールつくば店で、各回の「参加予約券」を配布いたします。\n（お並び順にご希望の時間をお伺いしますが、各回定員に達しますと承れ
+ ない場合がございます。また、参加は3回のうちお一人様1回限りとさせていただきます）\n開店後、イベント開始時間までに3F Sanrio Gift Ga
+ te イオンモールつくば店で、税込み1\,100円以上お買い上げのお客様に「参加予約券」を「写真撮影会参加券」に交換いたします。\n\nhttps:/
+ /www.sanrio.co.jp/news/mx-ranking2021-event-20210322/\n\nサンリオキャラクター大賞 応援 キャ
+ ラクターグリーティング\n\n4月17日（土） ポムポムプリンが遊びにくるよ！（キャナルシティ博多）\n4月24日（土）マイメロディが遊びにくるよ！（
+ イオンモール八幡東）\n4月25日（日）ハローキティが遊びにくるよ！（グランツリー武蔵小杉）\n4月29日（木・祝） ハンギョドンが遊びにくるよ！（イ
+ オンモール岡山）\n4月29日（木・祝） シナモロールが遊びにくるよ！（ららぽーと横浜）\n5月1日（土） マイメロディが遊びにくるよ！（イオンレイク
+ タウンkaze）\n5月1日（土） こぎみゅんが遊びにくるよ！（sanrio vivitix サンシャインシティアルパ店）\n5月3日（月・祝）ポムポ
+ ムプリンが遊びにくるよ！（イオンモール名取）\n5月4日（火・祝） ハンギョドンが遊びにくるよ！（FKDインターパーク店）\n5月5日（水・祝）シナモ
+ ロールが遊びにくるよ！（Sanrio Gift Gate イオンモール草津店）\n5月15日（土） クロミが遊びにくるよ！（イオンモールつくば店）
+LAST-MODIFIED:20210420T114548Z
+LOCATION:Aeon Mall Tsukuba Shop\, 66-1 Inaoka\, Tsukuba\, Ibaraki 305-0071\
+ , Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KU キャラクター大賞
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210505T020000Z
+DTEND:20210505T063000Z
+UID:3bgchhboghod0700pasbdl8c1a@google.com
+CREATED:20210420T114436Z
+DESCRIPTION:https://www.sanrio.co.jp/news/event-gg-aeonmall-kusatsu-2021050
+ 5/\n\nシナモロールが遊びにくるよ！（Sanrio Gift Gate イオンモール草津店）\nイオンモール草津店 3F Sanrio Gift 
+ Gate横 ブリッジ広場\n5月5日（水・祝）\n①11:00 / ②13:00 / ③15:00　※各回先着30名様限定\n\n写真撮影会 参加方法
+ \n各回先着30名様限定\nイベント当日9:00から、イオンモール草津 1F「モール中央南」入口で、各回の「参加予約券」を配布いたします。\n（お並び
+ 順にご希望の時間をお伺いしますが、各回定員に達しますと承れない場合がございます。また、参加は3回のうちお一人様1回限りとさせていただきます）\n開店後
+ 、3F Sanrio Gift Gate イオンモール草津店で、シナモロール商品を含む税込み1\,100円以上お買い上げのお客様に「参加予約券」を「写
+ 真撮影会参加券」に交換いたします。\n\nhttps://www.sanrio.co.jp/news/mx-ranking2021-event-202
+ 10322/\n\nサンリオキャラクター大賞 応援 キャラクターグリーティング\n\n4月17日（土） ポムポムプリンが遊びにくるよ！（キャナルシティ
+ 博多）\n4月24日（土）マイメロディが遊びにくるよ！（イオンモール八幡東）\n4月25日（日）ハローキティが遊びにくるよ！（グランツリー武蔵小杉）\
+ n4月29日（木・祝） ハンギョドンが遊びにくるよ！（イオンモール岡山）\n4月29日（木・祝） シナモロールが遊びにくるよ！（ららぽーと横浜）\n5
+ 月1日（土） マイメロディが遊びにくるよ！（イオンレイクタウンkaze）\n5月1日（土） こぎみゅんが遊びにくるよ！（sanrio vivitix 
+ サンシャインシティアルパ店）\n5月3日（月・祝）ポムポムプリンが遊びにくるよ！（イオンモール名取）\n5月4日（火・祝） ハンギョドンが遊びにくるよ
+ ！（FKDインターパーク店）\n5月5日（水・祝）シナモロールが遊びにくるよ！（Sanrio Gift Gate イオンモール草津店）\n5月15日（
+ 土） クロミが遊びにくるよ！（イオンモールつくば店）
+LAST-MODIFIED:20210420T114436Z
+LOCATION:AEON MALL Kusatsu\, 300 Shinhamachō\, Kusatsu\, Shiga 525-0067\, J
+ apan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CN キャラクター大賞
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210504T023000Z
+DTEND:20210504T073000Z
+UID:299ihbgld0sgc8qm9abng8v74q@google.com
+CREATED:20210420T114217Z
+DESCRIPTION:https://www.sanrio.co.jp/news/event-utsunomiya-inter-park-20210
+ 504/\n\nハンギョドンが遊びにくるよ！（FKDインターパーク店）\nFKDインターパーク店 1F 正面東側エスカレーター横\n5月4日（火・祝）
+ \n①11:30 / ②14:00 / ③16:00　※各回先着30名様限定\n\n写真撮影会 参加方法\n各回先着30名様限定\nイベント当日10:
+ 00から、FKD 宇都宮インターパーク店 2F サンリオで、各回の「参加予約券」を配布いたします。\n（お並び順にご希望の時間をお伺いしますが、各回定
+ 員に達しますと承れない場合がございます。また、参加は3回のうちお一人様1回限りとさせていただきます）\n開店後、イベント開始時間までに、FKD 宇都宮
+ インターパーク店 2F サンリオで、税込み1\,100円以上お買い上げのお客様に「参加予約券」を「写真撮影会参加券」に交換いたします。\n\nhttp
+ s://www.sanrio.co.jp/news/mx-ranking2021-event-20210322/\n\nサンリオキャラクター大賞 応援
+  キャラクターグリーティング\n\n4月17日（土） ポムポムプリンが遊びにくるよ！（キャナルシティ博多）\n4月24日（土）マイメロディが遊びにくる
+ よ！（イオンモール八幡東）\n4月25日（日）ハローキティが遊びにくるよ！（グランツリー武蔵小杉）\n4月29日（木・祝） ハンギョドンが遊びにくるよ
+ ！（イオンモール岡山）\n4月29日（木・祝） シナモロールが遊びにくるよ！（ららぽーと横浜）\n5月1日（土） マイメロディが遊びにくるよ！（イオン
+ レイクタウンkaze）\n5月1日（土） こぎみゅんが遊びにくるよ！（sanrio vivitix サンシャインシティアルパ店）\n5月3日（月・祝）
+ ポムポムプリンが遊びにくるよ！（イオンモール名取）\n5月4日（火・祝） ハンギョドンが遊びにくるよ！（FKDインターパーク店）\n5月5日（水・祝）
+ シナモロールが遊びにくるよ！（Sanrio Gift Gate イオンモール草津店）\n5月15日（土） クロミが遊びにくるよ！（イオンモールつくば店
+ ）
+LAST-MODIFIED:20210420T114217Z
+LOCATION:FKD Inter Park\, Japan\, 〒321-0118 Tochigi\, Utsunomiya\, Intāpāku
+ \, 6-chōme−１−１
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:HG キャラクター大賞
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210503T020000Z
+DTEND:20210503T063000Z
+UID:6qp8mpipmbreaps9fd2ubh9g4h@google.com
+CREATED:20210420T114029Z
+DESCRIPTION:https://www.sanrio.co.jp/news/event-gg-aeonmall-natori-20210503
+ /\n\nポムポムプリンが遊びにくるよ！（イオンモール名取）\nイオンモール名取 1F けやきコート\n5月3日（月・祝）\n①11:00 / ②13
+ :00 / ③15:00　※各回先着25組様限定\n\n【写真撮影会 参加方法】\n各回先着25組様限定\nイベント当日、開店時刻の10:00から、3
+ F Sanrio Gift Gate イオンモール名取店で、税込み1\,100円以上お買い上げのお客様に「写真撮影会参加券」をお渡しいたします。\n\
+ nhttps://www.sanrio.co.jp/news/mx-ranking2021-event-20210322/\n\nサンリオキャラクター
+ 大賞 応援 キャラクターグリーティング\n\n4月17日（土） ポムポムプリンが遊びにくるよ！（キャナルシティ博多）\n4月24日（土）マイメロディが
+ 遊びにくるよ！（イオンモール八幡東）\n4月25日（日）ハローキティが遊びにくるよ！（グランツリー武蔵小杉）\n4月29日（木・祝） ハンギョドンが遊
+ びにくるよ！（イオンモール岡山）\n4月29日（木・祝） シナモロールが遊びにくるよ！（ららぽーと横浜）\n5月1日（土） マイメロディが遊びにくるよ
+ ！（イオンレイクタウンkaze）\n5月1日（土） こぎみゅんが遊びにくるよ！（sanrio vivitix サンシャインシティアルパ店）\n5月3日
+ （月・祝）ポムポムプリンが遊びにくるよ！（イオンモール名取）\n5月4日（火・祝） ハンギョドンが遊びにくるよ！（FKDインターパーク店）\n5月5日
+ （水・祝）シナモロールが遊びにくるよ！（Sanrio Gift Gate イオンモール草津店）\n5月15日（土） クロミが遊びにくるよ！（イオンモー
+ ルつくば店）
+LAST-MODIFIED:20210420T114029Z
+LOCATION:Aeon Mall Natori\, Japan\, 〒981-1294 Miyagi\, Natori\, Morisekinos
+ hita\, 5-chōme−３−１
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:PN キャラクター大賞
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210501T023000Z
+DTEND:20210501T070000Z
+UID:3pg5veladtcoedm5a66jmbs8m4@google.com
+CREATED:20210420T113720Z
+DESCRIPTION:<a href="https://www.sanrio.co.jp/news/event-vivitix-ikebukuro-
+ sunshine-20210501/">https://www.sanrio.co.jp/news/event-vivitix-ikebukuro-s
+ unshine-20210501/</a><br><br>こぎみゅんが遊びにくるよ！（Sanrio vivitix サンシャインシティアルパ店）<br
+ >Sanrio vivitix サンシャインシティアルパ店 ショップ前<br>5月1日（土）<br>①11:30 / ②13:30 / ③15:30　
+ ※各回30名様（合計90名様）限定<br><br>写真撮影会 参加方法<br>各回30名様（合計90名様）限定<br>イベント当日9:00～9:15（
+ 締切）に、Sanrio vivitix サンシャインシティアルパ店 ショップ前で、写真撮影会の「抽選券」をお渡しする待機列を形成いたします。（全3回の
+ うち、お一人様1枚限り、お渡し順に優位性はございません）<br>準備ができ次第、参加者と順番の抽選をいたします。（各回定員を超えていない際は、順番のみ
+ の抽選となります）<br>当選の方に「参加予約券」をお渡しします。<br>開店後、Sanrio vivitix サンシャインシティアルパ店で税込み1\
+ ,100円以上お買い上げのお客様に、「参加予約券」を「写真撮影会参加券」に交換いたします。<br>（「写真撮影会参加券」は「参加予約券」と時間・整理番
+ 号が同一のものをお渡しさせていただきます）<br><br><a href="https://www.sanrio.co.jp/news/mx-rank
+ ing2021-event-20210322/">https://www.sanrio.co.jp/news/mx-ranking2021-event
+ -20210322/</a><br><br>サンリオキャラクター大賞 応援 キャラクターグリーティング<br><br>4月17日（土） ポムポムプリン
+ が遊びにくるよ！（キャナルシティ博多）<br>4月24日（土）マイメロディが遊びにくるよ！（イオンモール八幡東）<br>4月25日（日）ハローキティが
+ 遊びにくるよ！（グランツリー武蔵小杉）<br>4月29日（木・祝） ハンギョドンが遊びにくるよ！（イオンモール岡山）<br>4月29日（木・祝） シナ
+ モロールが遊びにくるよ！（ららぽーと横浜）<br>5月1日（土） マイメロディが遊びにくるよ！（イオンレイクタウンkaze）<br>5月1日（土） こ
+ ぎみゅんが遊びにくるよ！（sanrio vivitix サンシャインシティアルパ店）<br>5月3日（月・祝）ポムポムプリンが遊びにくるよ！（イオンモ
+ ール名取）<br>5月4日（火・祝） ハンギョドンが遊びにくるよ！（FKDインターパーク店）<br>5月5日（水・祝）シナモロールが遊びにくるよ！（S
+ anrio Gift Gate イオンモール草津店）<br>5月15日（土） クロミが遊びにくるよ！（イオンモールつくば店）
+LAST-MODIFIED:20210420T113754Z
+LOCATION:Sanrio Gift Gate\, Japan\, 〒170-6090 Tokyo\, Toshima City\, Higash
+ iikebukuro\, 3-chōme−3−１ サンシャインシティアルパ B1F
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CG キャラクター大賞
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210501T020000Z
+DTEND:20210501T073000Z
+UID:2geegrnfavqirj88av28m8cipd@google.com
+CREATED:20210420T113552Z
+DESCRIPTION:https://www.sanrio.co.jp/news/event-gg-koshigaya-lake-town-2021
+ 0501/\n\nマイメロディが遊びにくるよ！（イオンレイクタウンkaze）\nイオンレイクタウンkaze 1F 光の広場（屋内）\n5月1日（土）\
+ n①11:00 / ②14:00 / ③16:00　※各回先着30名様限定\n\n写真撮影会 参加方法\n各回先着30名様限定\nイベント当日9:00
+ から、イオンレイクタウンKaze 1F「C入口」外スペースで、「写真撮影会参加券」と引換ができる「参加予約券」を配布いたします。\n（お並び順にご希望
+ の時間をお伺いしますが、各回定員に達しますと承れない場合がございます。また、参加は3回のうちお一人様1回限りとさせていただきます）\n開店後、2F S
+ anrio Gift Gate 越谷イオンレイクタウンKaze店で、税込み1\,100円以上お買い上げのお客様に「参加予約券」を「写真撮影会参加券」に
+ 交換いたします。\n\nhttps://www.sanrio.co.jp/news/mx-ranking2021-event-20210322/\n\
+ nサンリオキャラクター大賞 応援 キャラクターグリーティング\n\n4月17日（土） ポムポムプリンが遊びにくるよ！（キャナルシティ博多）\n4月24
+ 日（土）マイメロディが遊びにくるよ！（イオンモール八幡東）\n4月25日（日）ハローキティが遊びにくるよ！（グランツリー武蔵小杉）\n4月29日（木・
+ 祝） ハンギョドンが遊びにくるよ！（イオンモール岡山）\n4月29日（木・祝） シナモロールが遊びにくるよ！（ららぽーと横浜）\n5月1日（土） マイ
+ メロディが遊びにくるよ！（イオンレイクタウンkaze）\n5月1日（土） こぎみゅんが遊びにくるよ！（sanrio vivitix サンシャインシティ
+ アルパ店）\n5月3日（月・祝）ポムポムプリンが遊びにくるよ！（イオンモール名取）\n5月4日（火・祝） ハンギョドンが遊びにくるよ！（FKDインター
+ パーク店）\n5月5日（水・祝）シナモロールが遊びにくるよ！（Sanrio Gift Gate イオンモール草津店）\n5月15日（土） クロミが遊び
+ にくるよ！（イオンモールつくば店）
+LAST-MODIFIED:20210420T113552Z
+LOCATION:AEON Lake Town kaze\, 4-chōme-2番地2 Lake Town\, Koshigaya\, Saitama
+  343-0828\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MM キャラクター大賞
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210429T020000Z
+DTEND:20210429T063000Z
+UID:73i15nibgnldeqk65mccja2247@google.com
+CREATED:20210420T113256Z
+DESCRIPTION:https://www.sanrio.co.jp/news/event-gg-lalaport-yokohama-202104
+ 29/\n\nシナモロールが遊びにくるよ！（ららぽーと横浜）\nららぽーと横浜 1F アクタス前\n4月29日（木・祝）\n①11:00 / ②13:
+ 00 / ③15:00　※各回先着30名様限定\n\n写真撮影会 参加方法\n各回先着30名様限定\nイベント当日10:00から、2F Sanrio 
+ Gift Gate ららぽーと横浜店で、各回の「参加予約券」を配布いたします。\n（お並び順にご希望の時間をお伺いしますが、各回定員に達しますと承れな
+ い場合がございます。また、参加は3回のうちお一人様1回限りとさせていただきます）\n開店後、2F Sanrio Gift Gate ららぽーと横浜店で
+ 、税込み1\,100円以上お買い上げのお客様に「参加予約券」を「写真撮影会参加券」に交換いたします。\n\n\nhttps://www.sanrio.
+ co.jp/news/mx-ranking2021-event-20210322/\n\nサンリオキャラクター大賞 応援 キャラクターグリーティング\
+ n\n4月17日（土） ポムポムプリンが遊びにくるよ！（キャナルシティ博多）\n4月24日（土）マイメロディが遊びにくるよ！（イオンモール八幡東）\n
+ 4月25日（日）ハローキティが遊びにくるよ！（グランツリー武蔵小杉）\n4月29日（木・祝） ハンギョドンが遊びにくるよ！（イオンモール岡山）\n4月
+ 29日（木・祝） シナモロールが遊びにくるよ！（ららぽーと横浜）\n5月1日（土） マイメロディが遊びにくるよ！（イオンレイクタウンkaze）\n5月
+ 1日（土） こぎみゅんが遊びにくるよ！（sanrio vivitix サンシャインシティアルパ店）\n5月3日（月・祝）ポムポムプリンが遊びにくるよ！
+ （イオンモール名取）\n5月4日（火・祝） ハンギョドンが遊びにくるよ！（FKDインターパーク店）\n5月5日（水・祝）シナモロールが遊びにくるよ！（
+ Sanrio Gift Gate イオンモール草津店）\n5月15日（土） クロミが遊びにくるよ！（イオンモールつくば店）
+LAST-MODIFIED:20210420T113256Z
+LOCATION:LaLaport Yokohama\, 4035-1 Ikonobechō\, Tsuzuki Ward\, Yokohama\, 
+ Kanagawa 224-0053\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CN キャラクター大賞
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210429T020000Z
+DTEND:20210429T063000Z
+UID:6cerg3qv1p9r0n8oqvn37fka2v@google.com
+CREATED:20210420T113114Z
+DESCRIPTION:https://www.sanrio.co.jp/news/event-gg-aeonmall-okayama-2021042
+ 9/\n\nハンギョドンが遊びにくるよ！（イオンモール岡山）\nイオンモール岡山 1F 未来スクエア\n4月29日（木・祝）\n①11:00 / ②1
+ 3:00 / ③15:00　※各回先着30名様限定\n\n写真撮影会 参加方法\n各回先着30名様限定\nイベント当日9:00から、イオンモール岡山 
+ 1F 「北 岡山駅側」入口で、各回の「参加予約券」を配布いたします。\n（お並び順にご希望の時間をお伺いしますが、各回定員に達しますと承れない場合がご
+ ざいます。また、参加は3回のうちお一人様1回限りとさせていただきます）\n開店後、Sanrio Gift Gate イオンモール岡山店で、ハンギョドン
+ 商品を含む税込み1\,100円以上お買い上げのお客様に「参加予約券」を「写真撮影会参加券」に交換いたします。\n\nhttps://www.sanri
+ o.co.jp/news/mx-ranking2021-event-20210322/\n\nサンリオキャラクター大賞 応援 キャラクターグリーティン
+ グ\n\n4月17日（土） ポムポムプリンが遊びにくるよ！（キャナルシティ博多）\n4月24日（土）マイメロディが遊びにくるよ！（イオンモール八幡東）
+ \n4月25日（日）ハローキティが遊びにくるよ！（グランツリー武蔵小杉）\n4月29日（木・祝） ハンギョドンが遊びにくるよ！（イオンモール岡山）\n
+ 4月29日（木・祝） シナモロールが遊びにくるよ！（ららぽーと横浜）\n5月1日（土） マイメロディが遊びにくるよ！（イオンレイクタウンkaze）\n
+ 5月1日（土） こぎみゅんが遊びにくるよ！（sanrio vivitix サンシャインシティアルパ店）\n5月3日（月・祝）ポムポムプリンが遊びにくる
+ よ！（イオンモール名取）\n5月4日（火・祝） ハンギョドンが遊びにくるよ！（FKDインターパーク店）\n5月5日（水・祝）シナモロールが遊びにくるよ
+ ！（Sanrio Gift Gate イオンモール草津店）\n5月15日（土） クロミが遊びにくるよ！（イオンモールつくば店）
+LAST-MODIFIED:20210420T113114Z
+LOCATION:Aeon Mall Okayama\, 1-chōme-2-1 Shimoishii\, Kita Ward\, Okayama\,
+  700-0907\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:HG キャラクター大賞
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210425T020000Z
+DTEND:20210425T073000Z
+UID:10g2brvucgjf7b0i59nv239o27@google.com
+CREATED:20210420T112947Z
+DESCRIPTION:https://www.sanrio.co.jp/news/event-gg-musashikosugi-20210425/\
+ n\nハローキティが遊びにくるよ！（グランツリー武蔵小杉）\nグランツリー武蔵小杉 4F スマイルスクエア\n4月25日（日）\n①11:00 / ②
+ 14:00 / ③16:00　※各回先着25名様限定\n\n写真撮影会 参加方法\n各回先着25名様限定★\nイベント当日10:00から、4F San
+ rio Gift Gate グランツリー武蔵小杉店で、各回の「参加予約券」を配布いたします。\n（お並び順にご希望の時間をお伺いしますが、各回定員に達
+ しますと承れない場合がございます。また、参加は3回のうちお一人様1回限りとさせていただきます）\n開店後、イベント開始時間までに4F Sanrio G
+ ift Gate グランツリー武蔵小杉店で、税込み1\,100円以上お買い上げのお客様に「参加予約券」を「写真撮影会参加券」に交換いたします。\n\n
+ https://www.sanrio.co.jp/news/mx-ranking2021-event-20210322/\n\nサンリオキャラクター大
+ 賞 応援 キャラクターグリーティング\n\n4月17日（土） ポムポムプリンが遊びにくるよ！（キャナルシティ博多）\n4月24日（土）マイメロディが遊
+ びにくるよ！（イオンモール八幡東）\n4月25日（日）ハローキティが遊びにくるよ！（グランツリー武蔵小杉）\n4月29日（木・祝） ハンギョドンが遊び
+ にくるよ！（イオンモール岡山）\n4月29日（木・祝） シナモロールが遊びにくるよ！（ららぽーと横浜）\n5月1日（土） マイメロディが遊びにくるよ！
+ （イオンレイクタウンkaze）\n5月1日（土） こぎみゅんが遊びにくるよ！（sanrio vivitix サンシャインシティアルパ店）\n5月3日（
+ 月・祝）ポムポムプリンが遊びにくるよ！（イオンモール名取）\n5月4日（火・祝） ハンギョドンが遊びにくるよ！（FKDインターパーク店）\n5月5日（
+ 水・祝）シナモロールが遊びにくるよ！（Sanrio Gift Gate イオンモール草津店）\n5月15日（土） クロミが遊びにくるよ！（イオンモール
+ つくば店）
+LAST-MODIFIED:20210420T112958Z
+LOCATION:Grand Tree Musashikosugi\, 3-chōme-1135-1 Shinmarukohigashi\, Naka
+ hara Ward\, Kawasaki\, Kanagawa 211-0004\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT キャラクター大賞
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210424T020000Z
+DTEND:20210424T063000Z
+UID:6v8lo09ju3d166dll1kr5msnsk@google.com
+CREATED:20210420T112751Z
+DESCRIPTION:<a href="https://www.sanrio.co.jp/news/event-gallery-hakata-202
+ 10417/">https://www.sanrio.co.jp/news/event-gallery-hakata-20210417/</a><br
+ >https://www.aeon.jp/sc/yahatahigashi/event/event_e287446.html<br><br>マイメロデ
+ ィが遊びにくるよ！（イオンモール八幡東）<br>イオンモール八幡東 1F いちいがしの広場<br>4月24日（土）<br>①11:00 / ②13:0
+ 0 / ③15:00　※各回先着20名様限定<br><br>写真撮影会 参加方法<br>各回先着20名様限定<br>イベント当日10:00から、3F 
+ Sanrio Gift Gate イオンモール八幡東店で、各回の「参加予約券」を配布いたします。<br>（お並び順にご希望の時間をお伺いしますが、各回
+ 定員に達しますと承れない場合がございます。また、参加は3回のうちお一人様1回限りとさせていただきます）<br>開店後、Sanrio Gift Gate
+  イオンモール八幡東店で、税込み1\,100円以上お買い上げのお客様に「参加予約券」を「写真撮影会参加券」に交換いたします。<br><br><a hr
+ ef="https://www.sanrio.co.jp/news/mx-ranking2021-event-20210322/">https://w
+ ww.sanrio.co.jp/news/mx-ranking2021-event-20210322/</a><br><br>サンリオキャラクター大賞
+  応援 キャラクターグリーティング<br><br>4月17日（土） ポムポムプリンが遊びにくるよ！（キャナルシティ博多）<br>4月24日（土）マイメ
+ ロディが遊びにくるよ！（イオンモール八幡東）<br>4月25日（日）ハローキティが遊びにくるよ！（グランツリー武蔵小杉）<br>4月29日（木・祝） 
+ ハンギョドンが遊びにくるよ！（イオンモール岡山）<br>4月29日（木・祝） シナモロールが遊びにくるよ！（ららぽーと横浜）<br>5月1日（土） マ
+ イメロディが遊びにくるよ！（イオンレイクタウンkaze）<br>5月1日（土） こぎみゅんが遊びにくるよ！（sanrio vivitix サンシャイン
+ シティアルパ店）<br>5月3日（月・祝）ポムポムプリンが遊びにくるよ！（イオンモール名取）<br>5月4日（火・祝） ハンギョドンが遊びにくるよ！（
+ FKDインターパーク店）<br>5月5日（水・祝）シナモロールが遊びにくるよ！（Sanrio Gift Gate イオンモール草津店）<br>5月15
+ 日（土） クロミが遊びにくるよ！（イオンモールつくば店）
+LAST-MODIFIED:20210420T112813Z
+LOCATION:ÆON MALL YAHATA-East\, 3-chōme-2-102 Higashida\, Yahatahigashi War
+ d\, Kitakyushu\, Fukuoka 805-0071\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MM キャラクター大賞
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210417T023000Z
+DTEND:20210417T070000Z
+UID:0jgect5ie7sjd27aod8lilo457@google.com
+CREATED:20210420T112623Z
+DESCRIPTION:https://www.sanrio.co.jp/news/event-gallery-hakata-20210417/\n\
+ nポムポムプリンが遊びにくるよ！（キャナルシティ博多）\n4月17日（土）\n①11:30～　ミニショー&写真撮影会\n②13:30～　写真撮影会\n
+ ③15:30～　ミニショー&写真撮影会\nミニショー&写真撮影会：キャナルシティ博多 B1F サンプラザステージ\n写真撮影会：キャナルシティ博多 B
+ 1F スターコート\n\n写真撮影会 参加方法\n各回20名様限定\nイベント当日9:00から、サンリオギャラリー博多店 店頭入り口で各回の「参加予約
+ 券」を配布いたします。\n（お並び順にご希望の時間をお伺いしますが、各回定員に達しますと承れない場合がございます。また、参加は3回のうちお一人様1回限
+ りとさせていただきます）\n開店後、サンリオギャラリー博多店で、ポムポムプリン商品を含む税込み1\,100円以上お買い上げのお客様に「参加予約券」を「
+ 写真撮影会参加券」に交換いたします。\n\nhttps://www.sanrio.co.jp/news/mx-ranking2021-event-20
+ 210322/\n\nサンリオキャラクター大賞 応援 キャラクターグリーティング\n\n4月17日（土） ポムポムプリンが遊びにくるよ！（キャナルシテ
+ ィ博多）\n4月24日（土）マイメロディが遊びにくるよ！（イオンモール八幡東）\n4月25日（日）ハローキティが遊びにくるよ！（グランツリー武蔵小杉）
+ \n4月29日（木・祝） ハンギョドンが遊びにくるよ！（イオンモール岡山）\n4月29日（木・祝） シナモロールが遊びにくるよ！（ららぽーと横浜）\n
+ 5月1日（土） マイメロディが遊びにくるよ！（イオンレイクタウンkaze）\n5月1日（土） こぎみゅんが遊びにくるよ！（sanrio vivitix
+  サンシャインシティアルパ店）\n5月3日（月・祝）ポムポムプリンが遊びにくるよ！（イオンモール名取）\n5月4日（火・祝） ハンギョドンが遊びにくる
+ よ！（FKDインターパーク店）\n5月5日（水・祝）シナモロールが遊びにくるよ！（Sanrio Gift Gate イオンモール草津店）\n5月15日
+ （土） クロミが遊びにくるよ！（イオンモールつくば店）
+LAST-MODIFIED:20210420T112623Z
+LOCATION:Canal City Hakata\, 1 Chome-2 Sumiyoshi\, Hakata Ward\, Fukuoka\, 
+ 812-0018\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:PN キャラクター大賞
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210429T020000Z
+DTEND:20210429T063000Z
+UID:2sds51q3t5hi72g1bku9aa3koi@google.com
+CREATED:20210420T111933Z
+DESCRIPTION:http://www.kryhousing.jp/info/1860/\n\n50周年ゴールデンウィークフェア\n2021年4
+ 月29日（木・祝）〜5月5日（水・祝）開催！\n10:00〜17:00\nKRYハウジングサイト\n\nハローキティミニステージ\n［開催日］4月29
+ 日（木・祝）\n［開催時間］①11:00〜　②13:30〜　③15:00〜\n［内容］ダンスと撮影会
+LAST-MODIFIED:20210420T111933Z
+LOCATION:KRYハウジングサイト\, Tokuyama\, 公園区 Shunan\, Yamaguchi 745-0851\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT KRYハウジングサイト
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210501T020000Z
+DTEND:20210501T073000Z
+UID:1r0lctsjf6910plose5srfhpmd@google.com
+CREATED:20210420T111744Z
+DESCRIPTION:https://www.aeon.jp/sc/yahatahigashi/event/event_e287994.html\n
+ \n北九州未来創造芸術祭 ART for SDGs開催記念\nハローキティ写真撮影会\nイオンモール八幡東\n日程：5月1日(土)\n時間：(1)11
+ :00～ (2)13:00～ (3)16:00～\n場所：1F ひまわりの広場\n整理券配布：東田大通り公園内本部テントにて9:00から配布
+LAST-MODIFIED:20210420T111744Z
+LOCATION:ÆON MALL YAHATA-East\, 3-chōme-2-102 Higashida\, Yahatahigashi War
+ d\, Kitakyushu\, Fukuoka 805-0071\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT イオンモール八幡東
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210809T030000Z
+DTEND:20210809T080000Z
+UID:7hinjnpbhrenog3eua2fouire9@google.com
+CREATED:20210420T111443Z
+DESCRIPTION:https://www.puroland.jp/performance/r_otomodachi.html\n\nリボンの国の
+ 音もだち\niichikoグランシアタ(大分県)\n8/9(月・祝)\n12時公演\n15時30分公演\n\nKT\, MM\, DN\, XO\, 
+ PN\, CN
+LAST-MODIFIED:20210420T111443Z
+LOCATION:iichiko Culture Center\, Japan\, 〒870-0029 Oita\, Takasagomachi\, 
+ 2\, 大分市高砂町２−３３
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:リボンの国の音もだち
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20210411T020000Z
 DTEND:20210411T063000Z
 UID:1s3e0ajmmbfd2jemp64aeacd53@google.com
@@ -408,25 +754,6 @@ LOCATION:RKB住宅展 小倉南 総合案内所\, 3914-6 Kusami\, Kokuraminami W
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:KT RKB住宅展小倉南
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20210424T020000Z
-DTEND:20210424T063000Z
-UID:1susbljnpb64r0e78lo70hec2d@google.com
-CREATED:20210416T004052Z
-DESCRIPTION:https://www.aeon.jp/sc/yahatahigashi/event/event_e287446.html\n
- \nマイメロディ グリーティング&写真撮影会\n日程：4月24日(土)\n時間：(1)11:00～ (2)13:00～ (3)15:00～ (各回30
- 分)\n場所：1F いちいがしの広場\n\n各回先着20名様限定\n写真撮影会に参加のお客さまには、お買い上げのキャラクター大賞の投票チップ+2枚プレ
- ゼント!\n・当日10:00より、3F サンリオギフトゲートにて、各回の「参加予約券」を配布致します。\n(お並び順にご希望の時間をお伺いしますが、各
- 回定員に達しますと承れない場合がございます。また参加はお1人様1回限りとさせて頂きます。)\n・10:00より、3F サンリオギフトゲートにて、税込1
- \,100円以上お買い上げいただくと、「参加予約券」を「写真撮影参加券」に交換させていただきます。
-LAST-MODIFIED:20210416T004052Z
-LOCATION:ÆON MALL YAHATA-East\, 3-chōme-2-102 Higashida\, Yahatahigashi War
- d\, Kitakyushu\, Fukuoka 805-0071\, Japan
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:MM イオンモール八幡東
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
