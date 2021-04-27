@@ -394,26 +394,23 @@ RRULE:FREQ=YEARLY;BYMONTH=9;BYDAY=1SU
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20210501
-DTEND;VALUE=DATE:20210506
+DTSTART;TZID=Asia/Tokyo:20210501T113000
+DTEND;TZID=Asia/Tokyo:20210501T160000
+RRULE:FREQ=DAILY;COUNT=5
 UID:45inlcrjo6tqtugrdrb8p2n06u@google.com
 CREATED:20210421T115155Z
 DESCRIPTION:<a href="https://www.mirokunosato.com/newstopics/202104-sanrio"
- >https://www.mirokunosato.com/newstopics/202104-sanrio</a><br><a href="http
- s://www.facebook.com/mirokunosato/posts/3970953452997269">https://www.faceb
- ook.com/mirokunosato/posts/3970953452997269</a><br><a href="https://www.fac
- ebook.com/mirokunosato/posts/3976225939136687">https://www.facebook.com/mir
- okunosato/posts/3976225939136687</a><br>https://www.facebook.com/mirokunosa
- to/posts/3979091705516777<br><br>サンリオキャラクターが“まいにち”遊びにくる遊園地<br>みろくの里“しばふ広場”の
- 屋外ステージ<br><br>5/1(土) ポムポムプリン<br>5/2(日) ？<br>5/3(月) ハローキティ<br>5/4(火) ？<br>5/
- 5(水) ぐでたま<br><br>各日<br>1回目 11：30～<br>2回目 13：30～<br>3回目 15：30～
-LAST-MODIFIED:20210424T174545Z
+  id="ow1930" __is_owner="true">https://www.mirokunosato.com/newstopics/2021
+ 04-sanrio</a><br><br>サンリオキャラクターが“まいにち”遊びにくる遊園地<br>みろくの里“しばふ広場”の屋外ステージ<br><b
+ r>5/1(土) ポムポムプリン<br>5/2(日) シナモロール<br>5/3(月) ハローキティ<br>5/4(火) マイメロディ<br>5/5(
+ 水) ぐでたま<br><br>各日<br>1回目 11：30～<br>2回目 13：30～<br>3回目 15：30～
+LAST-MODIFIED:20210427T150454Z
 LOCATION:Miroku no sato\, 638-1 Fujiechō\, Fukuyama\, Hiroshima 720-0543\, 
  Japan
-SEQUENCE:0
+SEQUENCE:1
 STATUS:CONFIRMED
-SUMMARY:みろくの里
-TRANSP:TRANSPARENT
+SUMMARY:PN\,CN\,KT\,MM\,GU みろくの里
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210501T020000Z
