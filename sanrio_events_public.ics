@@ -384,6 +384,321 @@ RRULE:FREQ=YEARLY;BYMONTH=9;BYDAY=1SU
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200724
+DTEND;VALUE=DATE:20200725
+RRULE:FREQ=DAILY;WKST=SU;COUNT=2
+UID:3c8e1ik5k6f7d7mrc93pdpd93h@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
+  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
+ gle.com
+CREATED:20200622T142540Z
+DESCRIPTION:https://www.lagunatenbosch.co.jp/event/2020/lpp/index.html\n\nラ
+ グーナプールパーティ2020\n\n2020年7月24日（金・祝）、25日（土）\n17:00 開場\n17:30 ナイトプールオープン\n18:00
+  開演\nラグーナテンボス・ラグナシア
+LAST-MODIFIED:20200622T142548Z
+LOCATION:Laguna Ten Bosch\, Japan\, 〒443-0014 Aichi\, Gamagori\, Kaiyōchō\,
+  2-chōme−３−１
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT ラグーナプールパーティ
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201114T020000Z
+DTEND:20201114T063000Z
+UID:7l51lc0j1dmtgk52ianvq6o4k1@google.com
+CREATED:20200620T005651Z
+DESCRIPTION:11月14日(土)に再延期<br><br>新型コロナウィルス感染症の拡大を防ぐという観点から8月19日（水）に延期<br>KT
+ \,DN\,MM\,XO\,PN\,CN<br><br><a href="https://www.qab.co.jp/events/sanrio202
+ 0/">https://www.qab.co.jp/events/sanrio2020/</a>&nbsp\;&nbsp\;<br><a href="
+ https://www.okashigoten.co.jp/news/10284/">https://www.okashigoten.co.jp/ne
+ ws/10284/</a>&nbsp\;&nbsp\;<br><a href="https://www.puroland.jp/performance
+ /puro_musketeer.html">https://www.puroland.jp/performance/puro_musketeer.ht
+ ml</a>&nbsp\;<br>&nbsp\;<br>QAB開局25周年記念<br>サンリオファミリーミュージカル ピューロマスケティア ～3人のや
+ さしい銃士たち～<br>2020年4月5日（日）<br>沖縄コンベンションセンター劇場棟<br>【午前の部】開場10:30 / 開演11:00<br>
+ 【午後の部】開場13:30 / 開演14:00&nbsp\;&nbsp\;
+LAST-MODIFIED:20200620T005749Z
+LOCATION:沖縄コンベンションセンター劇場棟\, 日本、〒901-2224 沖縄県宜野湾市真志喜４丁目３−１
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ピューロマスケティア
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200819
+DTEND;VALUE=DATE:20200820
+UID:5g6pifdladbavab39e2dkcuv3c@google.com
+CREATED:20200324T053024Z
+DESCRIPTION:11月14日(土)に再延期<br><br>新型コロナウィルス感染症の拡大を防ぐという観点から8月19日（水）に延期<br>KT
+ \,DN\,MM\,XO\,PN\,CN<br><br><a href="https://www.qab.co.jp/events/sanrio202
+ 0/">https://www.qab.co.jp/events/sanrio2020/</a>&nbsp\;&nbsp\;<br><a href="
+ https://www.okashigoten.co.jp/news/10284/">https://www.okashigoten.co.jp/ne
+ ws/10284/</a>&nbsp\;&nbsp\;<br><br>QAB開局25周年記念<br>サンリオファミリーミュージカル ピューロマスケティ
+ ア ～3人のやさしい銃士たち～<br>2020年4月5日（日）<br>沖縄コンベンションセンター劇場棟<br>【午前の部】開場10:30 / 開演11
+ :00<br>【午後の部】開場13:30 / 開演14:00
+LAST-MODIFIED:20200620T005456Z
+LOCATION:Theater OCC- Conventional Center\, 4-chōme-3-1 Mashiki\, Ginowan-s
+ hi\, Okinawa 901-2224\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(延期) ピューロマスケティア
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200405T020000Z
+DTEND:20200405T063000Z
+UID:6uag631fp0r02ii9go1jujjps3@google.com
+CREATED:20200125T132757Z
+DESCRIPTION:<br>新型コロナウィルス感染症の拡大を防ぐという観点から8月19日（水）に延期<br>KT\,DN\,MM\,XO\,PN\
+ ,CN<br><br><a href="https://www.qab.co.jp/sanrio2020/">https://www.qab.co.j
+ p/sanrio2020/</a><br><a href="https://www.okashigoten.co.jp/news/10284/">ht
+ tps://www.okashigoten.co.jp/news/10284/</a>&nbsp\;&nbsp\;<br><br>QAB開局25周年記
+ 念<br>サンリオファミリーミュージカル ピューロマスケティア ～3人のやさしい銃士たち～<br>2020年4月5日（日）<br>沖縄コンベンションセ
+ ンター劇場棟<br>【午前の部】開場10:30 / 開演11:00<br>【午後の部】開場13:30 / 開演14:00
+LAST-MODIFIED:20200620T005339Z
+LOCATION:Theater OCC- Conventional Center\, 4-chōme-3-1 Mashiki\, Ginowan-s
+ hi\, Okinawa 901-2224\, Japan
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:(延期) ピューロマスケティア
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210417T020000Z
+DTEND:20210417T140000Z
+UID:0qer9jd1cla70ar1bj28kur5l2@google.com
+CREATED:20200612T122309Z
+DESCRIPTION:http://mmtsrun.com/\n再々延期\n(1)台北場 2021年4月10日 星期六 15:00-19:30 永和
+ 綠寶石河濱公園 (暫定)\n(2)台中場 2021年4月17日 星期六 10:00-22:00 台中\n\nhttp://mmtsrun.com/ \
+ n再延期\n(1)台北場 2020年6月13日 星期六 15:00-19:30 永和綠寶石河濱公園 (暫定)  \n(2)台中場 2020年10月24
+ 日 星期六 15:00-19:30 台中\n\nhttps://www.facebook.com/113600393363571/posts/2191
+ 35599476716/\n延期\n\nhttp://mmtsrun.com/\nhttps://www.facebook.com/hellokitt
+ ytw/posts/3007630855978940/\n美樂蒂&雙星仙子 45週年 經典星空夜跑\n2020年3月28日 星期六 16:00-19:
+ 30\n台北市大佳河濱公園（暫定，實際可使用地點需待台北市政府審核後確認）
+LAST-MODIFIED:20200612T122309Z
+LOCATION:台中\, 台湾 台中 北区 台中
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MM\,TS\,KT 經典星空夜跑
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210410T070000Z
+DTEND:20210410T113000Z
+UID:7sebmkscqt1rb698bv5aj4tfen@google.com
+CREATED:20200612T122156Z
+DESCRIPTION:http://mmtsrun.com/\n再々延期\n(1)台北場 2021年4月10日 星期六 15:00-19:30 永和
+ 綠寶石河濱公園 (暫定)\n(2)台中場 2021年4月17日 星期六 10:00-22:00 台中\n\nhttp://mmtsrun.com/ \
+ n再延期\n(1)台北場 2020年6月13日 星期六 15:00-19:30 永和綠寶石河濱公園 (暫定)  \n(2)台中場 2020年10月24
+ 日 星期六 15:00-19:30 台中\n\nhttps://www.facebook.com/113600393363571/posts/2191
+ 35599476716/\n延期\n\nhttp://mmtsrun.com/\nhttps://www.facebook.com/hellokitt
+ ytw/posts/3007630855978940/\n美樂蒂&雙星仙子 45週年 經典星空夜跑\n2020年3月28日 星期六 16:00-19:
+ 30\n台北市大佳河濱公園（暫定，實際可使用地點需待台北市政府審核後確認）
+LAST-MODIFIED:20200612T122156Z
+LOCATION:永和緑宝石緑地\, 234 台湾 新北市 永和区
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MM\,TS\,KT 經典星空夜跑
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200613T070000Z
+DTEND:20200613T113000Z
+UID:2psd51uk8a1l015oc1nqgunpoi@google.com
+CREATED:20200305T124647Z
+DESCRIPTION:http://mmtsrun.com/\n再々延期\n(1)台北場 2021年4月10日 星期六 15:00-19:30 永和
+ 綠寶石河濱公園 (暫定)\n(2)台中場 2021年4月17日 星期六 10:00-22:00 台中\n\nhttp://mmtsrun.com/ \
+ n再延期\n(1)台北場 2020年6月13日 星期六 15:00-19:30 永和綠寶石河濱公園 (暫定)  \n(2)台中場 2020年10月24
+ 日 星期六 15:00-19:30 台中\n\nhttps://www.facebook.com/113600393363571/posts/2191
+ 35599476716/\n延期\n\nhttp://mmtsrun.com/\nhttps://www.facebook.com/hellokitt
+ ytw/posts/3007630855978940/\n美樂蒂&雙星仙子 45週年 經典星空夜跑\n2020年3月28日 星期六 16:00-19:
+ 30\n台北市大佳河濱公園（暫定，實際可使用地點需待台北市政府審核後確認）
+LAST-MODIFIED:20200612T121944Z
+LOCATION:永和緑宝石緑地\, 234 台湾 新北市 永和区
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(延期) MM\,TS\,KT 經典星空夜跑
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20181201
+DTEND;VALUE=DATE:20181202
+UID:4pm4ieg6ustqsf3vu5s9aelk4r@google.com
+CREATED:20200608T101458Z
+DESCRIPTION:https://tokyogets.com/case-study/asia-0001/\n\nHello Kitty Run 
+ China 2018\n2018年12月1日\n広州国際媒体港（中国・広州）\n\nハローキティショーとミート&グリート
+LAST-MODIFIED:20200608T101458Z
+LOCATION:広州国際媒体港\, Binjiang E Rd\, Haizhu Qu\, Guangzhou Shi\, Guangdong Sh
+ eng\, 中華人民共和国
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT Hello Kitty Run China
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Australia/Sydney:20190711T110000
+DTEND;TZID=Australia/Sydney:20190711T140000
+RRULE:FREQ=WEEKLY;WKST=SU;COUNT=3;BYDAY=SA,SU,TH
+UID:5c1bfgipmt0uhsb82ut8hqi0fk@google.com
+CREATED:20200524T063416Z
+DESCRIPTION:https://hillsdistrictmums.com.au/meet-hello-kitty-at-castle-mal
+ l/\n\nMeet Hello Kitty these school holidays at Castle Mall.\nThursday 11\,
+  Saturday 13 & Sunday 14 July\, 11am – 2pm.
+LAST-MODIFIED:20200524T063416Z
+LOCATION:Castle Mall\, 4-16 Terminus St\, Castle Hill NSW 2154\, Australia
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT Castle Mall
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200531
+DTEND;VALUE=DATE:20200601
+UID:359au5nufrn2tie1eeue4p73dj@google.com
+CREATED:20200130T162456Z
+DESCRIPTION:<br>新型コロナウイルス感染拡大の影響に伴い、中止<br><br><a href="https://www.rakutene
+ agles.jp/special/eaglesgirl/">https://www.rakuteneagles.jp/special/eaglesgi
+ rl/</a><br><a href="https://www.rakuteneagles.jp/news/detail/00002739.html#
+ sanrio">https://www.rakuteneagles.jp/news/detail/00002739.html#sanrio</a><b
+ r><br>イーグルス ガールデー<br>2020-05-31 13:00 横浜DeNA戦<br>2020-09-06 13:00 埼玉西武戦<br>
+ <br>2020-05-31<br>ハローキティ、シナモロール、ポムポムプリンが楽天生命パーク宮城に登場
+LAST-MODIFIED:20200501T002430Z
+LOCATION:Rakuten Seimei Park Miyagi\, 2-chōme-11-6 Miyagino\, Miyagino-ku\,
+  Sendai\, Miyagi 983-0045\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(中止) KT\,CN\,PN イーグルス ガールデー
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20200502T123000
+DTEND;TZID=Asia/Tokyo:20200502T160000
+RRULE:FREQ=DAILY;COUNT=5
+UID:6f3nkcvkrn7jfs22olm5uc1lin@google.com
+CREATED:20200310T153730Z
+DESCRIPTION:「はろうきてぃ太夫の映画村道中」はおそらく中止（下記のページから当該の情報が消えているため）。<br><br><a href=
+ "http://www.toei-eigamura.com/event/detail/269">http://www.toei-eigamura.co
+ m/event/detail/269</a><br><br>ハローキティの映画村じゃっく<br>3/14 - 7/5<br><br>はろうきてぃ太夫の
+ 映画村道中<br>5/2 - 5/6<br>12:30<br>15:30
+LAST-MODIFIED:20200501T001958Z
+LOCATION:Toei Kyoto Studio Park\, １０ Uzumasa Higashihachiokacho\, Ukyo Ward
+ \, Kyoto\, 616-8161\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(中止) KT 東映太秦映画村
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200523T020000Z
+DTEND:20200523T073000Z
+UID:260jvqq97pro5i3kcft1utrsd6@google.com
+CREATED:20200130T163530Z
+DESCRIPTION:Description:KT\,DN\,MM\,XO\,PN\,CN&nbsp\;&nbsp\;<br><br><a href
+ ="https://www.htv.jp/event/event-list/200523.html">https://www.htv.jp/event
+ /event-list/200523.html</a><br><a href="https://www.puroland.jp/performance
+ /puro_musketeer.html">https://www.puroland.jp/performance/puro_musketeer.ht
+ ml</a><br><br>新型コロナウイルスの感染拡大防止及びお客様やスタッフの健康と安全を最優先に考慮した結果、公演を延期<br><br>振替公演
+ 日程<br>2021年4月3日（土）　広島文化学園HBGホール<br>（１）11:00開演 ／（２）15:00開演<br><br><a href="h
+ ttp://www.htv.jp/event/event-list/200523.html">http://www.htv.jp/event/even
+ t-list/200523.html</a><br><br>サンリオファミリーミュージカル ピューロマスケティア<br>広島文化学園HBGホール<br
+ >2020年5月23日（土）<br>11：00開演<br>15：00開演
+LAST-MODIFIED:20200428T002236Z
+LOCATION:Hiroshima Bunka Gakuen HBG Hall\, 3-3 Kakomachi\, Naka-ku\, Hirosh
+ ima\, 730-8787\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(延期) ピューロマスケティア
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210403T020000Z
+DTEND:20210403T073000Z
+UID:5igb4fi4r0msam7uqernr39a14@google.com
+CREATED:20200427T102733Z
+DESCRIPTION:Description:KT\,DN\,MM\,XO\,PN\,CN&nbsp\;&nbsp\;<br><br><a href
+ ="https://www.htv.jp/event/event-list/200523.html">https://www.htv.jp/event
+ /event-list/200523.html</a><br><a href="https://www.puroland.jp/performance
+ /puro_musketeer.html">https://www.puroland.jp/performance/puro_musketeer.ht
+ ml</a><br><br>新型コロナウイルスの感染拡大防止及びお客様やスタッフの健康と安全を最優先に考慮した結果、公演を延期<br><br>振替公演
+ 日程<br>2021年4月3日（土）　広島文化学園HBGホール<br>（１）11:00開演 ／（２）15:00開演<br><br><a href="h
+ ttp://www.htv.jp/event/event-list/200523.html">http://www.htv.jp/event/even
+ t-list/200523.html</a><br><br>サンリオファミリーミュージカル ピューロマスケティア<br>広島文化学園HBGホール<br
+ >2020年5月23日（土）<br>11：00開演<br>15：00開演&nbsp\;&nbsp\;
+LAST-MODIFIED:20200427T102733Z
+LOCATION:広島文化学園HBGホール\, 日本、〒730-8787 広島県広島市中区加古町３−３
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ピューロマスケティア
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200429T020000Z
+DTEND:20200429T063000Z
+UID:6990hpu9tqal1ehnhp5n295oum@google.com
+CREATED:20200407T163023Z
+DESCRIPTION:<br>ページが消えてるから多分中止<br><a href="https://www.aeon.jp/sc/sagamihar
+ a/event/event_e220448.html" id="ow540" __is_owner="true">https://www.aeon.j
+ p/sc/sagamihara/event/event_e220448.html</a>&nbsp\;<br><br>大人気のハローキティが遊びに来る
+ よ♪みんなで一緒にダンスをしよう♪<br>ダンス&amp\;写真撮影会<br><br>4月29日(水・祝)<br>11:00～11:30<br>13:
+ 00～13:30<br>15:00～15:30<br>1F パブリックスペース
+LAST-MODIFIED:20200417T111642Z
+LOCATION:AEON Sagamihara Shopping Center\, 2-chōme-10-1 Kobuchi\, Minami-ku
+ \, Sagamihara\, Kanagawa 252-0344\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(中止) KT イオン相模原ショッピングセンター
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200425
+DTEND;VALUE=DATE:20200511
+UID:49fuqgev879pnjm7grcgi2e67j@google.com
+CREATED:20200305T211813Z
+DESCRIPTION:中止\n\n新型コロナウイルス感染症の発生を受け延期\n延期後の開催期間：2020年4月25日（土）～5月10日（日）\n\n
+ http://sakurafarms.jp/sanrio-carnival/ (http://sakurafarms.jp/sanrio-carniv
+ al/)\n\nサンリオカーニバル\n2020-03-20 / 2020-04-05\n霧島さくらフルーツランド特設会場（鹿児島県霧島市国分重久５６３
+ １−２）\n\nhttps://eplus.jp/sf/detail/3202440001-P0030001 (https://eplus.jp/sf
+ /detail/3202440001-P0030001)\n\nハローキティと触れ合えるライブショーやグリーティングなど内容盛り沢山
+LAST-MODIFIED:20200409T203438Z
+LOCATION:さくら農園\, 日本、〒899-4301 鹿児島県霧島市国分重久６０２９−３
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(中止) KT 霧島さくらフルーツランド
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200405T013000Z
+DTEND:20200405T060000Z
+UID:75nseovs8k7ufl6d5apm0vg445@google.com
+CREATED:20200409T013843Z
+DESCRIPTION:新型コロナウイルス感染防止対策に伴う諸般の事情を鑑み、当該催事は中止\n\nhttps://denpark.jp/event-
+ detail.php?id=43\n\nハローキティミニステージ　イースターver.\n安城産業文化公園デンパーク\n2020-04-05(日)\n1
+ 0:30\n14:30\n水のステージ
+LAST-MODIFIED:20200409T013843Z
+LOCATION:DENPARK\, Japan\, 〒446-0046 愛知県安城市赤松町梶１
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(中止) 安城産業文化公園デンパーク
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200418T020000Z
+DTEND:20200418T063000Z
+UID:1mtp3hetv522mecc31sh1dafhh@google.com
+CREATED:20191204T212743Z
+DESCRIPTION:<br>新型コロナウイルス感染拡大の影響から、お客様の健康と安全面を考慮した結果、公演を中止<br>KT\,DN\,MM\,X
+ O\,PN\,CN<br><br><a href="https://www.tsb.jp/tsb-event/archives/6433">https
+ ://www.tsb.jp/tsb-event/archives/6433</a><br><br>サンリオファミリーミュージカル　ピューロマスケティア
+ ～3人のやさしい銃士たち～<br><br>2020年4月18日（土）<br>（1）11:00公演（2）14:00公演<br>開場時間は開演の30分前<
+ br>ホクト文化ホール　大ホール<br><br>【チケット一般発売日】2020年1月18日（土）10:00～
+LAST-MODIFIED:20200406T121647Z
+LOCATION:長野県県民文化会館（ホクト文化ホール）\, 日本、〒380-0928 長野県長野市若里１丁目１−３
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(中止) ピューロマスケティア
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Jakarta:20200418T150000
 DTEND;TZID=Asia/Jakarta:20200418T183000
 RRULE:FREQ=WEEKLY;WKST=SU;COUNT=8;BYDAY=SA,SU
@@ -515,69 +830,6 @@ SUMMARY:MM\,TS\,KT 經典星空夜跑
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20200613T070000Z
-DTEND:20200613T113000Z
-UID:2psd51uk8a1l015oc1nqgunpoi@google.com
-CREATED:20200305T124647Z
-DESCRIPTION:<a href="http://mmtsrun.com/tp/">http://mmtsrun.com/tp/</a><br>
- (1)台北場<br>2020年6月13日 星期六 15:00-19:30<br>永和綠寶石河濱公園 (暫定)&nbsp\;&nbsp\;<br><br
- ><a href="http://mmtsrun.com/">http://mmtsrun.com/</a>&nbsp\;&nbsp\;<br>(2)
- 台中場<br>2020年10月24日 星期六 15:00-19:30<br>台中<br><br><a href="https://www.facebo
- ok.com/113600393363571/posts/219135599476716/">https://www.facebook.com/113
- 600393363571/posts/219135599476716/</a>&nbsp\;<br>活動延期&nbsp\;&nbsp\;<br><br
- ><a href="http://mmtsrun.com/">http://mmtsrun.com/</a><br><a href="https://
- www.facebook.com/hellokittytw/posts/3007630855978940/">https://www.facebook
- .com/hellokittytw/posts/3007630855978940/</a><br>美樂蒂&amp\;雙星仙子 45週年 經典星空夜跑<
- br>2020年3月28日 星期六 16:00-19:30<br>台北市大佳河濱公園（暫定，實際可使用地點需待台北市政府審核後確認）&nbsp\;&n
- bsp\;
-LAST-MODIFIED:20200325T213604Z
-LOCATION:永和緑宝石緑地\, 234 台湾 新北市 永和区
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:MM\,TS\,KT 經典星空夜跑
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20200819
-DTEND;VALUE=DATE:20200820
-UID:5g6pifdladbavab39e2dkcuv3c@google.com
-CREATED:20200324T053024Z
-DESCRIPTION:新型コロナウィルス感染症の拡大を防ぐという観点から8月19日（水）に延期<br>KT\,DN\,MM\,XO\,PN\,CN<
- br><br><a href="https://www.qab.co.jp/events/sanrio2020/">https://www.qab.c
- o.jp/events/sanrio2020/</a>&nbsp\;&nbsp\;<br><a href="https://www.okashigot
- en.co.jp/news/10284/">https://www.okashigoten.co.jp/news/10284/</a>&nbsp\;&
- nbsp\;<br><br>QAB開局25周年記念<br>サンリオファミリーミュージカル ピューロマスケティア ～3人のやさしい銃士たち～<br>20
- 20年4月5日（日）<br>沖縄コンベンションセンター劇場棟<br>【午前の部】開場10:30 / 開演11:00<br>【午後の部】開場13:30 
- / 開演14:00
-LAST-MODIFIED:20200325T011016Z
-LOCATION:Theater OCC- Conventional Center\, 4-chōme-3-1 Mashiki\, Ginowan-s
- hi\, Okinawa 901-2224\, Japan
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:ピューロマスケティア
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20200405T020000Z
-DTEND:20200405T063000Z
-UID:6uag631fp0r02ii9go1jujjps3@google.com
-CREATED:20200125T132757Z
-DESCRIPTION:<br>新型コロナウィルス感染症の拡大を防ぐという観点から8月19日（水）に延期<br>KT\,DN\,MM\,XO\,PN\
- ,CN<br><br><a href="https://www.qab.co.jp/sanrio2020/">https://www.qab.co.j
- p/sanrio2020/</a><br><a href="https://www.okashigoten.co.jp/news/10284/" id
- ="ow720" __is_owner="true">https://www.okashigoten.co.jp/news/10284/</a>&nb
- sp\;&nbsp\;<br><br>QAB開局25周年記念<br>サンリオファミリーミュージカル ピューロマスケティア ～3人のやさしい銃士たち～<
- br>2020年4月5日（日）<br>沖縄コンベンションセンター劇場棟<br>【午前の部】開場10:30 / 開演11:00<br>【午後の部】開場1
- 3:30 / 開演14:00
-LAST-MODIFIED:20200324T052954Z
-LOCATION:Theater OCC- Conventional Center\, 4-chōme-3-1 Mashiki\, Ginowan-s
- hi\, Okinawa 901-2224\, Japan
-SEQUENCE:2
-STATUS:CONFIRMED
-SUMMARY:(延期) ピューロマスケティア
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20200322T020000Z
 DTEND:20200322T063000Z
 UID:3rjf7rmg8vausqguircuctm439@google.com
@@ -692,22 +944,6 @@ SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:(中止) CN Hello Kitty Grand Cafe
 TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20200502T123000
-DTEND;TZID=Asia/Tokyo:20200502T160000
-RRULE:FREQ=DAILY;COUNT=5
-UID:6f3nkcvkrn7jfs22olm5uc1lin@google.com
-CREATED:20200310T153730Z
-DESCRIPTION:http://www.toei-eigamura.com/event/detail/269\n\nハローキティの映画村じゃっく
- \n3/14 - 7/5\n\nはろうきてぃ太夫の映画村道中\n5/2 - 5/6\n12:30\n15:30
-LAST-MODIFIED:20200310T153741Z
-LOCATION:Toei Kyoto Studio Park\, １０ Uzumasa Higashihachiokacho\, Ukyo Ward
- \, Kyoto\, 616-8161\, Japan
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:KT 東映太秦映画村
-TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200314T040000Z
@@ -825,24 +1061,6 @@ SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:ピューロマスケティア
 TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20200425
-DTEND;VALUE=DATE:20200511
-UID:49fuqgev879pnjm7grcgi2e67j@google.com
-CREATED:20200305T211813Z
-DESCRIPTION:新型コロナウイルス感染症の発生を受け延期<br>延期後の開催期間：2020年4月25日（土）～5月10日（日）<br><br>
- <a href="http://sakurafarms.jp/sanrio-carnival/">http://sakurafarms.jp/sanr
- io-carnival/</a><br><br>サンリオカーニバル<br>2020-03-20 / 2020-04-05<br>霧島さくらフルーツラン
- ド特設会場（鹿児島県霧島市国分重久５６３１−２）<br><br><a href="https://eplus.jp/sf/detail/3202440
- 001-P0030001">https://eplus.jp/sf/detail/3202440001-P0030001</a><br><br>ハロー
- キティと触れ合えるライブショーやグリーティングなど内容盛り沢山
-LAST-MODIFIED:20200305T211813Z
-LOCATION:さくら農園\, 日本、〒899-4301 鹿児島県霧島市国分重久６０２９−３
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:KT 霧島さくらフルーツランド
-TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20200322
@@ -1904,22 +2122,6 @@ SUMMARY:MM\,KN SANRIO EXPO
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20200523T020000Z
-DTEND:20200523T073000Z
-UID:260jvqq97pro5i3kcft1utrsd6@google.com
-CREATED:20200130T163530Z
-DESCRIPTION:Description:KT\,DN\,MM\,XO\,PN\,CN  \n\nhttp://www.htv.jp/event
- /event-list/200523.html\n\nサンリオファミリーミュージカル ピューロマスケティア\n広島文化学園HBGホール\n2020年5
- 月23日（土）\n11：00開演\n15：00開演
-LAST-MODIFIED:20200130T163530Z
-LOCATION:Hiroshima Bunka Gakuen HBG Hall\, 3-3 Kakomachi\, Naka-ku\, Hirosh
- ima\, 730-8787\, Japan
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:ピューロマスケティア
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20200206T012000Z
 DTEND:20200206T063000Z
 UID:7597slcg82hj8ipgn8hpqoikek@google.com
@@ -1937,23 +2139,6 @@ SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:CN紋次郎 品川海苔PR動画お披露目会
 TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20200531
-DTEND;VALUE=DATE:20200601
-UID:359au5nufrn2tie1eeue4p73dj@google.com
-CREATED:20200130T162456Z
-DESCRIPTION:https://www.rakuteneagles.jp/special/eaglesgirl/\nhttps://www.r
- akuteneagles.jp/news/detail/00002739.html#sanrio\n\nイーグルス ガールデー\n2020-05-31
-  13:00 横浜DeNA戦\n2020-09-06 13:00 埼玉西武戦\n\n2020-05-31\nハローキティ、シナモロール、ポムポムプリン
- が楽天生命パーク宮城に登場
-LAST-MODIFIED:20200130T162456Z
-LOCATION:Rakuten Seimei Park Miyagi\, 2-chōme-11-6 Miyagino\, Miyagino-ku\,
-  Sendai\, Miyagi 983-0045\, Japan
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:KT\,CN\,PN イーグルス ガールデー
-TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20200122
@@ -3896,21 +4081,6 @@ LOCATION:Musashi Kyuryo National Government Park\, Japan\, 〒355-0802 埼玉県
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:KT\,MM 国営武蔵丘陵森林公園
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20200418T020000Z
-DTEND:20200418T063000Z
-UID:1mtp3hetv522mecc31sh1dafhh@google.com
-CREATED:20191204T212743Z
-DESCRIPTION:KT\,DN\,MM\,XO\,PN\,CN\n\nhttps://www.tsb.jp/tsb-event/archives
- /6433\n\nサンリオファミリーミュージカル　ピューロマスケティア～3人のやさしい銃士たち～\n\n2020年4月18日（土）\n（1）11:00
- 公演（2）14:00公演\n開場時間は開演の30分前\nホクト文化ホール　大ホール\n\n【チケット一般発売日】2020年1月18日（土）10:00～
-LAST-MODIFIED:20191204T212743Z
-LOCATION:長野県県民文化会館（ホクト文化ホール）\, 日本、〒380-0928 長野県長野市若里１丁目１−３
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:ピューロマスケティア
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
