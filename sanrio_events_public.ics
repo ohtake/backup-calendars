@@ -394,12 +394,162 @@ RRULE:FREQ=YEARLY;BYMONTH=9;BYDAY=1SU
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20210327T130000
+DTEND;TZID=Asia/Tokyo:20210327T173000
+RRULE:FREQ=DAILY;COUNT=2
+UID:5hmmhs89dsrn6h1i1quiq7ugdl@google.com
+CREATED:20210326T162202Z
+DESCRIPTION:https://www.0101.co.jp/078/store-info/fair.html?article_id=3668
+ 7\n\nミュークルドリーミー プレイランド in マルイファミリー溝口\n2021年3月27日(土)～2021年3月28日(日)\nマルイファミリー
+ 溝口　5F 特設会場\n10時30分～20時00分※最終日は18時\n\nみゅーちゃん写真撮影会\n1回目 13:00～\n2回目 15:00～\n3
+ 回目 17:00～\n各回先着50名
+LAST-MODIFIED:20210326T162244Z
+LOCATION:Marui Family Mizonokuchi\, 1-chōme-4-1 Mizonokuchi\, Takatsu Ward\
+ , Kawasaki\, Kanagawa 213-0001\, Japan
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:MW ミュークルドリーミー プレイランド
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210402T060000Z
+DTEND:20210402T062000Z
+UID:1otshjtfbkh8mvbjl13779vvto@google.com
+CREATED:20210326T123650Z
+DESCRIPTION:https://www.facebook.com/259052694170117/posts/5180601172015220
+ /\n\nSANRIO GIFT GATE布丁狗兒童節見面會\n\n活動時間：4/2(五) 下午2:00~2:20\n活動地點：新光三越台中中港店 6
+ F Sanrio專櫃\n參加辦法：自3/26(五)起，在台中新光三越Sanrio專櫃單筆消費滿600元(需要包含一個布丁狗商品唷)就送合影券一張，活動
+ 當日憑合影券就可以與布丁狗合影留念\n\n本次活動限量發40張合影券\n每人限兌換兩張合影券1\n合影券數量有限送發完為止
+LAST-MODIFIED:20210326T123650Z
+LOCATION:新光三越 台中中港店\, No. 301\, Section 3\, Taiwan Blvd\, Xitun District\, 
+ Taichung City\, 台湾 407
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:PN 新光三越台中中港店
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210403T020000Z
+DTEND:20210403T083000Z
+UID:2l39k72v0f7d1l649fqpm7k5pg@google.com
+CREATED:20210319T173227Z
+DESCRIPTION:<a href="https://suzuka-aeonmall.com/news/event/3148">https://s
+ uzuka-aeonmall.com/news/event/3148</a><br><br>イースター ハローキティ撮影会<br>専門店街1階　中央コ
+ ート<br>2021/04/03 (土)<br>(1) 11:00～<br>(2) 13:00～<br>(3) 15:00～<br>(4) 17:00
+ ～<br>開催30分前（初回のみ1時間前）より会場にて整理券を配布<br>各回先着50名<br>参加条件：イオンモールアプリ イオンモール鈴鹿お気に入
+ りモール登録画面呈示
+LAST-MODIFIED:20210319T173516Z
+LOCATION:AEON MALL Suzuka Store\, 4-chōme-1-2 Shōnohayama\, Suzuka\, Mie 51
+ 3-0834\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT イースター撮影会
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210320T011500Z
+DTEND:20210320T050000Z
+UID:0fakt11100kcr6kh0ds3814k3b@google.com
+CREATED:20210319T173015Z
+DESCRIPTION:https://www.bbt.co.jp/hellokitty-exhibition/index.html\n\nハローキテ
+ ィコレクション展\n2021/3/20(土)～4/6(火)\n富山大和　6階催事ホール\n\nハローキティコレクション展 オープニングイベント\nグラ
+ ンドプラザに ハローキティがあそびにくるよ！\n3月20日（土）\n1. 10:15～10:45\n2. 11:45～12:15\n3. 13:30～
+ 14:00\nタイムスケジュール\n・富山市限定キティの紹介：5分\n・1. 3. はダンス、2. はクイズ：10分\n・写真撮影会：10分\n毎回1
+ 0組限定でハローキティとの写真撮影会を実施\n整理券を各回の15分前から配布
+LAST-MODIFIED:20210319T173015Z
+LOCATION:Grand Plaza\, 3-chōme-8-39 Sōgawa\, Toyama\, 930-0083\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT ハローキティコレクション展
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210314T023000Z
+DTEND:20210314T072000Z
+UID:38c42ibpugf8k3uclrqosa68lo@google.com
+CREATED:20210318T172422Z
+DESCRIPTION:https://www.instagram.com/p/CMTKYJEhDbm/\n\nSDGsスペシャルステージ\nNTTド
+ コモレッドハリケーンズ vs パナソニックワイルドナイツ\nヤンマーフィールド長居の横にある自由広場\n\n2021-03-14\n11:30〜\n1
+ 3:20〜\n15:50〜
+LAST-MODIFIED:20210318T172422Z
+LOCATION:Yanmar Field Nagai\, 1-1 Nagaikōen\, Higashisumiyoshi Ward\, Osaka
+ \, 546-0034\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT SDGsスペシャルステージ
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210404T013000Z
+DTEND:20210404T070000Z
+UID:2luvt6pqo3jt6tlmu3ubmqtrpv@google.com
+CREATED:20210318T172009Z
+DESCRIPTION:https://www.denpark.jp/event-detail.php?id=120\n\nハローキティ イースターミ
+ ニステージ\n2021-04-04(日)\n10:30\n12:30\n15:30\n水のステージ
+LAST-MODIFIED:20210318T172009Z
+LOCATION:DENPARK\, Japan\, 〒446-0046 愛知県安城市赤松町梶１
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT イースターミニステージ
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210320T060000Z
+DTEND:20210320T062000Z
+UID:423cbf9vo4q2qll04vn53uafhc@google.com
+CREATED:20210318T171812Z
+DESCRIPTION:https://www.facebook.com/SanrioGiftGate.tw/posts/14111752792339
+ 60/\n\n大耳狗喜拿生日見面會\n3/20(六)下午2:00~2:20\n新光三越信義A8-5樓Sanrio專櫃前
+LAST-MODIFIED:20210318T171812Z
+LOCATION:Shin Kong Mitsukoshi Taipei Xinyi Place A8\, No. 12號\, Songgao Roa
+ d\, Xinyi District\, Taipei City\, Taiwan 110
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CN 新光三越信義
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20210529T110000
+DTEND;TZID=Asia/Tokyo:20210529T153000
+RRULE:FREQ=DAILY;COUNT=2
+UID:3t7k6pesp1l3lgodmirpuqp7sq@google.com
+CREATED:20210309T144023Z
+DESCRIPTION:https://www.tbs.co.jp/event/puro_musketeer/\n\nサンリオファミリーミュージカル\
+ n「ピューロマスケティア〜3人のやさしい銃士たち〜」\n\n2021年5月29日（土）\n【1公演目】11:00開演\n【2公演目】14:00開演\n
+ 2021年5月30日（日）\n【1公演目】11:00開演\n【2公演目】14:00開演\n※開場は開演の30分前\n\nオンライン配信あり\n\nKT
+ \,DN\,MM\,XO\,PN\,CN
+LAST-MODIFIED:20210309T144023Z
+LOCATION:Yurakucho Yomiuri Hall\, Japan\, 〒100-0006 Tokyo\, Chiyoda City\, 
+ Yūrakuchō\, 1-chōme−11−１ 読売会館７F
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ピューロマスケティア
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210131
+DTEND;VALUE=DATE:20210201
+UID:32nsb123jl6s2a0ml1jdtm9sqg@google.com
+CREATED:20201115T124916Z
+DESCRIPTION:新型コロナウイルス感染症の発生状況を踏まえ、開催を中止<br><br>参加対象となる方<br>● 保育の仕事に興味のある方<b
+ r>● 保育資格をお持ちの方<br>● 保育士資格取得を目指している方<br>● 復職を考えている方<br><br><a href="https://
+ www.hoiku-festa2021.jp/wp-content/uploads/2020/10/3df34f76afd02944e92c58ed2
+ 7fd9394.pdf">https://www.hoiku-festa2021.jp/wp-content/uploads/2020/10/3df3
+ 4f76afd02944e92c58ed27fd9394.pdf</a><br><a href="https://www.hoiku-festa202
+ 1.jp/">https://www.hoiku-festa2021.jp/</a><br><br>保育のおしごと応援フェスタ2021 in TOKY
+ O<br>2021/1/31(日) 10:00-16:00<br>東京国際フォーラム ホールB7<br><br>当日は、ハローキティとホイクマ・ホイク
+ マンがあそびにくる
+LAST-MODIFIED:20210125T130617Z
+LOCATION:東京国際フォーラム ホールB\, 日本、〒100-0005 東京都千代田区丸の内３丁目５−１
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(中止) KT 保育のおしごと応援フェスタ
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20201213T060000Z
 DTEND:20201213T063000Z
 UID:1ng8496f0uhf9b4iuvpr7vl2es@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
-  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
- gle.com
 CREATED:20201124T114423Z
 DESCRIPTION:<br>諸般の事情により中止<br><a href="https://xmas-piano.live/" id="ow352"
   __is_owner="true">https://xmas-piano.live/</a><br><br>みんなでつくる！未来へつながる！ハラミち
@@ -419,9 +569,6 @@ BEGIN:VEVENT
 DTSTART:20201224T080000Z
 DTEND:20201224T083000Z
 UID:6boidn68825j4c8gsnd4656rsd@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
-  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
- gle.com
 CREATED:20201124T114456Z
 DESCRIPTION:https://xmas-piano.live/\n\nみんなでつくる！未来へつながる！ハラミちゃん×サンリオキャラクターズが
  おくるArio・GRANDTREE・PRIMETREE XmasリモートLIVE\n\n下記会場ではハラミちゃんが生演奏を披露\n各会場にサンリオキャ
@@ -457,9 +604,6 @@ BEGIN:VEVENT
 DTSTART:20201213T013000Z
 DTEND:20201213T063000Z
 UID:2b2irkeqrjclc58edeo4ei65ae@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
-  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
- gle.com
 CREATED:20201201T125539Z
 DESCRIPTION:https://nha.or.jp/nissin/event/entry-12753.html\n\nハローキティ＆マイメロデ
  ィのクリスマス スペシャルミニステージ\n\n2020年12月13日(日)\n①10:30 ②13:30 ③15:00\nナゴヤハウジングセンター日進
@@ -475,9 +619,6 @@ BEGIN:VEVENT
 DTSTART:20201212T060000Z
 DTEND:20201212T063000Z
 UID:2v991noe5ectv04j6gm0k4mtmn@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
-  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
- gle.com
 CREATED:20201124T114345Z
 DESCRIPTION:<br>諸般の事情により中止<br><a href="https://xmas-piano.live/">https://xm
  as-piano.live/</a><br><br>みんなでつくる！未来へつながる！ハラミちゃん×サンリオキャラクターズがおくるArio・GRANDT
@@ -497,9 +638,6 @@ BEGIN:VEVENT
 DTSTART:20201205T050000Z
 DTEND:20201205T053000Z
 UID:5camgh55i286vk1nnk0so0splo@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
-  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
- gle.com
 CREATED:20201124T114207Z
 DESCRIPTION:<a href="https://xmas-piano.live/">https://xmas-piano.live/</a>
  <br><br>みんなでつくる！未来へつながる！ハラミちゃん×サンリオキャラクターズがおくるArio・GRANDTREE・PRIMETREE Xmas
@@ -518,9 +656,6 @@ BEGIN:VEVENT
 DTSTART:20201206T060000Z
 DTEND:20201206T063000Z
 UID:71gqfgib61s2jvr79brf0qoi5u@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
-  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
- gle.com
 CREATED:20201124T114301Z
 DESCRIPTION:https://xmas-piano.live/\n\nみんなでつくる！未来へつながる！ハラミちゃん×サンリオキャラクターズが
  おくるArio・GRANDTREE・PRIMETREE XmasリモートLIVE\n\n下記会場ではハラミちゃんが生演奏を披露\n各会場にサンリオキャ
@@ -538,9 +673,6 @@ BEGIN:VEVENT
 DTSTART:20201128T050000Z
 DTEND:20201128T073000Z
 UID:7mddtc2ujqf2f5geruin0m2ku8@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
-  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
- gle.com
 CREATED:20201125T122826Z
 DESCRIPTION:https://hashimoto.ario.jp/event/2400000602/\n\nマイメロディがおくる アリオ橋本
  スペシャルスケーティングイベント♪\nアリオ橋本のスケートリンクにマイメロディが遊びに来るよ♪\nクリスマスを楽しむスペシャルイベントを開催！\n\n
@@ -633,23 +765,6 @@ SUMMARY:KT\,MM もうすぐクリスマス
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20210131
-DTEND;VALUE=DATE:20210201
-UID:32nsb123jl6s2a0ml1jdtm9sqg@google.com
-CREATED:20201115T124916Z
-DESCRIPTION:参加対象となる方\n● 保育の仕事に興味のある方\n● 保育資格をお持ちの方\n● 保育士資格取得を目指している方\n● 復職
- を考えている方\n\nhttps://www.hoiku-festa2021.jp/wp-content/uploads/2020/10/3df34f
- 76afd02944e92c58ed27fd9394.pdf\nhttps://www.hoiku-festa2021.jp/\n\n保育のおしごと応
- 援フェスタ2021 in TOKYO\n2021/1/31(日) 10:00-16:00\n東京国際フォーラム ホールB7\n\n当日は、ハローキティ
- とホイクマ・ホイクマンがあそびにくる
-LAST-MODIFIED:20201115T225222Z
-LOCATION:東京国際フォーラム ホールB\, 日本、〒100-0005 東京都千代田区丸の内３丁目５−１
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:KT 保育のおしごと応援フェスタ
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20201219T000900Z
 DTEND:20201219T024800Z
 UID:7lreveusnqnedjnj9uouras1v3@google.com
@@ -668,9 +783,6 @@ BEGIN:VEVENT
 DTSTART:20201114T064500Z
 DTEND:20201114T071500Z
 UID:4uoifnkc4o880ibsdobhc6ov45@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
-  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
- gle.com
 CREATED:20201112T123205Z
 DESCRIPTION:https://www.alvark-tokyo.jp/lp/game_20201114_20201115/ \nhttps:
  //prtimes.jp/main/html/rd/p/000000113.000035222.html\n\n11月14日(土)・15日(日)\nア
@@ -1280,9 +1392,6 @@ DTSTART;VALUE=DATE:20200724
 DTEND;VALUE=DATE:20200725
 RRULE:FREQ=DAILY;WKST=SU;COUNT=2
 UID:3c8e1ik5k6f7d7mrc93pdpd93h@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
-  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
- gle.com
 CREATED:20200622T142540Z
 DESCRIPTION:7月22日、ラグーナプールパーティ2020の運営で提携しております「CLUB　SANGO」を7月12日にご利用されたお客様が新
  型コロナウィルスに感染していることが判明しました。つきましてはお客様と従業員の安全、安心を第一に考え、誠に残念ではございますが、7月24日、25日に開
@@ -1332,9 +1441,6 @@ BEGIN:VEVENT
 DTSTART:20200724T043500Z
 DTEND:20200724T050500Z
 UID:25kck44g10njilhd0u9at8tssp@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
-  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
- gle.com
 CREATED:20200723T122600Z
 DESCRIPTION:https://www.facebook.com/hellokittytw/posts/4059944150747600\n\
  n7-ELEVEN X Sanrio三麗鷗聯名店 見面會活動\n\n週五 7/24\n12:35-13:05 欣漢華門市(台北市萬華區漢口街二段73號
@@ -1419,9 +1525,6 @@ BEGIN:VEVENT
 DTSTART:20200725T063000Z
 DTEND:20200725T065000Z
 UID:6dc294bphln85ou0ukckbvltt3@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
-  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
- gle.com
 CREATED:20200717T055546Z
 DESCRIPTION:https://www.facebook.com/SanrioGiftGate.tw/posts/12170528219795
  41\n\n肖像大賞謝票見面會\n\nCN 07-25 14:30-14:50 新竹巨城5樓\nPN 08-01 14:30-14:50 台中三越6樓
@@ -2594,9 +2697,6 @@ BEGIN:VEVENT
 DTSTART:20200229T200000Z
 DTEND:20200301T000000Z
 UID:4t7pnjq5ck4441t0upjboss7ih@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
-  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
- gle.com
 CREATED:20200227T093639Z
 DESCRIPTION:https://www.facebook.com/events/184555606168132/\nhttps://www.f
  acebook.com/Sanrio/posts/10157011118212816/\nhttps://www.facebook.com/Sanri
@@ -8283,9 +8383,6 @@ BEGIN:VEVENT
 DTSTART:20191003T173000Z
 DTEND:20191003T200000Z
 UID:40a54a9bun7e9fr7lf74anjd8t@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
-  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
- gle.com
 CREATED:20191003T115006Z
 DESCRIPTION:<a href="https://www.sanrio.com/blog_entries/hello-new-york-com
  ic-con-2019">https://www.sanrio.com/blog_entries/hello-new-york-comic-con-2
@@ -9683,9 +9780,6 @@ DTSTART;TZID=Asia/Tokyo:20190902T120000
 DTEND;TZID=Asia/Tokyo:20190902T152000
 RRULE:FREQ=DAILY;UNTIL=20190906T145959Z
 UID:64lurdb1m3l50fdgfco79nphto@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
-  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
- gle.com
 CREATED:20190830T042700Z
 DESCRIPTION:<br><a href="http://gatecity.jp/plaza/event/?ym=201909" id="ow1
  007" __is_owner="true">http://gatecity.jp/plaza/event/?ym=201909</a><br><br
@@ -12119,9 +12213,6 @@ BEGIN:VEVENT
 DTSTART:20190713T050000Z
 DTEND:20190713T080000Z
 UID:5rgek3utm8pkjtfcod2iqhmlpk@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
-  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
- gle.com
 CREATED:20190712T080626Z
 DESCRIPTION:\nhttp://www.jaba.or.jp/taikai/2019/toshitaikou/pdf/90.pdf\nhtt
  ps://mainichi.jp/ama-baseball/articles/20190710/k00/00m/050/277000c\n\n第90回
@@ -12805,9 +12896,6 @@ BEGIN:VEVENT
 DTSTART:20190823T230600Z
 DTEND:20190824T025100Z
 UID:68o5bnd548t3u1kiukm7k1k76t@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
-  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
- gle.com
 CREATED:20190624T064316Z
 DESCRIPTION:https://www.nta.co.jp/kokunai/chugoku/okayama/hellokittyharuka/
  \n\nハローキティと一緒に「ハローキティ はるか号」で行く倉敷\n2019-08-24\n\n08:06 大阪\n08:32 神戸\n09:34 姫
@@ -13341,9 +13429,6 @@ BEGIN:VEVENT
 DTSTART:20190525T180000Z
 DTEND:20190525T230000Z
 UID:74fovs7fq503ur4if3qv4oosfo@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
-  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
- gle.com
 CREATED:20190519T001814Z
 DESCRIPTION:https://www.facebook.com/Sanrio/posts/10156312948237816/\nhttps
  ://www.sanrio.com/pages/month-of-meh-jvp\n\nGudetama Appearance Times - Jap
@@ -13446,9 +13531,6 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20190608
 DTEND;VALUE=DATE:20190609
 UID:1n6t3qd71nkmqc972mf7psdgs5@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
-  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
- gle.com
 CREATED:20190519T003618Z
 DESCRIPTION:https://www.youtube.com/channel/UCyof-1Ko_jy2sOtivyTpc4Q/commun
  ity?lb=UgzLNXW2jBs8sOX2hiZ4AaABCQ\nhttps://www.facebook.com/hellokitty.japa
@@ -26133,9 +26215,6 @@ BEGIN:VEVENT
 DTSTART:20180610T070000Z
 DTEND:20180610T073000Z
 UID:24tngb8akjs6g9i1kj9jeardsq@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
-  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
- gle.com
 CREATED:20180608T001314Z
 DESCRIPTION:https://www.facebook.com/hellokittytw/posts/1990957814312921/\n
  https://www.facebook.com/permalink.php?story_fbid=2135656249987723&id=18925
@@ -29741,9 +29820,6 @@ BEGIN:VEVENT
 DTSTART:20180325T020000Z
 DTEND:20180325T072000Z
 UID:0reg335vq09414giiq21cfakms@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
-  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
- gle.com
 CREATED:20180309T072420Z
 DESCRIPTION:\nhttps://emifull.jp/event_news/event/2018/03/000951.html\n\n\n
  情熱 みやざきフェア\n3月25日（日） \nグリーンコート 10:30～17:00\nフローラルコート 9:00～16:30 \n\nハローキティ撮
@@ -30275,9 +30351,6 @@ BEGIN:VEVENT
 DTSTART:20180218T010000Z
 DTEND:20180218T083000Z
 UID:6jbmk6okvogg05jd08qhhh7eb2@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
-  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
- gle.com
 CREATED:20180202T124840Z
 DESCRIPTION:http://www.city.shinagawa.tokyo.jp/hp/menu000032000/hpg00003190
  7.htm\nhttps://www.instagram.com/p/BerMGValfxF/\n\n交流都市地方物産展\n平成30年2月15日（木）
@@ -32365,9 +32438,6 @@ BEGIN:VEVENT
 DTSTART:20171229T020000Z
 DTEND:20171229T070000Z
 UID:48ma5l1e2r47qs7032gr1rpb10@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
-  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
- gle.com
 CREATED:20171215T051442Z
 DESCRIPTION:<br><a href="https://www.google.com/url?q=https%3A%2F%2Fwww.san
  rio.co.jp%2Fnews%2Fcn-fuwafuwacinnamoroll-odakyu-machida-20171215%2F&amp\;s
@@ -32840,9 +32910,6 @@ BEGIN:VEVENT
 DTSTART:20171203T045000Z
 DTEND:20171203T074000Z
 UID:34nf8rc7c6talract0t10kvce4@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
-  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
- gle.com
 CREATED:20171128T072505Z
 DESCRIPTION:<br><a href="https://www.google.com/url?q=http%3A%2F%2Fwww.kanw
  acare-motto.com%2Fevent01.html&amp\;sa=D&amp\;usd=2&amp\;usg=AFQjCNFA2O9Dyt
@@ -32988,9 +33055,6 @@ BEGIN:VEVENT
 DTSTART:20171217T020000Z
 DTEND:20171217T053000Z
 UID:3qlu7un4gporauo8rltf9ti0dn@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
-  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
- gle.com
 CREATED:20171125T013536Z
 DESCRIPTION:<br><a href="https://www.google.com/url?q=https%3A%2F%2Fwww.kas
  hiikaen.com%2Fnews%2Farchives%2F52&amp\;sa=D&amp\;usd=2&amp\;usg=AFQjCNF5Pu
@@ -35762,9 +35826,6 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20171028
 DTEND;VALUE=DATE:20171030
 UID:5hi8gk0ipb18qqgu4onnu4800d@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
-  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
- gle.com
 CREATED:20170926T231934Z
 DESCRIPTION:https://maharaja-m.jp/events/saturday-night-fever-global-mix-20
  17-10-28/\nhttps://twitter.com/maharajaminami/status/912135063856340992\nht
@@ -35875,9 +35936,6 @@ DTSTART;TZID=Asia/Tokyo:20170923T120000
 DTEND;TZID=Asia/Tokyo:20170923T170000
 RRULE:FREQ=DAILY;COUNT=2
 UID:4pve834ap0ha2b9ritl4tgv71k@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
-  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
- gle.com
 CREATED:20170818T151159Z
 DESCRIPTION:https://prtimes.jp/main/html/rd/p/000000105.000009047.html\nhtt
  p://www.premiumoutlets.co.jp/rinku/pdf/time_schedule.pdf\nhttps://www.sanri
@@ -36166,9 +36224,6 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20170924
 DTEND;VALUE=DATE:20170925
 UID:0lss4icikjt69sr2pr0ltq54hk@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
-  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
- gle.com
 CREATED:20170915T073316Z
 DESCRIPTION:https://www.sanrio.co.jp/news/cn-shinagawa-kanko-20170915/\nhtt
  ps://www.facebook.com/1472831012790591/photos/a.1495759037164455.1073741828
@@ -36981,9 +37036,6 @@ BEGIN:VEVENT
 DTSTART:20170827T073000Z
 DTEND:20170827T093000Z
 UID:74cqu8q4ld1d69s8gf3iq4vtt4@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
-  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
- gle.com
 CREATED:20170827T114520Z
 DESCRIPTION:https://twitter.com/gochan_V/status/901006248765571072\n\n時間: ①
  16:30～ / ②18:00～ / ③時間未記載\n場所: 1階AIゴーちゃん前
@@ -37028,9 +37080,6 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20170903
 DTEND;VALUE=DATE:20170904
 UID:5cj2iitdv91h1lg9l6fsp4so39@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
-  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
- gle.com
 CREATED:20170826T064530Z
 DESCRIPTION:http://jra.jp/news/201708/082603.html\n\nウインズ道頓堀×サテライト大阪 コラボイベン
  ト\n9月3日（日曜）\n\nターフィーとハローキティがウインズ道頓堀にやってくる！\n1階コンコース\n時間未記載
@@ -37535,9 +37584,6 @@ DTSTART;TZID=Asia/Tokyo:20150801T193000
 DTEND;TZID=Asia/Tokyo:20150801T200000
 RRULE:FREQ=DAILY;UNTIL=20150802T103000Z
 UID:65kgt19sfjh9p316ft7j6ntotc@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
-  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
- gle.com
 CREATED:20150821T111602Z
 DESCRIPTION:http://www.tama-center.net/CMS/00002.html\n\n第35回落合夏祭盆踊り大会\n\n縁
  日・フードーカー 1000-2100\nサマーライブ 1100-1630\nフリマ&ハンドメイド 1000-1600\n踊り 1830-2030\n\
@@ -38427,9 +38473,6 @@ BEGIN:VEVENT
 DTSTART:20170813T053000Z
 DTEND:20170813T090000Z
 UID:2ft4e5ng9bokm8j4jr5f7aark7@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
-  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
- gle.com
 CREATED:20170804T134550Z
 DESCRIPTION:http://www.nitorimall.jp/miyazaki/events/page/1/#event-3910\n\n
  ハローキティ　じゃんけんパラダイス\nダイソー前駐車場　※雨天の場合:スポーツデポ前駐車場\n14:30～ 16:00～ 17:30～\n撮影会整理券
@@ -38465,9 +38508,6 @@ BEGIN:VEVENT
 DTSTART:20170726T031500Z
 DTEND:20170726T050000Z
 UID:364j1a1qecdapu56dfudpjg3qn@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
-  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
- gle.com
 CREATED:20170804T105633Z
 DESCRIPTION:https://twitter.com/gochan_V/status/889810331437944832\nhttps:/
  /twitter.com/gochan_V/status/890066556973178882\n\n場所: テレビ朝日 アトリウム1F AIゴーちゃ
@@ -38514,9 +38554,6 @@ BEGIN:VEVENT
 DTSTART:20170810T020000Z
 DTEND:20170810T063000Z
 UID:0ef72th0uj8iikgck0eb44nhg7@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
-  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
- gle.com
 CREATED:20170728T114656Z
 DESCRIPTION:ハローキティとブラウンがあそびにくるよ！\n\nhttps://www.sanrio.co.jp/news/event-gg-
  lalaport-tokyobay-20170810/\nhttps://prtimes.jp/main/html/rd/p/000000769.00
@@ -39755,9 +39792,6 @@ BEGIN:VEVENT
 DTSTART:20170304T060000Z
 DTEND:20170304T073000Z
 UID:cc6s7h4ug7lfgs8bqocenp00es@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
-  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
- gle.com
 CREATED:20170630T021151Z
 DESCRIPTION:https://www.facebook.com/sanriohongkong/photos/a.10150327674257
  985.435084.416168782984/10155317301227985/\n\n2017-03-04\n2pm\, 3pm\nAEON S
@@ -39936,9 +39970,6 @@ BEGIN:VEVENT
 DTSTART:20151212T083000Z
 DTEND:20151212T090000Z
 UID:9c4pn4kohieheurns8edtmd04g@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
-  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
- gle.com
 CREATED:20151214T170535Z
 DESCRIPTION:http://www.hakodatexmas.com/event.html\nhttp://www.jra.go.jp/ne
  ws/201511/112105.html\n\n2015 はこだてクリスマスファンタジー\n\nJRA函館競馬場 presents DREAM & 
@@ -40153,9 +40184,6 @@ BEGIN:VEVENT
 DTSTART:20170114T020000Z
 DTEND:20170114T064500Z
 UID:fhv5ivifjsc31giag84k554nl0@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
-  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
- gle.com
 CREATED:20170103T021527Z
 DESCRIPTION:http://www.jra.go.jp/news/201701nakayama/#cat02-event03\n\nミニステ
  ージ・写真撮影会\n\n会場: センタープラザ\n時間: ①11:00 ②13:00 ③ 15:00
@@ -40489,9 +40517,6 @@ BEGIN:VEVENT
 DTSTART:20160922T000000Z
 DTEND:20160922T080000Z
 UID:gprv0oqpsj15jjkhf64cdp103o@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
-  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
- gle.com
 CREATED:20160911T130832Z
 DESCRIPTION:http://www.jra.go.jp/news/201609/090901.html\n\n第48回愛馬の日\n9月22日
  (祝・木) 09:00-17:00\n\nターフィー＆ハローキティ グリーティング\n時間未記載
@@ -40790,9 +40815,6 @@ BEGIN:VEVENT
 DTSTART:20170521T000000Z
 DTEND:20170521T062000Z
 UID:9q23l860ss260k0pfkemunuaik@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
-  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
- gle.com
 CREATED:20170429T150803Z
 DESCRIPTION:http://www.jra.go.jp/news/201703-02kyoto/#sec02-07\n\n5月21日\n女の
  子が大好きなキャラが大集合！サンリオキャラクターグリーティング！\n時間 10：00～15：00頃 \n場所 陽だまり広場・緑の広場 \n出演 ターフ
@@ -40844,9 +40866,6 @@ DTSTART;VALUE=DATE:20170603
 DTEND;VALUE=DATE:20170604
 RRULE:FREQ=DAILY;UNTIL=20170604
 UID:11p0but89vlirqsguine8tk59o@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
-  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
- gle.com
 CREATED:20170425T141754Z
 DESCRIPTION:http://gotouchi-chara.jp/shirakawa2017/index.html\n\nご当地キャラこども夢
  フェスタ in しらかわ 2017
@@ -40976,9 +40995,6 @@ BEGIN:VEVENT
 DTSTART:20170617T093000Z
 DTEND:20170617T123000Z
 UID:5rq3mub6febirk1r8f6buimjj0@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
-  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
- gle.com
 CREATED:20170619T121007Z
 DESCRIPTION:事前応募による抽選60名\n\nhttps://form.ambassador.jp/get/pompompurin/amba
  ssador/event9\n\nポムバサダーイベント in ポムポムプリンカフェ梅田店\n2017年6月17日（土）18：00～受付　18：30スタ
@@ -41308,9 +41324,6 @@ DTSTART;TZID=Asia/Singapore:20160311T140000
 DTEND;TZID=Asia/Singapore:20160311T193000
 RRULE:FREQ=WEEKLY;UNTIL=20160320T060000Z;BYDAY=SU,MO,TU,TH,FR,SA
 UID:bgog41h489tvqchs0aap279ce4@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
-  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
- gle.com
 CREATED:20170611T135305Z
 DESCRIPTION:https://www.facebook.com/onekm/photos/a.261227457316007.47462.2
  10904005681686/809580375814043/\nhttp://singpromos.com/shopping-malls/unite
@@ -41692,9 +41705,6 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20170520
 DTEND;VALUE=DATE:20170521
 UID:6qui0o6mhl8rqlpph7ejos4cds@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
-  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
- gle.com
 CREATED:20170520T133458Z
 DESCRIPTION:http://ameblo.jp/miou-coffee-break/entry-12276421061.html\n\nフコ
  ク生命presentsのミニショー\nフコク生命浜松支社
@@ -42024,9 +42034,6 @@ BEGIN:VEVENT
 DTSTART:20170514T010000Z
 DTEND:20170514T065000Z
 UID:sq1dse1dr31f3pbg37ldcebp50@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
-  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
- gle.com
 CREATED:20170424T123146Z
 DESCRIPTION:http://www.toei-eigamura.com/event/detail/154\n\n品川紋次郎がやってくる！\n
  2017年5月14日(日)\n(1)10:00／(2)11:30／(3)13:30／(4)15:30 \n所要時間：約２０分\n江戸の町 ほか\n
@@ -44029,9 +44036,6 @@ BEGIN:VEVENT
 DTSTART:20170226T020000Z
 DTEND:20170226T090000Z
 UID:gttdn077k81mo99uah73kri19c@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
-  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
- gle.com
 CREATED:20170211T131044Z
 DESCRIPTION:http://www.sanrio.co.jp/news/event-cn-wagon-shibuya109-20170217
  /\n\nSHIBUYA109で『シナモロールわごん』ふわふわ体験イベント開催！\n会場 SHIBUYA109店頭イベントスペース（東京都渋谷区道玄坂
@@ -44523,9 +44527,6 @@ BEGIN:VEVENT
 DTSTART:20170128T013000Z
 DTEND:20170128T063000Z
 UID:usnl4lilkf70db126gg90pqgrs@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
-  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
- gle.com
 CREATED:20170202T074521Z
 DESCRIPTION:http://tamavc.jp/site/files/2017/8th_volufes.pdf\nhttp://tamavc
  .jp/site/article/%E3%80%8C%E7%AC%AC8%E5%9B%9E%E3%83%9C%E3%83%A9%E3%83%B3%E3
@@ -44669,9 +44670,6 @@ BEGIN:VEVENT
 DTSTART:20170128T100000Z
 DTEND:20170128T113000Z
 UID:bgc7mve9d0iteffkjdfdo7347s@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
-  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
- gle.com
 CREATED:20170129T093303Z
 DESCRIPTION:http://sva.jp/wnt/\nhttps://www.facebook.com/achimura0265/photo
  s/a.1823061561312588.1073741827.1813813115570766/1849783198640424/?type=3&t
@@ -44766,9 +44764,6 @@ DTSTART;TZID=Asia/Tokyo:20170205T110000
 DTEND;TZID=Asia/Tokyo:20170205T153000
 RRULE:FREQ=WEEKLY;COUNT=2;INTERVAL=2;BYDAY=SU
 UID:3jq4v7s4419l5asngse6dv25bg@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
-  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
- gle.com
 CREATED:20170115T081920Z
 DESCRIPTION:http://www.seibuen-yuuenchi.jp/event/index.html?category=e1\nht
  tps://twitter.com/ohtaket/status/820447335863857153\n\n2/5(日)、2/19(日)\n1100
@@ -45567,9 +45562,6 @@ BEGIN:VEVENT
 DTSTART:20161225T013000Z
 DTEND:20161225T043000Z
 UID:k0ogt8089pn45s2ir3kgkdqkro@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
-  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
- gle.com
 CREATED:20161216T061657Z
 DESCRIPTION:https://qs-mall.jp/minoh/event/?cmd=detail&evt_id=2234\nみのおキューズ
  モールに\nハローキティとマイメロディが遊びにくるよ！\nみんなでクリスマスのクイズに挑戦したり、ダンスを踊ったりして一緒に楽しもう！\n ショーの後
@@ -46219,9 +46211,6 @@ BEGIN:VEVENT
 DTSTART:20161127T020000Z
 DTEND:20161127T080000Z
 UID:50jcmic1ln14eopr6efnlp55qc@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
-  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
- gle.com
 CREATED:20161126T162336Z
 DESCRIPTION:http://asp.shufoo.net/c/2016/11/24/c/9479922713200/index.html?s
  hopId=4186&chirashiId=9479922713200\nhttp://ipqcache2.shufoo.net/c/2016/11/
@@ -47269,9 +47258,6 @@ BEGIN:VEVENT
 DTSTART:20161029T020000Z
 DTEND:20161029T073000Z
 UID:tamh8urbm18trg19snfvaav49g@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
-  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
- gle.com
 CREATED:20161027T125520Z
 DESCRIPTION:http://blog.itoyokado.co.jp/shop/222/event.html\n\nママへのごほうびフェスタ
  ５周年特別企画\nハローキティ写真撮影会\n\n１０月２９日（土）\n１．午前１１時～　２．午後４時～\nふれあい公園側入口内特設会場\n\n各回先着
@@ -47320,9 +47306,6 @@ BEGIN:VEVENT
 DTSTART:20161123T040000Z
 DTEND:20161123T063000Z
 UID:lb8uo7j33numek241aus3esrr0@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
-  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
- gle.com
 CREATED:20161018T031817Z
 DESCRIPTION:http://www.seibuen-yuuenchi.jp/event/index.html?category=e1\n\n
  ハローキティ＆マイメロディ＆ぼんぼんりぼんのミラクルパーティ\n11月23日（木・祝）\n13:00、15:00\nメルヘンタウンステージ\n
@@ -48430,9 +48413,6 @@ BEGIN:VEVENT
 DTSTART:20161001T020000Z
 DTEND:20161001T063000Z
 UID:djolu7jfp4e845t8rqfos24el0@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
-  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
- gle.com
 CREATED:20160924T155519Z
 DESCRIPTION:http://www.grand-tree.jp/web/event/admin_posts_10143.html\nhttp
  ://ameblo.jp/vega-seachan/entry-12204595909.html\nhttp://ameblo.jp/vega-sea
@@ -50162,9 +50142,6 @@ BEGIN:VEVENT
 DTSTART:20160827T020000Z
 DTEND:20160827T070000Z
 UID:q00p4mj9o5ejbp3djv0mvefcls@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
-  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
- gle.com
 CREATED:20160805T114322Z
 DESCRIPTION:リルリルフェアリル・りっぷとあそぼう！＆写真撮影会\n\nhttp://www.sanrio.co.jp/news/event
  -seibu-ikebukuro-20160827/\n\n会場: 西武池袋本店 6F（北A3）こども服特設会場\n開催時間: 11:00 / 14:
@@ -50320,9 +50297,6 @@ BEGIN:VEVENT
 DTSTART:20160816T023000Z
 DTEND:20160816T070000Z
 UID:2qkhb1ci4079fcqs2bm4muhg1c@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
-  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
- gle.com
 CREATED:20160803T124648Z
 DESCRIPTION:http://www.sanrio.co.jp/news/event-gg-hanyu-20160816/\n\nリルリルフェ
  アリル・りっぷとあそぼう！＆写真撮影会\n\n日程：2016/08/16 (火) \n場所：Sanrio Gift Gate イオンモール羽生店\n時
@@ -50359,9 +50333,6 @@ BEGIN:VEVENT
 DTSTART:20160828T023000Z
 DTEND:20160828T073000Z
 UID:85d1svkvh1t3k2vctg5gcm531k@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
-  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
- gle.com
 CREATED:20160802T114905Z
 DESCRIPTION:事前に抽選への応募が必要\n\nhttp://www.sunshine-sakae.jp/event/eve_655.html
  \n\nKIRIMIちゃん.バースデーパーティー\n\n日時 2016年8月28日(日) 11:30～／14:30～ （お選び頂きます）\n会場 SU
@@ -51886,9 +51857,6 @@ BEGIN:VEVENT
 DTSTART:20160605T020000Z
 DTEND:20160605T073000Z
 UID:d6kv76r9k50k4ketqu85hf0mu8@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
-  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
- gle.com
 CREATED:20160527T122839Z
 DESCRIPTION:http://www.sanrio.co.jp/news/event-skytree-town-soramachi-20160
  605/\n\n日程 2016/06/05 (日) \n時間 【1】11:00～【2】14:00～【3】16:00～\n場所 東京スカイツリータウン・
@@ -51904,9 +51872,6 @@ BEGIN:VEVENT
 DTSTART:20160528T020000Z
 DTEND:20160528T073000Z
 UID:gujhvnoq01jtbbo1av2t3e4u4s@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
-  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
- gle.com
 CREATED:20160525T112411Z
 DESCRIPTION:http://www.sanrio.co.jp/news/event-vivitix-sunshine-alpa-201605
  28/\n\nsanrio vivitix サンシャインシティアルパ店にアグレッシブ烈子が登場！\n\n日程 2016/05/28 (土) \n時間 
@@ -52101,9 +52066,6 @@ BEGIN:VEVENT
 DTSTART:20150809T020000Z
 DTEND:20150809T073000Z
 UID:sp5h8s8533n6p49h2kurh73s48@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
-  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
- gle.com
 CREATED:20150807T121146Z
 DESCRIPTION:http://makuharishintoshin-aeonmall.com/news/event/3047\n\nポムポムプ
  リンと写真撮影会\n\nファミリーモール　3F　サンリオギフトゲート店内\n時間：11:00／13:00／16:00\n\n当日1\,080円以上(税
@@ -52431,9 +52393,6 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20160428
 DTEND;VALUE=DATE:20160429
 UID:dclp6oddi2f72va3qg97go1bd4@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
-  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
- gle.com
 CREATED:20160428T105816Z
 DESCRIPTION:http://news.biglobe.ne.jp/entertainment/0428/ori_160428_8002702
  761.html\nhttp://www.asahi.com/and_w/interest/entertainment/CORI2070886.htm
@@ -52845,9 +52804,6 @@ BEGIN:VEVENT
 DTSTART:20160504T020000Z
 DTEND:20160504T053000Z
 UID:oqsn9j0hl5c4jkq625er91ojbg@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
-  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
- gle.com
 CREATED:20160410T103222Z
 DESCRIPTION:http://www.olinas.jp/info-event/sinamoroll/18745/\n\nシナモロールと遊ぼう
  !\n\n1100\, 1400\nモール1F正面広場 (雨天時はエントリーコート)
@@ -53252,9 +53208,6 @@ BEGIN:VEVENT
 DTSTART:20160505T020000Z
 DTEND:20160505T043000Z
 UID:c14t04ieoc471ngkli7i08mdh0@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
-  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
- gle.com
 CREATED:20160407T093543Z
 DESCRIPTION:http://prtimes.jp/main/html/rd/p/000000125.000002198.html\nhttp
  ://www.yomiuri.co.jp/adv/economy/release/detail/00199792.html\n\n各館 "推しキャラ"
@@ -53274,9 +53227,6 @@ BEGIN:VEVENT
 DTSTART:20160505T020000Z
 DTEND:20160505T063000Z
 UID:vi3opnaqp3ljcr0mtorggidq80@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
-  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
- gle.com
 CREATED:20160407T093642Z
 DESCRIPTION:http://prtimes.jp/main/html/rd/p/000000125.000002198.html\nhttp
  ://www.yomiuri.co.jp/adv/economy/release/detail/00199792.html\n\n各館 "推しキャラ"
@@ -54148,9 +54098,6 @@ BEGIN:VEVENT
 DTSTART:20160305T020000Z
 DTEND:20160305T082000Z
 UID:vlmgo77cdn8eduvg6bc32p9skc@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
-  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
- gle.com
 CREATED:20160225T173134Z
 DESCRIPTION:https://twitter.com/miikun18/status/702506942900473858\nhttps:/
  /sgs109.com/n/1353\n\nポムポムプリン来店イベント\n\n1100-1120\, 1300-1320\, 1500-1520\, 
@@ -54436,9 +54383,6 @@ BEGIN:VEVENT
 DTSTART:20160214T000000Z
 DTEND:20160214T090000Z
 UID:cgfho3i02tlni97bjtrg12ob7c@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
-  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
- gle.com
 CREATED:20150909T095018Z
 DESCRIPTION:http://hellokittyrun.jp/tokyo/\nhttps://www.facebook.com/hellok
  ittyrunjapan/posts/1657164747900597\n\n受付 9:00～16:00\n開会式 9:30～\n5キロ・RUN 10
@@ -54864,9 +54808,6 @@ BEGIN:VEVENT
 DTSTART:20160103T020000Z
 DTEND:20160103T070000Z
 UID:sq8ba6323o73uprati4b0htu10@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
-  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
- gle.com
 CREATED:20160112T153501Z
 DESCRIPTION:https://www.facebook.com/hanahaku.tenjijyo/posts/99247728748841
  2\nhttps://www.facebook.com/hanahaku.tenjijyo/posts/997670126969128\nhttp:/
@@ -55077,9 +55018,6 @@ BEGIN:VEVENT
 DTSTART:20151115T070000Z
 DTEND:20151115T073000Z
 UID:n0atrg38gucvibpa8cn4er4kfo@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
-  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
- gle.com
 CREATED:20151219T151150Z
 DESCRIPTION:http://www.tmtp.com.hk/past_promotion_en.asp\nhttp://www.tmtp.c
  om.hk/images/promotion/p_latest_319.jpg\nhttp://www.tmtp.com.hk/photo_galle
@@ -55826,9 +55764,6 @@ BEGIN:VEVENT
 DTSTART:20151215T030000Z
 DTEND:20151215T055000Z
 UID:92j45v9n4lv5qel89mobubkrjg@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
-  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
- gle.com
 CREATED:20151211T151512Z
 DESCRIPTION:http://www.sanrio.co.jp/news/event-chararyman-20151211/\n\nサンリオ
  キャラリーマン総選挙投票ありがとうイベント\n\n『サンリオキャラリーマン総選挙応援アンバサダー』としてゲストにダチョウ倶楽部を迎える\n食べキャラ総
@@ -56098,9 +56033,6 @@ BEGIN:VEVENT
 DTSTART:20160103T030000Z
 DTEND:20160103T073000Z
 UID:q3foegm7qeq0ap3a9c2v769rf4@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
-  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
- gle.com
 CREATED:20151130T165848Z
 DESCRIPTION:http://www.seibuen-yuuenchi.jp/event/index.html?category=e1\n\n
  ハローキティとお餅つき\n1月3日（日）12:00\n\nバースデーセレブレーション\n1月3日（日）14:00\n1月17日（日）13:00\n\n
@@ -56293,9 +56225,6 @@ BEGIN:VEVENT
 DTSTART:20151129T020000Z
 DTEND:20151129T073000Z
 UID:hmidsjoha8kcmrcip6jqcau8kc@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
-  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
- gle.com
 CREATED:20151119T122522Z
 DESCRIPTION:http://tamadairanomori-aeonmall.com/shop/detail/54#1stanniversa
  ry\n\nオプティックパリミキOPEN1周年イベント\nハローキティと撮影会\n\n開催日程： 11/29（日）\n開催時間： （1）11:00～（
@@ -56873,9 +56802,6 @@ BEGIN:VEVENT
 DTSTART:20151103T030000Z
 DTEND:20151103T073000Z
 UID:s68gb91u214f8jplqlr2elibek@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
-  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
- gle.com
 CREATED:20151029T131018Z
 DESCRIPTION:http://www.seibuen-yuuenchi.jp/event/index.html?category=e1\n\n
  11月3日（火・祝）、15日（日）、29日（日）\n12:00 ハローキティとハッピーグリーティング\n14:00 バースデーセレブレーション\n16
@@ -56997,9 +56923,6 @@ BEGIN:VEVENT
 DTSTART:20160207T000000Z
 DTEND:20160207T090000Z
 UID:vb4q9gg14mp5bekmlbe53m1uig@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
-  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
- gle.com
 CREATED:20150909T094708Z
 DESCRIPTION:http://hellokittyrun.jp/osaka/\nhttps://www.facebook.com/hellok
  ittyrunjapan/posts/1657164747900597\n\n受付 9:00～16:00\n開会式 9:30～\n5キロ・RUN 10
@@ -57237,9 +57160,6 @@ DTSTART;TZID=Asia/Tokyo:20151024T100000
 DTEND;TZID=Asia/Tokyo:20151024T170000
 RRULE:FREQ=DAILY;UNTIL=20151025T010000Z
 UID:mc87g502epcht657ua52aqaqe8@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
-  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
- gle.com
 CREATED:20151018T153438Z
 DESCRIPTION:http://tamajack.com/event.html\nhttp://tamajack.com/images/1508
  02/map.pdf\n\nハローキティのグリーティング\nパルテノン多摩大階段付近\n時間不明\n
@@ -57268,9 +57188,6 @@ BEGIN:VEVENT
 DTSTART:20151017T060000Z
 DTEND:20151017T103000Z
 UID:6qi45afu30icfibk3puu69n2mk@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
-  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
- gle.com
 CREATED:20151005T163655Z
 DESCRIPTION:http://www.sanrio.co.jp/news/event-dj-kt-20151017/\nhttp://sanr
  io.cocolog-nifty.com/shop/2015/10/post-a3e7-1.html\n\n会場 CLUB KT SHIBUYA SH
@@ -57404,9 +57321,6 @@ BEGIN:VEVENT
 DTSTART:20151004T020000Z
 DTEND:20151004T053000Z
 UID:h0t5gs8k88b36107tbau1huncg@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
-  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
- gle.com
 CREATED:20150920T003612Z
 DESCRIPTION:http://www.nnr.co.jp/kashiikaen/info/detail.php?&no=3296\nhttps
  ://twitter.com/mm_wapi/status/650493839065518080\n\n10/4（日）マイメロディのハッピーキャラバン
@@ -57787,9 +57701,6 @@ BEGIN:VEVENT
 DTSTART:20150919T020000Z
 DTEND:20150919T053000Z
 UID:0g5227rebvj9q2tp1c2b70lvn4@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
-  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
- gle.com
 CREATED:20150918T123923Z
 DESCRIPTION:http://www.aeon.jp/sc/nagoyadomemae/event/#e56150611111653\n\nぐ
  でたまのぐでーてぃんぐ!\n\n日程：9月19日(土)\n時間：(1)11:00～ (2)14:00～\n場所：1F セントラルコート\n\n終了後、
@@ -57837,9 +57748,6 @@ BEGIN:VEVENT
 DTSTART:20150926T030000Z
 DTEND:20150926T073000Z
 UID:slo7vvn0lftuumcd19u7bg87b0@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
-  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
- gle.com
 CREATED:20150918T063053Z
 DESCRIPTION:http://www.sanrio.co.jp/news/sanriodays-mm-tobu-ikebukuro-20150
  925/\n\nSanrio Days feat. My Melody in 東武百貨店池袋店\n会場 東武百貨店池袋店　8F催事場 \n開催日 9/
@@ -58076,9 +57984,6 @@ BEGIN:VEVENT
 DTSTART:20150909T090000Z
 DTEND:20150909T093000Z
 UID:8482v06bf43aacnhlts52f6sfc@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
-  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
- gle.com
 CREATED:20150913T090539Z
 DESCRIPTION:http://avex.jp/dream5/live/detail.php?id=1033570\n\nマイメロディ・しげもん
  ＆重本ことり「トークショー＆サイン会」\n日時：平成２７年９月９日(水) 午後６時～\n会場：アリオ北砂店 １階 リーフコート
@@ -58449,9 +58354,6 @@ DTSTART;TZID=Asia/Tokyo:20150920T083000
 DTEND;TZID=Asia/Tokyo:20150920T163000
 RRULE:FREQ=DAILY;UNTIL=20150921T233000Z
 UID:aosglk6cipc38e8a54tukljv28@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
-  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
- gle.com
 CREATED:20150827T030535Z
 DESCRIPTION:http://www.nasuhai.co.jp/event/2015mymelody.html\n\n9月20日・21日・2
  2日\n営業時間 8:30～17:30\n1回目 8:30～9:00 入園口\n2回目 11:30～12:00 イベント館前\n3回目 13:30～1
@@ -58498,9 +58400,6 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20150822
 DTEND;VALUE=DATE:20150823
 UID:p1pvrbgeo6gf5jspu6dhtll8to@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
-  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
- gle.com
 CREATED:20150823T055055Z
 DESCRIPTION:https://twitter.com/atlrs_official/status/635012503001370624\n\
  nキックオフは1830ごろ
@@ -58515,8 +58414,6 @@ BEGIN:VEVENT
 DTSTART:20150822T083000Z
 DTEND:20150822T173000Z
 UID:o33f9t5gajb7jc9omm0a102d44@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=SE;X-N
- UM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.google.com
 CREATED:20150807T104136Z
 DESCRIPTION:http://www.brentcross.co.uk/events/hello-kitty-summer-of-kindne
  ss\nhttp://www.eventbrite.com/e/meet-hello-kitty-at-brent-cross-this-summer
@@ -59047,9 +58944,6 @@ DTSTART;TZID=Europe/Belgrade:20150812T124000
 DTEND;TZID=Europe/Belgrade:20150812T192000
 RRULE:FREQ=DAILY;UNTIL=20150816T104000Z
 UID:s8iq8to9ad1mraev48vd8bun08@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
-  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
- gle.com
 CREATED:20150812T130343Z
 DESCRIPTION:https://www.expo2015.jp/about/eventarea/\nのページで8月を選び\nDiscover 
  the Wonders of Japan\n観光庁／国際観光振興機構（JNTO）\n2015.8.12～8.16\nを選択\n\nhttps://ww
@@ -59083,9 +58977,6 @@ BEGIN:VEVENT
 DTSTART:20150808T040000Z
 DTEND:20150808T073000Z
 UID:arcr1fqtrdbqtn01k8nbbkv4v0@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
-  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
- gle.com
 CREATED:20150807T113700Z
 DESCRIPTION:http://pride-fish.jp/sea2015/index.html\n\n丸ビル「家族と海を味わう、学ぶ with
   PRIDE FISH」にKIRIMIちゃん.がやってくる！\n\nKIRIMIちゃん.のクイズ大会&ミニショー\n13:00〜13:30／14:30
@@ -59257,9 +59148,6 @@ BEGIN:VEVENT
 DTSTART:20150815T010000Z
 DTEND:20150815T050000Z
 UID:qgjhnpag45o9bmqbicn5mjegrk@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
-  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
- gle.com
 CREATED:20150808T111259Z
 DESCRIPTION:KT\,DN\,MM\,XO\,KR\,PN\,CO\,TS\n\nhttp://www.sanrio.com/hkfesti
  val/\nhttp://www.orleansarena.com/event-calendar/hellokitty
@@ -59455,9 +59343,6 @@ BEGIN:VEVENT
 DTSTART:20150809T020000Z
 DTEND:20150809T063000Z
 UID:957mtld0dree5tmuufujv930ds@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
-  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
- gle.com
 CREATED:20150807T213209Z
 DESCRIPTION:http://emifull.jp/event_news/pickup_event/2015/08/037825.html\n
  \n①１１：００～ ②１３：００～ ③１５：００～ （各回先着５０組限定）\nエミモール 1F フローラルコート\n\nご参加整理券を９：００～1Ｆエ
@@ -59473,9 +59358,6 @@ BEGIN:VEVENT
 DTSTART:20150808T020000Z
 DTEND:20150808T063000Z
 UID:j2q7vp6j74ios66a333oe3ssb0@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
-  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
- gle.com
 CREATED:20150807T212837Z
 DESCRIPTION:http://www.i-rekihaku.jp/event/2015/kitty/index.html\n\n日時： 8月8
  日（土）\n（1）11:00～11:30、（2）13:00～13:30、（3）15:00～15:30\n〈各回先着300名〉整理券配布あり\n場所： 
