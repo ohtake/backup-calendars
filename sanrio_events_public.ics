@@ -384,6 +384,2338 @@ RRULE:FREQ=YEARLY;BYMONTH=9;BYDAY=1SU
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Jakarta:20200418T150000
+DTEND;TZID=Asia/Jakarta:20200418T183000
+RRULE:FREQ=WEEKLY;WKST=SU;COUNT=8;BYDAY=SA,SU
+UID:7tvntm7ngof3p5vogjqgcr706e@google.com
+CREATED:20200220T180142Z
+DESCRIPTION:<br>https://www.instagram.com/p/B-Lt3UDlfwH/<br><br>Due to circ
+ umstance of COVID-19\, SANRIO Playhouse a t Lenmarc Mall will be temporaril
+ y colosed until further notice<br><a href="https://www.instagram.com/p/B8is
+ GJ3hmCS/" id="ow2312" __is_owner="true">https://www.instagram.com/p/B8isGJ3
+ hmCS/</a><br><br>SANRIO CHARACTERS PLAYHOUSE<br>14 February 2020 - 10 May 2
+ 020<br>2nd Floor Atrium<br><br>MM\, XO<br>3pm\, 6pm<br>2020-02-21 Sat (←たぶん
+ 22日の間違い)<br>2020-02-22 Sun (←たぶん23日の間違い)<br>2020-02-29 Sat<br>2020-03-01 Su
+ n<br>2020-03-21 Sat<br>2020-03-22 Sun<br>2020-03-28 Sat<br>2020-03-29 Sun<b
+ r><br>KT\, CN<br>3pm\, 6pm<br>2020-04-18 Sat<br>2020-04-19 Sun<br>2020-04-2
+ 5 Sat<br>2020-04-26 Sun<br>2020-05-02 Sat<br>2020-05-03 Sun<br>2020-05-09 S
+ at<br>2020-05-10 Sun
+LAST-MODIFIED:20200328T145646Z
+LOCATION:Atrium\, Jalan Senen Raya\, RT.9/RW.1\, Senen\, Kec. Senen\, Kota 
+ Jakarta Pusat\, Daerah Khusus Ibukota Jakarta 10410\, Indonesia
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(中止) KT\,CN Sanrio Characters Playhouse
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Jakarta:20200328T150000
+DTEND;TZID=Asia/Jakarta:20200328T183000
+RRULE:FREQ=WEEKLY;WKST=SU;COUNT=2;BYDAY=SA,SU
+UID:5qepku6o7nrthcc53d1ggvr3mm@google.com
+CREATED:20200328T145555Z
+DESCRIPTION:\nhttps://www.instagram.com/p/B-Lt3UDlfwH/\n\nDue to circumstan
+ ce of COVID-19\, SANRIO Playhouse a t Lenmarc Mall will be temporarily clos
+ ed until further notice\nhttps://www.instagram.com/p/B8isGJ3hmCS/\n\nSANRIO
+  CHARACTERS PLAYHOUSE\n14 February 2020 - 10 May 2020\n2nd Floor Atrium\n\n
+ MM\, XO\n3pm\, 6pm\n2020-02-21 Sat (←たぶん22日の間違い)\n2020-02-22 Sun (←たぶん23日の間
+ 違い)\n2020-02-29 Sat\n2020-03-01 Sun\n2020-03-21 Sat\n2020-03-22 Sun\n2020-0
+ 3-28 Sat\n2020-03-29 Sun\n\nKT\, CN\n3pm\, 6pm\n2020-04-18 Sat\n2020-04-19 
+ Sun\n2020-04-25 Sat\n2020-04-26 Sun\n2020-05-02 Sat\n2020-05-03 Sun\n2020-0
+ 5-09 Sat\n2020-05-10 Sun
+LAST-MODIFIED:20200328T145555Z
+LOCATION:Atrium\, Jalan Senen Raya\, RT.9/RW.1\, Senen\, Kec. Senen\, Kota 
+ Jakarta Pusat\, Daerah Khusus Ibukota Jakarta 10410\, Indonesia
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(中止) MM\,XO Sanrio Characters Playhouse
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Jakarta:20200321T150000
+DTEND;TZID=Asia/Jakarta:20200321T183000
+RRULE:FREQ=WEEKLY;WKST=SU;COUNT=2;BYDAY=SA,SU
+UID:35fb5895krodjjioa1d4atqp72@google.com
+CREATED:20200220T180057Z
+DESCRIPTION:https://www.instagram.com/p/B8isGJ3hmCS/\n\nSANRIO CHARACTERS P
+ LAYHOUSE\n14 February 2020 - 10 May 2020\n2nd Floor Atrium\n\nMM\, XO\n3pm\
+ , 6pm\n2020-02-21 Sat (←たぶん22日の間違い)\n2020-02-22 Sun (←たぶん23日の間違い)\n2020-02-
+ 29 Sat\n2020-03-01 Sun\n2020-03-21 Sat\n2020-03-22 Sun\n2020-03-28 Sat\n202
+ 0-03-29 Sun\n\nKT\, CN\n3pm\, 6pm\n2020-04-18 Sat\n2020-04-19 Sun\n2020-04-
+ 25 Sat\n2020-04-26 Sun\n2020-05-02 Sat\n2020-05-03 Sun\n2020-05-09 Sat\n202
+ 0-05-10 Sun
+LAST-MODIFIED:20200328T145515Z
+LOCATION:Atrium\, Jalan Senen Raya\, RT.9/RW.1\, Senen\, Kec. Senen\, Kota 
+ Jakarta Pusat\, Daerah Khusus Ibukota Jakarta 10410\, Indonesia
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MM\,XO Sanrio Characters Playhouse
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Jakarta:20200222T150000
+DTEND;TZID=Asia/Jakarta:20200222T183000
+RRULE:FREQ=WEEKLY;WKST=SU;COUNT=4;BYDAY=SA,SU
+UID:6anrih8e1778kubaje2f00pod6@google.com
+CREATED:20200220T180014Z
+DESCRIPTION:https://www.instagram.com/p/B8isGJ3hmCS/\n\nSANRIO CHARACTERS P
+ LAYHOUSE\n14 February 2020 - 10 May 2020\n2nd Floor Atrium\n\nMM\, XO\n3pm\
+ , 6pm\n2020-02-21 Sat (←たぶん22日の間違い)\n2020-02-22 Sun (←たぶん23日の間違い)\n2020-02-
+ 29 Sat\n2020-03-01 Sun\n2020-03-21 Sat\n2020-03-22 Sun\n2020-03-28 Sat\n202
+ 0-03-29 Sun\n\nKT\, CN\n3pm\, 6pm\n2020-04-18 Sat\n2020-04-19 Sun\n2020-04-
+ 25 Sat\n2020-04-26 Sun\n2020-05-02 Sat\n2020-05-03 Sun\n2020-05-09 Sat\n202
+ 0-05-10 Sun
+LAST-MODIFIED:20200328T145451Z
+LOCATION:Atrium\, Jalan Senen Raya\, RT.9/RW.1\, Senen\, Kec. Senen\, Kota 
+ Jakarta Pusat\, Daerah Khusus Ibukota Jakarta 10410\, Indonesia
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:MM\,XO Sanrio Characters Playhouse
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20191012
+DTEND;VALUE=DATE:20191014
+UID:7dmkrok8g2euqouoa9fpppmiui@google.com
+CREATED:20190827T165406Z
+DESCRIPTION:<br>20歳以上の女性限定<br>https://twitter.com/u_harada/status/118217485
+ 8525855744<br>https://twitter.com/u_harada/status/1182218881890258945<br><b
+ r>台風19号により2020年3月28日に延期<br><br><a href="http://tipsy.chu.jp/sche/2019/1012.
+ html">http://tipsy.chu.jp/sche/2019/1012.html</a><br><br>TIPSY-東京-<br>2019.
+  10. 12 SAT<br>23:00-5:00<br><br>DJ Hello Kitty
+LAST-MODIFIED:20200325T214057Z
+LOCATION:ageha\, 2-chōme-2-10 Shinkiba\, Koto City\, Tōkyō-to 136-0082\, Ja
+ pan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(延期) KT TIPSY 東京
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201024T070000Z
+DTEND:20201024T113000Z
+UID:5491b8mqgr6259k29rmrle2u0j@google.com
+CREATED:20200325T213849Z
+DESCRIPTION:<a href="http://mmtsrun.com/tp/">http://mmtsrun.com/tp/</a><br>
+ (1)台北場<br>2020年6月13日 星期六 15:00-19:30<br>永和綠寶石河濱公園 (暫定)&nbsp\;&nbsp\;<br><br
+ ><a href="http://mmtsrun.com/">http://mmtsrun.com/</a>&nbsp\;&nbsp\;<br>(2)
+ 台中場<br>2020年10月24日 星期六 15:00-19:30<br>台中<br><br><a href="https://www.facebo
+ ok.com/113600393363571/posts/219135599476716/">https://www.facebook.com/113
+ 600393363571/posts/219135599476716/</a>&nbsp\;<br>活動延期&nbsp\;&nbsp\;<br><br
+ ><a href="http://mmtsrun.com/">http://mmtsrun.com/</a><br><a href="https://
+ www.facebook.com/hellokittytw/posts/3007630855978940/">https://www.facebook
+ .com/hellokittytw/posts/3007630855978940/</a><br>美樂蒂&amp\;雙星仙子 45週年 經典星空夜跑<
+ br>2020年3月28日 星期六 16:00-19:30<br>台北市大佳河濱公園（暫定，實際可使用地點需待台北市政府審核後確認）&nbsp\;&n
+ bsp\;&nbsp\;&nbsp\;
+LAST-MODIFIED:20200325T213849Z
+LOCATION:台中\, 台湾 台中 北区 台中
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MM\,TS\,KT 經典星空夜跑
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200613T070000Z
+DTEND:20200613T113000Z
+UID:2psd51uk8a1l015oc1nqgunpoi@google.com
+CREATED:20200305T124647Z
+DESCRIPTION:<a href="http://mmtsrun.com/tp/">http://mmtsrun.com/tp/</a><br>
+ (1)台北場<br>2020年6月13日 星期六 15:00-19:30<br>永和綠寶石河濱公園 (暫定)&nbsp\;&nbsp\;<br><br
+ ><a href="http://mmtsrun.com/">http://mmtsrun.com/</a>&nbsp\;&nbsp\;<br>(2)
+ 台中場<br>2020年10月24日 星期六 15:00-19:30<br>台中<br><br><a href="https://www.facebo
+ ok.com/113600393363571/posts/219135599476716/">https://www.facebook.com/113
+ 600393363571/posts/219135599476716/</a>&nbsp\;<br>活動延期&nbsp\;&nbsp\;<br><br
+ ><a href="http://mmtsrun.com/">http://mmtsrun.com/</a><br><a href="https://
+ www.facebook.com/hellokittytw/posts/3007630855978940/">https://www.facebook
+ .com/hellokittytw/posts/3007630855978940/</a><br>美樂蒂&amp\;雙星仙子 45週年 經典星空夜跑<
+ br>2020年3月28日 星期六 16:00-19:30<br>台北市大佳河濱公園（暫定，實際可使用地點需待台北市政府審核後確認）&nbsp\;&n
+ bsp\;
+LAST-MODIFIED:20200325T213604Z
+LOCATION:永和緑宝石緑地\, 234 台湾 新北市 永和区
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MM\,TS\,KT 經典星空夜跑
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200819
+DTEND;VALUE=DATE:20200820
+UID:5g6pifdladbavab39e2dkcuv3c@google.com
+CREATED:20200324T053024Z
+DESCRIPTION:新型コロナウィルス感染症の拡大を防ぐという観点から8月19日（水）に延期<br>KT\,DN\,MM\,XO\,PN\,CN<
+ br><br><a href="https://www.qab.co.jp/events/sanrio2020/">https://www.qab.c
+ o.jp/events/sanrio2020/</a>&nbsp\;&nbsp\;<br><a href="https://www.okashigot
+ en.co.jp/news/10284/">https://www.okashigoten.co.jp/news/10284/</a>&nbsp\;&
+ nbsp\;<br><br>QAB開局25周年記念<br>サンリオファミリーミュージカル ピューロマスケティア ～3人のやさしい銃士たち～<br>20
+ 20年4月5日（日）<br>沖縄コンベンションセンター劇場棟<br>【午前の部】開場10:30 / 開演11:00<br>【午後の部】開場13:30 
+ / 開演14:00
+LAST-MODIFIED:20200325T011016Z
+LOCATION:Theater OCC- Conventional Center\, 4-chōme-3-1 Mashiki\, Ginowan-s
+ hi\, Okinawa 901-2224\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ピューロマスケティア
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200405T020000Z
+DTEND:20200405T063000Z
+UID:6uag631fp0r02ii9go1jujjps3@google.com
+CREATED:20200125T132757Z
+DESCRIPTION:<br>新型コロナウィルス感染症の拡大を防ぐという観点から8月19日（水）に延期<br>KT\,DN\,MM\,XO\,PN\
+ ,CN<br><br><a href="https://www.qab.co.jp/sanrio2020/">https://www.qab.co.j
+ p/sanrio2020/</a><br><a href="https://www.okashigoten.co.jp/news/10284/" id
+ ="ow720" __is_owner="true">https://www.okashigoten.co.jp/news/10284/</a>&nb
+ sp\;&nbsp\;<br><br>QAB開局25周年記念<br>サンリオファミリーミュージカル ピューロマスケティア ～3人のやさしい銃士たち～<
+ br>2020年4月5日（日）<br>沖縄コンベンションセンター劇場棟<br>【午前の部】開場10:30 / 開演11:00<br>【午後の部】開場1
+ 3:30 / 開演14:00
+LAST-MODIFIED:20200324T052954Z
+LOCATION:Theater OCC- Conventional Center\, 4-chōme-3-1 Mashiki\, Ginowan-s
+ hi\, Okinawa 901-2224\, Japan
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:(延期) ピューロマスケティア
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200322T020000Z
+DTEND:20200322T063000Z
+UID:3rjf7rmg8vausqguircuctm439@google.com
+CREATED:20200227T093927Z
+DESCRIPTION:https://www.seibu-leisure.co.jp/event/20520/index.html\n\n3月1日（
+ 日）、8日（日）、22日（日）\n11:00～ マイメロディとハッピーグリーティング\n13:00～ 3月バースデーセレブレーション\n15:00～ 
+ マイメロディのプリンセスアカデミー
+LAST-MODIFIED:20200324T052554Z
+LOCATION:Seibuen Amusement Park\, 2964 Yamaguchi\, Tokorozawa\, Saitama 359
+ -1145\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(中止) MM\,KT 西武園ゆうえんち
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200329T040000Z
+DTEND:20200329T073000Z
+UID:2svvi0hcbrpptg96jas4gbpmdp@google.com
+CREATED:20200207T135414Z
+DESCRIPTION:<br>3月29日（日）に有隣堂セレオ八王子店にて開催を予定しておりました『シナモロール 2020～2021年 卓上スクールカ
+ レンダー』発売記念イベント「シナモンとハイタッチ！」ですが、現在発生している新型コロナウイルス感染症拡大防止のため、お客様をはじめ関係する皆様の安全を
+ 考慮し、開催日を延期させていただきます。&nbsp\;&nbsp\;<br><br><a href="https://cinnamoroll-offi
+ cialfanclub.com/contents/293645" id="ow869" __is_owner="true">https://cinna
+ moroll-officialfanclub.com/contents/293645</a><br><a href="https://www.sanr
+ io.co.jp/wp-content/uploads/2020/02/20200206.pdf">https://www.sanrio.co.jp/
+ wp-content/uploads/2020/02/20200206.pdf</a><br><a href="https://prtimes.jp/
+ main/html/rd/p/000000184.000037629.html">https://prtimes.jp/main/html/rd/p/
+ 000000184.000037629.html</a>&nbsp\;&nbsp\;<br><br>シナモロール 2020～2021年 卓上スクールカ
+ レンダー発売記念書店イベント<br><br><a href="https://www.hmv.co.jp/news/article/200130103
+ 1/">https://www.hmv.co.jp/news/article/2001301031/</a><br>3/6（金）　19時～　東京都内某
+ 所 ※会場は当選者のみにお知らせ<br><br><a href="https://www.yaesu-book.co.jp/events/other/
+ 17800/">https://www.yaesu-book.co.jp/events/other/17800/</a><br>3/22（日）　13：
+ 00～/14：30～/16：00～　八重洲ブックセンター　八重洲本店<br><br><a href="https://www.yurindo.co.j
+ p/tokyo-hachioji/3012">https://www.yurindo.co.jp/tokyo-hachioji/3012</a><br
+ >3/29（日）　13：00～/14：30～/16：00～　有隣堂　セレオ八王子店
+LAST-MODIFIED:20200319T061140Z
+LOCATION:有隣堂 セレオ八王子店\, Japan\, 〒192-0083 Tōkyō-to\, Hachioji\, Asahichō\, 1
+ −１ セレオ八王子北館 8F
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(延期) CN 卓上スクールカレンダー
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200322T170000Z
+DTEND:20200322T190000Z
+UID:6qjaccnpffmat7goss0v3d5ten@google.com
+CREATED:20200306T130420Z
+DESCRIPTION:<br>In response to the widespread outbreak\, Macy’s\, Inc. anno
+ unced that it will temporarily close all stores. As a result\, all in-store
+  Special Events will be canceled until further notice. This includes the He
+ llo Kitty appearance and event on Sunday\, March 22&nbsp\;<br><br><a href="
+ https://www.facebook.com/events/885996858525616/" id="ow421" __is_owner="tr
+ ue">https://www.facebook.com/events/885996858525616/</a><br><a href="https:
+ //www.instagram.com/p/B9W9Uhkl1cA/">https://www.instagram.com/p/B9W9Uhkl1cA
+ /</a><br><br>Macy's Hello Kitty Pop-Up Shop<br>from Sunday\, March 15th unt
+ il April 15th<br><br>MEET &amp\; GREET WITH HELLO KITTY<br>3/22 from 12pm-2
+ pm<br>Arrive early and be one of the first 200 guests in line to meet the o
+ ne-and-only Hello Kitty!
+LAST-MODIFIED:20200319T061023Z
+LOCATION:Macy's\, 111 N State St\, Chicago\, IL 60602\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(中止) KT Macy's Hello Kitty Pop-Up Shop
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200322T040000Z
+DTEND:20200322T073000Z
+UID:071tsqkql4nm0s5rhu9ek7cmed@google.com
+CREATED:20200207T135351Z
+DESCRIPTION:<a href="https://cinnamoroll-officialfanclub.com/contents/29364
+ 5">https://cinnamoroll-officialfanclub.com/contents/293645</a><br><a href="
+ https://www.sanrio.co.jp/wp-content/uploads/2020/02/20200206.pdf">https://w
+ ww.sanrio.co.jp/wp-content/uploads/2020/02/20200206.pdf</a><br><a href="htt
+ ps://prtimes.jp/main/html/rd/p/000000184.000037629.html">https://prtimes.jp
+ /main/html/rd/p/000000184.000037629.html</a>&nbsp\;<br>&nbsp\;<br>シナモロール 20
+ 20～2021年 卓上スクールカレンダー発売記念書店イベント<br><br><a href="https://www.hmv.co.jp/news/a
+ rticle/2001301031/">https://www.hmv.co.jp/news/article/2001301031/</a><br>3
+ /6（金）　19時～　東京都内某所 ※会場は当選者のみにお知らせ<br><br><a href="https://www.yaesu-book.co.
+ jp/events/other/17800/">https://www.yaesu-book.co.jp/events/other/17800/</a
+ ><br>3/22（日）　13：00～/14：30～/16：00～　八重洲ブックセンター　八重洲本店<br><br><a href="https://
+ www.yurindo.co.jp/tokyo-hachioji/3012">https://www.yurindo.co.jp/tokyo-hach
+ ioji/3012</a><br>3/29（日）　13：00～/14：30～/16：00～　有隣堂　セレオ八王子店
+LAST-MODIFIED:20200317T060902Z
+LOCATION:Yaesu Book Center\, 2-chōme-5-1 Yaesu\, Chuo City\, Tōkyō-to 104-8
+ 456\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(延期) CN 卓上スクールカレンダー
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200320T203000Z
+DTEND:20200320T223000Z
+UID:2gstchij9qggm61l16jfjodm44@google.com
+CREATED:20200309T211743Z
+DESCRIPTION:<a href="https://www.instagram.com/p/B90dniUF7yC/" id="ow653" _
+ _is_owner="true">https://www.instagram.com/p/B90dniUF7yC/</a><br><a href="h
+ ttps://www.facebook.com/Sanrio/photos/pcb.10157075675162816/101570756749928
+ 16/">https://www.facebook.com/Sanrio/photos/pcb.10157075675162816/101570756
+ 74992816/</a><br><br>All Hello Kitty Cafe locations will be temporarily clo
+ sed<br><br><a href="https://www.instagram.com/p/B9e37MQFuJD/?igshid=12gfh7n
+ w0l50q">https://www.instagram.com/p/B9e37MQFuJD/?igshid=12gfh7nw0l50q</a><b
+ r><br>Meet and Greet with Cinnamoroll!<br><br>MARCH 20TH<br>HELLO KITTY GRA
+ ND CAFE<br>1:30PM - 3:30PM
+LAST-MODIFIED:20200317T052909Z
+LOCATION:Hello Kitty Grand Cafe\, 860 Spectrum Center Dr\, Irvine\, CA 9261
+ 8 アメリカ合衆国
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(中止) CN Hello Kitty Grand Cafe
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20200502T123000
+DTEND;TZID=Asia/Tokyo:20200502T160000
+RRULE:FREQ=DAILY;COUNT=5
+UID:6f3nkcvkrn7jfs22olm5uc1lin@google.com
+CREATED:20200310T153730Z
+DESCRIPTION:http://www.toei-eigamura.com/event/detail/269\n\nハローキティの映画村じゃっく
+ \n3/14 - 7/5\n\nはろうきてぃ太夫の映画村道中\n5/2 - 5/6\n12:30\n15:30
+LAST-MODIFIED:20200310T153741Z
+LOCATION:Toei Kyoto Studio Park\, １０ Uzumasa Higashihachiokacho\, Ukyo Ward
+ \, Kyoto\, 616-8161\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT 東映太秦映画村
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200314T040000Z
+DTEND:20200314T043000Z
+UID:1bp06q2lt5iru1hd0nqksr3bic@google.com
+CREATED:20200309T212355Z
+DESCRIPTION:https://www.facebook.com/259052694170117/posts/3532978100110877
+ /\nhttp://2020taipeiazalea.taipei/act.php?fbclid=IwAR2fE9DntkRb42FIDwsWtrcV
+ poZQ1nMF3ijTYOyPyKM9IJVM721TtQGmxp4\n\n2020 3/14～4/5 台北杜鵑花季\n\n3/14 音樂會活動當天
+ 還有Kitty見面會\n時間：12:00～12:30\n地點：大安森林公園 兒童小舞台\n活動資格：\n當天現場11:30 於 兒童小舞台發送號碼牌\
+ n或者現在就到@taipeitravel 台北旅遊網臉書\n參加留言抽獎活動，就有機會優先與 Hello Kitty見面合照哦
+LAST-MODIFIED:20200309T212355Z
+LOCATION:大安公園\, No. 1號\, Section 2\, Xinsheng South Road\, Da’an District\,
+  Taipei City\, 台湾 106
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT 台北杜鵑花季
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200215T053500Z
+DTEND:20200215T093000Z
+UID:46s4ip92p7psa6l3b7apq3454l@google.com
+CREATED:20200306T132820Z
+DESCRIPTION:https://culturecity2020-kitakyushu.com/news/202002/hello-kitty/
+ \n\n「東アジア文化都市2020北九州」応援大使任命式\n2/15（土）14:35-14:50　※北九州マラソンEXPO開会式前\n西日本総合展示場
+ 　新館　EXPO会場　イベントステージ\n\nハローキティと撮影会【各回先着50組（整理券配布）】\n2/15（土）\n16:00-16:30（整理券
+ 配布 15:30-16:00）\n18:00-18:30（整理券配布 17:30-18:00）\n西日本総合展示場　新館　EXPO会場「東アジア文化都
+ 市2020北九州」ブース
+LAST-MODIFIED:20200306T132820Z
+LOCATION:West Japan General Exhibition Center New Wing\, 3-chōme-8-1 Asano\
+ , Kokurakita-ku\, Kitakyushu\, Fukuoka 802-0001\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT 東アジア文化都市2020北九州
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200328T063000Z
+DTEND:20200328T130000Z
+UID:1gi11boqcbor96q5nd6bhlna2t@google.com
+CREATED:20200207T141310Z
+DESCRIPTION:<a href="https://www.facebook.com/259052694170117/posts/3524176
+ 260991061/" id="ow598" __is_owner="true">https://www.facebook.com/259052694
+ 170117/posts/3524176260991061/</a><br><a href="https://www.cultural.pthg.go
+ v.tw/Son/Art/arts02_1.aspx?ID=5882" id="ow602" __is_owner="true">https://ww
+ w.cultural.pthg.gov.tw/Son/Art/arts02_1.aspx?ID=5882</a><br><br>取消演出<br><br
+ ><a href="https://www.cultural.pthg.gov.tw/Son/Art/arts02_1.aspx?ID=5743" i
+ d="ow606" __is_owner="true">https://www.cultural.pthg.gov.tw/Son/Art/arts02
+ _1.aspx?ID=5743</a>&nbsp\;<br>&nbsp\;<br>演出延期<br>3/28(六)14:30、19:30&nbsp\;&
+ nbsp\;<br><br><a href="https://www.facebook.com/hellokittytw/posts/33689797
+ 33177382/">https://www.facebook.com/hellokittytw/posts/3368979733177382/</a
+ ><br><a href="https://www.artsticket.com.tw/CKSCC2005/Product/Product00/Pro
+ ductsDetailsPage.aspx?ProductId=rotyiUrPteRkntufFmf9n">https://www.artstick
+ et.com.tw/CKSCC2005/Product/Product00/ProductsDetailsPage.aspx?ProductId=ro
+ tyiUrPteRkntufFmf9n</a>&nbsp\;&nbsp\;<br><br>Hello Kitty蝴蝶結王國互動古典音樂會<br>屏東演
+ 藝廳-音樂廳<br>2020/02/22(六)14:30<br>2020/02/22(六)19:30
+LAST-MODIFIED:20200306T124958Z
+LOCATION:Pingtung Performing Arts Center\, No. 4-17\, Minsheng Road\, Pingt
+ ung City\, Pingtung County\, Taiwan 900
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(中止) KT\,DN\,MM\,XO 蝴蝶結王國互動古典音樂會
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200322T020000Z
+DTEND:20200322T063000Z
+UID:05eo29enf99t7lgsres5u4jiaj@google.com
+CREATED:20191121T162307Z
+DESCRIPTION:<a href="https://tsk-tv.com/event/detail.php?p=28459">https://t
+ sk-tv.com/event/detail.php?p=28459</a><br><br>新型コロナウイルスの感染が拡大している状況を踏まえ延期<b
+ r>振替公演日9月13日（日）<br>開場・開演時間、会場の変更なし<br><br>KT\,DN\,MM\,XO\,PN\,CN<br><br><a 
+ href="https://www.tsk-tv.com/event/detail.php?p=28459">https://www.tsk-tv.c
+ om/event/detail.php?p=28459</a><br><a href="https://l-tike.com/order/?gLcod
+ e=61812&fbclid=IwAR1wFNR5IcrcBv8CCea91bWZpZgiyHWk4HW_B77VVCYczlr2wyY1TWdq-s
+ E">https://l-tike.com/order/?gLcode=61812&amp\;fbclid=IwAR1wFNR5IcrcBv8CCea
+ 91bWZpZgiyHWk4HW_B77VVCYczlr2wyY1TWdq-sE</a><br><a href="https://t.pia.jp/p
+ ia/ticketInformation.do?eventCd=1937806&rlsCd&lotRlsCd=44441&fbclid=IwAR2Rg
+ Tec8hFI_KghRwYRYXUqXEOZUvRNovrZ-IglNB9Si_zFDlRLS8FToIY">https://t.pia.jp/pi
+ a/ticketInformation.do?eventCd=1937806&amp\;rlsCd&amp\;lotRlsCd=44441&amp\;
+ fbclid=IwAR2RgTec8hFI_KghRwYRYXUqXEOZUvRNovrZ-IglNB9Si_zFDlRLS8FToIY</a><br
+ ><br>ピューロマスケティア～３人のやさしい銃士たち～<br>島根県民会館 大ホール<br>2020年3月22日（日）<br>11:00 開演 (1
+ 0:00 開場)<br>14:00 開演 (13:00 開場)
+LAST-MODIFIED:20200306T001145Z
+LOCATION:Shimane Culture Hall\, 158 Tonomachi\, Matsue\, Shimane 690-0887\,
+  Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(延期) ピューロマスケティア
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200913T020000Z
+DTEND:20200913T063000Z
+UID:74d4jisat8ovln91ud5ps9or60@google.com
+CREATED:20200305T212854Z
+DESCRIPTION:<a href="https://tsk-tv.com/event/detail.php?p=28459">https://t
+ sk-tv.com/event/detail.php?p=28459</a><br><br>新型コロナウイルスの感染が拡大している状況を踏まえ延期<b
+ r>振替公演日9月13日（日）<br>開場・開演時間、会場の変更なし<br><br>KT\,DN\,MM\,XO\,PN\,CN<br><br><a 
+ href="https://www.tsk-tv.com/event/detail.php?p=28459">https://www.tsk-tv.c
+ om/event/detail.php?p=28459</a><br><a href="https://l-tike.com/order/?gLcod
+ e=61812&fbclid=IwAR1wFNR5IcrcBv8CCea91bWZpZgiyHWk4HW_B77VVCYczlr2wyY1TWdq-s
+ E">https://l-tike.com/order/?gLcode=61812&amp\;fbclid=IwAR1wFNR5IcrcBv8CCea
+ 91bWZpZgiyHWk4HW_B77VVCYczlr2wyY1TWdq-sE</a><br><a href="https://t.pia.jp/p
+ ia/ticketInformation.do?eventCd=1937806&rlsCd&lotRlsCd=44441&fbclid=IwAR2Rg
+ Tec8hFI_KghRwYRYXUqXEOZUvRNovrZ-IglNB9Si_zFDlRLS8FToIY">https://t.pia.jp/pi
+ a/ticketInformation.do?eventCd=1937806&amp\;rlsCd&amp\;lotRlsCd=44441&amp\;
+ fbclid=IwAR2RgTec8hFI_KghRwYRYXUqXEOZUvRNovrZ-IglNB9Si_zFDlRLS8FToIY</a><br
+ ><br>ピューロマスケティア～３人のやさしい銃士たち～<br>島根県民会館 大ホール<br>2020年3月22日（日）<br>11:00 開演 (1
+ 0:00 開場)<br>14:00 開演 (13:00 開場)&nbsp\;&nbsp\;
+LAST-MODIFIED:20200305T212854Z
+LOCATION:島根県民会館\, 日本、〒690-0887 島根県松江市殿町１５８
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ピューロマスケティア
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200425
+DTEND;VALUE=DATE:20200511
+UID:49fuqgev879pnjm7grcgi2e67j@google.com
+CREATED:20200305T211813Z
+DESCRIPTION:新型コロナウイルス感染症の発生を受け延期<br>延期後の開催期間：2020年4月25日（土）～5月10日（日）<br><br>
+ <a href="http://sakurafarms.jp/sanrio-carnival/">http://sakurafarms.jp/sanr
+ io-carnival/</a><br><br>サンリオカーニバル<br>2020-03-20 / 2020-04-05<br>霧島さくらフルーツラン
+ ド特設会場（鹿児島県霧島市国分重久５６３１−２）<br><br><a href="https://eplus.jp/sf/detail/3202440
+ 001-P0030001">https://eplus.jp/sf/detail/3202440001-P0030001</a><br><br>ハロー
+ キティと触れ合えるライブショーやグリーティングなど内容盛り沢山
+LAST-MODIFIED:20200305T211813Z
+LOCATION:さくら農園\, 日本、〒899-4301 鹿児島県霧島市国分重久６０２９−３
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT 霧島さくらフルーツランド
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200322
+DTEND;VALUE=DATE:20200406
+UID:2qk5vk77n8pn8k8ag97ku809s4@google.com
+CREATED:20200202T161534Z
+DESCRIPTION:新型コロナウイルス感染症の発生を受け延期<br>延期後の開催期間：2020年4月25日（土）～5月10日（日）<br><br>
+ <a href="http://sakurafarms.jp/sanrio-carnival/" id="ow535" __is_owner="tru
+ e">http://sakurafarms.jp/sanrio-carnival/</a><br><br>サンリオカーニバル<br>2020-03-2
+ 0 / 2020-04-05<br>霧島さくらフルーツランド特設会場（鹿児島県霧島市国分重久５６３１−２）<br><br><a href="https
+ ://eplus.jp/sf/detail/3202440001-P0030001">https://eplus.jp/sf/detail/32024
+ 40001-P0030001</a><br><br>ハローキティと触れ合えるライブショーやグリーティングなど内容盛り沢山
+LAST-MODIFIED:20200305T211430Z
+LOCATION:Sakurano Orchards\, 6029-3 Kokubushigehisa\, Kirishima\, Kagoshima
+  899-4301\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(延期) KT 霧島さくらフルーツランド
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20200321T112000
+DTEND;TZID=Asia/Tokyo:20200321T152000
+RRULE:FREQ=DAILY;COUNT=2
+UID:6us4s86o00feb7b68v9nsd7a1u@google.com
+CREATED:20200220T174611Z
+DESCRIPTION:<a href="https://www.kankou-shimane.com/news/13789.html" id="ow
+ 787" __is_owner="true">https://www.kankou-shimane.com/news/13789.html</a><b
+ r><br>新型コロナウイルスの感染拡大防止のため中止<br><br><a href="https://www.kankou-shimane.com/
+ news/13789.html" id="ow791" __is_owner="true">https://www.kankou-shimane.co
+ m/news/13789.html</a><br><a href="https://www.kankou-shimane.com/jp/wp-cont
+ ent/uploads/2020/02/bihada_shimane_hibiya.pdf" id="ow796" __is_owner="true"
+ >https://www.kankou-shimane.com/jp/wp-content/uploads/2020/02/bihada_shiman
+ e_hibiya.pdf</a><br><br>美肌県しまねin日比谷 「日比谷しまね館」オープンプレイベント<br>2020年3月21日（土）11:
+ 00～17:00<br>2020年3月22日（日）11:00～15:00<br>日比谷ゴジラスクエア（千代田区有楽町1丁目2-2　日比谷シャンテ前）<
+ br><br>ハローキティ×しまねっこグリーティング<br>21日 12:20<br>21日 14:50<br>22日 11:20<br>22日 14
+ :20
+LAST-MODIFIED:20200305T134755Z
+LOCATION:日比谷ゴジラスクエア\, Japan\, 〒100-0006 Tōkyō-to\, Chiyoda City\, Yūrakuchō
+ \, 1-chōme−2−２ 日比谷シャンテ内
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(中止) KT 日比谷しまね館
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200328T080000Z
+DTEND:20200328T113000Z
+UID:0mu71u4s3jmpaud1sg6fjm6h5h@google.com
+CREATED:20190920T125353Z
+DESCRIPTION:<a href="http://mmtsrun.com/">http://mmtsrun.com/</a>&nbsp\;&nb
+ sp\;<br><a href="https://www.facebook.com/113600393363571/posts/21913559947
+ 6716/">https://www.facebook.com/113600393363571/posts/219135599476716/</a>&
+ nbsp\;<br><br>活動延期<br>2020年6月13日 星期六 15:00-19:30<br>永和綠寶石河濱公園 (暫定)<br><br>※
+ 若您在日期上不許可，您可以選擇參與第二場經典星空夜跑(暫定於2020/10在台中舉行)<br><br><a href="http://mmtsrun.
+ com/" id="ow1062" __is_owner="true">http://mmtsrun.com/</a><br><a href="htt
+ ps://www.facebook.com/hellokittytw/posts/3007630855978940/">https://www.fac
+ ebook.com/hellokittytw/posts/3007630855978940/</a><br><br>美樂蒂&amp\;雙星仙子 45週
+ 年 經典星空夜跑<br>2020年3月28日 星期六 16:00-19:30<br>台北市大佳河濱公園（暫定，實際可使用地點需待台北市政府審核後確認）
+LAST-MODIFIED:20200305T124352Z
+LOCATION:Dajia Riverside Park\, 104\, Taiwan\, 台北市中山區晴光里
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(延期) MM\,TS\,KT 經典星空夜跑
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200320
+DTEND;VALUE=DATE:20200321
+RRULE:FREQ=DAILY;COUNT=3
+UID:0nvvc931pcm29vg5krjb8j25c0@google.com
+CREATED:20200305T054515Z
+DESCRIPTION:http://www.tamacenter-cm.com/\n\n多摩センタースプリングフェスタ2020\n3月20日～3月2
+ 2日\n新型コロナウイルス（COVID-19）の影響を考慮し中止
+LAST-MODIFIED:20200305T054528Z
+LOCATION:ココリア前十字路\, 1-chōme-1 Ochiai\, Tama\, Tōkyō-to 206-0033\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(中止) KT 多摩センタースプリングフェスタ
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200321T064500Z
+DTEND:20200321T071500Z
+UID:61okekr3ect6g6r5cbvogiju78@google.com
+CREATED:20200227T091544Z
+DESCRIPTION:<br>新型コロナウイルス感染拡大を懸念し中止（2020.3/3（火）17:00現在）&nbsp\;<br><br><a hr
+ ef="http://www.parthenon.or.jp/act/3743.html" id="ow436" __is_owner="true">
+ http://www.parthenon.or.jp/act/3743.html</a><br><br>パルTAMA感謝祭～32年ありがとう、そして新
+ たなステージへ～<br>2020年03月21日 (土)<br>時間15：00～16：15（予定）<br>場所パルテノン多摩大階段下ステージ<br>※雨
+ 天時は2Fフリースペースにて実施<br><br>・セレモニー<br>・スペシャルステージ<br>[1]ベルブブラスバンド 演奏<br>[2]des a
+ iles 26 （ディゼル）＆三姿舞 ライブ<br>[3]ハローキティ＆マイメロディ＆ぼんぼんりぼんのミラクルパーティ★
+LAST-MODIFIED:20200303T105102Z
+LOCATION:Parthenon Tama\, 2 Chome-35 Ochiai\, Tama\, Tokyo 206-0033\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(中止) KT\,MM\,BO ミラクルパーティ
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200314
+DTEND;VALUE=DATE:20200315
+RRULE:FREQ=DAILY;COUNT=2
+UID:26lr3iabuhlo4ifnpsabaifuon@google.com
+CREATED:20200220T174253Z
+DESCRIPTION:新型コロナウイルス感染症の拡大を防ぐため、また、参加者及び関係者の健康や安全面を第一に考え中止<br><a href="htt
+ p://www.city.kawasaki.jp/820/page/0000114688.html">http://www.city.kawasaki
+ .jp/820/page/0000114688.html</a><br><br>川崎市バス70周年記念イベント 川崎ブレイブサンダースとの「同級生コラ
+ ボ」<br>令和2年3月14日（土）・15（日） Bリーグ公式戦（VS レバンガ北海道）<br>時間は両日ともに午後から<br>等々力緑地催し物広場<
+ br><br>かわさきノルフィン・ハローキティとの記念撮影会
+LAST-MODIFIED:20200303T012352Z
+LOCATION:Todoroki Green Space\, 1-1 Todoroki\, Nakahara-ku\, Kawasaki\, Kan
+ agawa 210-8577\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(中止) KT 川崎ブレイブサンダース
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200307T200000Z
+DTEND:20200308T000000Z
+UID:73etef9ciprci08g7ubth7ikl8@google.com
+CREATED:20200302T212550Z
+DESCRIPTION:https://twitter.com/sanrio/status/1234584298512175105\nhttps://
+ www.facebook.com/events/1515813621916807/\n\nCinnamoroll Meet & Greet!\n\nS
+ aturday\, March 7\n12pm-4pm \nSanrio Japanese Village
+LAST-MODIFIED:20200302T212550Z
+LOCATION:Sanrio Japanese Village\, 115 Japanese Village Plaza Mall\, Los An
+ geles\, CA 90012 アメリカ合衆国
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CN Sanrio Japanese Village
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200322
+DTEND;VALUE=DATE:20200323
+UID:1ncfudval7lsipsmjnvogd0toh@google.com
+CREATED:20200207T141039Z
+DESCRIPTION:<a href="https://www.fujiyakuhin.co.jp/drugstore/festa/">https:
+ //www.fujiyakuhin.co.jp/drugstore/festa/</a><br><br>新型コロナウイルス感染症（COVID-19）に
+ より中止<br><br>富士薬品グループ Presents 第11回お客様感謝フェスタ in さいたまスーパーアリーナ<br>2020-03-22<b
+ r>09:30-16:00<br><br>ハローキティ&amp\;マイメロディ&amp\;ぼんぼんりぼんのミラクルパーティ
+LAST-MODIFIED:20200302T040946Z
+LOCATION:Saitama Super Arena\, 8 Shintoshin\, Chuo Ward\, Saitama\, 330-911
+ 1\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(中止) KT\,MM\,BO ミラクルパーティ
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20200301T110000
+DTEND;TZID=Asia/Tokyo:20200301T153000
+UID:51prhackn7vo88hmkfkuh7g61u@google.com
+RECURRENCE-ID;TZID=Asia/Tokyo:20200301T110000
+CREATED:20200227T093915Z
+DESCRIPTION:<a href="https://www.seibu-leisure.co.jp/20200280Info.pdf">http
+ s://www.seibu-leisure.co.jp/20200280Info.pdf</a><br><a href="https://www.se
+ iburailway.jp/news/information/20200228information.pdf">https://www.seibura
+ ilway.jp/news/information/20200228information.pdf</a><br><a href="https://t
+ witter.com/seibuenyuuenchi/status/1233352174781882368">https://twitter.com/
+ seibuenyuuenchi/status/1233352174781882368</a><br><br>「新型コロナウイルス感染症対策本部」が20
+ 20年2月25日に発表した基本方針の重要事項を踏まえ、新型コロナウイルスの感染拡大を防ぐため、西武園ゆうえんち全施設を臨時休園<br><br>休園期間
+ ：2020年2月29日(土)～3月15日(日)<br>※営業再開日は3月16日(月)を予定<br>休園施設：園内すべての施設<br><br><a hr
+ ef="https://www.seibu-leisure.co.jp/event/20520/index.html">https://www.sei
+ bu-leisure.co.jp/event/20520/index.html</a><br><br>3月1日（日）、8日（日）、22日（日）<br>
+ 11:00～ マイメロディとハッピーグリーティング<br>13:00～ 3月バースデーセレブレーション<br>15:00～ マイメロディのプリンセスア
+ カデミー
+LAST-MODIFIED:20200228T224617Z
+LOCATION:Seibuen Amusement Park\, 2964 Yamaguchi\, Tokorozawa\, Saitama 359
+ -1145\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(中止) MM\,KT 西武園ゆうえんち
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200328
+DTEND;VALUE=DATE:20200329
+UID:2lliqpl8eu25q1ktkn544parhm@google.com
+CREATED:20200208T160626Z
+DESCRIPTION:<a href="http://www.new-chitose-airport.jp/ja/happy-flight/news
+ /detail/post-31.html" id="ow2119" __is_owner="true">http://www.new-chitose-
+ airport.jp/ja/happy-flight/news/detail/post-31.html</a><br><br>現在発生している新型コロ
+ ナウイルス感染症（COVID-19）の情勢を鑑み、お客様をはじめ関係する皆様の安全を考慮し、現在決定しているイベントを中止<br><br>【中止が決定
+ しているイベント】<br>3月21日（土）シナモロールグリーティング<br>3月28日（土）ポムポムプリンパーティ<br>3月29日（日）ポムポムプリ
+ ン担当デザイナーさんによるサイン会<br><br><a href="https://twitter.com/HappyFlight_cts/statu
+ s/1226070145195364352" id="ow2123" __is_owner="true">https://twitter.com/Ha
+ ppyFlight_cts/status/1226070145195364352</a><br><br>ポムポムプリンパーティ<br>2020年3月2
+ 8日
+LAST-MODIFIED:20200228T114621Z
+LOCATION:Hello Kitty Happy Flight\, Bibi\, Chitose\, Hokkaido 066-0012\, Ja
+ pan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(中止) PN ハッピーフライト
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200321
+DTEND;VALUE=DATE:20200322
+UID:0elmjdpd7bn12jkb6sb8rcu78i@google.com
+CREATED:20190315T003412Z
+DESCRIPTION:<a href="http://www.new-chitose-airport.jp/ja/happy-flight/news
+ /detail/post-31.html" id="ow1914" __is_owner="true">http://www.new-chitose-
+ airport.jp/ja/happy-flight/news/detail/post-31.html</a><br><br>現在発生している新型コロ
+ ナウイルス感染症（COVID-19）の情勢を鑑み、お客様をはじめ関係する皆様の安全を考慮し、現在決定しているイベントを中止<br><br>【中止が決定
+ しているイベント】<br>3月21日（土）シナモロールグリーティング<br>3月28日（土）ポムポムプリンパーティ<br>3月29日（日）ポムポムプリ
+ ン担当デザイナーさんによるサイン会<br><br><a href="http://www.new-chitose-airport.jp/ja/happ
+ y-flight/news/detail/-201910202039instagramtwitterfacebook.html" id="ow1918
+ " __is_owner="true">http://www.new-chitose-airport.jp/ja/happy-flight/news/
+ detail/-201910202039instagramtwitterfacebook.html</a><br><a href="https://t
+ witter.com/HappyFlight_cts/status/1106126184796942336">https://twitter.com/
+ HappyFlight_cts/status/1106126184796942336</a><br><br>2019-10-12 KU<br>2019
+ -10-26 CN<br>2019-11-02 KT<br>2019-12-07 TS<br>2019-12-21 MM<br>2020-01-18 
+ PN<br>2020-02-08 KT<br>2020-03-21 CN
+LAST-MODIFIED:20200228T114601Z
+LOCATION:Hello Kitty Happy Flight\, Bibi\, Chitose\, Hokkaido 066-0012\, Ja
+ pan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(中止) CN ハッピーフライト
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20200308T110000
+DTEND;TZID=Asia/Tokyo:20200308T153000
+UID:51prhackn7vo88hmkfkuh7g61u@google.com
+RECURRENCE-ID;TZID=Asia/Tokyo:20200308T110000
+CREATED:20200227T093915Z
+DESCRIPTION:<a href="https://www.seibu-leisure.co.jp/20200280Info.pdf" id="
+ ow1135" __is_owner="true">https://www.seibu-leisure.co.jp/20200280Info.pdf<
+ /a><br><a href="https://www.seiburailway.jp/news/information/20200228inform
+ ation.pdf">https://www.seiburailway.jp/news/information/20200228information
+ .pdf</a><br><a href="https://twitter.com/seibuenyuuenchi/status/12333521747
+ 81882368">https://twitter.com/seibuenyuuenchi/status/1233352174781882368</a
+ ><br><br>「新型コロナウイルス感染症対策本部」が2020年2月25日に発表した基本方針の重要事項を踏まえ、新型コロナウイルスの感染拡大を防ぐた
+ め、西武園ゆうえんち全施設を臨時休園<br><br>休園期間：2020年2月29日(土)～3月15日(日)<br>※営業再開日は3月16日(月)を予定
+ <br>休園施設：園内すべての施設<br><br><a href="https://www.seibu-leisure.co.jp/event/205
+ 20/index.html">https://www.seibu-leisure.co.jp/event/20520/index.html</a><b
+ r><br>3月1日（日）、8日（日）、22日（日）<br>11:00～ マイメロディとハッピーグリーティング<br>13:00～ 3月バースデーセレ
+ ブレーション<br>15:00～ マイメロディのプリンセスアカデミー
+LAST-MODIFIED:20200228T113737Z
+LOCATION:Seibuen Amusement Park\, 2964 Yamaguchi\, Tokorozawa\, Saitama 359
+ -1145\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(中止) MM\,KT 西武園ゆうえんち
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200301T030000Z
+DTEND:20200301T093000Z
+UID:7hgd4va3otfng49htbr44dk4v8@google.com
+CREATED:20200115T014508Z
+DESCRIPTION:<br>https://www.symphony-cruise.co.jp/information/3623<br><br>催
+ 行中止<br><a href="https://www.symphony-cruise.co.jp/season/detail.php?p=1395"
+  id="ow365" __is_owner="true">https://www.symphony-cruise.co.jp/season/deta
+ il.php?p=1395</a><br><a href="https://www.symphony-cruise.co.jp/information
+ /3623">https://www.symphony-cruise.co.jp/information/3623</a>&nbsp\;&nbsp\;
+ <br><br>シナモロール クルーズパーティー<br>3月1日<br>12:00-14:10 ランチクルーズ<br>16:30-18:30 サンセッ
+ トクルーズ
+LAST-MODIFIED:20200228T064231Z
+LOCATION:Symphony Cruise\, 2-chōme-7-104 Kaigan\, Minato City\, Tōkyō-to 10
+ 5-0022\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(中止) CN クルーズパーティー
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200306T100000Z
+DTEND:20200306T103000Z
+UID:1qh65l3qn81mjfrkplovgpsq7p@google.com
+CREATED:20200207T135252Z
+DESCRIPTION:国内外での新型コロナウイルス（COVID-19）の感染症拡大の防止のため、お客様と従業員の安全を考慮し、3月6日（金）に予定し
+ ておりましたハイタッチ会を延期<br>3月22日（日）、3月29日（日）の開催は検討中<br><br><a href="https://cinnamo
+ roll-officialfanclub.com/contents/293645" id="ow2266" __is_owner="true">htt
+ ps://cinnamoroll-officialfanclub.com/contents/293645</a><br><a href="https:
+ //www.sanrio.co.jp/wp-content/uploads/2020/02/20200206.pdf">https://www.san
+ rio.co.jp/wp-content/uploads/2020/02/20200206.pdf</a><br><a href="https://p
+ rtimes.jp/main/html/rd/p/000000184.000037629.html">https://prtimes.jp/main/
+ html/rd/p/000000184.000037629.html</a>&nbsp\;<br><br>シナモロール 2020～2021年 卓上スク
+ ールカレンダー発売記念書店イベント<br><br><a href="https://www.hmv.co.jp/news/article/200130
+ 1031/">https://www.hmv.co.jp/news/article/2001301031/</a><br>3/6（金）　19時～　東京
+ 都内某所 ※会場は当選者のみにお知らせ<br><br><a href="https://www.yaesu-book.co.jp/events/oth
+ er/17800/">https://www.yaesu-book.co.jp/events/other/17800/</a><br>3/22（日）　
+ 13：00～/14：30～/16：00～　八重洲ブックセンター　八重洲本店<br><br><a href="https://www.yurindo.c
+ o.jp/tokyo-hachioji/3012">https://www.yurindo.co.jp/tokyo-hachioji/3012</a>
+ <br>3/29（日）　13：00～/14：30～/16：00～　有隣堂　セレオ八王子店
+LAST-MODIFIED:20200228T061131Z
+LOCATION:Tokyo\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(延期) CN 卓上スクールカレンダー
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200307
+DTEND;VALUE=DATE:20200308
+UID:1fc0ha4io9vu75inf9p18erkbr@google.com
+CREATED:20200228T060840Z
+DESCRIPTION:http://yamaguchiyuuko.cocolog-nifty.com/blog/2020/02/post-b8c36
+ 4.html\n\n明日からのイベントも中止！\n\n2月22日土曜日\nPC 大丸梅田店\n\n2月29日土曜日\nPC 武蔵小杉ギフトゲート\n\
+ n3月1日日曜日\nHV 東急東横\n\n3月7日土曜日\nCN 水戸京成百貨店\nCN エキスポシティギフトゲート\nPN サンリオワールドギンザ
+LAST-MODIFIED:20200228T060840Z
+LOCATION:Sanrio World Ginza\, Japan\, 〒104-0061 Tōkyō-to\, Chuo City\, Ginz
+ a\, 4-chōme−4−１ 先 西銀座 1F・2F
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(中止) PN Sanrioworld Ginza
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200307
+DTEND;VALUE=DATE:20200308
+UID:575pl2fqk3pvhd4rbav1ilbb78@google.com
+CREATED:20200228T060819Z
+DESCRIPTION:http://yamaguchiyuuko.cocolog-nifty.com/blog/2020/02/post-b8c36
+ 4.html\n\n明日からのイベントも中止！\n\n2月22日土曜日\nPC 大丸梅田店\n\n2月29日土曜日\nPC 武蔵小杉ギフトゲート\n\
+ n3月1日日曜日\nHV 東急東横\n\n3月7日土曜日\nCN 水戸京成百貨店\nCN エキスポシティギフトゲート\nPN サンリオワールドギンザ
+LAST-MODIFIED:20200228T060819Z
+LOCATION:ららぽーとEXPOCITY\, Japan\, 〒565-0826 Osaka\, Suita\, Senribanpakukōen
+ \, 2−１ ららぽーとエキスポシティ2階Ｑゾーン20750
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(中止) CN ららぽーとEXPOCITY
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200307
+DTEND;VALUE=DATE:20200308
+UID:4nq8tkg3g3pic7vb4aggkl95v8@google.com
+CREATED:20200221T092756Z
+DESCRIPTION:<a href="https://twitter.com/sanrioshop_info/status/12307555839
+ 02355457">https://twitter.com/sanrioshop_info/status/1230755583902355457</a
+ ><br><br>新型コロナウイルス（COVID-19）の感染症拡大の防止のため中止<br><br>シナモロール　グリーティング<br>3/7（土）<
+ br>水戸京成百貨店 7F サンリオ<br><br>http://yamaguchiyuuko.cocolog-nifty.com/blog/2020
+ /02/post-b8c364.html<br><br>明日からのイベントも中止！<br><br>2月22日土曜日<br>PC 大丸梅田店<br><b
+ r>2月29日土曜日<br>PC 武蔵小杉ギフトゲート<br><br>3月1日日曜日<br>HV 東急東横<br><br>3月7日土曜日<br>CN 
+ 水戸京成百貨店<br>CN エキスポシティギフトゲート<br>PN サンリオワールドギンザ
+LAST-MODIFIED:20200228T060721Z
+LOCATION:Keisei Department Store\, Japan\, 〒310-0026 Ibaraki\, Mito\, Izumi
+ chō\, 1-chōme−6\, 水戸市泉町１丁目６−１
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(中止) CN 水戸京成百貨店
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200301T020000Z
+DTEND:20200301T063000Z
+UID:2gk1aq072qdtuql2hron4bv0mh@google.com
+CREATED:20200131T230139Z
+DESCRIPTION:HV = PC\, TX\, KR\, XO\, HG\, AP<br><br><a href="https://www.sa
+ nrio.co.jp/news/hv-hapidanbui-debutlive-20200225/">https://www.sanrio.co.jp
+ /news/hv-hapidanbui-debutlive-20200225/</a>&nbsp\;&nbsp\;<br><a href="https
+ ://www.sanrio.co.jp/wp-content/uploads/2020/02/20200225.pdf">https://www.sa
+ nrio.co.jp/wp-content/uploads/2020/02/20200225.pdf</a><br><a href="https://
+ prtimes.jp/main/html/rd/p/000000192.000037629.html">https://prtimes.jp/main
+ /html/rd/p/000000192.000037629.html</a><br><a href="https://www.sanrio.co.j
+ p/wp-content/uploads/2020/02/20200131a.pdf">https://www.sanrio.co.jp/wp-con
+ tent/uploads/2020/02/20200131a.pdf</a>&nbsp\;&nbsp\;<br><br>新型コロナウイルス(COVID
+ -19)のため中止<br>代替として、「はぴだんぶい」のデビュー記念LIVEをサンリオピューロランドで無観客開催し、「はぴだんぶい」公式Twitter
+ でライブ放送<br><br>http://yamaguchiyuuko.cocolog-nifty.com/blog/2020/02/post-b8c
+ 364.html<br><br>明日からのイベントも中止！<br><br>2月22日土曜日<br>PC 大丸梅田店<br><br>2月29日土曜日<b
+ r>PC 武蔵小杉ギフトゲート<br><br>3月1日日曜日<br>HV 東急東横<br><br>3月7日土曜日<br>CN 水戸京成百貨店<br>C
+ N エキスポシティギフトゲート<br>PN サンリオワールドギンザ<br><br><a href="https://www.sanrio.co.jp/
+ news/hv-hapidanbui-debut-20200131/">https://www.sanrio.co.jp/news/hv-hapida
+ nbui-debut-20200131/</a><br><a href="https://www.sanrio.co.jp/wp-content/up
+ loads/2020/01/20200131.pdf">https://www.sanrio.co.jp/wp-content/uploads/202
+ 0/01/20200131.pdf</a><br><a href="https://www.fashion-press.net/news/57917/
+ 2">https://www.fashion-press.net/news/57917/2</a>&nbsp\;&nbsp\;<br><br>みんなを
+ ちょっとハッピーにしたい男子6人組ユニット「はぴだんぶい」がデビュー！<br><br>「はぴだんぶい」 pop-up ショップオープン初日に、ポチャッ
+ コがお店にやってきます。<br>2月15日(土)<br>10:00～<br>13:00～<br>15:00～<br>各回20分(予定)<br>東急百貨
+ 店 渋谷駅・東横店西館1階 SHIBUYAスクランブルI<br>ポップアップステージA 「はぴだんぶい」 pop-up ショップ<br>ツーショット撮
+ 影禁止<br><br>デビュー記念LIVEイベント<br>3月1日（日）<br>11:00～<br>13:00～<br>15:00～<br>各回約20
+ 分<br>東急百貨店 本店 屋上 アクセス情報<br><br>雨天時のグリーティングスケジュール（各回約20分）<br>11:00～：ポチャッコ・あひ
+ るのペックル<br>13:00～：バッドばつ丸・ハンギョドン<br>15:00～：タキシードサム・けろけろけろっぴ<br>ツーショット禁止
+LAST-MODIFIED:20200228T060711Z
+LOCATION:Tokyu Department Main store\, 2-chōme-24-1 Dōgenzaka\, Shibuya Cit
+ y\, Tōkyō-to 150-0043\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(中止) HV デビュー記念LIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200229T020000Z
+DTEND:20200229T073000Z
+UID:6vf08mk53chsjb8m7tmg8rtl29@google.com
+CREATED:20200204T160559Z
+DESCRIPTION:<a href="https://twitter.com/sanrioshop_info/status/12307507314
+ 19807744">https://twitter.com/sanrioshop_info/status/1230750731419807744</a
+ ><br><a href="https://twitter.com/10hamuchan10/status/1230815893225013248">
+ https://twitter.com/10hamuchan10/status/1230815893225013248</a>&nbsp\;&nbsp
+ \;<br><br>新型コロナウイルス（COVID-19）の感染症拡大の防止のため中止&nbsp\;&nbsp\;&nbsp\;<br><br>htt
+ p://yamaguchiyuuko.cocolog-nifty.com/blog/2020/02/post-b8c364.html<br><br>明
+ 日からのイベントも中止！<br><br>2月22日土曜日<br>PC 大丸梅田店<br><br>2月29日土曜日<br>PC 武蔵小杉ギフトゲート<b
+ r><br>3月1日日曜日<br>HV 東急東横<br><br>3月7日土曜日<br>CN 水戸京成百貨店<br>CN エキスポシティギフトゲート<b
+ r>PN サンリオワールドギンザ<br><br><a href="https://www.sanrio.co.jp/news/event-gg-mus
+ ashikosugi-20200229/">https://www.sanrio.co.jp/news/event-gg-musashikosugi-
+ 20200229/</a><br><a href="https://twitter.com/10hamuchan10/status/122940960
+ 2044739584" id="ow712" __is_owner="true">https://twitter.com/10hamuchan10/s
+ tatus/1229409602044739584</a>&nbsp\;<br><br>ポチャッコが遊びにくるよ！（Sanrio Gift Gate 
+ グランツリー武蔵小杉店）<br>グランツリー武蔵小杉 4F スマイルスクエア<br>2月29日（土）<br>11:00<br>14:00<br>16:
+ 00<br><br>写真撮影会<br>各回先着30名<br>イベント当日10:00より、4F SanrioGift Gateにて、税込み1\,000円
+ 以上（お楽しみ袋類、ゲーム等一部対象外の商品がございます）購入で「写真撮影券」を配布
+LAST-MODIFIED:20200228T060657Z
+LOCATION:Grand Tree Musashikosugi\, 3-chōme-1135-1 Shinmarukohigashi\, Naka
+ hara-ku\, Kawasaki\, Kanagawa 211-0004\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(中止) PC グランツリー武蔵小杉
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200222T020000Z
+DTEND:20200222T060000Z
+UID:460hnps45q0vb6lvc96d3qjm0r@google.com
+CREATED:20200207T134440Z
+DESCRIPTION:<a href="https://twitter.com/sanrioshop_info/status/12307505184
+ 83406848">https://twitter.com/sanrioshop_info/status/1230750518483406848</a
+ >&nbsp\;&nbsp\;<br><br>新型コロナウイルス（COVID-19）の感染症拡大の防止のため中止&nbsp\;<br><br>http
+ ://yamaguchiyuuko.cocolog-nifty.com/blog/2020/02/post-b8c364.html<br><br>明日
+ からのイベントも中止！<br><br>2月22日土曜日<br>PC 大丸梅田店<br><br>2月29日土曜日<br>PC 武蔵小杉ギフトゲート<br
+ ><br>3月1日日曜日<br>HV 東急東横<br><br>3月7日土曜日<br>CN 水戸京成百貨店<br>CN エキスポシティギフトゲート<br
+ >PN サンリオワールドギンザ<br><br><a href="https://www.sanrio.co.jp/news/event-daimaru
+ -umeda-20200222/">https://www.sanrio.co.jp/news/event-daimaru-umeda-2020022
+ 2/</a><br><a href="https://twitter.com/sanrioshop_info/status/1229248096535
+ 638016">https://twitter.com/sanrioshop_info/status/1229248096535638016</a><
+ br><br>ポチャッコが遊びにくるよ！（大丸梅田店 サンリオ）<br>大丸梅田店 5F サンリオショップ店内<br>2月22日（土）<br>11:0
+ 0<br>13:00<br>14:30<br><br>各回先着40名<br>当日9:00より、大丸梅田店 1F南ゲート広場東側にて、各回の「撮影会整理
+ 券」と交換できる「購入予約券」を配布<br>10:00以降大丸梅田店 5F サンリオショップでのお会計時に、「購入予約券」を「撮影会整理券」に交換<b
+ r>ポチャッコ商品を含む税込み1\,000円以上
+LAST-MODIFIED:20200228T060647Z
+LOCATION:Daimaru Umeda\, 3-chōme-1-1 Umeda\, Kita-ku\, Osaka\, 530-0001\, J
+ apan
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:(中止) PC 大丸梅田
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200328
+DTEND;VALUE=DATE:20200329
+UID:0ibp0vd8prcacq2872r54fi952@google.com
+CREATED:20200228T060351Z
+DESCRIPTION:http://yamaguchiyuuko.cocolog-nifty.com/blog/2020/02/post-705ee
+ 8.html\n\nさらにイベント中止のお知らせ！\n\n3月14日土曜日\nKT 名古屋ギフトゲート\nCNシナモン\,CNみるく 松坂屋名古屋\n
+ KU サンリオビビッテックス原宿\n\n3月21日土曜日\nKU 伊丹ギフトゲート\n\n3月28日土曜日\nMM 新宿高島屋
+LAST-MODIFIED:20200228T060351Z
+LOCATION:Takashimaya Shinjuku\, 5-chōme-24-2 Sendagaya\, Shibuya City\, Tōk
+ yō-to 151-8580\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(中止) MM 新宿高島屋
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200321
+DTEND;VALUE=DATE:20200322
+UID:1sag9u2n2i5rmcvtfhosg18ubl@google.com
+CREATED:20200228T060332Z
+DESCRIPTION:http://yamaguchiyuuko.cocolog-nifty.com/blog/2020/02/post-705ee
+ 8.html\n\nさらにイベント中止のお知らせ！\n\n3月14日土曜日\nKT 名古屋ギフトゲート\nCNシナモン\,CNみるく 松坂屋名古屋\n
+ KU サンリオビビッテックス原宿\n\n3月21日土曜日\nKU 伊丹ギフトゲート\n\n3月28日土曜日\nMM 新宿高島屋
+LAST-MODIFIED:20200228T060332Z
+LOCATION:Aeon Mall Itami\, 1-chōme-1-1 Fujinoki\, Itami\, Hyogo 664-0847\, 
+ Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(中止) KU イオンモール伊丹
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200314
+DTEND;VALUE=DATE:20200315
+UID:5hmk2cfbs25m57a0jeg68oihmg@google.com
+CREATED:20200228T060306Z
+DESCRIPTION:http://yamaguchiyuuko.cocolog-nifty.com/blog/2020/02/post-705ee
+ 8.html\n\nさらにイベント中止のお知らせ！\n\n3月14日土曜日\nKT 名古屋ギフトゲート\nCNシナモン\,CNみるく 松坂屋名古屋\n
+ KU サンリオビビッテックス原宿\n\n3月21日土曜日\nKU 伊丹ギフトゲート\n\n3月28日土曜日\nMM 新宿高島屋
+LAST-MODIFIED:20200228T060306Z
+LOCATION:Sanrio Vivitix Harajuku\, Japan\, 〒150-0001 Tōkyō-to\, Shibuya Cit
+ y\, Jingūmae\, 1-chōme−7−１ CUTE CUBE HARAJUKU 1F
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(中止) KU vivitix Harajuku
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200314
+DTEND;VALUE=DATE:20200315
+UID:5vj5r867cf9qaqc1rh4dcct9ja@google.com
+CREATED:20200228T060217Z
+DESCRIPTION:http://yamaguchiyuuko.cocolog-nifty.com/blog/2020/02/post-705ee
+ 8.html\n\nさらにイベント中止のお知らせ！\n\n3月14日土曜日\nKT 名古屋ギフトゲート\nCNシナモン\,CNみるく 松坂屋名古屋\n
+ KU サンリオビビッテックス原宿\n\n3月21日土曜日\nKU 伊丹ギフトゲート\n\n3月28日土曜日\nMM 新宿高島屋
+LAST-MODIFIED:20200228T060217Z
+LOCATION:Matsuzakaya Nagoya\, 3-chōme-16-1 Sakae\, Naka-ku\, Nagoya\, Aichi
+  460-8430\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(中止) CNシナモン\,CNみるく 松坂屋名古屋
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200314
+DTEND;VALUE=DATE:20200315
+UID:27dpi0r3qjb2e83pj0t06pqnoa@google.com
+CREATED:20200228T060158Z
+DESCRIPTION:http://yamaguchiyuuko.cocolog-nifty.com/blog/2020/02/post-705ee
+ 8.html\n\nさらにイベント中止のお知らせ！\n\n3月14日土曜日\nKT 名古屋ギフトゲート\nCNシナモン\,CNみるく 松坂屋名古屋\n
+ KU サンリオビビッテックス原宿\n\n3月21日土曜日\nKU 伊丹ギフトゲート\n\n3月28日土曜日\nMM 新宿高島屋
+LAST-MODIFIED:20200228T060158Z
+LOCATION:JR Takashimaya Gate Tower Mall\, 1-chōme-1-3 Meieki\, Nakamura War
+ d\, Nagoya\, Aichi 450-0002\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(中止) KT タカシマヤゲートタワーモール
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200229T000000Z
+DTEND:20200229T014000Z
+UID:7q3achia4jo1qptmdsvofo4i2g@google.com
+CREATED:20200227T134721Z
+DESCRIPTION:https://www.facebook.com/events/514547972819077/\nhttps://twitt
+ er.com/aggretsuko/status/1232832804012134401\n\nAnime Celebration at the Fu
+ nko Hollywood Store!\n\nFebruary 28th\nFunko Hollywood store\n\nAggretsuko 
+ Meet 'n Greet:\n4pm-4:20pm\n4:40pm-5pm\n5:20pm-5:40pm
+LAST-MODIFIED:20200227T134721Z
+LOCATION:Funko Hollywood\, 6201 Hollywood Blvd #100\, Los Angeles\, CA 9002
+ 8 アメリカ合衆国
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:AR Funko Hollywood Store
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200328
+DTEND;VALUE=DATE:20200329
+RRULE:FREQ=DAILY;COUNT=2
+UID:0drh0nlsi1lu3dtu71qsjsdje1@google.com
+CREATED:20200227T094421Z
+DESCRIPTION:https://sky-lantern.info/\n\n桜スカイランタン2020\n京都府立植物園\n2020-03-28\
+ ,29\n16:00-20:30\n定員 各日2000\n\nハローキティとポムポムプリンによるステージショー
+LAST-MODIFIED:20200227T094421Z
+LOCATION:Kyoto Botanical Gardens\, Shimogamo Hangicho\, Sakyo Ward\, Kyoto\
+ , 606-0823\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT\,PN 桜スカイランタン
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20200301T110000
+DTEND;TZID=Asia/Tokyo:20200301T153000
+RRULE:FREQ=WEEKLY;WKST=SU;COUNT=2;BYDAY=SU
+UID:51prhackn7vo88hmkfkuh7g61u@google.com
+CREATED:20200227T093915Z
+DESCRIPTION:https://www.seibu-leisure.co.jp/event/20520/index.html\n\n3月1日（
+ 日）、8日（日）、22日（日）\n11:00～ マイメロディとハッピーグリーティング\n13:00～ 3月バースデーセレブレーション\n15:00～ 
+ マイメロディのプリンセスアカデミー
+LAST-MODIFIED:20200227T093915Z
+LOCATION:Seibuen Amusement Park\, 2964 Yamaguchi\, Tokorozawa\, Saitama 359
+ -1145\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MM\,KT 西武園ゆうえんち
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200229T200000Z
+DTEND:20200301T000000Z
+UID:4t7pnjq5ck4441t0upjboss7ih@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
+  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
+ gle.com
+CREATED:20200227T093639Z
+DESCRIPTION:https://www.facebook.com/events/184555606168132/\nhttps://www.f
+ acebook.com/Sanrio/posts/10157011118212816/\nhttps://www.facebook.com/Sanri
+ o/posts/10157019284752816\n\nLeap Year Time Capsule Event - Meet Pochacco!\
+ nSaturday\, 29 February 2020 from 12:00-16:00 PST\nSanrio Japanese Village
+LAST-MODIFIED:20200227T093650Z
+LOCATION:Sanrio Japanese Village\, 115 Japanese Village Plaza Mall\, Los An
+ geles\, CA 90012\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:PC Sanrio Japanese Village
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200315T031000Z
+DTEND:20200315T060000Z
+UID:1nmofsoddsmhc28ufvs3n6asib@google.com
+CREATED:20200210T104329Z
+DESCRIPTION:新型コロナウイルス（COVID-19）のため中止<br><br><a href="https://ichigo-summit-
+ moka.jp/event">https://ichigo-summit-moka.jp/event</a>&nbsp\;<br><a href="h
+ ttps://www.sanrio.co.jp/news/event-ichigo-summit-20200315/" id="ow801" __is
+ _owner="true">https://www.sanrio.co.jp/news/event-ichigo-summit-20200315/</
+ a>&nbsp\;&nbsp\;<br><br>&nbsp\;<br>ストロベリーワールドフェス2020<br>3月14日（土） 9：00〜15：30
+ <br>3月15日（日） 9：00〜15：30<br>メイン会場：井頭公園東駐車場<br>サテライト会場：久保記念観光文化交流館／道の駅にのみや<br
+ ><br><br>ハローキティ＆ぐでたまミニステージ<br>3月15日（日） 12:10～<br>メインステージ<br><br>ハローキティ＆ぐでたま
+ 撮影会<br>3月15日（日） 14:30～<br>サブステージ<br>当日13:00より、メインステージ左側テントで先着30組様に整理券を配布
+LAST-MODIFIED:20200227T091736Z
+LOCATION:Igashira Koen Higashi Parking Lot\, Japan\, 〒321-4415 Tochigi\, Mo
+ ka\, Shimokomoriya\, ９９ 番地
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:(中止) KT\,GU ストロベリーワールドフェス
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200223T030000Z
+DTEND:20200223T063000Z
+UID:79qadd58l7n72hofk6ssvdjq5m@google.com
+CREATED:20200220T173428Z
+DESCRIPTION:<br><a href="https://www.city.komatsu.lg.jp/kanko_bunka/1/9821.
+ html">https://www.city.komatsu.lg.jp/kanko_bunka/1/9821.html</a>&nbsp\;<br>
+ <br>&nbsp\;新型コロナウイルスが拡大している状況を鑑み延期<br><br><a href="https://www.sanrio.co.jp
+ /news/pn-event-komatsu-kabukky-20200217/" id="ow1127" __is_owner="true">htt
+ ps://www.sanrio.co.jp/news/pn-event-komatsu-kabukky-20200217/</a>&nbsp\;<br
+ >&nbsp\;<br>新型コロナウイルス（COVID-19）の感染症拡大の防止のため中止<br><br>ポムポムプリンが「カブッキー」のお祝いにいく
+ よ！（石川県小松市）<br>2月23日（日・祝）<br><br>カブッキーとポムポムプリン握手会<br>12:00～12:30<br>カブッキーランド
+ （小松市土居原町10-10 こまつアズスクエア 1F）<br>6カ月～小学6年生のお子さまとその保護者　※大人のみでのご入場は不可<br><br>カブ
+ ッキー誕生日会<br>15:00～15:30<br>イオンモール新小松 1F 祭広場（石川県小松市清六町315）
+LAST-MODIFIED:20200223T172146Z
+LOCATION:カブッキーランド\, Japan\, 〒923-8640 Ishikawa\, Komatsu\, Doiharamachi\, １
+ ０−１０ こまつアズスクエア １階
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(延期) PN カブッキー誕生日会
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200222T020000Z
+DTEND:20200222T063000Z
+UID:7lk7pokg9knph0igv8v95o32tk@google.com
+CREATED:20200207T161215Z
+DESCRIPTION:<a href="https://mitsui-shopping-park.com/lalaport/tachikawa/ev
+ ent/1517804.html">https://mitsui-shopping-park.com/lalaport/tachikawa/event
+ /1517804.html</a><br><a href="https://www.sanrio.co.jp/news/event-lalaport-
+ tachikawa-20200222/">https://www.sanrio.co.jp/news/event-lalaport-tachikawa
+ -20200222/</a>&nbsp\;&nbsp\;<br><br>お客様の健康と安全を第一に中止<br><br>ハローキティ＆ぐでたまのシンキン
+ グ！ダンシング！クッキング！<br>2月22日（土）<br>11:00～ ショー<br>13:00～ ショー<br>15:00～ 握手会<br>2Fイ
+ ベント広場・ステージ<br><br>握手会の参加条件<br>ららぽーと立川立飛での当日1\,000円（税込・合算不可）以上のレシート提示<br>参加整
+ 理券は10:00から配布<br>定員200名
+LAST-MODIFIED:20200221T110153Z
+LOCATION:Lalaport Tachikawa Tachihi\, 935番地の1 Izumichō\, Tachikawa\, Tōkyō-
+ to 190-0015\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(中止) KT\,GU クッキング
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200224T040000Z
+DTEND:20200224T083000Z
+UID:4mn47klk18vlb7rhlnpf0dtrh7@google.com
+CREATED:20200220T174901Z
+DESCRIPTION:http://omurakyotei.jp/event/#992\n\nボートレース大村\n\nハローキティミニステージ\n2
+ 月24日（月）\n13:00頃～\n15:00頃～\n17:00頃～\nイベントホール
+LAST-MODIFIED:20200220T174901Z
+LOCATION:BOAT RACE OMURA\, 1-chōme-15-1 Kushima\, Ōmura\, Nagasaki 856-0834
+ \, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT ボートレース大村
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200710
+DTEND;VALUE=DATE:20200711
+RRULE:FREQ=DAILY;COUNT=3
+UID:0ejdng1mrb2frg0v35se0gsuja@google.com
+CREATED:20200220T174015Z
+DESCRIPTION:https://hyperjapan.co.uk/performer/hello-kitty/\nhttps://hyperj
+ apan.co.uk/news-2020/the-kawaii-icon-is-coming-to-hyper-japan-2020/\n\nHype
+ r Japan Festival 2020\n10\, 11\, 12 July 2020\nOlympia London\n\nFrom Frida
+ y 10 July to Sunday 12th July\, Hello Kitty lands in amazing Hyper Japan fo
+ r meet and greet
+LAST-MODIFIED:20200220T174015Z
+LOCATION:Olympia London\, Hammersmith Rd\, Hammersmith\, London W14 8UX\, U
+ K
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT  Hyper Japan Festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200216
+DTEND;VALUE=DATE:20200217
+UID:5e4fpufmjul15lvb6vhvh5t5ar@google.com
+CREATED:20200103T133302Z
+DESCRIPTION:<a href="https://gotochikitty.com/gentei/469">https://gotochiki
+ tty.com/gentei/469</a><br><a href="https://www.facebook.com/hellokitty.glob
+ al/posts/2803348663059931/">https://www.facebook.com/hellokitty.global/post
+ s/2803348663059931/</a>&nbsp\;&nbsp\;<br><a href="https://www.sanrio.co.jp/
+ news/mx-kubota-spears-20200117/">https://www.sanrio.co.jp/news/mx-kubota-sp
+ ears-20200117/</a>&nbsp\;<br>&nbsp\;<br>「クボタスピアーズ 」×「ハローキティ」コラボ<br>ハローキティ D
+ AY<br>2020年1月25日（土） 大阪・万博記念競技場<br>2020年2月16日（日） 東京・江東区夢の島競技場<br>チームユニフォームを着
+ たハローキティが来場<br><br>https://twitter.com/Kubota_Spears/status/1228849207454253
+ 057<br><br><br>ハローキティとスッピーが皆様にご挨拶&nbsp\;&nbsp\;<br><br>競技場正面玄関<br>10時45分<br
+ >12時15分<br>&nbsp\;<br><a href="http://www.kubota-spears.com/news/2019/11/15
+ /110000.html">http://www.kubota-spears.com/news/2019/11/15/110000.html</a><
+ br>クボタスピアーズジャパンラグビートップリーグ2020<br>日野レッドドルフィンズ戦<br>2/16（日）<br>夢の島にキティちゃんがやってく
+ る！！スッピーくん＆キティちゃんのコラボウェルカムグリーティング！&nbsp\;
+LAST-MODIFIED:20200216T011929Z
+LOCATION:Yumenoshima Athletics Stadium\, 1-chōme-1-2 Yumenoshima\, Koto Cit
+ y\, Tōkyō-to 136-0081\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT クボタスピアーズ
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200216T020000Z
+DTEND:20200216T063000Z
+UID:3noa59j7c19tvpkf6n72s7e3bs@google.com
+CREATED:20200127T135142Z
+DESCRIPTION:<a href="https://twitter.com/mooncat_n/status/12211670513030512
+ 64">https://twitter.com/mooncat_n/status/1221167051303051264</a>&nbsp\;&nbs
+ p\;<br><a href="https://twitter.com/mooncat_n/status/1227936574676983808">h
+ ttps://twitter.com/mooncat_n/status/1227936574676983808</a><br><a href="htt
+ ps://twitter.com/mooncat_n/status/1228677569794363393">https://twitter.com/
+ mooncat_n/status/1228677569794363393</a>&nbsp\;&nbsp\;<br>&nbsp\;<br>三菱自動車販
+ 売 二又瀬店&nbsp\;<br>2月16日日曜日<br>11:00-<br>13:30-<br>15:00-
+LAST-MODIFIED:20200215T165225Z
+LOCATION:Mitsubishi\, 3-chōme-16-35 Sharyō\, Higashi-ku\, Fukuoka\, 812-006
+ 8\, Japan
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:KT 三菱自動車 二又瀬
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200215T020000Z
+DTEND:20200215T063000Z
+UID:6gpnsmqtpe68lir5m9alkslcbf@google.com
+CREATED:20200204T160357Z
+DESCRIPTION:<a href="https://www.sanrio.co.jp/news/event-nagoya-takashimaya
+ -20200215/">https://www.sanrio.co.jp/news/event-nagoya-takashimaya-20200215
+ /</a><br><a href="https://twitter.com/sanrioshop_info/status/12257087734753
+ 81249" id="ow417" __is_owner="true">https://twitter.com/sanrioshop_info/sta
+ tus/1225708773475381249</a><br>https://twitter.com/cogimyun_sanrio/status/1
+ 228215302237765632<br><br>こぎみゅんと一緒に写真撮影会（Sanrio Gift Gate タカシマヤ ゲートタワーモール店）
+ <br>タカシマヤ ゲートタワーモール 7F ローズテラス<br>2月15日（土）<br>11:00<br>13:00<br>15:00<br><br
+ >写真撮影会<br>各回30名限定<br>イベント当日9:00より、タカシマヤ ゲートタワーモール 2F サロン アダム エ ロペ前にて、各回分の「参
+ 加整理券」と交換できる「購入予約券」を配布<br>当日10:00から7F サンリオギフトゲートにて、サンリオ商品を税込み1\,000円以上（お楽しみ袋
+ ・ゲーム等一部商品は対象外）購入で「参加整理券」に交換
+LAST-MODIFIED:20200214T071544Z
+LOCATION:JR Takashimaya Gate Tower Mall\, 1-chōme-1-3 Meieki\, Nakamura War
+ d\, Nagoya\, Aichi 450-0002\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CG  タカシマヤ ゲートタワーモール
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200222T013000Z
+DTEND:20200222T063000Z
+UID:3fpf0vc4drs10cq98uh3agn8dr@google.com
+CREATED:20200213T074345Z
+DESCRIPTION:https://www.westjr.co.jp/press/article/2020/02/page_15605.html\
+ n\n地域とみんなをつないで結ぶ。「ハローキティ新幹線 展」\n京都鉄道博物館\n\n「オープニングセレモニー」開催\n2020年（令和2年）2月22
+ 日（土曜日） 10時30分ごろ\n本館1階 500系新幹線\n\nハローキティと「ハローキティ新幹線」コラボ撮影会\n2020年2月22日（土曜日） 
+ 13時30分、15時\n本館1階 500系新幹線前\nツーショット不可 
+LAST-MODIFIED:20200213T074345Z
+LOCATION:Kyoto Railway Museum\, Kankijicho\, Shimogyo Ward\, Kyoto\, 600-88
+ 35\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT ハローキティ新幹線展
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200216T020000Z
+DTEND:20200216T073000Z
+UID:0u502g2ano3ds8a9e9185jiag0@google.com
+CREATED:20200127T012916Z
+DESCRIPTION:<a href="https://www.sanrio.co.jp/news/event-gg-osaki-20200216/
+ ">https://www.sanrio.co.jp/news/event-gg-osaki-20200216/</a><br><a href="ht
+ tp://sanrio.cocolog-nifty.com/shop/2020/02/post-ff0e7c.html" id="ow367" __i
+ s_owner="true">http://sanrio.cocolog-nifty.com/shop/2020/02/post-ff0e7c.htm
+ l</a>&nbsp\;<br><br>マイメロディ ダンス＆写真撮影会<br>Sanrio Gift Gate 大崎ニュー・シティ店<br>2月16
+ 日（日）<br>11:00<br>14:00<br>16:00<br><br>写真撮影会は各回30名限定<br>イベント当日10:00より、大崎ニュー
+ ・シティ 1F Sanrio Gift Gateにて、税込み1\,000円以上（お楽しみ袋・ゲーム等一部商品は対象外）購入で「写真撮影券」をお渡し
+LAST-MODIFIED:20200212T105454Z
+LOCATION:Osaki New City\, 1-chōme-6-4 Ōsaki\, Shinagawa City\, Tōkyō-to 141
+ -0032\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MM 大崎ニュー・シティ
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200208T013000Z
+DTEND:20200208T040000Z
+UID:0pfppikim4k3m4uld6d08da767@google.com
+CREATED:20200208T154139Z
+DESCRIPTION:対象：小中学生とその保護者、食育やスポーツ栄養に興味のある方\n\nhttps://shinagawa-kanko.or.jp
+ /event/syoku-cinnamon/\nhttp://cinnamon-shinagawa.jp/event/#event1629\n\n動け
+ るからだは食事から！シナモロールと楽しく学ぼう！\nきゅりあん8F\n2020-02-08 10:00-14:30\n\nしながわ観光大使 シナモロー
+ ルイベント\n10：30～　ミニクイズ&ダンス（場所：8F 大ホール）\n12：30～　撮影会 など（場所：8F 大ホールホワイエ）
+LAST-MODIFIED:20200208T154139Z
+LOCATION:Curian\, 5-chōme-18-1 Higashiōi\, 品川区 Shinagawa City\, Tōkyō-to 14
+ 0-0011\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CN 動けるからだは食事から
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200222T063000Z
+DTEND:20200222T130000Z
+UID:4vihq8ppvcd3durbvue0dv730d@google.com
+CREATED:20200119T132554Z
+DESCRIPTION:<br><a href="https://www.cultural.pthg.gov.tw/Son/Art/arts02_1.
+ aspx?ID=5743">https://www.cultural.pthg.gov.tw/Son/Art/arts02_1.aspx?ID=574
+ 3</a>&nbsp\;<br>&nbsp\;<br><br>演出延期<br>3/28(六)14:30、19:30&nbsp\;&nbsp\;<br>
+ <br>&nbsp\;<br><a href="https://www.facebook.com/hellokittytw/posts/3368979
+ 733177382/">https://www.facebook.com/hellokittytw/posts/3368979733177382/</
+ a><br><a href="https://www.artsticket.com.tw/CKSCC2005/Product/Product00/Pr
+ oductsDetailsPage.aspx?ProductId=rotyiUrPteRkntufFmf9n">https://www.artstic
+ ket.com.tw/CKSCC2005/Product/Product00/ProductsDetailsPage.aspx?ProductId=r
+ otyiUrPteRkntufFmf9n</a>&nbsp\;&nbsp\;<br><br><br>Hello Kitty蝴蝶結王國互動古典音樂會<b
+ r>屏東演藝廳-音樂廳<br>2020/02/22(六)14:30<br>2020/02/22(六)19:30
+LAST-MODIFIED:20200207T141328Z
+LOCATION:Pingtung Performing Arts Center\, No. 4-17\, Minsheng Road\, Pingt
+ ung City\, Pingtung County\, Taiwan 900
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(延期) KT\,DN\,MM\,XO 蝴蝶結王國互動古典音樂會
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200215T030000Z
+DTEND:20200215T053000Z
+UID:10fn67i4upir8msll2qshebcc9@google.com
+CREATED:20200204T161251Z
+DESCRIPTION:<a href="https://www.kiddyland.co.jp/event/umeda_mymelody/">htt
+ ps://www.kiddyland.co.jp/event/umeda_mymelody/</a><br><a href="https://www.
+ facebook.com/hellokitty.global/posts/2844745682253562/">https://www.faceboo
+ k.com/hellokitty.global/posts/2844745682253562/</a><br><a href="https://twi
+ tter.com/u_kiddyland/status/1224881765241610242">https://twitter.com/u_kidd
+ yland/status/1224881765241610242</a>&nbsp\;&nbsp\;<br><br>キデイランド大阪梅田店にマイメロデ
+ ィが遊びにくるよ！<br>2020-02-15<br>12:00-<br>14:00-<br>阪急三番街北館地下1階 ふれあい広場<br><br>各回
+ 先着20組<br>当日マイメロディ商品を2000円以上購入で整理券
+LAST-MODIFIED:20200207T141128Z
+LOCATION:Kiddy Land Osaka Umeda\, Japan\, 〒530-0012 Osaka\, Kita-ku\, Shiba
+ ta\, 1-chōme−1−３ 阪急三番街北館
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MM キデイランド大阪梅田
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200208T200000Z
+DTEND:20200209T000000Z
+UID:0h1pqs8a0nq5v2ggqammp962i4@google.com
+CREATED:20200207T140150Z
+DESCRIPTION:<a href="https://www.facebook.com/events/274419046869790/">http
+ s://www.facebook.com/events/274419046869790/</a><br><a href="https://www.in
+ stagram.com/p/B8NQpBcBDLR/">https://www.instagram.com/p/B8NQpBcBDLR/</a>&nb
+ sp\;&nbsp\;<br><br>Spread the Love with Pochacco - Card Making and Meet &am
+ p\; Greet<br>2 dates · 8 Feb – 9 Feb · PST<br>Sanrio Japanese Village\, 115
+  Japanese Village Plaza Mall\, Los Angeles\, California 90012<br><br>POCHAC
+ CO MEET &amp\; GREET:<br>Saturday\, February 8th<br>12pm - 4pm
+LAST-MODIFIED:20200207T140408Z
+LOCATION:Sanrio Japanese Village\, 115 Japanese Village Plaza Mall\, Los An
+ geles\, CA 90012\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:PC Sanrio Japanese Village
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20200215T100000
+DTEND;TZID=Asia/Tokyo:20200215T143000
+RRULE:FREQ=DAILY;COUNT=2
+UID:46adsjfknfurbt6efo5q1eo0e8@google.com
+CREATED:20200130T164011Z
+DESCRIPTION:<a href="http://hokutoinfo.com/news/4665/">http://hokutoinfo.co
+ m/news/4665/</a><br><a href="https://www.sanrio.co.jp/news/event-hokuto-feb
+ fes2020-20200215/">https://www.sanrio.co.jp/news/event-hokuto-febfes2020-20
+ 200215/</a>&nbsp\;&nbsp\;<br><br>北斗フェブラリーフェスタ2020<br>新函館北斗駅<br>2020年2月15日(土
+ )・16日(日)<br><br>サンリオ ハローキティミニステージ<br>2/15（土）・16(日)<br>10:00～<br>12:00～<br>1
+ 4:00～<br>北斗市観光交流センター1階 エスカレーター下<br><br>下記対象店舗で1\,500円(税込)以上購入で各回先着30組まで整理券を
+ 配布<br>対象店舗：北斗市観光交流センター本館・別館の全店舗、climat、tete cafe、ホテル・ラ・ジェント・プラザ函館北斗(食事・体験のみ
+ )
+LAST-MODIFIED:20200207T135539Z
+LOCATION:Hokuto City Tourism Exchange Center\, 1-chome-1 Ichinowatari\, Hok
+ uto\, Hokkaido 041-1242\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT 北斗フェブラリーフェスタ
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200211T020000Z
+DTEND:20200211T063000Z
+UID:57eqva5utuo8h51bbbm3crh4r9@google.com
+CREATED:20200125T131649Z
+DESCRIPTION:<a href="https://www.sanrio.co.jp/wp-content/uploads/2020/02/20
+ 200203-01.pdf" id="ow1036" __is_owner="true">https://www.sanrio.co.jp/wp-co
+ ntent/uploads/2020/02/20200203-01.pdf</a><br><a href="https://www.sanrio.co
+ .jp/news/mm-ku-saga-hinamatsuri-20200205/" id="ow1028" __is_owner="true">ht
+ tps://www.sanrio.co.jp/news/mm-ku-saga-hinamatsuri-20200205/</a><br><a href
+ ="https://www.city.saga.lg.jp/main/57931.html" id="ow1032" __is_owner="true
+ ">https://www.city.saga.lg.jp/main/57931.html</a><br><a href="https://www.s
+ agabai.com/main/4654.html">https://www.sagabai.com/main/4654.html</a>&nbsp\
+ ;&nbsp\;<br><a href="https://prtimes.jp/main/html/rd/p/000000179.000037629.
+ html">https://prtimes.jp/main/html/rd/p/000000179.000037629.html</a><br><br
+ >佐賀城下ひなまつり観光親善大使の任命式<br>2020年2月11日(火・祝)11:00～11:30<br>旧古賀銀行〔佐賀市歴史民俗館〕(佐賀県佐賀
+ 市柳町2-9)<br><br>着物姿のマイメロディとの写真撮影会<br>13:00～<br>15:00～<br><br>マイメロディとお花を咲かせよう
+ ！<br>2020年2月22日(土)<br>11:00～<br>13:00～<br>15:00～<br>656広場(佐賀市呉服元町2-25)<br>写
+ 真撮影会の参加には整理券が必要<br><a href="https://www.city.saga.lg.jp/main/57778.html">ht
+ tps://www.city.saga.lg.jp/main/57778.html</a><br><br>佐賀城下ひなまつり観光親善大使任命式<br>
+ 2020-02-11 11:00-11:30<br>旧古賀銀行
+LAST-MODIFIED:20200205T124554Z
+LOCATION:Former Koga Bank (Saga City Cultural Museum)\, 2-9 Yanagimachi\, S
+ aga\, 840-0823\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MM 佐賀城下ひなまつり観光親善大使任命式
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200222T020000Z
+DTEND:20200222T063000Z
+UID:70qck0nhfvd6r0855jdpv8jqg5@google.com
+CREATED:20200204T161020Z
+DESCRIPTION:<a href="https://www.sanrio.co.jp/wp-content/uploads/2020/02/20
+ 200203-01.pdf">https://www.sanrio.co.jp/wp-content/uploads/2020/02/20200203
+ -01.pdf</a><br><a href="https://www.sanrio.co.jp/news/mm-ku-saga-hinamatsur
+ i-20200205/">https://www.sanrio.co.jp/news/mm-ku-saga-hinamatsuri-20200205/
+ </a>&nbsp\;&nbsp\;<br><a href="https://www.city.saga.lg.jp/main/57931.html"
+ >https://www.city.saga.lg.jp/main/57931.html</a><br><a href="https://www.sa
+ gabai.com/main/4654.html">https://www.sagabai.com/main/4654.html</a>&nbsp\;
+ &nbsp\;<br><a href="https://prtimes.jp/main/html/rd/p/000000179.000037629.h
+ tml">https://prtimes.jp/main/html/rd/p/000000179.000037629.html</a><br><br>
+ 佐賀城下ひなまつり観光親善大使の任命式<br>2020年2月11日(火・祝)11:00～11:30<br>旧古賀銀行〔佐賀市歴史民俗館〕(佐賀県佐賀市
+ 柳町2-9)<br><br>着物姿のマイメロディとの写真撮影会<br>13:00～<br>15:00～<br><br>マイメロディとお花を咲かせよう！
+ <br>2020年2月22日(土)<br>11:00～<br>13:00～<br>15:00～<br>656広場(佐賀市呉服元町2-25)<br>写真
+ 撮影会の参加には整理券が必要<br><a href="https://www.city.saga.lg.jp/main/57778.html">htt
+ ps://www.city.saga.lg.jp/main/57778.html</a><br><br>佐賀城下ひなまつり観光親善大使任命式<br>2
+ 020-02-11 11:00-11:30<br>旧古賀銀行
+LAST-MODIFIED:20200205T124541Z
+LOCATION:656広場（むつごろう広場）\, 2-25 Gofuku Motomachi\, Saga\, 840-0824\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MM お花を咲かせよう
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200215T010000Z
+DTEND:20200215T063000Z
+UID:0pnuogi5so9h2pe3unpkgkvvo3@google.com
+CREATED:20200204T162834Z
+DESCRIPTION:HV = PC\, TX\, KR\, XO\, HG\, AP\n\nhttps://www.sanrio.co.jp/ne
+ ws/hv-hapidanbui-debut-20200131/\nhttps://www.sanrio.co.jp/wp-content/uploa
+ ds/2020/01/20200131.pdf\nhttps://www.fashion-press.net/news/57917/2  \n\nみん
+ なをちょっとハッピーにしたい男子6人組ユニット「はぴだんぶい」がデビュー！\n\n「はぴだんぶい」 pop-up ショップオープン初日に、ポチャッコが
+ お店にやってきます。\n2月15日(土)\n10:00～\n13:00～\n15:00～\n各回20分(予定)\n東急百貨店 渋谷駅・東横店西館1階 
+ SHIBUYAスクランブルI\nポップアップステージA 「はぴだんぶい」 pop-up ショップ\nツーショット撮影禁止\n\nデビュー記念LIVEイ
+ ベント\n3月1日（日）\n11:00～\n13:00～\n15:00～\n各回約20分\n東急百貨店 本店 屋上 アクセス情報\n\n雨天時のグリー
+ ティングスケジュール（各回約20分）\n11:00～：ポチャッコ・あひるのペックル\n13:00～：バッドばつ丸・ハンギョドン\n15:00～：タキシ
+ ードサム・けろけろけろっぴ\nツーショット禁止
+LAST-MODIFIED:20200204T162834Z
+LOCATION:Tokyu Department Store\, 2-chōme-24-1 Shibuya\, Shibuya City\, Tōk
+ yō-to 150-0002\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:PC はぴだんぶい pop-up ショップ
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200202T031500Z
+DTEND:20200202T051500Z
+UID:6u70dfh7hu9rjl3fq5ibphm023@google.com
+CREATED:20191219T204450Z
+DESCRIPTION:対象：保育士の資格をお持ちの方、保育士を目指す学生の方、保育の仕事に興味のある方<br>事前登録制(募集定員600名)<br>
+ <br><a href="https://www.atpress.ne.jp/news/201313">https://www.atpress.ne.
+ jp/news/201313</a><br><a href="https://www.hoiku-festa2020.jp/">https://www
+ .hoiku-festa2020.jp/</a><br><a href="https://www.sanrio.co.jp/news/kt-hoiku
+ -festa-20200129/">https://www.sanrio.co.jp/news/kt-hoiku-festa-20200129/<br
+ ></a><br><a href="https://www.facebook.com/hellokitty.japan/posts/343798608
+ 2941176/">https://www.facebook.com/hellokitty.japan/posts/3437986082941176/
+ </a><br><br>保育のおしごと応援フェスタ2020 in TOKYO<br>2020年2月2日(日)10:00～16:00(予定)<br>東京
+ 国際フォーラム ホールB7<br><br>元NHK体操のお兄さん・小林よしひささんや、「TOKYO福祉のお仕事アンバサダー」を務めるハローキティほか多
+ 彩なゲストが登場<br><br>キティの出番<br>12:15-<br>13:45-
+LAST-MODIFIED:20200202T160725Z
+LOCATION:Tokyo International Forum\, 3-chōme-5-1 Marunouchi\, Chiyoda City\
+ , Tōkyō-to 100-0005\, Japan
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:KT 保育のおしごと応援フェスタ
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20200208T100000
+DTEND;TZID=Asia/Tokyo:20200208T153000
+RRULE:FREQ=DAILY;COUNT=2
+UID:057gh4s81h7tn0bgeir1s9gg9g@google.com
+CREATED:20200202T141643Z
+DESCRIPTION:http://www.jra.go.jp/news/202002/020102.html#cont5\n\n第71回さっぽろ雪
+ まつり協賛行事「札幌競馬場 雪フェスタ 2020」\nパークウインズ札幌競馬場 \n\n2月8日（土曜）から16日（日曜）\n\nターフィー＆ハローキ
+ ティが遊びにくる\n2月8日（土曜）・2月9日（日曜）\n10時00分から10時30分\n13時00分から13時30分\n15時00分から15時30分
+ \nターフパーク内
+LAST-MODIFIED:20200202T141643Z
+LOCATION:札幌競馬場\, 16-chōme-1-1 Kita 16 Jōnishi\, Chūō-ku\, Sapporo\, Hokkaid
+ o 060-0016\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:TF\,KT 札幌競馬場 雪フェスタ
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191123T013000Z
+DTEND:20191123T060000Z
+UID:4o2jka7i5b3jjq93gmnnkfs6rr@google.com
+CREATED:20191115T150802Z
+DESCRIPTION:<a href="https://35s.co.jp/chukyotvh/event/%e5%a4%a7%e5%ba%9c20
+ 191123%e3%83%8f%e3%83%ad%e3%83%bc%e3%82%ad%e3%83%86%e3%82%a3-45%e5%91%a8%e5
+ %b9%b4%e3%82%a2%e3%83%8b%e3%83%90%e3%83%bc%e3%82%b5%e3%83%aa%e3%83%bc-%e3%8
+ 3%9f%e3%83%8b%e3%82%b9/">https://35s.co.jp/chukyotvh/event/%e5%a4%a7%e5%ba%
+ 9c20191123%e3%83%8f%e3%83%ad%e3%83%bc%e3%82%ad%e3%83%86%e3%82%a3-45%e5%91%a
+ 8%e5%b9%b4%e3%82%a2%e3%83%8b%e3%83%90%e3%83%bc%e3%82%b5%e3%83%aa%e3%83%bc-%
+ e3%83%9f%e3%83%8b%e3%82%b9/</a><br><a href="https://panahome-chita.co.jp/ev
+ ent/p15941/">https://panahome-chita.co.jp/event/p15941/</a>&nbsp\;<br>&nbsp
+ \;<br>ハローキティ45周年アニバーサリーミニステージ<br>中京テレビハウジング大府<br>2019.11.23（土）<br>10:30～ ステ
+ ージショー<br>13:00～ 握手会<br>14:30～ ステージショー
+LAST-MODIFIED:20200201T061339Z
+LOCATION:中京テレビハウジング大府\, Maeda-40-1 Yokonemachi\, Obu\, Aichi 474-0011\, Jap
+ an
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT\,MM 中京テレビハウジング大府
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20200203T120000
+DTEND;TZID=Asia/Tokyo:20200203T152000
+RRULE:FREQ=DAILY;COUNT=5
+UID:6f4ne6ja9dkojuiqudpih1k68t@google.com
+CREATED:20200201T012212Z
+DESCRIPTION:http://www.gatecity.jp/plaza/event/?ym=202002\n\nマイメロディ スペシャルグリ
+ ーティング\n2月3日(月)～2月7日(金)\n12：00〜　マイメロディ\n13：30〜　かぶきにゃんたろう\n15：00〜　マイメロディ\n各回 
+ 約20分\nゲートシティ大崎 アトリウム（地下1階）
+LAST-MODIFIED:20200201T012212Z
+LOCATION:Gate City Osaki\, 1-chōme-11-1 Ōsaki\, Shinagawa City\, Tōkyō-to 1
+ 41-0032\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MM\,KN SANRIO EXPO
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200523T020000Z
+DTEND:20200523T073000Z
+UID:260jvqq97pro5i3kcft1utrsd6@google.com
+CREATED:20200130T163530Z
+DESCRIPTION:Description:KT\,DN\,MM\,XO\,PN\,CN  \n\nhttp://www.htv.jp/event
+ /event-list/200523.html\n\nサンリオファミリーミュージカル ピューロマスケティア\n広島文化学園HBGホール\n2020年5
+ 月23日（土）\n11：00開演\n15：00開演
+LAST-MODIFIED:20200130T163530Z
+LOCATION:Hiroshima Bunka Gakuen HBG Hall\, 3-3 Kakomachi\, Naka-ku\, Hirosh
+ ima\, 730-8787\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ピューロマスケティア
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200206T012000Z
+DTEND:20200206T063000Z
+UID:7597slcg82hj8ipgn8hpqoikek@google.com
+CREATED:20200130T163328Z
+DESCRIPTION:<a href="https://shinagawa-kanko.or.jp/event/shinagawanoripr/">
+ https://shinagawa-kanko.or.jp/event/shinagawanoripr/</a><br><a href="https:
+ //www.aquarium.gr.jp/news/2020/01/176/">https://www.aquarium.gr.jp/news/202
+ 0/01/176/</a>&nbsp\;&nbsp\;<br><br>品川海苔PR動画お披露目会＆海苔の日イベント<br>2020/02/06(木)<
+ br>しながわ水族館<br><br>品川海苔PR動画のお披露目会<br>10：20～10：55<br>スペシャルゲスト：品川紋次郎<br><br>品川
+ 紋次郎ステージショー<br>13：00～<br>15：00～
+LAST-MODIFIED:20200130T163358Z
+LOCATION:Shinagawa Aquarium\, 3-chōme-2-1 Katsushima\, Shinagawa City\, Tōk
+ yō-to 140-0012\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CN紋次郎 品川海苔PR動画お披露目会
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200531
+DTEND;VALUE=DATE:20200601
+UID:359au5nufrn2tie1eeue4p73dj@google.com
+CREATED:20200130T162456Z
+DESCRIPTION:https://www.rakuteneagles.jp/special/eaglesgirl/\nhttps://www.r
+ akuteneagles.jp/news/detail/00002739.html#sanrio\n\nイーグルス ガールデー\n2020-05-31
+  13:00 横浜DeNA戦\n2020-09-06 13:00 埼玉西武戦\n\n2020-05-31\nハローキティ、シナモロール、ポムポムプリン
+ が楽天生命パーク宮城に登場
+LAST-MODIFIED:20200130T162456Z
+LOCATION:Rakuten Seimei Park Miyagi\, 2-chōme-11-6 Miyagino\, Miyagino-ku\,
+  Sendai\, Miyagi 983-0045\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT\,CN\,PN イーグルス ガールデー
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200122
+DTEND;VALUE=DATE:20200123
+UID:15b7mloprhcdf75ek7081e6cub@google.com
+CREATED:20200127T135604Z
+DESCRIPTION:<br><a href="https://twitter.com/aoni_official/status/121992007
+ 4162589696" id="ow815" __is_owner="true">https://twitter.com/aoni_official/
+ status/1219920074162589696</a><br><br><a href="https://www.ladyeve.net/arch
+ ives/063961" id="ow819" __is_owner="true">https://www.ladyeve.net/archives/
+ 063961</a>&nbsp\;<br><br>超英雄祭 KAMEN RIDER × SUPER SENTAI LIVE &amp\; SHOW 2
+ 020<br>1月22日(水)<br>横浜アリーナ
+LAST-MODIFIED:20200127T135604Z
+LOCATION:Yokohama Arena\, 3 Chome-10 Shinyokohama\, Kohoku Ward\, Yokohama\
+ , Kanagawa 222-0033\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT 超英雄祭 KAMEN RIDER × SUPER SENTAI LIVE & SHOW
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200216T023000Z
+DTEND:20200216T060000Z
+UID:49i3r51s0cp1u7v9kneresru6h@google.com
+CREATED:20200124T041940Z
+DESCRIPTION:<a href="https://www.sanrio.co.jp/news/event-gg-aeonmall-natori
+ -20200216/">https://www.sanrio.co.jp/news/event-gg-aeonmall-natori-20200216
+ /</a><br><a href="https://natori-aeonmall.com/news/event/3407">https://nato
+ ri-aeonmall.com/news/event/3407</a>&nbsp\;&nbsp\;<br><br>マイメロディが遊びにくるよ！（San
+ rio Gift Gate イオンモール名取店）<br>2月16日（日） <br><br>11:30～ 写真撮影会<br>13:00～ ダンス＆抽選会
+ <br>14:30～ 写真撮影会<br><br>写真撮影会<br>30名様限定<br>イベント当日9:00より、Sanrio Gift Gate イオ
+ ンモール名取店にて、税込み1\,000円以上（お楽しみ袋等一部商品は対象外）購入で「整理券」をお渡し
+LAST-MODIFIED:20200127T134325Z
+LOCATION:Aeon Mall Natori\, Japan\, 〒981-1227 Miyagi\, Natori\, Morisekinos
+ hita\, 5-chōme−3−１
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MM イオンモール名取
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20200202T110000
+DTEND;TZID=Asia/Tokyo:20200202T153000
+RRULE:FREQ=WEEKLY;WKST=SU;COUNT=2;INTERVAL=2;BYDAY=SU
+UID:7c1ker4g84cvlotvlqf449fpdh@google.com
+CREATED:20200125T132451Z
+DESCRIPTION:https://www.seibu-leisure.co.jp/event/20516/index.html\n\n2月メルヘ
+ ンタウンイベント\n2月2日（日）、16日（日）\n11:00～ ポチャッコとハッピーグリーティング\n13:00～ 2月バースデーセレブレーション\
+ n15:00～ ポチャッコと一緒に運動会
+LAST-MODIFIED:20200125T132451Z
+LOCATION:Seibuen Amusement Park\, 2964 Yamaguchi\, Tokorozawa\, Saitama 359
+ -1145\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:PC\,KT 西武園ゆうえんち
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200208T020000Z
+DTEND:20200208T063000Z
+UID:2uq3tjobs8atbcp7nfpjoq3l9p@google.com
+CREATED:20190315T003358Z
+DESCRIPTION:<br>http://www.new-chitose-airport.jp/ja/happy-flight/news/deta
+ il/28.html<br>https://twitter.com/HappyFlight_cts/status/121954206980009574
+ 5<br><br>ハローキティがあそびにくるよ！<br>2/8（土）<br>11:00- ミニステージ<br>13:00- ミニステージ<br>15:
+ 00- 撮影会<br><a href="http://www.new-chitose-airport.jp/ja/happy-flight/news/
+ detail/-201910202039instagramtwitterfacebook.html" id="ow1975" __is_owner="
+ true">http://www.new-chitose-airport.jp/ja/happy-flight/news/detail/-201910
+ 202039instagramtwitterfacebook.html</a><br><a href="https://twitter.com/Hap
+ pyFlight_cts/status/1106126184796942336" id="ow1971" __is_owner="true">http
+ s://twitter.com/HappyFlight_cts/status/1106126184796942336</a><br><br>2019-
+ 10-12 KU<br>2019-10-26 CN<br>2019-11-02 KT<br>2019-12-07 TS<br>2019-12-21 M
+ M<br>2020-01-18 PN<br>2020-02-08 KT<br>2020-03-21 CN
+LAST-MODIFIED:20200125T130927Z
+LOCATION:Hello Kitty Happy Flight\, Bibi\, Chitose\, Hokkaido 066-0012\, Ja
+ pan
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:KT ハッピーフライト
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200126T013000Z
+DTEND:20200126T060000Z
+UID:1s7qpc80ddq3omtmu9l41m9v5j@google.com
+CREATED:20190907T001608Z
+DESCRIPTION:<br>http://www.happiness.kota.aichi.jp/hall/event/jisyu/200126.
+ html<br><a href="https://t.pia.jp/pia/ticketInformation.do?eventCd=1939466&
+ rlsCd=001" id="ow382" __is_owner="true">https://t.pia.jp/pia/ticketInformat
+ ion.do?eventCd=1939466&amp\;rlsCd=001</a><br><br>サンリオファミリーミュージカル　ピューロマスケティア
+ ～３人のやさしい銃士たち～<br><br>2020/1/26(日)<br>10:30開演(10:00開場)<br>13:30開演(13:00開場)<b
+ r>幸田町民会館　さくらホール<br><br>2019年10月20日（日）9：00～10月26日（土）17：00 ハピル会員予約期間<br>2019年
+ 11月17日(日)9：00～ チケット発売日
+LAST-MODIFIED:20200124T164110Z
+LOCATION:幸田町民会館\, 日本、〒444-0103 愛知県額田郡幸田町大字大字大草丸山60
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:ピューロマスケティア
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20200125T120000
+DTEND;TZID=Asia/Tokyo:20200125T163000
+RRULE:FREQ=DAILY;COUNT=2
+UID:5jopv1crr2fk76me2nn6biia6v@google.com
+CREATED:20200112T110537Z
+DESCRIPTION:<a href="https://www.sanrio.co.jp/news/mx-gg-ueno-open-20200110
+ /">https://www.sanrio.co.jp/news/mx-gg-ueno-open-20200110/</a><br><a href="
+ https://twitter.com/sanrioshop_info/status/1219126654733209600">https://twi
+ tter.com/sanrioshop_info/status/1219126654733209600</a><br><a href="https:/
+ /www.sanrio.co.jp/wp-content/uploads/2020/01/20200124.pdf">https://www.sanr
+ io.co.jp/wp-content/uploads/2020/01/20200124.pdf</a>&nbsp\;&nbsp\;<br><br>1
+ /24（金）「Sanrio Gift Gate 上野店」がNEWオープン<br>東京都台東区上野4-8-6 プラザUビル1F&nbsp\;&nbsp\
+ ;<br><br>オープン記念イベント<br>1月25日（土）・26日（日）の2日間、Sanrio Gift Gate 上野店にプリンが遊びにくるよ<
+ br>Sanrio Gift Gate 上野店 店舗前<br>12:00～<br>14:00～<br>16:00～<br><br><a href="h
+ ttps://twitter.com/sanrioshop_info/status/1220145761586798592">https://twit
+ ter.com/sanrioshop_info/status/1220145761586798592</a><br><br>雨天時は中止の場合あり
+LAST-MODIFIED:20200124T155443Z
+LOCATION:上野プラザＵビル\, 4-chōme-8-6 Ueno\, Taito City\, Tōkyō-to 110-0005\, Jap
+ an
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:PN Sanrio Gift Gate 上野
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200202T080000Z
+DTEND:20200202T083000Z
+UID:0i5kkguu68c918k9h28eiuj1j9@google.com
+CREATED:20200124T041704Z
+DESCRIPTION:https://twitter.com/kachimaijigyo/status/1219564573264449537\nh
+ ttps://www.facebook.com/kachimaijigyo/posts/1485791508243914\nhttp://obihir
+ o-icefes.com/\nhttps://www.city.obihiro.hokkaido.jp/shoukoukankoubu/kankouk
+ a/icefestival.html\n\n第57回おびひろ氷まつり\n2020-01-31 / 2020-02-02\n北海道 帯広市 緑ヶ丘公園一
+ 帯\n\nDJ Hello Kitty Winter LIVE!\n2月2日17時
+LAST-MODIFIED:20200124T041704Z
+LOCATION:Midorigaoka Park\, Japan\, 〒080-0846 北海道帯広市緑ケ丘2
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT おびひろ氷まつり
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201030T103000Z
+DTEND:20201030T163000Z
+UID:6q0og1duaimsa27l5deqmf44s0@google.com
+CREATED:20200123T162257Z
+DESCRIPTION:https://www.drusillas.co.uk/events\n\nDrusillas Park\n\nThu 20t
+ h Feb\nThu 9th Apr\nThu 16th Apr\nThu 28th May\nFri 12th Jun - Sun 14th Jun
+ \nThu 30th Jul\nThu 6th Aug\nThu 13th Aug\nThu 20th Aug\nThu 27th Aug\nFri 
+ 30th Oct\n\nGreeting time in Summer Time:\n10:30-11:00\, 11:15-11:15\, 12:0
+ 0-12:30\, 12:45-13:15\,\n14:30-15:00\, 15:15-15:45\, 16:00-16:30\, 16:45-17
+ :15\n\nGreeting time in Winter Time:\n10:30-11:00\, 11:15-11:15\, 12:00-12:
+ 30\, 12:45-13:15\,\n14:30-15:00\, 15:15-15:45\, 16:00-16:30\n\nSummer Time 
+ starts on 2020-03-29\nSummer Time ends on 2020-10-25
+LAST-MODIFIED:20200123T162257Z
+LOCATION:Drusillas Park\, Alfriston Rd\, East Sussex BN26 5QS\, UK
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT Drusillas Park
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20200730T103000
+DTEND;TZID=Europe/London:20200730T171500
+RRULE:FREQ=WEEKLY;WKST=SU;COUNT=5
+UID:0uccc1tvog70u38r48630t7p8p@google.com
+CREATED:20200123T162154Z
+DESCRIPTION:https://www.drusillas.co.uk/events\n\nDrusillas Park\n\nThu 20t
+ h Feb\nThu 9th Apr\nThu 16th Apr\nThu 28th May\nFri 12th Jun - Sun 14th Jun
+ \nThu 30th Jul\nThu 6th Aug\nThu 13th Aug\nThu 20th Aug\nThu 27th Aug\nFri 
+ 30th Oct\n\nGreeting time in Summer Time:\n10:30-11:00\, 11:15-11:15\, 12:0
+ 0-12:30\, 12:45-13:15\,\n14:30-15:00\, 15:15-15:45\, 16:00-16:30\, 16:45-17
+ :15\n\nGreeting time in Winter Time:\n10:30-11:00\, 11:15-11:15\, 12:00-12:
+ 30\, 12:45-13:15\,\n14:30-15:00\, 15:15-15:45\, 16:00-16:30\n\nSummer Time 
+ starts on 2020-03-29\nSummer Time ends on 2020-10-25
+LAST-MODIFIED:20200123T162154Z
+LOCATION:Drusillas Park\, Alfriston Rd\, East Sussex BN26 5QS\, UK
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT Drusillas Park
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20200612T103000
+DTEND;TZID=Europe/London:20200612T171500
+RRULE:FREQ=DAILY;COUNT=3
+UID:4l794t6rfd5sku7u22ni8ion7b@google.com
+CREATED:20200123T162102Z
+DESCRIPTION:https://www.drusillas.co.uk/events\n\nDrusillas Park\n\nThu 20t
+ h Feb\nThu 9th Apr\nThu 16th Apr\nThu 28th May\nFri 12th Jun - Sun 14th Jun
+ \nThu 30th Jul\nThu 6th Aug\nThu 13th Aug\nThu 20th Aug\nThu 27th Aug\nFri 
+ 30th Oct\n\nGreeting time in Summer Time:\n10:30-11:00\, 11:15-11:15\, 12:0
+ 0-12:30\, 12:45-13:15\,\n14:30-15:00\, 15:15-15:45\, 16:00-16:30\, 16:45-17
+ :15\n\nGreeting time in Winter Time:\n10:30-11:00\, 11:15-11:15\, 12:00-12:
+ 30\, 12:45-13:15\,\n14:30-15:00\, 15:15-15:45\, 16:00-16:30\n\nSummer Time 
+ starts on 2020-03-29\nSummer Time ends on 2020-10-25
+LAST-MODIFIED:20200123T162102Z
+LOCATION:Drusillas Park\, Alfriston Rd\, East Sussex BN26 5QS\, UK
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT Drusillas Park
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200528T093000Z
+DTEND:20200528T161500Z
+UID:64t8dr0nugl0tptkl5o7ehu32t@google.com
+CREATED:20200123T162039Z
+DESCRIPTION:https://www.drusillas.co.uk/events\n\nDrusillas Park\n\nThu 20t
+ h Feb\nThu 9th Apr\nThu 16th Apr\nThu 28th May\nFri 12th Jun - Sun 14th Jun
+ \nThu 30th Jul\nThu 6th Aug\nThu 13th Aug\nThu 20th Aug\nThu 27th Aug\nFri 
+ 30th Oct\n\nGreeting time in Summer Time:\n10:30-11:00\, 11:15-11:15\, 12:0
+ 0-12:30\, 12:45-13:15\,\n14:30-15:00\, 15:15-15:45\, 16:00-16:30\, 16:45-17
+ :15\n\nGreeting time in Winter Time:\n10:30-11:00\, 11:15-11:15\, 12:00-12:
+ 30\, 12:45-13:15\,\n14:30-15:00\, 15:15-15:45\, 16:00-16:30\n\nSummer Time 
+ starts on 2020-03-29\nSummer Time ends on 2020-10-25
+LAST-MODIFIED:20200123T162039Z
+LOCATION:Drusillas Park\, Alfriston Rd\, East Sussex BN26 5QS\, UK
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT Drusillas Park
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20200409T103000
+DTEND;TZID=Europe/London:20200409T171500
+RRULE:FREQ=WEEKLY;WKST=SU;COUNT=2;BYDAY=TH
+UID:1n7j9cmmt7bcg62ge77jajov3n@google.com
+CREATED:20200123T161847Z
+DESCRIPTION:https://www.drusillas.co.uk/events\n\nDrusillas Park\n\nThu 20t
+ h Feb\nThu 9th Apr\nThu 16th Apr\nThu 28th May\nFri 12th Jun - Sun 14th Jun
+ \nThu 30th Jul\nThu 6th Aug\nThu 13th Aug\nThu 20th Aug\nThu 27th Aug\nFri 
+ 30th Oct\n\nGreeting time in Summer Time:\n10:30-11:00\, 11:15-11:15\, 12:0
+ 0-12:30\, 12:45-13:15\,\n14:30-15:00\, 15:15-15:45\, 16:00-16:30\, 16:45-17
+ :15\n\nGreeting time in Winter Time:\n10:30-11:00\, 11:15-11:15\, 12:00-12:
+ 30\, 12:45-13:15\,\n14:30-15:00\, 15:15-15:45\, 16:00-16:30\n\nSummer Time 
+ starts on 2020-03-29\nSummer Time ends on 2020-10-25
+LAST-MODIFIED:20200123T161847Z
+LOCATION:Drusillas Park\, Alfriston Rd\, East Sussex BN26 5QS\, UK
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT Drusillas Park
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200220T103000Z
+DTEND:20200220T163000Z
+UID:6sqbjf0510cnrq47jjtvd2h8k2@google.com
+CREATED:20200123T161811Z
+DESCRIPTION:https://www.drusillas.co.uk/events\n\nDrusillas Park\n\nThu 20t
+ h Feb\nThu 9th Apr\nThu 16th Apr\nThu 28th May\nFri 12th Jun - Sun 14th Jun
+ \nThu 30th Jul\nThu 6th Aug\nThu 13th Aug\nThu 20th Aug\nThu 27th Aug\nFri 
+ 30th Oct\n\nGreeting time in Summer Time:\n10:30-11:00\, 11:15-11:15\, 12:0
+ 0-12:30\, 12:45-13:15\,\n14:30-15:00\, 15:15-15:45\, 16:00-16:30\, 16:45-17
+ :15\n\nGreeting time in Winter Time:\n10:30-11:00\, 11:15-11:15\, 12:00-12:
+ 30\, 12:45-13:15\,\n14:30-15:00\, 15:15-15:45\, 16:00-16:30\n\nSummer Time 
+ starts on 2020-03-29\nSummer Time ends on 2020-10-25
+LAST-MODIFIED:20200123T161811Z
+LOCATION:Drusillas Park\, Alfriston Rd\, East Sussex BN26 5QS\, UK
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT Drusillas Park
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200202T013000Z
+DTEND:20200202T053000Z
+UID:5ubdtb2b8k0v1d0lr7t07ngfb2@google.com
+CREATED:20200123T065359Z
+DESCRIPTION:https://35s.co.jp/chukyotvh/event/20200202minato/\n\nハローキティ＆ディア
+ ダニエルのバレンタインミニステージ\n中京テレビハウジングみなと\n2020.02.02（日）\n10:30～\n14:00～\n\nミニステージ終了
+ 後、握手会\n天候により内容変更
+LAST-MODIFIED:20200123T065359Z
+LOCATION:中京テレビハウジングみなと\, 1-chōme-10-17 Kōmei\, Minato-ku\, Nagoya\, Aichi 4
+ 55-0018\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT\,DN 中京テレビハウジングみなと
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200130T060000Z
+DTEND:20200130T092000Z
+UID:7d56aqb46od74cbbqbq58v29j5@google.com
+CREATED:20200112T111035Z
+DESCRIPTION:<br><a href="https://www.instagram.com/p/B7iOkZYhtLm/">https://
+ www.instagram.com/p/B7iOkZYhtLm/</a>&nbsp\;<br><a href="https://prtimes.jp/
+ main/html/rd/p/000001231.000008372.html" id="ow1501" __is_owner="true">http
+ s://prtimes.jp/main/html/rd/p/000001231.000008372.html</a><br><a href="http
+ s://www.sanrio.co.jp/news/mx-fancy-sanrio-isetan-20200122/" id="ow1508" __i
+ s_owner="true">https://www.sanrio.co.jp/news/mx-fancy-sanrio-isetan-2020012
+ 2/</a><br><br>FANCY SANRIO CHARACTERS ～The Cupid Diner～<br>伊勢丹新宿店 本館6階催物場<b
+ r>1月29日～1月31日<br><br>ポチャッコが遊びに来るよ！<br>1月30日(木)イベント当日に「イベントオリジナルバームクーヘン」をご購入
+ で先着40組限定でツーショット写真撮影会<br>1月30日(木)<br>15:00-15:20<br>16:30-16:50<br>18:00-18:
+ 20
+LAST-MODIFIED:20200122T072806Z
+LOCATION:Isetan Shinjuku\, 3-chōme-14-1 Shinjuku\, Shinjuku City\, Tōkyō-to
+  160-0022\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:PC FANCY SANRIO CHARACTERS
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200201T030000Z
+DTEND:20200201T070000Z
+UID:7sq3hvf0n0qqopeebmuhj659du@google.com
+CREATED:20200121T163524Z
+DESCRIPTION:https://www.sanrio.co.jp/news/event-sanrio-world-ginza-20200201
+ /\n\nキティ＆ミミィが遊びにくるよ☆（Sanrioworld GINZA）\nサンリオワールドギンザ 1F（写真撮影会は2Fで開催）\n2月1日（
+ 土）\n12:00～\n14:00～\n15:30～\n\n各回40名限定\nイベント当日、10:00～10:15（締切）に正面入口側 サンリオワール
+ ドギンザ 1F モニュメント前にて、撮影会参加の「抽選券」を配布\n10:20から参加者と順番の抽選\nサンリオワールドギンザ 1Fにて会計時に「購入
+ 予約券」を「撮影会整理券」に交換
+LAST-MODIFIED:20200121T163524Z
+LOCATION:Sanrio World Ginza\, Japan\, 〒104-0061 Tōkyō-to\, Chuo City\, Ginz
+ a\, 4-chōme−4−１ 先 西銀座 2F
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KTキティ\,KTミミィ Sanrioworld GINZA
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200126T020000Z
+DTEND:20200126T063000Z
+UID:7o69p7oii5grhc87d6tp5q1k6t@google.com
+CREATED:20191223T122203Z
+DESCRIPTION:写真・動画撮影、録音行為は原則禁止（会場にて確認）\nhttp://www.mallage.com/shobu/sp/even
+ t/detail.php?id=379\n\nハローキティ４５周年アニバーサリー\nハローキティ　ミニステージ\n\n2020/01/26 (日)\n
+ ミニステージ①11:00～②13:00～\n撮影会③15:00～（60組）\n1F 滝のコート\n\n当日朝10：00より1F 滝のコート入口外側（国
+ 道122号側）にて\n先着200名（各回100名）に「優先入場券」を配布
+LAST-MODIFIED:20200121T061153Z
+LOCATION:Mallage Shobu\, 6005-1 Shōbuchō Shōbu\, Kuki\, Saitama 346-0106\, 
+ Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT\,PN モラージュ菖蒲
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200201
+DTEND;VALUE=DATE:20200202
+UID:34rvdjcju52juaguh8i36el00i@google.com
+CREATED:20191223T123207Z
+DESCRIPTION:https://www.sanrioanime.jp/event/event_59.html\nhttps://twitter
+ .com/cogimyun_sanrio/status/1207179157009883136\n\n『SANRIO EXPO2020』概要\n■日時
+ ：2020年2月1日（土）14：30～16：30\n■受付時間：14：00～14：30\n■開催場所：東京都品川区大崎近辺（場所の詳細は当選者に後日お
+ 知らせ）\n\n当日はこぎみゅんと一緒に写真撮影ができるグリーティングを予定
+LAST-MODIFIED:20200120T023430Z
+LOCATION:Gate City Osaki\, 1-chōme-11-1 Ōsaki\, Shinagawa City\, Tōkyō-to 1
+ 41-0032\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CG SANRIO EXPO
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200125
+DTEND;VALUE=DATE:20200126
+UID:4impk9o91r465gitm7dgm2tt2n@google.com
+CREATED:20200103T133245Z
+DESCRIPTION:<a href="https://gotochikitty.com/gentei/469">https://gotochiki
+ tty.com/gentei/469</a><br><a href="https://www.facebook.com/hellokitty.glob
+ al/posts/2803348663059931/">https://www.facebook.com/hellokitty.global/post
+ s/2803348663059931/</a>&nbsp\;<br><a href="https://www.sanrio.co.jp/news/mx
+ -kubota-spears-20200117/" id="ow1900" __is_owner="true">https://www.sanrio.
+ co.jp/news/mx-kubota-spears-20200117/</a><br>&nbsp\;<br>「クボタスピアーズ 」×「ハローキティ
+ 」コラボ<br>ハローキティ DAY<br>2020年1月25日（土） 大阪・万博記念競技場<br>2020年2月16日（日） 東京・江東区夢の島競技
+ 場<br>チームユニフォームを着たハローキティが来場
+LAST-MODIFIED:20200119T132841Z
+LOCATION:Expo '70 Commemorative Stadium\, 5-2 Senribanpakukōen\, Suita\, Os
+ aka 565-0826\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT クボタスピアーズ
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200328
+DTEND;VALUE=DATE:20200330
+UID:2feoku0f23nviaogt35hvma1d0@google.com
+CREATED:20191010T072218Z
+DESCRIPTION:<br>20歳以上の女性限定&nbsp\;<br><br><a href="http://tipsy.chu.jp/sche/
+ 2020/0328.html">http://tipsy.chu.jp/sche/2020/0328.html</a>&nbsp\;<br><br>&
+ nbsp\;TIPSY 制服ナイトMADNESS -東京-<br>3.28 SAT<br>OPEN 23:00-5:00<br><br><br><a 
+ href="https://twitter.com/u_harada/status/1182174858525855744" id="ow1220" 
+ __is_owner="true">https://twitter.com/u_harada/status/1182174858525855744</
+ a><br><a href="https://twitter.com/u_harada/status/1182218881890258945">htt
+ ps://twitter.com/u_harada/status/1182218881890258945</a><br><br>台風19号により202
+ 0年3月28日に延期<br><br><a href="http://tipsy.chu.jp/sche/2019/1012.html">http://
+ tipsy.chu.jp/sche/2019/1012.html</a><br><br>TIPSY-東京-<br>台風19号により2020年3月28日
+ に延期<br><br>DJ Hello Kitty
+LAST-MODIFIED:20200119T132202Z
+LOCATION:ageha\, 2-chōme-2-10 Shinkiba\, Koto City\, Tōkyō-to 136-0082\, Ja
+ pan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT TIPSY 東京
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200203T010000Z
+DTEND:20200203T073000Z
+UID:3liflmqsf2i0o7mase696lifb1@google.com
+CREATED:20200119T132050Z
+DESCRIPTION:http://shinsenhino.com/archives/info/200115104412.php\n\n高幡不動尊 
+ 節分豆撒式\n\n2月3日\n10:00～ 西村まさ彦、つのだ⭐︎ひろ　、寺泉　憲、岩崎愛子 、ミス日本グランプリ、ハローキティ　、ピーポくん、キュー
+ タ、イータ\n11:00～ 西村まさ彦、つのだ⭐︎ひろ、寺泉　憲、藤原　浩、神保悟志、横田美紀（プラットガール）　、ハローキティ、岩崎愛子 、ミス日本
+ グランプリ　、市紘・小奈都（祇園舞妓）、ピーポくん、キュータ、イータ\n13:00～ 西村まさ彦、つのだ⭐︎ひろ、藤原　浩、神保悟志、横田美紀（プラッ
+ トガール）　、ハローキティ、ミス日本グランプリ　　、　市紘・小奈都（祇園舞妓）、ピーポくん、キュータ\n15:00～ 西村まさ彦、つのだ⭐︎ひろ、藤原
+ 　浩、神保悟志、横田美紀（プラットガール）　、ハローキティ、ミス日本グランプリ　　、　市紘・小奈都（祇園舞妓）、ピーポくん、キュータ\n16:00～ 
+ 西村まさ彦、つのだ⭐︎ひろ、ハローキティ、ミス日本グランプ、市紘・小奈都（祇園舞妓）、ピーポくん、キュータ
+LAST-MODIFIED:20200119T132050Z
+LOCATION:Takahatasanmyooin Kongoji\, 733 Takahata\, Hino\, Tōkyō-to 191-003
+ 1\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT 節分豆撒式
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20200118T103000
+DTEND;TZID=Asia/Tokyo:20200118T143000
+RRULE:FREQ=DAILY;COUNT=2
+UID:5gu8054bkdeeod9r0qiqcr1lgf@google.com
+CREATED:20200119T131538Z
+DESCRIPTION:https://gikai.city.shinagawa.tokyo.jp/wp-content/themes/shinaga
+ wakugikai/pdf/R01_1203_ku01.pdf\n\n羽ばたけ！アントレーヌ Vol.11 in 品川\n令和2年1月18日(土)午前
+ 10時～午後5時(入場は4時30分まで)\n19日(日)午前10時～午後4時(入場は3時30分まで)\nスクエア荏原 イベントホール (荏原4-5-2
+ 8)\n\nシナモロール ステージ\n1/18 土\n10:30～ ミニステージ＆ハイタッチ会\n12:00～ 会場内お散歩\n14:00～ 撮影会\
+ n\n1/19 日\n10:30～ ミニステージ＆ハイタッチ会\n13:00～ 撮影会\n\n撮影会とハイタッチ会は各60組限定\nSHOPスタンプラ
+ リーを完成した方に先着で整理券を配布
+LAST-MODIFIED:20200119T131538Z
+LOCATION:Square Ebara\, 4-chōme-4-5-28 Ebara\, 品川区 Shinagawa City\, Tōkyō-t
+ o 142-0063\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CN 羽ばたけアントレーヌ
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200118T030000Z
+DTEND:20200118T070000Z
+UID:49oj00i5ok16sei24o94u88dnc@google.com
+CREATED:20200115T105415Z
+DESCRIPTION:<br><a href="https://www.kiddyland.co.jp/event/mymelody20200118
+ /" id="ow388" __is_owner="true">https://www.kiddyland.co.jp/event/mymelody2
+ 0200118/</a>&nbsp\;<br><a href="https://twitter.com/h_kiddyland/status/1217
+ 395795453890560" id="ow384" __is_owner="true">https://twitter.com/h_kiddyla
+ nd/status/1217395795453890560</a><br><a href="https://www.facebook.com/hell
+ okitty.global/posts/2800292350032229/" id="ow392" __is_owner="true">https:/
+ /www.facebook.com/hellokitty.global/posts/2800292350032229/</a><br>&nbsp\;<
+ br>キデイランド原宿店にマイメロディが遊びにやってきます！<br>2020-01-18<br>12:00<br>14:00<br>15:30<br>
+ <br>当日マイメロディ商品を税込み2000円以上購入の先着60組に2ショット撮影会の整理券を配布
+LAST-MODIFIED:20200117T042658Z
+LOCATION:Kiddy Land\, 6-chōme-1-9 Jingūmae\, Shibuya City\, Tōkyō-to 150-00
+ 01\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MM キデイランド原宿店
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200126T023000Z
+DTEND:20200126T070000Z
+UID:0np9hho7cc2fk4i9vnk6u9sk2j@google.com
+CREATED:20200112T111335Z
+DESCRIPTION:<a href="https://www.sanrio.co.jp/news/event-gg-aeonmall-kashih
+ ara-20200126/">https://www.sanrio.co.jp/news/event-gg-aeonmall-kashihara-20
+ 200126/</a><br><br>https://twitter.com/sanrioshop_info/status/1217999185338
+ 781701<br><br>シナモロール写真撮影会<br>イオンモール橿原 1F サンシャインコート<br>2020年1月26日（日）<br>11:3
+ 0<br>14:00<br>15:30<br><br>各回30名<br>当日9:30～からイオンモール橿原店 2F 21番入口にて購入予約券を配布<b
+ r>2F サンリオギフトゲートにてシナモロール商品を含む税込み1\,000円以上（セール品・お楽しみ袋は除く）購入で「写真整理券」に交換
+LAST-MODIFIED:20200117T030654Z
+LOCATION:Aeon Mall Kashihara\, 7-chōme-20-1 Magarikawachō\, Kashihara\, Nar
+ a 634-0837\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CN イオンモール橿原
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200118T020000Z
+DTEND:20200118T063000Z
+UID:1cjv4onevtvhmgsa8g86gf2mf5@google.com
+CREATED:20190315T003342Z
+DESCRIPTION:<br>http://www.new-chitose-airport.jp/ja/happy-flight/news/deta
+ il/118-1.html<br>https://twitter.com/HappyFlight_cts/status/121700226673497
+ 2928<br><br>ポムポムプリン グリーティング<br>2020-01-18<br>11:00 ショップ撮影会<br>13:00 撮影会<br>
+ 15:00 耳ドン＆ハグハグタイム<br><a href="http://www.new-chitose-airport.jp/ja/happy-fl
+ ight/news/detail/-201910202039instagramtwitterfacebook.html" id="ow1587" __
+ is_owner="true">http://www.new-chitose-airport.jp/ja/happy-flight/news/deta
+ il/-201910202039instagramtwitterfacebook.html</a><br><a href="https://twitt
+ er.com/HappyFlight_cts/status/1106126184796942336">https://twitter.com/Happ
+ yFlight_cts/status/1106126184796942336</a><br><br>2019-10-12 KU<br>2019-10-
+ 26 CN<br>2019-11-02 KT<br>2019-12-07 TS<br>2019-12-21 MM<br>2020-01-18 PN<b
+ r>2020-02-08 KT<br>2020-03-21 CN
+LAST-MODIFIED:20200115T015110Z
+LOCATION:Hello Kitty Happy Flight\, Bibi\, Chitose\, Hokkaido 066-0012\, Ja
+ pan
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:PN ハッピーフライト
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200118T075000Z
+DTEND:20200118T095500Z
+UID:4giakff4kagbfvhqidbq5i6vpa@google.com
+CREATED:20200103T133631Z
+DESCRIPTION:<a href="https://tokyomegaillumi.jp/news/%e3%80%8c%e3%81%97%e3%
+ 81%aa%e3%81%8c%e3%82%8f%e5%8c%ba%e6%b0%91%e3%83%87%e3%83%bc%e3%80%8d%e9%96%
+ 8b%e5%82%ac%ef%bc%81%ef%bc%81%e3%81%97%e3%81%aa%e3%81%8c%e3%82%8f%e8%a6%b3%
+ e5%85%89%e5%a4%a7%e4%bd%bf/">https://tokyomegaillumi.jp/news/%e3%80%8c%e3%8
+ 1%97%e3%81%aa%e3%81%8c%e3%82%8f%e5%8c%ba%e6%b0%91%e3%83%87%e3%83%bc%e3%80%8
+ d%e9%96%8b%e5%82%ac%ef%bc%81%ef%bc%81%e3%81%97%e3%81%aa%e3%81%8c%e3%82%8f%e
+ 8%a6%b3%e5%85%89%e5%a4%a7%e4%bd%bf/</a><br><br>TOKYO MEGA ILLUMI<br>大井競馬場<b
+ r>2019年10月5日(土)〜12月24日(火)※原則、大井競馬開催日以外の全日<br>2020年1月4日(土)〜3月29日(日)※原則、金土日祝<
+ br><br>しながわ区民デー<br>1/17(金)～1/19(日)<br>1/18(土)はしながわ観光大使「シナモロール」が来場<br><br>16
+ :50～17:15<br>18:30～18:55<br><br>ステージイベント：G-FRONT1階 特設ステージ<br>グリーティング：G-FRON
+ T～オーロラの森周辺
+LAST-MODIFIED:20200115T014907Z
+LOCATION:Oi Racecourse\, 2-chōme-1-2 Katsushima\, Shinagawa City\, Tōkyō-to
+  140-0012\, Japan
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:CN TOKYO MEGA ILLUMI
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200113T100000Z
+DTEND:20200113T103000Z
+UID:4ki4ujf8llpdrm7hsua30mo3p4@google.com
+CREATED:20200115T014704Z
+DESCRIPTION:https://prtimes.jp/main/html/rd/p/000000063.000037097.html\n\n\
+ nThe Public stand 3周年Anniversary “DJ Hello Kitty PARTY”\nパブリックスタンド渋谷店\n1月13
+ 日（祝月）\n開場17:00～\nPARTY TIME 18:30～\n\n19:00～ DJ Hello Kitty (30分間)
+LAST-MODIFIED:20200115T014704Z
+LOCATION:Public Stand Shibuya\, Japan\, 〒150-0002 Tōkyō-to\, Shibuya City\,
+  Shibuya\, 1-chōme−25−６ 渋谷パークサイド共同ビル ２F
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT The Public stand 3周年
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200118T020000Z
+DTEND:20200118T070000Z
+UID:0ngdgh4d4debrmkamlh9ugudcg@google.com
+CREATED:20191219T214015Z
+DESCRIPTION:<a href="https://www.housing-messe.com/kashiwashonan.html" id="
+ ow370" __is_owner="true">https://www.housing-messe.com/kashiwashonan.html</
+ a><a href="https://www.housing-messe.com/smp/tenjijo.php?n=kashiwashonan" i
+ d="ow374" __is_owner="true">https://www.housing-messe.com/smp/tenjijo.php?n
+ =kashiwashonan</a><br><a href="https://twitter.com/10hamuchan10/status/1216
+ 945281859637248" id="ow378" __is_owner="true">https://twitter.com/10hamucha
+ n10/status/1216945281859637248</a>&nbsp\;&nbsp\;<br><br>1月18日(土)<br>かしわ沼南住宅
+ 公園<br><br>ハローキティ　ミニステージ<br>①１１：００～　②１３：３０～　③１５：３０～（各回１５分）<br>〇ハローキティ握手＆撮影会<
+ br>①１１：１５～　②１３：４５～　③１５：４５～
+LAST-MODIFIED:20200114T054040Z
+LOCATION:かしわ沼南住宅公園\, Japan\, 〒277-0922 Chiba\, Kashiwa\, Ōshimata\, 2 Chome
+ −２−１
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT かしわ沼南住宅公園
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200112T020000Z
+DTEND:20200112T063000Z
+UID:22n3sfkva7nh422mtscbe0dpiq@google.com
+CREATED:20200112T110425Z
+DESCRIPTION:https://asp.shufoo.net/c/2019/12/27/c/9542053884084/index.html?
+ shopId=277536&chirashiId=9542053884084\n\nハローキティ＆ぐでたまのシンギング！ダンシング！クッキング！\nハ
+ ウジングワールド立川\n2020-01-12\n11:00\n15:00
+LAST-MODIFIED:20200112T110425Z
+LOCATION:ＡＢＣハウジング・ハウジングワールド立川\, 935-1 Izumichō\, Tachikawa\, Tōkyō-to 190-0
+ 015\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT\,GU クッキング
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200112T023000Z
+DTEND:20200112T070000Z
+UID:7kb4toelqme4e666mrb2qogbhh@google.com
+CREATED:20200109T104106Z
+DESCRIPTION:https://www.instagram.com/p/B7F62HaJVNt/\n\nハローキティ ファン・ファン・フェス\
+ n2019-12-27 / 2020-01-13\n阪急梅田本店 9F 祝祭広場\n\nハローキティグリーティング\n1月12日（日）11:30～、1
+ 3:30～、15:30～\n9階祝祭広場と11階ベビー・こども服売場\nツーショット撮影はなし
+LAST-MODIFIED:20200109T104106Z
+LOCATION:阪急うめだ本店\, 日本、〒530-8350 大阪府大阪市北区角田町８−７
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT ファン・ファン・フェス
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200113T020000Z
+DTEND:20200113T063000Z
+UID:3rrhri8etja4r64adjpnjq26qs@google.com
+CREATED:20200104T150724Z
+DESCRIPTION:<a href="https://mitsui-shopping-park.com/lalaport/tachikawa/ev
+ ent/1484924.html">https://mitsui-shopping-park.com/lalaport/tachikawa/event
+ /1484924.html</a><br><br>マイメロディ＆クロミ  ミニステージ<br>1月13日(月・祝)<br>11:00~ ミニステージ<
+ br>13:00~ ミニステージ<br>15:00~ 握手会<br>ららぽーと立川立飛 2Ｆ イベント広場・ステージ <br><br>10:00より「
+ 握手会」の整理券を2Ｆイベント広場にて配布<br>「握手会」整理券はお子様一人につき、当日のお買上げレシート1\,000円以上<br><br>荒天の場
+ 合、予告無く中止する場合あり<br>当日の写真撮影、動画撮影は禁止 → 12日のみ撮影禁止
+LAST-MODIFIED:20200108T124943Z
+LOCATION:Lalaport Tachikawa Tachihi\, 935番地の1 Izumichō\, Tachikawa\, Tōkyō-
+ to 190-0015\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MM\,KU ららぽーと立川立飛
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200117
+DTEND;VALUE=DATE:20200118
+UID:1p789t6t8k34n3g7kj2r5qs617@google.com
+CREATED:20200106T105546Z
+DESCRIPTION:https://riviera-sapporo.com/event/dj-hello-kitty/\n\n01.17 FRI\
+ nOPEN 21:00\nRiviera Sapporo\nSpecial Guest DJ DJ Hello Kitty
+LAST-MODIFIED:20200106T105546Z
+LOCATION:Riviera Sapporo\, 日本、〒064-0806 北海道札幌市中央区南６条西４丁目 南6条西4-2-4 ススキノ野口ビル
+  B1F
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT Riviera Sapporo
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200119T020000Z
+DTEND:20200119T063000Z
+UID:42r4jt3k6acqd9pai504kp3j1q@google.com
+CREATED:20200106T105138Z
+DESCRIPTION:https://www.hyogo-mitsubishi.com/news/info20191224102608.html\n
+ \n\nハローキティとあそぼう！\n写真撮影会各回30組、イベント開始時間の30分前から整理券配布\n\n1月18日（土）1100\,1300\,15
+ 00\n姫路三菱自動車販売太子店\n\n1月19日（日）1100\,1300\,1500\n姫路三菱自動車販売明石店
+LAST-MODIFIED:20200106T105138Z
+LOCATION:姫路三菱自動車販売（株）姫路店\, 日本、〒671-0253 兵庫県姫路市花田町一本松字深田89
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT 姫路三菱自動車販売明石店
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200118T020000Z
+DTEND:20200118T063000Z
+UID:4vfbm6g0g6s1tbr0soer500v06@google.com
+CREATED:20200106T105045Z
+DESCRIPTION:https://www.hyogo-mitsubishi.com/news/info20191224102608.html\n
+ \nハローキティとあそぼう！\n写真撮影会各回30組、イベント開始時間の30分前から整理券配布\n\n1月18日（土）1100\,1300\,1500
+ \n姫路三菱自動車販売太子店\n\n1月19日（日）1100\,1300\,1500\n姫路三菱自動車販売明石店
+LAST-MODIFIED:20200106T105045Z
+LOCATION:姫路三菱自動車販売（株） クリンカー太子\, 日本、〒671-1524 兵庫県揖保郡太子町東保１４−１
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT 姫路三菱自動車販売太子店
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200105T020000Z
+DTEND:20200105T063000Z
+UID:6s90i10lmveebncqm4lrdbnke1@google.com
+CREATED:20200106T104415Z
+DESCRIPTION:https://luvit-town.jp/nakatsugawa/news_20191225.html\n\nハローキティミ
+ ニステージ\n1/5(日)1100\,1300\,1500\n1階イベント広場
+LAST-MODIFIED:20200106T104415Z
+LOCATION:ルビットタウン中津川\, 8 ３\, ３ 淀川町 中津川市 岐阜県 508-0034 日本
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT ルビットタウン中津川
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200103
+DTEND;VALUE=DATE:20200106
+UID:03ihu224ff719mn3jv5f8e3qc5@google.com
+CREATED:20200106T103906Z
+DESCRIPTION:https://www.tenmaya.co.jp/cgi/web/index.cgi?c=event-list&shop_p
+ k=1\n\n天満屋新春特別企画　サンリオミニステージ\n1/3(金)-1/5(日)\n天満屋岡山店
+LAST-MODIFIED:20200106T103906Z
+LOCATION:天満屋 岡山店\, 日本、〒700-8625 岡山県岡山市北区表町２丁目１−１
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:サンリオミニステージ
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200105T001000Z
+DTEND:20200105T004000Z
+UID:2tt7fb9duvsbdrv9i2ge2e09ic@google.com
+CREATED:20191223T121436Z
+DESCRIPTION:https://umabi.jp/event/nakayama/202001/\n\n第1回中山競馬\n中山競馬場\n\n1.
+ 5[日]\n\n中山新春「大鏡開き」\nターフィー＆ハローキティが大鏡開きに登場\n9:10頃～\nグランプリガーデン\n雨天時は中止\n\n1.11
+ [土]・12[日]・13[祝・月]\n\nターフィーとじゃんけん大会\n①11:00～11:30 ②13:00～13:30 ③15:00～15:30\
+ n馬場内テラス\n雨天時は馬場内エリア入口前（銀だこ向かい）で実施、参加は小学生以下のお子様に限り1日1回まで、各回先着50名\n\n1.18[土]・
+ 19[日]\n\nご当地ターフィーが登場！\n①9:00～9:30 ②10:30～11:30 ③13:30～14:30 ④15:30～16:00\nう
+ まキッズひろば\n雨天時は馬場内エリア入口前周辺に登場
+LAST-MODIFIED:20200105T135722Z
+LOCATION:中山競馬場\, 日本、〒273-0037 千葉県船橋市古作１丁目１−１
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:TF\,KT 中山競馬
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200105T020000Z
+DTEND:20200105T063000Z
+UID:7t8fnf2d12ii8j0b2e6soqdu0u@google.com
+CREATED:20200103T132703Z
+DESCRIPTION:https://mitsui-shopping-park.com/lalaport/kashiwa/event/1488675
+ .html\nhttps://www.sanrio.co.jp/news/event-lalaport-kashiwanoha-20191226/\n
+ \nハローキティ 45周年アニバーサリー　ミニステージ＆撮影会\nららぽーと柏の葉 本館2F クリスタルコート\n2020年1月5日（日）\n11:0
+ 0～ ミニステージ\n13:00～ 写真撮影会\n15:00～ ミニステージ\n\nハローキティとマイメロディがららぽーと柏の葉に遊びにくるよ\n撮影
+ 会の整理券は当日10：00より先着60組様へ会場にて配布
+LAST-MODIFIED:20200103T132703Z
+LOCATION:LaLaport Kashiwanoha\, 175 Wakashiba\, Kashiwa\, Chiba 277-8518\, 
+ Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT\,MM ららぽーと柏の葉
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200117
+DTEND;VALUE=DATE:20200121
+UID:04jalv4dta34aq44mc281l3qeu@google.com
+CREATED:20200103T132247Z
+DESCRIPTION:https://www.facebook.com/SanrioBrasil/posts/10158049441464954/\
+ n\nRio Matsuri\n17/01 (Sexta-feira): 10h às 22h\n18/01 (Sábado): 10h às 22h
+ \n19/01 (Domingo): 10h às 22h\n20/01 (Segunda-feira): 10h às 22h\nRIOCENTRO
+ \nAvenida Salvador Allende\, 6.555 Barra da Tijuca – Rio de Janeiro/RJ\n\nH
+ ello Kitty estará presente no evento Rio Matsuri\, de 17 a 20/01 no Rio de 
+ Janeiro.
+LAST-MODIFIED:20200103T132315Z
+LOCATION:Riocentro Convention & Event Center\, Av. Salvador Allende\, 6555 
+ - Barra da Tijuca\, Rio de Janeiro - RJ\, 22783-127\, Brazil
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:KT Rio Matsuri
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200105T020000Z
+DTEND:20200105T063000Z
+UID:70olj9s82hlhpf4493p5qng0og@google.com
+CREATED:20191231T021747Z
+DESCRIPTION:<a href="https://www.e-a-site.com/event_info/detail/?id=29795&a
+ mp\;sr=27" id="ow644" __is_owner="true">https://www.e-a-site.com/event_info
+ /detail/?id=29795&amp\;sr=27</a><br><br><br>ハローキティと一緒にクイズやダンスをして盛り上がろう！<br>
+ ステージ終了後には、握手会もあるよ！<br>開催時刻: 11:00\, 13:30\, 15:00
+LAST-MODIFIED:20191231T021747Z
+LOCATION:海老名ハウジングギャラリー\, 日本、〒243-0432 神奈川県海老名市中央１丁目９−１０
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT 新春ミニステージ
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20200112T050000Z
 DTEND:20200112T083000Z
 UID:1grv4ciqfbt410mdirve2v67pq@google.com
@@ -717,22 +3049,6 @@ SUMMARY:KT Sanrio Japanese Village
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20200201
-DTEND;VALUE=DATE:20200202
-UID:34rvdjcju52juaguh8i36el00i@google.com
-CREATED:20191223T123207Z
-DESCRIPTION:https://www.sanrioanime.jp/event/event_59.html\nhttps://twitter
- .com/cogimyun_sanrio/status/1207179157009883136\n\n『SANRIO EXPO2020』概要\n■日時
- ：2020年2月1日（土）14：30～16：30\n■受付時間：14：00～14：30\n■開催場所：東京都品川区大崎近辺（場所の詳細は当選者に後日お
- 知らせ）\n\n当日はこぎみゅんと一緒に写真撮影ができるグリーティングを予定
-LAST-MODIFIED:20191223T123207Z
-LOCATION:東京都品川区大崎近辺
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:CG SANRIO EXPO
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20200113T020000Z
 DTEND:20200113T063000Z
 UID:3kt2bip8slvt2oh1v1utgs6nu9@google.com
@@ -745,22 +3061,6 @@ LOCATION:ＫＲＹハウジングサイト\, 日本、〒745-0874 山口県周�
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:KT KRYハウジングサイト
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20200126T020000Z
-DTEND:20200126T063000Z
-UID:7o69p7oii5grhc87d6tp5q1k6t@google.com
-CREATED:20191223T122203Z
-DESCRIPTION:写真・動画撮影、録音行為は原則禁止（会場にて確認）\nhttp://www.mallage.com/shobu/sp/even
- t/detail.php?id=379\n\nハローキティ４５周年アニバーサリー\nハローキティ　ミニステージ\n\n2020/01/26 (日)\n
- ミニステージ①11:00～②13:00～\n撮影会③15:00～（60組）\n1F 滝のコート\n\n当日朝10：00より1F 滝のコート入口外側（国
- 道122号側）にて\n先着200名（各回100名）に「優先入場券」を配布
-LAST-MODIFIED:20191223T122203Z
-LOCATION:モラージュ菖蒲\, 日本、〒346-0106 埼玉県久喜市菖蒲町菖蒲６００５−１
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:KT\,PN モラージュ菖蒲
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -799,24 +3099,6 @@ LOCATION:中山競馬場\, 日本、〒273-0037 千葉県船橋市古作１丁�
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:TF 中山競馬
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20200105T121000Z
-DTEND:20200105T124000Z
-UID:2tt7fb9duvsbdrv9i2ge2e09ic@google.com
-CREATED:20191223T121436Z
-DESCRIPTION:https://umabi.jp/event/nakayama/202001/\n\n第1回中山競馬\n中山競馬場\n\n1.
- 5[日]\n\n中山新春「大鏡開き」\nターフィー＆ハローキティが大鏡開きに登場\n9:10頃～\nグランプリガーデン\n雨天時は中止\n\n1.11
- [土]・12[日]・13[祝・月]\n\nターフィーとじゃんけん大会\n①11:00～11:30 ②13:00～13:30 ③15:00～15:30\
- n馬場内テラス\n雨天時は馬場内エリア入口前（銀だこ向かい）で実施、参加は小学生以下のお子様に限り1日1回まで、各回先着50名\n\n1.18[土]・
- 19[日]\n\nご当地ターフィーが登場！\n①9:00～9:30 ②10:30～11:30 ③13:30～14:30 ④15:30～16:00\nう
- まキッズひろば\n雨天時は馬場内エリア入口前周辺に登場
-LAST-MODIFIED:20191223T121436Z
-LOCATION:中山競馬場\, 日本、〒273-0037 千葉県船橋市古作１丁目１−１
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:TF\,KT 中山競馬
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -871,24 +3153,6 @@ LOCATION:TRESSA Yokohama PO\, Japan\, 〒222-0002 Kanagawa\, Yokohama\, Kohok
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:KT トレッサ横浜郵便局
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20200118T020000Z
-DTEND:20200118T070000Z
-UID:0ngdgh4d4debrmkamlh9ugudcg@google.com
-CREATED:20191219T214015Z
-DESCRIPTION:<br>https://www.housing-messe.com/kashiwashonan.html<a href="ht
- tps://www.housing-messe.com/smp/tenjijo.php?n=kashiwashonan" id="ow3449" __
- is_owner="true">https://www.housing-messe.com/smp/tenjijo.php?n=kashiwashon
- an</a><br><br>1月18日(土)<br>かしわ沼南住宅公園<br><br>ハローキティ　ミニステージ<br>①１１：００～　②１３：３０～
- 　③１５：３０～（各回１５分）<br>〇ハローキティ握手＆撮影会<br>①１１：１５～　②１３：４５～　③１５：４５～
-LAST-MODIFIED:20191220T172507Z
-LOCATION:かしわ沼南住宅公園\, Japan\, 〒277-0922 Chiba\, Kashiwa\, Ōshimata\, 2 Chome
- −２−１
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:KT かしわ沼南住宅公園
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -1124,22 +3388,6 @@ LOCATION:統一夢時代ショッピングモール 高雄ブランチ\, No. 789
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:KT\,MM OPEN!大氣球遊行
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20200202
-DTEND;VALUE=DATE:20200203
-UID:6u70dfh7hu9rjl3fq5ibphm023@google.com
-CREATED:20191219T204450Z
-DESCRIPTION:対象：保育士の資格をお持ちの方、保育士を目指す学生の方、保育の仕事に興味のある方\n事前登録制(募集定員600名)\n\nht
- tps://www.atpress.ne.jp/news/201313\nhttps://www.hoiku-festa2020.jp/\n\n保育の
- おしごと応援フェスタ2020 in TOKYO\n2020年2月2日(日)10:00～16:00(予定)\n東京国際フォーラム ホールB7\n\n元N
- HK体操のお兄さん・小林よしひささんや、「TOKYO福祉のお仕事アンバサダー」を務めるハローキティほか多彩なゲストが登場
-LAST-MODIFIED:20191219T204450Z
-LOCATION:東京国際フォーラム\, 日本、〒100-0005 東京都千代田区丸の内３丁目５−１
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:KT 保育のおしごと応援フェスタ
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2285,25 +4533,6 @@ SUMMARY:KT パラスポーツフェスタえどがわ
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20200322T020000Z
-DTEND:20200322T063000Z
-UID:05eo29enf99t7lgsres5u4jiaj@google.com
-CREATED:20191121T162307Z
-DESCRIPTION:KT\,DN\,MM\,XO\,PN\,CN\n\nhttps://www.tsk-tv.com/event/detail.p
- hp?p=28459\nhttps://l-tike.com/order/?gLcode=61812&fbclid=IwAR1wFNR5IcrcBv8
- CCea91bWZpZgiyHWk4HW_B77VVCYczlr2wyY1TWdq-sE\nhttps://t.pia.jp/pia/ticketIn
- formation.do?eventCd=1937806&rlsCd&lotRlsCd=44441&fbclid=IwAR2RgTec8hFI_Kgh
- RwYRYXUqXEOZUvRNovrZ-IglNB9Si_zFDlRLS8FToIY\n\nピューロマスケティア～３人のやさしい銃士たち～\n島根県
- 民会館 大ホール\n2020年3月22日（日）\n11:00 開演 (10:00 開場)\n14:00 開演 (13:00 開場)
-LAST-MODIFIED:20191121T162307Z
-LOCATION:Shimane Culture Hall\, 158 Tonomachi\, Matsue\, Shimane 690-0887\,
-  Japan
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:ピューロマスケティア
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20191122T053000Z
 DTEND:20191122T100000Z
 UID:5a6lt852136sr9o6jdbhbn7m75@google.com
@@ -2318,22 +4547,6 @@ SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:TF\,KT ウインズ新宿
 TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20200216
-DTEND;VALUE=DATE:20200217
-UID:6aur6e16fs8a3psu20ukcc4fas@google.com
-CREATED:20191121T142534Z
-DESCRIPTION:http://www.kubota-spears.com/news/2019/11/15/110000.html\n\nクボタ
- スピアーズ\nジャパンラグビートップリーグ2020　日野レッドドルフィンズ戦\n2/16（日）\n夢の島にキティちゃんがやってくる！！スッピーくん＆キ
- ティちゃんのコラボウェルカムグリーティング！
-LAST-MODIFIED:20191121T142534Z
-LOCATION:Yumenoshima Athletics Stadium\, 1-chōme-1-2 Yumenoshima\, Koto Cit
- y\, Tōkyō-to 136-0081\, Japan
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:KT クボタスピアーズ
-TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20191124T020000Z
@@ -2405,24 +4618,6 @@ LOCATION:Okayama Civic Hall\, 2-chōme-1-1 Marunouchi\, Kita-ku\, Okayama\,
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:ピューロマスケティア
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20191123T013000Z
-DTEND:20191123T060000Z
-UID:4o2jka7i5b3jjq93gmnnkfs6rr@google.com
-CREATED:20191115T150802Z
-DESCRIPTION:https://35s.co.jp/chukyotvh/event/%e5%a4%a7%e5%ba%9c20191123%e3
- %83%8f%e3%83%ad%e3%83%bc%e3%82%ad%e3%83%86%e3%82%a3-45%e5%91%a8%e5%b9%b4%e3
- %82%a2%e3%83%8b%e3%83%90%e3%83%bc%e3%82%b5%e3%83%aa%e3%83%bc-%e3%83%9f%e3%8
- 3%8b%e3%82%b9/\n\nハローキティ45周年アニバーサリーミニステージ\n中京テレビハウジング大府\n2019.11.23（土）\n10:
- 30～ ステージショー\n13:00～ 握手会\n14:30～ ステージショー
-LAST-MODIFIED:20191115T150802Z
-LOCATION:中京テレビハウジング大府\, Maeda-40-1 Yokonemachi\, Obu\, Aichi 474-0011\, Jap
- an
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:KT\,MM 中京テレビハウジング大府
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -4553,43 +6748,6 @@ SUMMARY:(中止) CN\,MM\,PN サンリオハロウィーンパレード
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20200328
-DTEND;VALUE=DATE:20200330
-UID:2feoku0f23nviaogt35hvma1d0@google.com
-CREATED:20191010T072218Z
-DESCRIPTION:<br>20歳以上の女性限定&nbsp\;<br><br><br>https://twitter.com/u_harada/s
- tatus/1182174858525855744<br>https://twitter.com/u_harada/status/1182218881
- 890258945<br><br>台風19号により2020年3月28日に延期<br><br><a href="http://tipsy.chu.jp/
- sche/2019/1012.html" id="ow625" __is_owner="true">http://tipsy.chu.jp/sche/
- 2019/1012.html</a><br><br>TIPSY-東京-<br>台風19号により2020年3月28日に延期<br><br>DJ Hell
- o Kitty
-LAST-MODIFIED:20191011T061645Z
-LOCATION:ageha\, 2-chōme-2-10 Shinkiba\, Koto City\, Tōkyō-to 136-0082\, Ja
- pan
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:KT TIPSY 東京
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20191012
-DTEND;VALUE=DATE:20191014
-UID:7dmkrok8g2euqouoa9fpppmiui@google.com
-CREATED:20190827T165406Z
-DESCRIPTION:<br>20歳以上の女性限定<br>https://twitter.com/u_harada/status/118217485
- 8525855744<br>https://twitter.com/u_harada/status/1182218881890258945<br><b
- r>台風19号により2020年3月28日に延期<br><br><a href="http://tipsy.chu.jp/sche/2019/1012.
- html">http://tipsy.chu.jp/sche/2019/1012.html</a><br><br>TIPSY-東京-<br>2019.
-  10. 12 SAT<br>23:00-5:00<br><br>DJ Hello Kitty
-LAST-MODIFIED:20191011T061619Z
-LOCATION:ageha\, 2-chōme-2-10 Shinkiba\, Koto City\, Tōkyō-to 136-0082\, Ja
- pan
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:(中止) KT TIPSY 東京
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20191012T032500Z
 DTEND:20191012T064000Z
 UID:2hafj104o5akgqlm9261vimirf@google.com
@@ -5579,21 +7737,6 @@ SUMMARY:KT レディGO Project
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20200328T080000Z
-DTEND:20200328T113000Z
-UID:0mu71u4s3jmpaud1sg6fjm6h5h@google.com
-CREATED:20190920T125353Z
-DESCRIPTION:http://mmtsrun.com/\nhttps://www.facebook.com/hellokittytw/post
- s/3007630855978940/\n\n美樂蒂&雙星仙子 45週年 經典星空夜跑\n2020年3月28日 星期六 16:00-19:30\n台北
- 市大佳河濱公園（暫定，實際可使用地點需待台北市政府審核後確認）
-LAST-MODIFIED:20190920T125353Z
-LOCATION:Dajia Riverside Park\, 104\, Taiwan\, 台北市中山區晴光里
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:MM\,TS\,KT 經典星空夜跑
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20180429T040000Z
 DTEND:20180429T083000Z
 UID:5jpd9f2iekgl0sm506kso1baoe@google.com
@@ -5657,25 +7800,6 @@ LOCATION:天神２丁目\, 日本、〒810-0001 福岡県福岡市中央区天�
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:KU 福岡天神地下街
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20200126T013000Z
-DTEND:20200126T060000Z
-UID:1s7qpc80ddq3omtmu9l41m9v5j@google.com
-CREATED:20190907T001608Z
-DESCRIPTION:<br>http://www.happiness.kota.aichi.jp/hall/event/jisyu/200126.
- html<br><a href="https://t.pia.jp/pia/ticketInformation.do?eventCd=1939466&
- rlsCd=001" id="ow382" __is_owner="true">https://t.pia.jp/pia/ticketInformat
- ion.do?eventCd=1939466&amp\;rlsCd=001</a><br><br>サンリオファミリーミュージカル　ピューロマスケティア
- ～３人のやさしい銃士たち～<br><br>2020/1/26(日)<br>10:30開演(10:00開場)<br>13:30開演(13:00開場)<b
- r>幸田町民会館　さくらホール<br><br>2019年10月20日（日）9：00～10月26日（土）17：00 ハピル会員予約期間<br>2019年
- 11月17日(日)9：00～ チケット発売日
-LAST-MODIFIED:20190919T044808Z
-LOCATION:幸田町民会館\, 日本、〒444-0103 愛知県額田郡幸田町大字大字大草丸山60
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:ピューロマスケティア
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -13074,60 +15198,6 @@ SEQUENCE:1
 STATUS:CONFIRMED
 SUMMARY:PC イオンモール八幡東
 TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20200321
-DTEND;VALUE=DATE:20200322
-UID:0elmjdpd7bn12jkb6sb8rcu78i@google.com
-CREATED:20190315T003412Z
-DESCRIPTION:http://www.new-chitose-airport.jp/ja/happy-flight/news/detail/-
- 201910202039instagramtwitterfacebook.html\nhttps://twitter.com/HappyFlight_
- cts/status/1106126184796942336\n\n2019-10-12 KU\n2019-10-26 CN\n2019-11-02 
- KT\n2019-12-07 TS\n2019-12-21 MM\n2020-01-18 PN\n2020-02-08 KT\n2020-03-21 
- CN
-LAST-MODIFIED:20190315T003412Z
-LOCATION:Hello Kitty Happy Flight\, Bibi\, Chitose\, Hokkaido 066-0012\, Ja
- pan
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:CN ハッピーフライト
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20200208
-DTEND;VALUE=DATE:20200209
-UID:2uq3tjobs8atbcp7nfpjoq3l9p@google.com
-CREATED:20190315T003358Z
-DESCRIPTION:http://www.new-chitose-airport.jp/ja/happy-flight/news/detail/-
- 201910202039instagramtwitterfacebook.html\nhttps://twitter.com/HappyFlight_
- cts/status/1106126184796942336\n\n2019-10-12 KU\n2019-10-26 CN\n2019-11-02 
- KT\n2019-12-07 TS\n2019-12-21 MM\n2020-01-18 PN\n2020-02-08 KT\n2020-03-21 
- CN
-LAST-MODIFIED:20190315T003358Z
-LOCATION:Hello Kitty Happy Flight\, Bibi\, Chitose\, Hokkaido 066-0012\, Ja
- pan
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:KT ハッピーフライト
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20200118
-DTEND;VALUE=DATE:20200119
-UID:1cjv4onevtvhmgsa8g86gf2mf5@google.com
-CREATED:20190315T003342Z
-DESCRIPTION:http://www.new-chitose-airport.jp/ja/happy-flight/news/detail/-
- 201910202039instagramtwitterfacebook.html\nhttps://twitter.com/HappyFlight_
- cts/status/1106126184796942336\n\n2019-10-12 KU\n2019-10-26 CN\n2019-11-02 
- KT\n2019-12-07 TS\n2019-12-21 MM\n2020-01-18 PN\n2020-02-08 KT\n2020-03-21 
- CN
-LAST-MODIFIED:20190315T003342Z
-LOCATION:Hello Kitty Happy Flight\, Bibi\, Chitose\, Hokkaido 066-0012\, Ja
- pan
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:PN ハッピーフライト
-TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20190323T030000Z
