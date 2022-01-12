@@ -188,6 +188,16 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VTIMEZONE
+TZID:Asia/Seoul
+X-LIC-LOCATION:Asia/Seoul
+BEGIN:STANDARD
+TZOFFSETFROM:+0900
+TZOFFSETTO:+0900
+TZNAME:KST
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
 TZID:Australia/Sydney
 X-LIC-LOCATION:Australia/Sydney
 BEGIN:STANDARD
@@ -384,6 +394,406 @@ RRULE:FREQ=YEARLY;BYMONTH=9;BYDAY=1SU
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+DTSTART:20210124T020000Z
+DTEND:20210124T063000Z
+UID:36pm5qtmuvtmenbo3i8e1951c2@google.com
+CREATED:20200905T053510Z
+DESCRIPTION:<a href="https://eplus.jp/sf/detail/3312310001">https://eplus.j
+ p/sf/detail/3312310001</a><br>https://www.biwako-arts.or.jp/rd/event/24270.
+ html<br><br>ピューロマスケティア～3人のやさしい銃士たち～<br>草津市立草津クレアホール<br>2021/1/24(日)<br>開演：1
+ 1:00～ (開場 10:30～)<br>開演：14:00～ (開場 13:30～)<br><br>KT\,DN\,MM\,XO\,PN\,CN
+LAST-MODIFIED:20200930T143643Z
+LOCATION:草津市立草津クレアホール\, 6-chōme-15-11 Noji\, Kusatsu\, Shiga 525-0059\, Jap
+ an
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ピューロマスケティア
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201017T020000Z
+DTEND:20201017T063000Z
+UID:54imv5ctnbbsbem1lbbctf3e82@google.com
+CREATED:20200930T143423Z
+DESCRIPTION:事前予約制（当日参加不可）\n2020年10月8日（木）までにメールで応募\n\nhttp://www.new-chitose
+ -airport.jp/ja/happy-flight/news/detail/10174.html\nhttps://twitter.com/Hap
+ pyFlight_cts/status/1311260022257545223\nhttps://twitter.com/HappyFlight_ct
+ s/status/1310819514091618306\nhttps://twitter.com/HappyFlight_cts/status/13
+ 09407986285068288\n\nハローキティ ハッピーフライト 4周年記念イベント\n\n2020年10月17日（土）\n11:00 表彰式
+ ＆ミニショー（キッズパーク、年間パスポート保持者限定、定員37名）\n13:00 ハローキティ＆シナモロール撮影会（有料ゾーン内、誰でも参加可、定員4
+ 0組）\n15:00 ハローキティ＆シナモロール撮影会（有料ゾーン内、誰でも参加可、定員40組）
+LAST-MODIFIED:20200930T143423Z
+LOCATION:ハローキティ ハッピーフライト\, 日本、〒066-0012 北海道千歳市美々
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CN\,KT ハッピーフライト
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20201010T110000
+DTEND;TZID=Asia/Tokyo:20201010T153000
+RRULE:FREQ=DAILY;UNTIL=20201011T145959Z
+UID:3g9ugrhuvtgdn3smsj7gcmhbtp@google.com
+CREATED:20200920T011017Z
+DESCRIPTION:https://prtimes.jp/main/html/rd/p/000000001.000065676.html\n\nハ
+ ローキティと一緒にぶどう狩り\nコロナ禍の中、鹿児島の子供たちに少しでも夢と希望を与えられるイベントとして開催\n\n日程：10月10日（土）～11日
+ （日）\n時間：①11：00～/②13：00～/③15：00～\n場所：霧島さくらフルーツランド（ぶどうテラス内及びぶどう園）\n内容：ハローキティと
+ のグリーティングや記念撮影（人数限定※先着順、無料）
+LAST-MODIFIED:20200920T011017Z
+LOCATION:霧島さくらフルーツランド\, 日本、〒892-0828 鹿児島県鹿児島市金生町６−６
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT 霧島さくらフルーツランド
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200919T020000Z
+DTEND:20200919T053000Z
+UID:7ll1fp963rmg1ikto2ucapnois@google.com
+CREATED:20200914T133512Z
+DESCRIPTION:https://www.minyu-net.com/event/culture/scramble/FM20200914-536
+ 618.php\n\n福島市大町に設置されるエールポストの完成記念イベント「エールポストから家族・友人に手紙を送ろう」\n特別ゲストとしてハローキティ
+ も応援に駆け付ける\n\n2020年9月19日 ①午前11時 ②午後2時（各先着10組）\nチェンバおおまち\n福島民友新聞社事業局（電話０２４・５２
+ ３・１３３４・平日午前１０時～午後４時）へ電話で予約
+LAST-MODIFIED:20200914T133512Z
+LOCATION:チェンバおおまち\, 日本、〒960-8041 福島県福島市大町４−１５
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT エールポスト
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200921T020000Z
+DTEND:20200921T063000Z
+UID:6ogppmv6o6u43gmk736paqcupc@google.com
+CREATED:20200913T111759Z
+DESCRIPTION:<a href="https://asp.shufoo.net/c/2020/08/28/c/9034124027764/in
+ dex.html?shopId=284629&chirashiId=9034124027764">https://asp.shufoo.net/c/2
+ 020/08/28/c/9034124027764/index.html?shopId=284629&amp\;chirashiId=90341240
+ 27764</a><br><br>シナモロールミニステージ<br><br>9/21(月・祝) ①11:00- ②13:00- ③15:00-<br>草
+ 津住宅公園<br>当日10時からイベントブースにて観覧整理券を各回先着40組へ配布
+LAST-MODIFIED:20200913T112652Z
+LOCATION:ABCハウジング草津住宅公園\, 日本、〒525-0051 滋賀県草津市木川町７７
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CN 草津住宅公園
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200913T063000Z
+DTEND:20200913T065000Z
+UID:07js3p5js4vo2ps0j81bslulcm@google.com
+CREATED:20200913T112127Z
+DESCRIPTION:https://www.facebook.com/259052694170117/posts/4310557605686252
+ /\n\n板橋大遠百改裝開幕Hello Kitty見面會\n\n9/13（日）下午2:30-2:50\n板橋大遠百5F Sanrio專櫃 
+LAST-MODIFIED:20200913T112127Z
+LOCATION:板橋大遠百 Mega City\, 220 台湾 New Taipei City\, Banqiao District\, Xinz
+ han Road\, 28號板橋大遠百 Mega City
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT 板橋大遠百
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200905T080000Z
+DTEND:20200905T083000Z
+UID:539e4qs5drc2u5hp9ckn3vri8n@google.com
+CREATED:20200904T215129Z
+DESCRIPTION:<a href="https://www.facebook.com/hellokittytw/posts/4267312903
+ 344056">https://www.facebook.com/hellokittytw/posts/4267312903344056</a><br
+ >https://www.facebook.com/ArnoldPalmer.taiwan.bag/posts/728849034329098<br>
+ <br>Arnold Palmer x Hello Kitty<br><br>9/5(六) 11:00~16:30 (Kitty出場時間為16:00~
+ 16:30)<br>中壢大江購物中心4樓Arnold Palmer小雨傘包包專櫃<br>購買『愛的抱抱』系列包款還可以跟Hello Kitty合拍抱抱
+ 拍立得照
+LAST-MODIFIED:20200911T211020Z
+LOCATION:Dajiang Shopping Center\, 320 台湾 桃園 中レキ
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT Arnold Palmer x Hello Kitty
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200912T080000Z
+DTEND:20200912T083000Z
+UID:3s83ovonerdn2btike6hln3be4@google.com
+CREATED:20200911T210826Z
+DESCRIPTION:https://www.facebook.com/hellokittytw/posts/4304163872992292\nh
+ ttps://www.facebook.com/ArnoldPalmer.taiwan.bag/posts/734046627142672\n\nAr
+ nold Palmer x Hello Kitty\n\n9/12(六)10:30~16:30(Kitty出場時間為16:00~16:30)\n台中T
+ op City大遠百 10樓Arnold Palmer小雨傘包包專櫃\n只要購買【愛的抱抱】系列包包就可以跟Kitty合拍抱抱拍立得紀念照唷
+LAST-MODIFIED:20200911T210826Z
+LOCATION:Top City Taichung\, No. 251號\, Section 3\, Taiwan Boulevard\, Xitu
+ n District\, Taichung City\, 台湾 407
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT Arnold Palmer x Hello Kitty
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20201221
+DTEND;VALUE=DATE:20210101
+UID:76g80rth5gvmaejep7m4ubtef7@google.com
+CREATED:20200907T120614Z
+DESCRIPTION:http://www.tokyo-monorail.co.jp/news/pdf/press_20200904.pdf\n\n
+ 乗ってHappy♪「キキ＆ララ モノレール」Instagramキャンペーン\n\n公式Instagramをフォローした上、「#キキララモノレール」とハ
+ ッシュタグをつけて投稿いただいた方の中から、抽選で15名様を「リトルツインスターズとのグリーティング」へご招待\n\n2020年9月14日（月）～20
+ 20年10月31日（土）投稿分\n11月下旬：当選者宛てにダイレクトメッセージを送信\n12月下旬：当社施設内でのグリーティングを予定（詳細は当選者に
+ 通知）
+LAST-MODIFIED:20200907T120614Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:TS キキ＆ララ モノレール
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201024T070000Z
+DTEND:20201024T113000Z
+UID:5491b8mqgr6259k29rmrle2u0j@google.com
+CREATED:20200325T213849Z
+DESCRIPTION:<a href="http://mmtsrun.com/">http://mmtsrun.com/</a><br>再々延期<b
+ r>(1)台北場 2021年4月10日 星期六 15:00-19:30 永和綠寶石河濱公園 (暫定)<br>(2)台中場 2021年4月17日 星期六
+  10:00-22:00 台中<br><br><a href="http://mmtsrun.com/">http://mmtsrun.com/</a
+ >&nbsp\;<br>再延期<br>(1)台北場 2020年6月13日 星期六 15:00-19:30 永和綠寶石河濱公園 (暫定)&nbsp\;<
+ br>(2)台中場 2020年10月24日 星期六 15:00-19:30 台中<br><br><a href="https://www.facebo
+ ok.com/113600393363571/posts/219135599476716/">https://www.facebook.com/113
+ 600393363571/posts/219135599476716/</a><br>延期<br><br><a href="http://mmtsru
+ n.com/">http://mmtsrun.com/</a><br><a href="https://www.facebook.com/hellok
+ ittytw/posts/3007630855978940/">https://www.facebook.com/hellokittytw/posts
+ /3007630855978940/</a><br>美樂蒂&amp\;雙星仙子 45週年 經典星空夜跑<br>2020年3月28日 星期六 16:00
+ -19:30<br>台北市大佳河濱公園（暫定，實際可使用地點需待台北市政府審核後確認）
+LAST-MODIFIED:20200907T115927Z
+LOCATION:台中\, 台湾 台中 北区 台中
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(延期) MM\,TS\,KT 經典星空夜跑
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210410T070000Z
+DTEND:20210410T113000Z
+UID:7sebmkscqt1rb698bv5aj4tfen@google.com
+CREATED:20200612T122156Z
+DESCRIPTION:<a href="http://mmtsrun.com/">http://mmtsrun.com/</a><br>再々延期<b
+ r>(1)台北場 2021年4月10日 星期六 15:00-19:30 永和綠寶石河濱公園 (暫定)<br>(2)台中場 2021年4月17日 星期六
+  10:00-22:00 台中<br><br><a href="http://mmtsrun.com/">http://mmtsrun.com/</a
+ >&nbsp\;<br>再延期<br>(1)台北場 2020年6月13日 星期六 15:00-19:30 永和綠寶石河濱公園 (暫定)&nbsp\;<
+ br>(2)台中場 2020年10月24日 星期六 15:00-19:30 台中<br><br><a href="https://www.facebo
+ ok.com/113600393363571/posts/219135599476716/">https://www.facebook.com/113
+ 600393363571/posts/219135599476716/</a><br>延期<br><br><a href="http://mmtsru
+ n.com/">http://mmtsrun.com/</a><br><a href="https://www.facebook.com/hellok
+ ittytw/posts/3007630855978940/">https://www.facebook.com/hellokittytw/posts
+ /3007630855978940/</a><br>美樂蒂&amp\;雙星仙子 45週年 經典星空夜跑<br>2020年3月28日 星期六 16:00
+ -19:30<br>台北市大佳河濱公園（暫定，實際可使用地點需待台北市政府審核後確認）
+LAST-MODIFIED:20200907T115855Z
+LOCATION:永和緑宝石緑地\, 234 台湾 新北市 永和区
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MM\,TS\,KT 經典星空夜跑
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210417T020000Z
+DTEND:20210417T140000Z
+UID:0qer9jd1cla70ar1bj28kur5l2@google.com
+CREATED:20200612T122309Z
+DESCRIPTION:<a href="http://mmtsrun.com/">http://mmtsrun.com/</a><br>再々延期<b
+ r>(1)台北場 2021年4月10日 星期六 15:00-19:30 永和綠寶石河濱公園 (暫定)<br>(2)台中場 2021年4月17日 星期六
+  10:00-22:00 台中<br><br><a href="http://mmtsrun.com/">http://mmtsrun.com/</a
+ > <br>再延期<br>(1)台北場 2020年6月13日 星期六 15:00-19:30 永和綠寶石河濱公園 (暫定)  <br>(2)台中場 2
+ 020年10月24日 星期六 15:00-19:30 台中<br><br><a href="https://www.facebook.com/1136
+ 00393363571/posts/219135599476716/">https://www.facebook.com/11360039336357
+ 1/posts/219135599476716/</a><br>延期<br><br><a href="http://mmtsrun.com/">htt
+ p://mmtsrun.com/</a><br><a href="https://www.facebook.com/hellokittytw/post
+ s/3007630855978940/">https://www.facebook.com/hellokittytw/posts/3007630855
+ 978940/</a><br>美樂蒂&amp\;雙星仙子 45週年 經典星空夜跑<br>2020年3月28日 星期六 16:00-19:30<br>台
+ 北市大佳河濱公園（暫定，實際可使用地點需待台北市政府審核後確認）
+LAST-MODIFIED:20200907T115848Z
+LOCATION:台中\, 台湾 台中 北区 台中
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MM\,TS\,KT 經典星空夜跑
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20201121
+DTEND;VALUE=DATE:20201123
+UID:6j3i0a6gr3fh0pfjp9h6elceo5@google.com
+CREATED:20200904T220505Z
+DESCRIPTION:&nbsp\;<a href="https://www.niusnews.com/=P043g443">https://www
+ .niusnews.com/=P043g443</a><br><br>Pink Hug Party 抱抱節<br><br>11.21 SAT - 11
+ .22 SUN<br>1100-2100<br>信義香堤廣場<br><br>三麗鷗除了與小魔女DoReMi聯名之外，今年還會與妞新聞合作舉辦抱抱節，屆
+ 時雙星仙子、美樂蒂都會到場與大家見面，2020年11月21日與11月22日，我們在信義香堤大道不見不散
+LAST-MODIFIED:20200907T115313Z
+LOCATION:新光三越信義香堤大道廣場\, Sinji\, 信義區台北市 台湾 110
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MM\,TS 抱抱節
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200913T023000Z
+DTEND:20200913T055000Z
+UID:0r4tctcg745rdl5r6uhgvivqae@google.com
+CREATED:20200905T053255Z
+DESCRIPTION:https://asp.shufoo.net/t/spasp/chirashi/284617/33410522585083/\
+ n\nABCハウジング千里住宅公園\n\nリトルツインスターズ45周年アニバーサリーステージ\nTwinkleキラキラLIVE\n\n9/13（日）\
+ n11:30-11:50\n14:30-14:50\n\n当日10時からイベントブースにて整理券を各回先着45名に配布
+LAST-MODIFIED:20200905T053255Z
+LOCATION:ABCハウジング 千里住宅公園\, 1-7 Senribanpakukōen\, Suita\, Osaka 565-0826\, 
+ Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:TS TwinkleキラキラLIVE
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200905T051000Z
+DTEND:20200905T054000Z
+UID:7bkt3ljfkhfapasi4qe3913f1f@google.com
+CREATED:20200904T114830Z
+DESCRIPTION:https://www.facebook.com/259052694170117/posts/4257808567627823
+ /\nhttps://www.coldstone.com.tw/news/news_detail.aspx?id=86\n\n蛋黃哥一日店長\n\n何
+ 日：2020/9/5(六) \n何時：13:10-13:40 限時30分鐘 (當日11:00-13:00來買禮盒才有機會獲得合影喔)\n何地：COLD
+  STONE港站門市 (南港City Link \; 台北市南港區忠孝東路七段369號C棟2F)\n何拍：\nA.當天13:00前購買蛋黃哥懶得過中秋
+ 禮盒或三麗鷗系列商品，即可獲得與蛋黃哥合影一次（名額限量30組，額滿為止）\nB.當天14:00前購買中秋禮盒(不限款式)，每盒可獲得慵懶幸運轉盤乙次
+ ，有機會獲得一個月免費吃冰(市值$4950) (人人有獎)
+LAST-MODIFIED:20200904T114830Z
+LOCATION:Cold Stone酷聖石氷淇淋港站門市\, 115 台湾 Taipei City\, Nangang District\, Sec
+ tion 7\, Zhongxiao East Road\, 369號C棟2樓
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:GU COLD STONE港站門市一日店長
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200822T020000Z
+DTEND:20200822T063000Z
+UID:6bu49k6da6rdrpg20aq7mr8ed8@google.com
+CREATED:20200822T025415Z
+DESCRIPTION:https://twitter.com/donki_donki/status/1296625266618327040\n\nド
+ ンキ川越東口店オープン\n8月21日(金)\n\nマイメロちゃんと写真撮影\n8月22日(土)\n11時、13時、15時\n各20名様\nサンリオ商品
+ 2000円+税以上の当日お買い上げレシートと各回1時間前からサンリオコーナーで配布される整理券
+LAST-MODIFIED:20200822T025424Z
+LOCATION:ドン・キホーテ川越東口店\, 4-2 Wakitamachi\, Kawagoe\, Saitama 350-1122\, Japa
+ n
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MM ドン・キホーテ川越東口店
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200818T063000Z
+DTEND:20200818T070000Z
+UID:1jrk3279pn5356e7tc5e6rg7es@google.com
+CREATED:20200818T095629Z
+DESCRIPTION:https://twitter.com/beaver_hokka/status/1295292797075955712\n\n
+ ハローキティがhokkaにあそびにくるよ\n8/18 15:30〜16:00\nhokka直営店「金沢彩匠」
+LAST-MODIFIED:20200818T095629Z
+LOCATION:金沢彩匠\, 2-chōme-290-1 Oshino\, Kanazawa\, Ishikawa 921-8056\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT 金沢彩匠
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200815T020000Z
+DTEND:20200815T063000Z
+UID:7hlilac2o8dvl2qs6rekehdpkl@google.com
+CLASS:PUBLIC
+CREATED:20200801T125358Z
+DESCRIPTION:http://www.kryhousing.jp/info/1523/\n\nぐでたまミニステージ\n\n8月15日（土）①1
+ 1:00〜 ②13:30〜 ③15:00〜\nKRYハウジングサイト\nクイズ・ダンス・撮影会
+LAST-MODIFIED:20200815T091433Z
+LOCATION:ＫＲＹハウジングサイト\, 日本、〒745-0874 山口県周南市公園区大字徳山公園区
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:GU KRYハウジングサイト
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200807T050000Z
+DTEND:20200807T073000Z
+UID:41b64ngnhgjgoilcls3oi8n8fi@google.com
+CREATED:20200804T085028Z
+DESCRIPTION:https://www.tokyo-dome.co.jp/tenq/topics/20200807.html\nhttps:/
+ /twitter.com/TeNQ_TDC/status/1290115184074215424 \n\n\nTeNQ×Little Twin Sta
+ rs『キキ＆ララと星めぐり展』の開催を記念し、2020年8月7日(金)に「リトルツインスターズ」が来館\n2020年8月7日(金)\n14:00～14
+ :30\n15:30～16:00\nTeNQ イマジネーションエリア
+LAST-MODIFIED:20200804T085028Z
+LOCATION:Space Museum TeNQ\, Japan\, 〒112-0004 Tōkyō-to\, Bunkyo City\, Kōr
+ aku\, 1-chōme−3−６１ 東京ドームシティ 黄色いビル 6F
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:TS 星めぐり展
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200913T020000Z
+DTEND:20200913T063000Z
+UID:74d4jisat8ovln91ud5ps9or60@google.com
+CREATED:20200305T212854Z
+DESCRIPTION:新型コロナウイルス感染防止の観点から中止<br><br><a href="https://tsk-tv.com/event/d
+ etail.php?p=29222">https://tsk-tv.com/event/detail.php?p=29222</a>&nbsp\;<b
+ r><br>新型コロナウイルスの感染が拡大している状況を踏まえ延期<br>振替公演日9月13日（日）<br>開場・開演時間、会場の変更なし<br><b
+ r>KT\,DN\,MM\,XO\,PN\,CN<br><br><a href="https://www.tsk-tv.com/event/detai
+ l.php?p=28459">https://www.tsk-tv.com/event/detail.php?p=28459</a><br><a hr
+ ef="https://l-tike.com/order/?gLcode=61812&fbclid=IwAR1wFNR5IcrcBv8CCea91bW
+ ZpZgiyHWk4HW_B77VVCYczlr2wyY1TWdq-sE">https://l-tike.com/order/?gLcode=6181
+ 2&amp\;fbclid=IwAR1wFNR5IcrcBv8CCea91bWZpZgiyHWk4HW_B77VVCYczlr2wyY1TWdq-sE
+ </a><br><a href="https://t.pia.jp/pia/ticketInformation.do?eventCd=1937806&
+ rlsCd&lotRlsCd=44441&fbclid=IwAR2RgTec8hFI_KghRwYRYXUqXEOZUvRNovrZ-IglNB9Si
+ _zFDlRLS8FToIY">https://t.pia.jp/pia/ticketInformation.do?eventCd=1937806&a
+ mp\;rlsCd&amp\;lotRlsCd=44441&amp\;fbclid=IwAR2RgTec8hFI_KghRwYRYXUqXEOZUvR
+ NovrZ-IglNB9Si_zFDlRLS8FToIY</a><br><br>ピューロマスケティア～３人のやさしい銃士たち～<br>島根県民会館 大
+ ホール<br>2020年3月22日（日）<br>11:00 開演 (10:00 開場)<br>14:00 開演 (13:00 開場)&nbsp\;&n
+ bsp\;
+LAST-MODIFIED:20200801T124806Z
+LOCATION:島根県民会館\, 日本、〒690-0887 島根県松江市殿町１５８
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(中止) ピューロマスケティア
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200802T063000Z
+DTEND:20200802T065000Z
+UID:5c2bis04o7drqphgses79e4sov@google.com
+CREATED:20200731T114933Z
+DESCRIPTION:https://www.facebook.com/SanrioGiftGate.tw/posts/12220734281441
+ 47\n\nLittle Twin Stars 45th快閃店\nSOGO百貨|台北忠孝館 10F手扶梯旁\n快閃店日期：2020/7/31~8/9\
+ n見面會時間：2020/8/2(日)下午2:30~2:50
+LAST-MODIFIED:20200731T114933Z
+LOCATION:Far Eastern Sogo Fuxing Store\, No. 300號\, Section 3\, Zhongxiao E
+  Rd\, Da’an District\, Taipei City\, Taiwan 106
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:TS SOGO台北忠孝館 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200725T024000Z
+DTEND:20200725T073000Z
+UID:4t2dg0d7jcsgvsnmqfsaj603l1@google.com
+CREATED:20200723T123136Z
+DESCRIPTION:新型コロナウイルス日本国内における感染拡大の状況を鑑みまして、7/25(土)開催予定となっておりました、タキシードサム 2ショ
+ ット撮影会をやむを得ず中止<br><br><a href="https://www.facebook.com/hellokitty.global/po
+ sts/3250545495006910">https://www.facebook.com/hellokitty.global/posts/3250
+ 545495006910</a>&nbsp\;&nbsp\;<br><a href="https://tower.jp/store/event/202
+ 0/07/055001h">https://tower.jp/store/event/2020/07/055001h</a><br><br>はぴだんぶ
+ い×TOWER RECORDS　コラボグッズ発売記念　タキシードサム　2ショット撮影会<br>タワーレコード新宿店 7Fイベントスペース<br>202
+ 0年07月25日(土)<br>11:40～12:00<br>13:10～13:30<br>14:40～15:00<br>16:10～16:30<br>
+ <br>ご予約者優先でタワーレコード新宿店にて、はぴだんぶい×TOWER RECORDSコラボグッズを3\,000円(税込)以上お買い上げで撮影会参加
+ 券を配布
+LAST-MODIFIED:20200723T174253Z
+LOCATION:Tower Records Shinjuku\, Japan\, 〒160-0022 Tōkyō-to\, Shinjuku Cit
+ y\, Shinjuku\, 3-chōme−37−１ フラッグスビル 7～10F
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(中止) TX タワーレコード新宿店
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20200724
 DTEND;VALUE=DATE:20200725
 RRULE:FREQ=DAILY;WKST=SU;COUNT=2
@@ -392,36 +802,186 @@ ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
   Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
  gle.com
 CREATED:20200622T142540Z
-DESCRIPTION:https://www.lagunatenbosch.co.jp/event/2020/lpp/index.html\n\nラ
- グーナプールパーティ2020\n\n2020年7月24日（金・祝）、25日（土）\n17:00 開場\n17:30 ナイトプールオープン\n18:00
-  開演\nラグーナテンボス・ラグナシア
-LAST-MODIFIED:20200622T142548Z
+DESCRIPTION:7月22日、ラグーナプールパーティ2020の運営で提携しております「CLUB　SANGO」を7月12日にご利用されたお客様が新
+ 型コロナウィルスに感染していることが判明しました。つきましてはお客様と従業員の安全、安心を第一に考え、誠に残念ではございますが、7月24日、25日に開
+ 催を予定しておりましたラグーナプールパーティ2020を中止<br><br><a href="https://www.lagunatenbosch.co
+ .jp/event/2020/lpp/index.html">https://www.lagunatenbosch.co.jp/event/2020/
+ lpp/index.html</a><br><a href="https://twitter.com/lagunatenbosch/status/12
+ 85865250114289664">https://twitter.com/lagunatenbosch/status/12858652501142
+ 89664</a><br><a href="https://twitter.com/starlightpool/status/128606966693
+ 1044352">https://twitter.com/starlightpool/status/1286069666931044352</a>&n
+ bsp\;&nbsp\;<br><br>ラグーナプールパーティ2020<br><br>2020年7月24日（金・祝）、25日（土）<br>17:00 
+ 開場<br>17:30 ナイトプールオープン<br>18:00 開演<br>ラグーナテンボス・ラグナシア
+LAST-MODIFIED:20200723T131503Z
 LOCATION:Laguna Ten Bosch\, Japan\, 〒443-0014 Aichi\, Gamagori\, Kaiyōchō\,
   2-chōme−３−１
 SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:KT ラグーナプールパーティ
+SUMMARY:(中止) KT ラグーナプールパーティ
 TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Seoul:20200718T130000
+DTEND;TZID=Asia/Seoul:20200718T143000
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20200809T145959Z;BYDAY=SA,SU
+UID:2q50glu0ek915k8lmvkdvni00l@google.com
+CREATED:20200723T130824Z
+DESCRIPTION:<a href="https://www.instagram.com/p/CCnLfauHBJn/" id="ow744" _
+ _is_owner="true">https://www.instagram.com/p/CCnLfauHBJn/</a> <br><br>OPEN 
+ YOUR PINK<br><br>기간 : 2020.07.18~08.09<br>시간 : 오전 10시~ 20시<br>（*
+ 스토어는 오전 11시~20시)<br>장소 : 서울 마포구 월드컵북로6길 88-10<
+ br><br>각 타임에 스토어에서 상품을 구매하시면 마이멜로디가 전달 드
+ 릴거에요~<br>자세한 타임은 하기 공지사항을 확인해주세요!<br>------
+ ----------------------------------------<br>&lt\;마이멜로디 일일스토어 ᄌ
+ ᅥᆷ원 시간&gt\;<br>이벤트 기간 중 매주 토\, 일<br>1. 오후 1시 ~ 1시 30
+ 분<br>2. 오후 2시 ~ 2시 30분<br>상황에 따라 해당 이벤트의 시간이 변
+ 경되거나 진행이 취소될 수 있습니다. (별도공지X)<br>개별 사진 촬ᄋ
+ ᅧᆼ은 불가하오니 양해 부탁드립니다.<br>--------------------------------
+ --------------
+LAST-MODIFIED:20200723T130957Z
+LOCATION:８８−１０\, 88-10 World cup buk-ro 6-gil\, Donggyo-dong\, Mapo-gu\, Se
+ oul\, 大韓民国
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MM OPEN YOUR PINK
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200724T043500Z
+DTEND:20200724T050500Z
+UID:25kck44g10njilhd0u9at8tssp@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
+  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
+ gle.com
+CREATED:20200723T122600Z
+DESCRIPTION:https://www.facebook.com/hellokittytw/posts/4059944150747600\n\
+ n7-ELEVEN X Sanrio三麗鷗聯名店 見面會活動\n\n週五 7/24\n12:35-13:05 欣漢華門市(台北市萬華區漢口街二段73號
+ 1樓)\n17:35-18:05 六福門市(台北市中正區中華路一段41號1樓)
+LAST-MODIFIED:20200723T122648Z
+LOCATION:7-Eleven\, No. 41號\, Section 1\, Zhonghua Road\, Zhongzheng Distri
+ ct\, Taipei City\, Taiwan 100
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT 7-ELEVEN X Sanrio三麗鷗聯名店
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200724T093500Z
+DTEND:20200724T100500Z
+UID:1lbarjl60jiftb4sv3jk2dimrt@google.com
+CREATED:20200723T122633Z
+DESCRIPTION:https://www.facebook.com/hellokittytw/posts/4059944150747600\n\
+ n7-ELEVEN X Sanrio三麗鷗聯名店 見面會活動\n\n週五 7/24\n12:35-13:05 欣漢華門市(台北市萬華區漢口街二段73號
+ 1樓)\n17:35-18:05 六福門市(台北市中正區中華路一段41號1樓)
+LAST-MODIFIED:20200723T122633Z
+LOCATION:7-ELEVEN(六福門市)\, No. 73\, Section 2\, Hankou St\, Wanhua District\
+ , Taipei City\, Taiwan 108
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT 7-ELEVEN X Sanrio三麗鷗聯名店
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200719T020000Z
+DTEND:20200719T061500Z
+UID:33hbavb35oblgktq0nu01tb4jj@google.com
+CREATED:20200716T121631Z
+DESCRIPTION:https://www.e-a-site.com/event_info/detail/?id=32559&sr=17\n\nハ
+ ローキティのじゃんけんパラダイス\n2020年7月19日\n11：00～\n13：00～\n15：00～\n1回15分程度\n\n撮影会\n各回40(
+ 20?)組\n各回30分前より整理券を配布
+LAST-MODIFIED:20200719T062715Z
+LOCATION:ハウジングガーデン千葉\, 386-1 Sonnocho\, Inage-ku\, Chiba\, 263-0051\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT ハウジングガーデン千葉
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20201114T020000Z
 DTEND:20201114T063000Z
 UID:7l51lc0j1dmtgk52ianvq6o4k1@google.com
 CREATED:20200620T005651Z
-DESCRIPTION:11月14日(土)に再延期<br><br>新型コロナウィルス感染症の拡大を防ぐという観点から8月19日（水）に延期<br>KT
- \,DN\,MM\,XO\,PN\,CN<br><br><a href="https://www.qab.co.jp/events/sanrio202
- 0/">https://www.qab.co.jp/events/sanrio2020/</a>&nbsp\;&nbsp\;<br><a href="
- https://www.okashigoten.co.jp/news/10284/">https://www.okashigoten.co.jp/ne
- ws/10284/</a>&nbsp\;&nbsp\;<br><a href="https://www.puroland.jp/performance
- /puro_musketeer.html">https://www.puroland.jp/performance/puro_musketeer.ht
- ml</a>&nbsp\;<br>&nbsp\;<br>QAB開局25周年記念<br>サンリオファミリーミュージカル ピューロマスケティア ～3人のや
- さしい銃士たち～<br>2020年4月5日（日）<br>沖縄コンベンションセンター劇場棟<br>【午前の部】開場10:30 / 開演11:00<br>
- 【午後の部】開場13:30 / 開演14:00&nbsp\;&nbsp\;
-LAST-MODIFIED:20200620T005749Z
+DESCRIPTION:11月14日(土)に再延期→再調整中<br><br>新型コロナウィルス感染症の拡大を防ぐという観点から8月19日（水）に延期<
+ br>KT\,DN\,MM\,XO\,PN\,CN<br><br><a href="https://www.qab.co.jp/events/sanr
+ io2020/">https://www.qab.co.jp/events/sanrio2020/</a>&nbsp\;&nbsp\;<br><a h
+ ref="https://www.okashigoten.co.jp/news/10284/">https://www.okashigoten.co.
+ jp/news/10284/</a>&nbsp\;&nbsp\;<br><a href="https://www.puroland.jp/perfor
+ mance/puro_musketeer.html">https://www.puroland.jp/performance/puro_muskete
+ er.html</a>&nbsp\;<br>&nbsp\;<br>QAB開局25周年記念<br>サンリオファミリーミュージカル ピューロマスケティア 
+ ～3人のやさしい銃士たち～<br>2020年4月5日（日）<br>沖縄コンベンションセンター劇場棟<br>【午前の部】開場10:30 / 開演11:0
+ 0<br>【午後の部】開場13:30 / 開演14:00&nbsp\;&nbsp\;
+LAST-MODIFIED:20200717T065416Z
 LOCATION:沖縄コンベンションセンター劇場棟\, 日本、〒901-2224 沖縄県宜野湾市真志喜４丁目３−１
 SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:ピューロマスケティア
+SUMMARY:(再調整中) ピューロマスケティア
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200829T063000Z
+DTEND:20200829T065000Z
+UID:75p19ql6tg8ppboajg68cspo13@google.com
+CREATED:20200717T060229Z
+DESCRIPTION:https://www.facebook.com/SanrioGiftGate.tw/posts/12170528219795
+ 41\n\n肖像大賞謝票見面會\n\nCN 07-25 14:30-14:50 新竹巨城5樓\nPN 08-01 14:30-14:50 台中三越6樓
+ \nKT 08-15 14:30-14:50 台南西門三越3樓\nMM 08-29 14:30-14:50 台北信義A8 5樓
+LAST-MODIFIED:20200717T060229Z
+LOCATION:Shin Kong Mitsukoshi Taipei Xinyi Place A8\, No. 12號\, Songgao Roa
+ d\, Xinyi District\, Taipei City\, Taiwan 110
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MM 肖像大賞謝票見面會
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200725T063000Z
+DTEND:20200725T065000Z
+UID:6dc294bphln85ou0ukckbvltt3@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
+  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
+ gle.com
+CREATED:20200717T055546Z
+DESCRIPTION:https://www.facebook.com/SanrioGiftGate.tw/posts/12170528219795
+ 41\n\n肖像大賞謝票見面會\n\nCN 07-25 14:30-14:50 新竹巨城5樓\nPN 08-01 14:30-14:50 台中三越6樓
+ \nKT 08-15 14:30-14:50 台南西門三越3樓\nMM 08-29 14:30-14:50 台北信義A8 5樓
+LAST-MODIFIED:20200717T060157Z
+LOCATION:新竹巨城\, 300\, Taiwan\, Hsinchu City\, East District\, Zhongyang Roa
+ d\, 229號7樓
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:CN 肖像大賞謝票見面會
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200801T063000Z
+DTEND:20200801T065000Z
+UID:5hkrfcgk0helutull3utubgopb@google.com
+CREATED:20200717T060036Z
+DESCRIPTION:https://www.facebook.com/SanrioGiftGate.tw/posts/12170528219795
+ 41\n\n肖像大賞謝票見面會\n\nCN 07-25 14:30-14:50 新竹巨城5樓\nPN 08-01 14:30-14:50 台中三越6樓
+ \nKT 08-15 14:30-14:50 台南西門三越3樓\nMM 08-29 14:30-14:50 台北信義A8 5樓
+LAST-MODIFIED:20200717T060142Z
+LOCATION:iloom 怡倫家居台中中港店\, No. 301號\, Section 3\, Taiwan Boulevard\, Xitun 
+ District\, Taichung City\, Taiwan 407
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:PN 肖像大賞謝票見面會
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200815T063000Z
+DTEND:20200815T065000Z
+UID:6de6hdc6mgbhk37u145c6uqab2@google.com
+CREATED:20200717T060130Z
+DESCRIPTION:https://www.facebook.com/SanrioGiftGate.tw/posts/12170528219795
+ 41\n\n肖像大賞謝票見面會\n\nCN 07-25 14:30-14:50 新竹巨城5樓\nPN 08-01 14:30-14:50 台中三越6樓
+ \nKT 08-15 14:30-14:50 台南西門三越3樓\nMM 08-29 14:30-14:50 台北信義A8 5樓
+LAST-MODIFIED:20200717T060130Z
+LOCATION:Shin Kong Mitsukoshi Tainan Ximen Store\, No. 658-1號\, Section 1\,
+  Ximen Rd\, West Central District\, Tainan City\, Taiwan 700
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT 肖像大賞謝票見面會
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -462,44 +1022,6 @@ SEQUENCE:2
 STATUS:CONFIRMED
 SUMMARY:(延期) ピューロマスケティア
 TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20210417T020000Z
-DTEND:20210417T140000Z
-UID:0qer9jd1cla70ar1bj28kur5l2@google.com
-CREATED:20200612T122309Z
-DESCRIPTION:http://mmtsrun.com/\n再々延期\n(1)台北場 2021年4月10日 星期六 15:00-19:30 永和
- 綠寶石河濱公園 (暫定)\n(2)台中場 2021年4月17日 星期六 10:00-22:00 台中\n\nhttp://mmtsrun.com/ \
- n再延期\n(1)台北場 2020年6月13日 星期六 15:00-19:30 永和綠寶石河濱公園 (暫定)  \n(2)台中場 2020年10月24
- 日 星期六 15:00-19:30 台中\n\nhttps://www.facebook.com/113600393363571/posts/2191
- 35599476716/\n延期\n\nhttp://mmtsrun.com/\nhttps://www.facebook.com/hellokitt
- ytw/posts/3007630855978940/\n美樂蒂&雙星仙子 45週年 經典星空夜跑\n2020年3月28日 星期六 16:00-19:
- 30\n台北市大佳河濱公園（暫定，實際可使用地點需待台北市政府審核後確認）
-LAST-MODIFIED:20200612T122309Z
-LOCATION:台中\, 台湾 台中 北区 台中
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:MM\,TS\,KT 經典星空夜跑
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20210410T070000Z
-DTEND:20210410T113000Z
-UID:7sebmkscqt1rb698bv5aj4tfen@google.com
-CREATED:20200612T122156Z
-DESCRIPTION:http://mmtsrun.com/\n再々延期\n(1)台北場 2021年4月10日 星期六 15:00-19:30 永和
- 綠寶石河濱公園 (暫定)\n(2)台中場 2021年4月17日 星期六 10:00-22:00 台中\n\nhttp://mmtsrun.com/ \
- n再延期\n(1)台北場 2020年6月13日 星期六 15:00-19:30 永和綠寶石河濱公園 (暫定)  \n(2)台中場 2020年10月24
- 日 星期六 15:00-19:30 台中\n\nhttps://www.facebook.com/113600393363571/posts/2191
- 35599476716/\n延期\n\nhttp://mmtsrun.com/\nhttps://www.facebook.com/hellokitt
- ytw/posts/3007630855978940/\n美樂蒂&雙星仙子 45週年 經典星空夜跑\n2020年3月28日 星期六 16:00-19:
- 30\n台北市大佳河濱公園（暫定，實際可使用地點需待台北市政府審核後確認）
-LAST-MODIFIED:20200612T122156Z
-LOCATION:永和緑宝石緑地\, 234 台湾 新北市 永和区
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:MM\,TS\,KT 經典星空夜跑
-TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200613T070000Z
@@ -807,29 +1329,6 @@ SUMMARY:(延期) KT TIPSY 東京
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20201024T070000Z
-DTEND:20201024T113000Z
-UID:5491b8mqgr6259k29rmrle2u0j@google.com
-CREATED:20200325T213849Z
-DESCRIPTION:<a href="http://mmtsrun.com/tp/">http://mmtsrun.com/tp/</a><br>
- (1)台北場<br>2020年6月13日 星期六 15:00-19:30<br>永和綠寶石河濱公園 (暫定)&nbsp\;&nbsp\;<br><br
- ><a href="http://mmtsrun.com/">http://mmtsrun.com/</a>&nbsp\;&nbsp\;<br>(2)
- 台中場<br>2020年10月24日 星期六 15:00-19:30<br>台中<br><br><a href="https://www.facebo
- ok.com/113600393363571/posts/219135599476716/">https://www.facebook.com/113
- 600393363571/posts/219135599476716/</a>&nbsp\;<br>活動延期&nbsp\;&nbsp\;<br><br
- ><a href="http://mmtsrun.com/">http://mmtsrun.com/</a><br><a href="https://
- www.facebook.com/hellokittytw/posts/3007630855978940/">https://www.facebook
- .com/hellokittytw/posts/3007630855978940/</a><br>美樂蒂&amp\;雙星仙子 45週年 經典星空夜跑<
- br>2020年3月28日 星期六 16:00-19:30<br>台北市大佳河濱公園（暫定，實際可使用地點需待台北市政府審核後確認）&nbsp\;&n
- bsp\;&nbsp\;&nbsp\;
-LAST-MODIFIED:20200325T213849Z
-LOCATION:台中\, 台湾 台中 北区 台中
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:MM\,TS\,KT 經典星空夜跑
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20200322T020000Z
 DTEND:20200322T063000Z
 UID:3rjf7rmg8vausqguircuctm439@google.com
@@ -1035,32 +1534,6 @@ SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:(延期) ピューロマスケティア
 TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20200913T020000Z
-DTEND:20200913T063000Z
-UID:74d4jisat8ovln91ud5ps9or60@google.com
-CREATED:20200305T212854Z
-DESCRIPTION:<a href="https://tsk-tv.com/event/detail.php?p=28459">https://t
- sk-tv.com/event/detail.php?p=28459</a><br><br>新型コロナウイルスの感染が拡大している状況を踏まえ延期<b
- r>振替公演日9月13日（日）<br>開場・開演時間、会場の変更なし<br><br>KT\,DN\,MM\,XO\,PN\,CN<br><br><a 
- href="https://www.tsk-tv.com/event/detail.php?p=28459">https://www.tsk-tv.c
- om/event/detail.php?p=28459</a><br><a href="https://l-tike.com/order/?gLcod
- e=61812&fbclid=IwAR1wFNR5IcrcBv8CCea91bWZpZgiyHWk4HW_B77VVCYczlr2wyY1TWdq-s
- E">https://l-tike.com/order/?gLcode=61812&amp\;fbclid=IwAR1wFNR5IcrcBv8CCea
- 91bWZpZgiyHWk4HW_B77VVCYczlr2wyY1TWdq-sE</a><br><a href="https://t.pia.jp/p
- ia/ticketInformation.do?eventCd=1937806&rlsCd&lotRlsCd=44441&fbclid=IwAR2Rg
- Tec8hFI_KghRwYRYXUqXEOZUvRNovrZ-IglNB9Si_zFDlRLS8FToIY">https://t.pia.jp/pi
- a/ticketInformation.do?eventCd=1937806&amp\;rlsCd&amp\;lotRlsCd=44441&amp\;
- fbclid=IwAR2RgTec8hFI_KghRwYRYXUqXEOZUvRNovrZ-IglNB9Si_zFDlRLS8FToIY</a><br
- ><br>ピューロマスケティア～３人のやさしい銃士たち～<br>島根県民会館 大ホール<br>2020年3月22日（日）<br>11:00 開演 (1
- 0:00 開場)<br>14:00 開演 (13:00 開場)&nbsp\;&nbsp\;
-LAST-MODIFIED:20200305T212854Z
-LOCATION:島根県民会館\, 日本、〒690-0887 島根県松江市殿町１５８
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:ピューロマスケティア
-TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20200322
