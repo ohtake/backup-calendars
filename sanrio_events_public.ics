@@ -394,20 +394,525 @@ RRULE:FREQ=YEARLY;BYMONTH=9;BYDAY=1SU
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+DTSTART:20201213T060000Z
+DTEND:20201213T063000Z
+UID:1ng8496f0uhf9b4iuvpr7vl2es@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
+  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
+ gle.com
+CREATED:20201124T114423Z
+DESCRIPTION:<br>諸般の事情により中止<br><a href="https://xmas-piano.live/" id="ow352"
+  __is_owner="true">https://xmas-piano.live/</a><br><br>みんなでつくる！未来へつながる！ハラミち
+ ゃん×サンリオキャラクターズがおくるArio・GRANDTREE・PRIMETREE XmasリモートLIVE<br><br>下記会場ではハラミちゃん
+ が生演奏を披露<br>各会場にサンリオキャラクターが登場<br>当日会場にて観覧エリアの抽選券を配布<br><br>12.5(Sat)14:00 セブ
+ ンパークアリオ柏、ハラミちゃん＆キキララ<br>12.6(Sun)15:00 グランツリー武蔵小杉、ハラミちゃん＆クロミ<br>12.12(Sat)1
+ 5:00 アリオ八尾、ハラミちゃん＆マイメロディ<br>12.13(Sun)15:00 アリオ札幌、ハラミちゃん＆ハローキティ<br>12.24(Th
+ u)17:00 プライムツリー赤池、ハラミちゃん＆ポムポムプリン
+LAST-MODIFIED:20201211T111553Z
+LOCATION:アリオ札幌\, 日本、〒065-8518 北海道札幌市東区北７条東９丁目２−２０
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(中止) KT Xmas LIVE
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201224T080000Z
+DTEND:20201224T083000Z
+UID:6boidn68825j4c8gsnd4656rsd@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
+  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
+ gle.com
+CREATED:20201124T114456Z
+DESCRIPTION:https://xmas-piano.live/\n\nみんなでつくる！未来へつながる！ハラミちゃん×サンリオキャラクターズが
+ おくるArio・GRANDTREE・PRIMETREE XmasリモートLIVE\n\n下記会場ではハラミちゃんが生演奏を披露\n各会場にサンリオキャ
+ ラクターが登場\n当日会場にて観覧エリアの抽選券を配布\n\n12.5(Sat)14:00 セブンパークアリオ柏、ハラミちゃん＆キキララ\n12.6(
+ Sun)15:00 グランツリー武蔵小杉、ハラミちゃん＆クロミ\n12.12(Sat)15:00 アリオ八尾、ハラミちゃん＆マイメロディ\n12.13
+ (Sun)15:00 アリオ札幌、ハラミちゃん＆ハローキティ\n12.24(Thu)17:00 プライムツリー赤池、ハラミちゃん＆ポムポムプリン
+LAST-MODIFIED:20201207T125143Z
+LOCATION:プライムツリー赤池\, 日本、〒470-0126 愛知県日進市赤池町箕ノ手１
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:PN Xmas LIVE
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20201226T133000
+DTEND;TZID=Asia/Tokyo:20201226T175000
+RRULE:FREQ=DAILY;UNTIL=20201227T145959Z
+UID:0c9pi92e301pf80olf82dng6ab@google.com
+CREATED:20201207T124945Z
+DESCRIPTION:新型コロナウイルスの感染拡大の状況を考慮し中止\n\nhttps://www.u-treasure-onlineshop.jp
+ /event-news/20201117-sanrio-gr/\n\n「U-TREASURE コンセプトストア池袋」のオープンを記念して、 12月26
+ 日（土） 、 12月27日（日） の2日間限定で サンリオキャラクターズから「ハローキティ」と「ぐでたま」のグリーティングイベントを開催\n\n12月
+ 26日（土） 、 12月27日（日）　\nU-TREASURE コンセプトストア池袋\n①13:30～13:50\n②15:30～15:50\n③17
+ :30～17:50
+LAST-MODIFIED:20201207T124945Z
+LOCATION:U-TREASURE コンセプトストア池袋\, 日本、〒170-0013 東京都豊島区東池袋１丁目２３−５ オトメイトビル ４F
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(中止) KT\,GU U-TREASUREコンセプトストア池袋
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201213T013000Z
+DTEND:20201213T063000Z
+UID:2b2irkeqrjclc58edeo4ei65ae@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
+  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
+ gle.com
+CREATED:20201201T125539Z
+DESCRIPTION:https://nha.or.jp/nissin/event/entry-12753.html\n\nハローキティ＆マイメロデ
+ ィのクリスマス スペシャルミニステージ\n\n2020年12月13日(日)\n①10:30 ②13:30 ③15:00\nナゴヤハウジングセンター日進
+ 梅森会場 イベント広場
+LAST-MODIFIED:20201207T124513Z
+LOCATION:ナゴヤハウジングセンター 日進梅森会場\, 日本、〒470-0132 愛知県日進市梅森町西田面１５
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT\,MM もうすぐクリスマス
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201212T060000Z
+DTEND:20201212T063000Z
+UID:2v991noe5ectv04j6gm0k4mtmn@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
+  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
+ gle.com
+CREATED:20201124T114345Z
+DESCRIPTION:<br>諸般の事情により中止<br><a href="https://xmas-piano.live/">https://xm
+ as-piano.live/</a><br><br>みんなでつくる！未来へつながる！ハラミちゃん×サンリオキャラクターズがおくるArio・GRANDT
+ REE・PRIMETREE XmasリモートLIVE<br><br>下記会場ではハラミちゃんが生演奏を披露<br>各会場にサンリオキャラクターが登場<
+ br>当日会場にて観覧エリアの抽選券を配布<br><br>12.5(Sat)14:00 セブンパークアリオ柏、ハラミちゃん＆キキララ<br>12.6(
+ Sun)15:00 グランツリー武蔵小杉、ハラミちゃん＆クロミ<br>12.12(Sat)15:00 アリオ八尾、ハラミちゃん＆マイメロディ<br>1
+ 2.13(Sun)15:00 アリオ札幌、ハラミちゃん＆ハローキティ<br>12.24(Thu)17:00 プライムツリー赤池、ハラミちゃん＆ポムポム
+ プリン
+LAST-MODIFIED:20201207T124444Z
+LOCATION:アリオ八尾\, 日本、〒581-0803 大阪府八尾市光町２丁目３
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(中止) MM Xmas LIVE
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201205T050000Z
+DTEND:20201205T053000Z
+UID:5camgh55i286vk1nnk0so0splo@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
+  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
+ gle.com
+CREATED:20201124T114207Z
+DESCRIPTION:<a href="https://xmas-piano.live/">https://xmas-piano.live/</a>
+ <br><br>みんなでつくる！未来へつながる！ハラミちゃん×サンリオキャラクターズがおくるArio・GRANDTREE・PRIMETREE Xmas
+ リモートLIVE<br><br>下記会場ではハラミちゃんが生演奏を披露<br>各会場にサンリオキャラクターが登場<br>当日会場にて観覧エリアの抽選券
+ を配布<br><br>12.5(Sat)14:00 セブンパークアリオ柏、ハラミちゃん＆キキララ<br>12.6(Sun)15:00 グランツリー武蔵
+ 小杉、ハラミちゃん＆クロミ<br>12.12(Sat)15:00 アリオ八尾、ハラミちゃん＆マイメロディ<br>12.13(Sun)15:00 アリオ
+ 札幌、ハラミちゃん＆ハローキティ<br>12.24(Thu)17:00 プライムツリー赤池、ハラミちゃん＆ポムポムプリン
+LAST-MODIFIED:20201207T124316Z
+LOCATION:セブンパーク アリオ柏\, 日本、〒277-0922 千葉県柏市大島田１丁目６−１
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:TS Xmas LIVE
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201206T060000Z
+DTEND:20201206T063000Z
+UID:71gqfgib61s2jvr79brf0qoi5u@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
+  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
+ gle.com
+CREATED:20201124T114301Z
+DESCRIPTION:https://xmas-piano.live/\n\nみんなでつくる！未来へつながる！ハラミちゃん×サンリオキャラクターズが
+ おくるArio・GRANDTREE・PRIMETREE XmasリモートLIVE\n\n下記会場ではハラミちゃんが生演奏を披露\n各会場にサンリオキャ
+ ラクターが登場\n当日会場にて観覧エリアの抽選券を配布\n\n12.5(Sat)14:00 セブンパークアリオ柏、ハラミちゃん＆キキララ\n12.6(
+ Sun)15:00 グランツリー武蔵小杉、ハラミちゃん＆クロミ\n12.12(Sat)15:00 アリオ八尾、ハラミちゃん＆マイメロディ\n12.13
+ (Sun)15:00 アリオ札幌、ハラミちゃん＆ハローキティ\n12.24(Thu)17:00 プライムツリー赤池、ハラミちゃん＆ポムポムプリン
+LAST-MODIFIED:20201207T124247Z
+LOCATION:グランツリー武蔵小杉\, 日本、〒211-0004 神奈川県川崎市中原区新丸子東３丁目１１３５−１
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KU Xmas LIVE
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201128T050000Z
+DTEND:20201128T073000Z
+UID:7mddtc2ujqf2f5geruin0m2ku8@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
+  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
+ gle.com
+CREATED:20201125T122826Z
+DESCRIPTION:https://hashimoto.ario.jp/event/2400000602/\n\nマイメロディがおくる アリオ橋本
+ スペシャルスケーティングイベント♪\nアリオ橋本のスケートリンクにマイメロディが遊びに来るよ♪\nクリスマスを楽しむスペシャルイベントを開催！\n\n
+ 11/28(土) ①午後2時～ ②午後4時～\n橋本駅側口広場スケートリンク
+LAST-MODIFIED:20201207T123956Z
+LOCATION:アリオ橋本\, 日本、〒252-0146 神奈川県相模原市緑区大山町１−２２
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MM アリオ橋本
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20201223T103000
+DTEND;TZID=Asia/Tokyo:20201223T142000
+RRULE:FREQ=DAILY;UNTIL=20201224T145959Z
+UID:470cqbonbtedtsuemufuj7js02@google.com
+CREATED:20201125T122614Z
+DESCRIPTION:https://www.sanrio.co.jp/news/event-miracle-sunshinecity-202011
+ 25/\n\n2020冬ミラクルサイン会\nハローキティ&マイメロディ もうすぐクリスマス\n\n12月23日（水）・12月24日（木）\n1回目：1
+ 0:30～10:50\n2回目：14:00～14:20\nサンシャインシティ 噴水広場
+LAST-MODIFIED:20201125T122614Z
+LOCATION:サンシャインシティ 噴水広場\, 日本、〒170-8630 東京都豊島区東池袋３丁目１ サンシャインシティ 専門店街アルパ B1
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT\,MM もうすぐクリスマス
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20201128T120000
+DTEND;TZID=Asia/Tokyo:20201128T183000
+RRULE:FREQ=DAILY;UNTIL=20201129T145959Z
+UID:7s3vpqdlu0mam1jmij531ktvnf@google.com
+CREATED:20201125T122326Z
+DESCRIPTION:https://www.symphony-cruise.co.jp/season/detail.php?p=1395\nhtt
+ ps://www.atpress.ne.jp/news/236528\n\nシナモロール クルーズパーティー\n11月28日・29日\nランチクルーズ
+ (第一部)12:00～14:10\nサンセットクルーズ(第二部)16:30～18:30\n\nオンライン シナモロール クルーズパーティー\n11月2
+ 8日 13:25～13:50頃
+LAST-MODIFIED:20201125T122326Z
+LOCATION:シンフォニークルーズ\, 日本、〒105-0022 東京都港区海岸２丁目７−１０４
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CN クルーズパーティー
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201129T020000Z
+DTEND:20201129T083000Z
+UID:3t62hngicjc948d604dhs21pk5@google.com
+CREATED:20201124T113318Z
+DESCRIPTION:https://suzuka-aeonmall.com/news/event/3051\n\n★サンリオ BLACK FRID
+ AY撮影会★\nクロミ、バッドばつ丸がBLACK FRIDAYにあわせてイオンモール鈴鹿に登場\n\n2020/11/29 (日)\n(1)11:00
+ ～ (2)13:00～ (3)15:00～ (4)17:00～\n専門店街1階　中央コート\n\n各回先着50組\n参加条件：イオンモールアプリで「イ
+ オンモール鈴鹿」お気に入りモール登録画面を提示
+LAST-MODIFIED:20201124T113318Z
+LOCATION:イオンモール鈴鹿\, 日本、〒513-0834 三重県鈴鹿市庄野羽山４丁目１−２
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KU\,XO イオンモール鈴鹿
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201122T080000Z
+DTEND:20201122T100000Z
+UID:5t7kl7d3fki1apq5vi2an8imh5@google.com
+CREATED:20201124T112835Z
+DESCRIPTION:https://tokyomegaillumi.jp/cms/events/event/%e3%81%97%e3%81%aa%
+ e3%81%8c%e3%82%8f%e5%8c%ba%e6%b0%91%e3%83%87%e3%83%bc-2/\n\n東京メガイルミ\n2020年1
+ 1月21日 ～ 2020年11月23日\nしながわ区民デー\n\nしながわ観光大使「シナモロール」が遊びにくる\n11/22（日）①17:00～ ②1
+ 8:30～\n晴天時：パドック内\n雨天時：G-FRONT １階
+LAST-MODIFIED:20201124T112835Z
+LOCATION:大井競馬場\, 日本、〒140-0012 東京都品川区勝島２丁目１−２
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CN 東京メガイルミ
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201213T020000Z
+DTEND:20201213T050000Z
+UID:4motjd68cicuuv3ie50mg8vl8p@google.com
+CREATED:20201124T101104Z
+DESCRIPTION:https://yomiuriland.com/show/xmas/index.html\nハローキティ&マイメロディ もうす
+ ぐクリスマス\n\n場所: よみうりランド 日テレらんらんホール\n時刻: 11:00\, 13:30\n出演: ハローキティ・マイメロディ\n観覧に
+ は、当日会場前で配布する「座席指定付き入場券」（無料）が必要
+LAST-MODIFIED:20201124T101104Z
+LOCATION:よみうりランド\, 日本、〒206-8725 東京都稲城市多摩区矢野口４丁目１−４０１５−１
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT\,MM もうすぐクリスマス
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210131
+DTEND;VALUE=DATE:20210201
+UID:32nsb123jl6s2a0ml1jdtm9sqg@google.com
+CREATED:20201115T124916Z
+DESCRIPTION:参加対象となる方\n● 保育の仕事に興味のある方\n● 保育資格をお持ちの方\n● 保育士資格取得を目指している方\n● 復職
+ を考えている方\n\nhttps://www.hoiku-festa2021.jp/wp-content/uploads/2020/10/3df34f
+ 76afd02944e92c58ed27fd9394.pdf\nhttps://www.hoiku-festa2021.jp/\n\n保育のおしごと応
+ 援フェスタ2021 in TOKYO\n2021/1/31(日) 10:00-16:00\n東京国際フォーラム ホールB7\n\n当日は、ハローキティ
+ とホイクマ・ホイクマンがあそびにくる
+LAST-MODIFIED:20201115T225222Z
+LOCATION:東京国際フォーラム ホールB\, 日本、〒100-0005 東京都千代田区丸の内３丁目５−１
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT 保育のおしごと応援フェスタ
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201219T000900Z
+DTEND:20201219T024800Z
+UID:7lreveusnqnedjnj9uouras1v3@google.com
+CREATED:20201115T125729Z
+DESCRIPTION:https://prtimes.jp/main/html/rd/p/000000609.000004858.html\n\n赤
+ い風船「ハローキティと一緒に ハローキティ新幹線で行く広島」\n2020年12月19日（土）出発\n\nハローキティが各車両にやってくる♪\n往路はハ
+ ローキティが新幹線に乗車し、各車両におじゃまします\n新大阪9：09頃発 → 広島11：48頃着
+LAST-MODIFIED:20201115T125729Z
+LOCATION:広島駅\, 日本、〒732-0822 広島県広島市南区松原町１−２番３７号
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT ハローキティ新幹線で行く広島
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201114T064500Z
+DTEND:20201114T071500Z
+UID:4uoifnkc4o880ibsdobhc6ov45@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sanrio
+  Events;X-NUM-GUESTS=0:mailto:qsqrk2emvnnvu45debac9dugr8@group.calendar.goo
+ gle.com
+CREATED:20201112T123205Z
+DESCRIPTION:https://www.alvark-tokyo.jp/lp/game_20201114_20201115/ \nhttps:
+ //prtimes.jp/main/html/rd/p/000000113.000035222.html\n\n11月14日(土)・15日(日)\nア
+ リーナ立川立飛\nBリーグ2020-21シーズン第9節 三遠ネオフェニックス戦\n\n12:45　場外ブースオープン\n13:00　FC先行入場開始\
+ n13:15　一般入場開始\n14:15　プライムタイムショー\n14:30　選手入場\n15:03　スターティング５紹介\n15:05　試合開始\n
+ 15:45頃　ハーフタイムショー\n\n◆11/14(土) ハーフタイムショー「マイメロディ&クロミ」
+LAST-MODIFIED:20201114T083401Z
+LOCATION:アリーナ立川立飛\, 日本、〒190-0015 東京都立川市泉町５００−４
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MM\,KU アルバルク東京ファミリーデー
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201031T030000Z
+DTEND:20201031T052000Z
+UID:3lc4v9dlccc5ju4j1p5hs29qoa@google.com
+CREATED:20201022T122003Z
+DESCRIPTION:<a href="http://soulfoodjapan.jp/about/">http://soulfoodjapan.j
+ p/about/</a><br><br>ツナグ！芝公園-SDGS村-<br><br>2020年10月31日-11月1日<br>環境＠４号地<br><b
+ r>サンリオSDGsスペシャルミニステージ <br>10月31日（土）<br>1回目／12:00～12:20<br>2回目／14:00～14:20
+LAST-MODIFIED:20201030T164116Z
+LOCATION:Shiba Park 4th Block\, 3 Chome-2 Shibakoen\, Minato City\, Tokyo 1
+ 05-0011\, Japan
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:KT ツナグ！芝公園-SDGS村-
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201031T020000Z
+DTEND:20201031T070000Z
+UID:44hkitlgmtamrssg1a2eta1pj5@google.com
+CREATED:20201026T162426Z
+DESCRIPTION:https://www.aeon-laketown.jp/mori/event/event_e251399.html\n\nL
+ akeTown HALLOWEEN mini PARTY!! 2020\n10月31日(土)\n1F 木の広場\n\nハロウィンハローキティ写真撮影会
+ \n(1)11:00～\n(2)12:30～\n(3)14:00～\n(4)15:30～\n\n各回定員25組\n仮装をしてご来場されたお客さまが対象
+ \n整理券は当日10:00より1F 木の広場にて配布
+LAST-MODIFIED:20201026T162426Z
+LOCATION:Aeon Lake Town mori\, Japan\, 〒343-0828 Saitama\, Koshigaya\, Lake
+  Town\, 3-chōme−１−１
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT イオンレイクタウンmori
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201024T070000Z
+DTEND:20201024T113000Z
+UID:5491b8mqgr6259k29rmrle2u0j@google.com
+CREATED:20200325T213849Z
+DESCRIPTION:<a href="http://mmtsrun.com/">http://mmtsrun.com/</a><br>再々延期<b
+ r>(1)台北場 2021年4月10日 星期六 15:00-19:30 永和綠寶石河濱公園 (暫定)<br>(2)台中場 2021年4月17日 星期六
+  10:00-22:00 台中<br><br><a href="http://mmtsrun.com/">http://mmtsrun.com/</a
+ >&nbsp\;<br>再延期<br>(1)台北場 2020年6月13日 星期六 15:00-19:30 永和綠寶石河濱公園 (暫定)&nbsp\;<
+ br>(2)台中場 2020年10月24日 星期六 15:00-19:30 台中<br><br><a href="https://www.facebo
+ ok.com/113600393363571/posts/219135599476716/">https://www.facebook.com/113
+ 600393363571/posts/219135599476716/</a><br>延期<br><br><a href="http://mmtsru
+ n.com/">http://mmtsrun.com/</a><br><a href="https://www.facebook.com/hellok
+ ittytw/posts/3007630855978940/">https://www.facebook.com/hellokittytw/posts
+ /3007630855978940/</a><br>美樂蒂&amp\;雙星仙子 45週年 經典星空夜跑<br>2020年3月28日 星期六 16:00
+ -19:30<br>台北市大佳河濱公園（暫定，實際可使用地點需待台北市政府審核後確認）
+LAST-MODIFIED:20201023T132916Z
+LOCATION:台中\, 台湾 台中 北区 台中
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(延期) MM\,TS\,KT 經典星空夜跑
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201115T020000Z
+DTEND:20201115T050000Z
+UID:3v0ot2pld6a4irro4rd793ombg@google.com
+CREATED:20201022T124712Z
+DESCRIPTION:https://www.yomiuriland.com/show/sanrio/index.html\n\nハローキティ＆マイ
+ メロディ＆ぼんぼんりぼんのミラクルパーティ\n\n場所: よみうりランド 日テレらんらんホール\n時刻: 11:00\, 13:30\n出演: ハロー
+ キティ・マイメロディ・ぼんぼんりぼん\n観覧には、当日会場前で配布する「座席指定付き入場券」（無料）が必要
+LAST-MODIFIED:20201022T124712Z
+LOCATION:よみうりランド\, 日本、〒206-8725 東京都稲城市多摩区矢野口４丁目１−４０１５−１
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT\,MM\,BO ミラクルパーティ
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201205T020000Z
+DTEND:20201205T060000Z
+UID:73c3ikgnolm156b7tq4vh770k0@google.com
+CREATED:20201021T100509Z
+DESCRIPTION:&nbsp\;3歳～小学生（保護者同伴）の小松市民のみ申し込み可 <br>「保護者だけ」「子どもだけ」では申し込み不可<br>
+ 11月15日（日曜日）18時までに申込フォームから申し込み  <br><br><a href="https://www.city.komatsu.lg
+ .jp/shiseijoho/80syuunenkinen/11250.html">https://www.city.komatsu.lg.jp/sh
+ iseijoho/80syuunenkinen/11250.html</a> <br><a href="https://twitter.com/kom
+ atsu_city/status/1318765087142805505">https://twitter.com/komatsu_city/stat
+ us/1318765087142805505</a><br><br>市制80周年特別記念事業「ミラクルギフトパレードスペシャルミニライブショー」<br
+ >ポムポムプリンやハローキティなど、人気の6キャラクターとダンサーが華やかなステージを披露、カブッキーも特別出演<br><br>〈日時〉 12月5日（
+ 土曜日） 11時～、13時30分～ 2回公演<br>〈会場〉 こまつ芸術劇場うらら大ホール<br>〈内容〉 あいさつ、スペシャルミニライブショー、お楽
+ しみプレゼントの抽選発表<br>〈対象〉 保護者同伴の子ども（3歳～小学生） ※市民限定<br>〈定員〉 約100組 ※保護者（1人）＋子ども（2人ま
+ で）のグループ × 2回公演<br>〈備考〉 ステージは写真撮影可
+LAST-MODIFIED:20201021T100549Z
+LOCATION:こまつ芸術劇場うらら 大ホール\, 日本、〒923-0921 石川県小松市土居原町７１０
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ミラクルギフトパレードスペシャルミニライブショー
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201024T073000Z
+DTEND:20201024T083000Z
+UID:4qgee7ompubg34g3srkr97insd@google.com
+CREATED:20201016T135516Z
+DESCRIPTION:https://www.hanshin.com.tw/%E6%BC%A2%E7%A5%9E%E5%B7%A8%E8%9B%8B
+ /tw/News/%E5%85%A8%E9%A4%A8%E6%B4%BB%E5%8B%95/%E4%B8%89%E9%BA%97%E9%B7%97%E
+ 6%98%8E%E6%98%9F%E8%A6%8B%E9%9D%A2%E6%9C%83\n\n三麗鷗明星見面會\n\n活動時間：10/24(六) 15
+ :30~16:30\n活動地點：1F廣場\n報名時間：即日起~額滿為止\n報名方式：官網報名\n報名限額：20位\n報名方法：線上報名即可參加\n參加
+ 獎：精美文具組乙份
+LAST-MODIFIED:20201016T135516Z
+LOCATION:漢神アリーナデパート\, No. 777號\, Bo'ai 2nd Road\, Zuoying District\, Kaohsi
+ ung City\, 台湾 813
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:PN\,KU\,MM 漢神巨蛋
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20210124T020000Z
 DTEND:20210124T063000Z
 UID:36pm5qtmuvtmenbo3i8e1951c2@google.com
 CREATED:20200905T053510Z
 DESCRIPTION:<a href="https://eplus.jp/sf/detail/3312310001">https://eplus.j
- p/sf/detail/3312310001</a><br>https://www.biwako-arts.or.jp/rd/event/24270.
- html<br><br>ピューロマスケティア～3人のやさしい銃士たち～<br>草津市立草津クレアホール<br>2021/1/24(日)<br>開演：1
- 1:00～ (開場 10:30～)<br>開演：14:00～ (開場 13:30～)<br><br>KT\,DN\,MM\,XO\,PN\,CN
-LAST-MODIFIED:20200930T143643Z
+ p/sf/detail/3312310001</a><br><a href="https://www.biwako-arts.or.jp/rd/eve
+ nt/24270.html">https://www.biwako-arts.or.jp/rd/event/24270.html</a><br>htt
+ p://www.creahall.net/performance/syosai.php?id=457<br><br>ピューロマスケティア～3人のやさし
+ い銃士たち～<br>草津市立草津クレアホール<br>2021/1/24(日)<br>開演：11:00～ (開場 10:30～)<br>開演：14:00
+ ～ (開場 13:30～)<br><br>KT\,DN\,MM\,XO\,PN\,CN
+LAST-MODIFIED:20201016T133454Z
 LOCATION:草津市立草津クレアホール\, 6-chōme-15-11 Noji\, Kusatsu\, Shiga 525-0059\, Jap
  an
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:ピューロマスケティア
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201031T020000Z
+DTEND:20201031T063000Z
+UID:4sh2jh68sv6ipk2fqjt2eebl8h@google.com
+CREATED:20201014T130953Z
+DESCRIPTION:事前予約制（当日参加不可）\n2020年10月20日（火）までにメールで応募\n\nhttp://www.new-chitos
+ e-airport.jp/ja/happy-flight/news/detail/1031.html\nhttps://twitter.com/Hap
+ pyFlight_cts/status/1316323785490874368\n\n2020年10月31日（土）\n有料ゾーン内\n1100 ミニシ
+ ョー（年間パスポート保持者10名・一般20名）\n1300 撮影会（20組）\n1500 撮影会（20組）\n撮影会参加には入場券と撮影会参加料100
+ 0円が必要
+LAST-MODIFIED:20201014T130953Z
+LOCATION:ハローキティ ハッピーフライト\, 日本、〒066-0012 北海道千歳市美々
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:PN ハッピーフライト
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201025T020000Z
+DTEND:20201025T064500Z
+UID:6u9fks24le3k05n9nhoqdogbg7@google.com
+CREATED:20201011T135954Z
+DESCRIPTION:http://www.mallage.com/shobu/event_list.php#323\n\nハローキティ撮影会\n1
+ 0月25日(日) ①11:00～ ②12:30～ ③14:00～ ④15:30～(各回15分を予定)\n1F 滝のコート\n\n撮影会参加整理券を、当
+ 日10:00より、「1F 滝のコート入口外側（国道122号側）」にて、 先着順（各回先着25組）で配布\n10:30以降も整理券に残りがある場合は、「
+ 1F滝のコート」イベント会場での整理券配布を継続
+LAST-MODIFIED:20201011T135954Z
+LOCATION:モラージュ菖蒲\, 日本、〒346-0106 埼玉県久喜市菖蒲町菖蒲６００５−１
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT モラージュ菖蒲
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201031T020000Z
+DTEND:20201031T070000Z
+UID:01n7vpldhmb4qp6475c9qiarrm@google.com
+CREATED:20201001T181246Z
+DESCRIPTION:<a href="http://pieri.sc/event/detail/552/">http://pieri.sc/eve
+ nt/detail/552/</a><br><a href="https://rstaff.co.jp/news/20201001-422/">htt
+ ps://rstaff.co.jp/news/20201001-422/</a><br><br>【6周年スペシャルイベント】ハローキティと遊ぼう！ハロ
+ ウィーンミニステージ＆撮影会<br><br>10月31日(土)<br>ミニステージ ①11:00～ ②14:00～(各回先着70組)<br>撮影会 ①
+ 12:30～ ②15:30～(各回先着50組)<br>1Fピエリコート<br><br>当日10:00より「1F(1-8)入り口側(琵琶湖側)」にて整理
+ 券配布
+LAST-MODIFIED:20201011T131927Z
+LOCATION:PIERI MORIYAMA\, 2620-5 Imahamachō\, Moriyama\, Shiga 524-0101\, J
+ apan
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:KT ピエリ守山
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201024T020000Z
+DTEND:20201024T063000Z
+UID:01se2165jujo1oc3l896p4cj0r@google.com
+CREATED:20201010T123215Z
+DESCRIPTION:事前予約制（当日参加不可）\n2020年10月16日（金）までにメールで応募\n\nhttp://www.new-chitos
+ e-airport.jp/ja/happy-flight/news/detail/1024.html\nhttps://twitter.com/Hap
+ pyFlight_cts/status/1314892386619715584\n\nハローキティグリーティング\n\n10月24日（土）\n1100
+ \,1300\,1500（各40組）\n有料ゾーン内
+LAST-MODIFIED:20201010T123215Z
+LOCATION:ハローキティ ハッピーフライト\, 日本、〒066-0012 北海道千歳市美々
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT ハッピーフライト
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201009T080000Z
+DTEND:20201009T100000Z
+UID:60nh6bqc96ts1u3qgnks9o640u@google.com
+CREATED:20201007T125247Z
+DESCRIPTION:<a href="https://prtimes.jp/main/html/rd/p/000000001.000067306.
+ html">https://prtimes.jp/main/html/rd/p/000000001.000067306.html</a><br>htt
+ ps://twitter.com/kcta_sns/status/1313721986376323073<br><br>北九州の魅力再発見キャンペーン
+ <br><br>北九州市の観光PR大使、ハローキティが小倉駅で当キャンペーンをPR<br>令和2年10月9日（金）17:00～、18:30～（いずれも
+ 30分間）<br>小倉駅JAM広場
+LAST-MODIFIED:20201008T123922Z
+LOCATION:小倉駅\, 日本、〒802-0001 福岡県北九州市小倉北区浅野１丁目１−１
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT 北九州の魅力再発見キャンペーン
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201107T050000Z
+DTEND:20201107T070000Z
+UID:0v6h9cuvjn5rir98ec78arive6@google.com
+CREATED:20201007T124956Z
+DESCRIPTION:https://www.sanrio.co.jp/news/mm-ananfes-20201007/\nhttps://www
+ .ananfes.com/ssf20/\n\nSHIBUYA SCRAMBLE FESTIVAL 2020\n\n11月7日（土）\n14:00-16
+ :00「anan Fes PART2」 ※マイメロディの登場は左記時間のうちの約20分間\n渋谷スクランブルスクエア 12F イベントスペース「Sce
+ ne12」
+LAST-MODIFIED:20201007T124956Z
+LOCATION:渋谷スクランブルスクエアScene12\, 日本、〒150-0002 東京都渋谷区渋谷２丁目２４−１２ スクランブルスクエア １２階
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MM SHIBUYA SCRAMBLE FESTIVAL
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -545,29 +1050,6 @@ SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:TS キキ＆ララ モノレール
 TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20201024T070000Z
-DTEND:20201024T113000Z
-UID:5491b8mqgr6259k29rmrle2u0j@google.com
-CREATED:20200325T213849Z
-DESCRIPTION:<a href="http://mmtsrun.com/">http://mmtsrun.com/</a><br>再々延期<b
- r>(1)台北場 2021年4月10日 星期六 15:00-19:30 永和綠寶石河濱公園 (暫定)<br>(2)台中場 2021年4月17日 星期六
-  10:00-22:00 台中<br><br><a href="http://mmtsrun.com/">http://mmtsrun.com/</a
- >&nbsp\;<br>再延期<br>(1)台北場 2020年6月13日 星期六 15:00-19:30 永和綠寶石河濱公園 (暫定)&nbsp\;<
- br>(2)台中場 2020年10月24日 星期六 15:00-19:30 台中<br><br><a href="https://www.facebo
- ok.com/113600393363571/posts/219135599476716/">https://www.facebook.com/113
- 600393363571/posts/219135599476716/</a><br>延期<br><br><a href="http://mmtsru
- n.com/">http://mmtsrun.com/</a><br><a href="https://www.facebook.com/hellok
- ittytw/posts/3007630855978940/">https://www.facebook.com/hellokittytw/posts
- /3007630855978940/</a><br>美樂蒂&amp\;雙星仙子 45週年 經典星空夜跑<br>2020年3月28日 星期六 16:00
- -19:30<br>台北市大佳河濱公園（暫定，實際可使用地點需待台北市政府審核後確認）
-LAST-MODIFIED:20200907T115927Z
-LOCATION:台中\, 台湾 台中 北区 台中
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:(延期) MM\,TS\,KT 經典星空夜跑
-TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210410T070000Z
