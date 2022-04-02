@@ -394,6 +394,589 @@ RRULE:FREQ=YEARLY;BYMONTH=9;BYDAY=1SU
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+DTSTART:20210809T030000Z
+DTEND:20210809T080000Z
+UID:7hinjnpbhrenog3eua2fouire9@google.com
+CREATED:20210420T111443Z
+DESCRIPTION:https://www.puroland.jp/performance/r_otomodachi.html\n\nリボンの国の
+ 音もだち\niichikoグランシアタ(大分県)\n8/9(月・祝)\n12時公演\n15時30分公演\n\nKT\, MM\, DN\, XO\, 
+ PN\, CN
+LAST-MODIFIED:20220616T132848Z
+LOCATION:iichiko Culture Center\, Japan\, 〒870-0029 Oita\, Takasagomachi\, 
+ 2\, 大分市高砂町２−３３
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:リボンの国の音もだち
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220612T030000Z
+DTEND:20220612T103000Z
+UID:6e7kmi08a4f883vgltaubf6hnv@google.com
+CREATED:20220415T145901Z
+DESCRIPTION:https://fes.sanrio.co.jp/\n\n2022 サンリオフェス\n2022年6月12日(日)\nパシフィコ
+ 横浜ノース\n第1部 12:00開場 - 15:00閉場\n第2部 16:30開場 - 19:30閉場\n\n第1部 ステージには上位キャラクターたち
+ が登場\n第2部 キャラクターショーやミニライブ
+LAST-MODIFIED:20220611T140121Z
+LOCATION:Pacifico Yokohama North\, 1-chōme-1-2 Minatomirai\, Nishi Ward\, Y
+ okohama\, Kanagawa 220-0012\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:サンリオフェス
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220504T023000Z
+DTEND:20220504T060000Z
+UID:3rast3v8cmg719eb3qtco7m64u@google.com
+CREATED:20220430T174239Z
+DESCRIPTION:https://kofushowa-aeonmall.com/news/event/2223\n\nハローキティ撮影会\nイオ
+ ンモール甲府昭和\n2022/05/04 (水)\n11:30～\n13:00～\n14:30～\n1階　さくら広場\n\n各回先着50組\n当日の午
+ 前9:00より「さくら西入口」にて参加権を配布
+LAST-MODIFIED:20220430T174239Z
+LOCATION:AEON MALL Kofu-SHOWA\, 1505-1 Itsukui\, Showa\, Nakakoma District\
+ , Yamanashi 409-3852\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT イオンモール甲府昭和
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220505T020000Z
+DTEND:20220505T063000Z
+UID:6k064d5jpf14mnn8csc9re8dpu@google.com
+CREATED:20220430T173917Z
+DESCRIPTION:https://fujiidera-sc.com/news/event/885\n\nキティちゃんがあそびにくるよ！\nイオン
+ 藤井寺ショッピングセンター\n5/5（木・祝）\n11:00～\n13:00～\n15:00～\n屋上　芝生ひろば（雨天の場合変更あり）\n\n各回5
+ 0組\n「撮影会参加券」は朝10時10分より開催会場にて各回50組3回分合計150枚を配布
+LAST-MODIFIED:20220430T173917Z
+LOCATION:AEON Fujiidera Shopping Center\, 2-chōme-10-11 Oka\, Fujiidera\, O
+ saka 583-0027\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT イオン藤井寺ショッピングセンター
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20220423T110000
+DTEND;TZID=Asia/Tokyo:20220423T163000
+RRULE:FREQ=WEEKLY;WKST=SU;COUNT=2;INTERVAL=4;BYDAY=SA
+UID:273bg0jgniq2l6v638s1f7db17@google.com
+CREATED:20220430T173646Z
+DESCRIPTION:https://www.new-chitose-airport.jp/ja/happy-flight/news/detail/
+ 521.html\n\nハローキティグリーティング\nハローキティハッピーフライト\n2022-04-23\n2022-05-21\n11:00 ワン
+ ショット撮影会\n13:00 ワンショット撮影会\n14:30 スペシャル撮影会\n16:00 スペシャル撮影会\n\n事前申し込み\n店員に達した場
+ 合は抽選
+LAST-MODIFIED:20220430T173646Z
+LOCATION:Hello Kitty Happy Flight\, Bibi\, Chitose\, Hokkaido 066-0012\, Ja
+ pan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT ハローキティハッピーフライト
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220429T023000Z
+DTEND:20220429T063000Z
+UID:3q3iqengo0oi2510736atj89pd@google.com
+CREATED:20220430T173023Z
+DESCRIPTION:https://prtimes.jp/main/html/rd/p/000000053.000059463.html\n\n東
+ 京・日本橋 滋賀県情報発信拠点「ここ滋賀」4月29日（金）リニューアルオープン\n\nひこにゃん・SDGsハローキティ撮影会\n4月29日（金・祝）\
+ n11:30 ハローキティ\n14:15 ひこにゃん\n15:00 ハローキティ\n16:00 ひこにゃん\n\n各回先着20名\n各回30分前から整
+ 理券配布
+LAST-MODIFIED:20220430T173032Z
+LOCATION:CocoShiga\, Japan\, 〒103-0027 Tokyo\, Chuo City\, Nihonbashi\, 2-c
+ hōme−7−１ ここ滋賀
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT ここ滋賀
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220505T020000Z
+DTEND:20220505T063000Z
+UID:7k2vu7vgu7phrisolkcnsi7v4i@google.com
+CREATED:20220430T172736Z
+DESCRIPTION:https://www.aeon.jp/sc/yachiyomidorigaoka/event/event_202204120
+ 826_yachiyomidorigaoka_htzo76li.html\n\nハローキティ&amp\;シナモロール撮影会\nイオンモール八千代緑が丘
+ \n\n5月5日(木・祝)\n11:00～\n13:00～\n15:00～\n2F アゼリア広場\n\n各回先着50組\n当日9:00より2F アゼリ
+ ア広場にて1回目～3回目までの整理券を配布
+LAST-MODIFIED:20220430T172736Z
+LOCATION:Aeon Mall Yachiyo Midorigaoka\, Japan\, 〒276-0049 Chiba\, Yachiyo\
+ , Midorigaoka\, 2-chōme−１−３
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT\,CN イオンモール八千代緑が丘
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220505T023000Z
+DTEND:20220505T070000Z
+UID:71jp4ephceq7kmnlhviruti371@google.com
+CREATED:20220430T172529Z
+DESCRIPTION:<a href="https://www.google.com/url?q=https://www.mirokunosato.
+ com/newstopics/sanrio_week2022&amp\;sa=D&amp\;source=calendar&amp\;usd=2&am
+ p\;usg=AOvVaw2_INoQzZtIrzZawQ06rbEd">https://www.mirokunosato.com/newstopic
+ s/sanrio_week2022</a>\n\nサンリオキャラクタースペシャルウィーク\nみろくの里\n\n4月30日(土) ぐでたま\n5月1日(
+ 日) ハローキティ\n5月3日(火・祝) ハローキティ\n5月4日(水・祝) マイメロディ\n5月5日(木・祝) ポムポムプリン\n\n11：30～\
+ n13：30～\n15：30～\n\nしばふ広場特設ステージ(雨天の場合は屋内会場)
+LAST-MODIFIED:20220430T172529Z
+LOCATION:Miroku no Sato\, 638-1 Fujiechō\, Fukuyama\, Hiroshima 720-0543\, 
+ Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:PN みろくの里
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220504T023000Z
+DTEND:20220504T070000Z
+UID:0vvj16iaqnj87jaeb9rvfrf2lg@google.com
+CREATED:20220430T172517Z
+DESCRIPTION:<a href="https://www.google.com/url?q=https://www.mirokunosato.
+ com/newstopics/sanrio_week2022&amp\;sa=D&amp\;source=calendar&amp\;usd=2&am
+ p\;usg=AOvVaw2_INoQzZtIrzZawQ06rbEd">https://www.mirokunosato.com/newstopic
+ s/sanrio_week2022</a>\n\nサンリオキャラクタースペシャルウィーク\nみろくの里\n\n4月30日(土) ぐでたま\n5月1日(
+ 日) ハローキティ\n5月3日(火・祝) ハローキティ\n5月4日(水・祝) マイメロディ\n5月5日(木・祝) ポムポムプリン\n\n11：30～\
+ n13：30～\n15：30～\n\nしばふ広場特設ステージ(雨天の場合は屋内会場)
+LAST-MODIFIED:20220430T172517Z
+LOCATION:Miroku no Sato\, 638-1 Fujiechō\, Fukuyama\, Hiroshima 720-0543\, 
+ Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MM みろくの里
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220503T023000Z
+DTEND:20220503T070000Z
+UID:3f2pk0at42lk1fl1nt5qkcok66@google.com
+CREATED:20220430T172508Z
+DESCRIPTION:<a href="https://www.google.com/url?q=https://www.mirokunosato.
+ com/newstopics/sanrio_week2022&amp\;sa=D&amp\;source=calendar&amp\;usd=2&am
+ p\;usg=AOvVaw2_INoQzZtIrzZawQ06rbEd">https://www.mirokunosato.com/newstopic
+ s/sanrio_week2022</a>\n\nサンリオキャラクタースペシャルウィーク\nみろくの里\n\n4月30日(土) ぐでたま\n5月1日(
+ 日) ハローキティ\n5月3日(火・祝) ハローキティ\n5月4日(水・祝) マイメロディ\n5月5日(木・祝) ポムポムプリン\n\n11：30～\
+ n13：30～\n15：30～\n\nしばふ広場特設ステージ(雨天の場合は屋内会場)
+LAST-MODIFIED:20220430T172508Z
+LOCATION:Miroku no Sato\, 638-1 Fujiechō\, Fukuyama\, Hiroshima 720-0543\, 
+ Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT みろくの里
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220501T023000Z
+DTEND:20220501T070000Z
+UID:16nhug7abguhgg16c02s574bgj@google.com
+CREATED:20220430T172458Z
+DESCRIPTION:<a href="https://www.google.com/url?q=https://www.mirokunosato.
+ com/newstopics/sanrio_week2022&amp\;sa=D&amp\;source=calendar&amp\;usd=2&am
+ p\;usg=AOvVaw2_INoQzZtIrzZawQ06rbEd">https://www.mirokunosato.com/newstopic
+ s/sanrio_week2022</a>\n\nサンリオキャラクタースペシャルウィーク\nみろくの里\n\n4月30日(土) ぐでたま\n5月1日(
+ 日) ハローキティ\n5月3日(火・祝) ハローキティ\n5月4日(水・祝) マイメロディ\n5月5日(木・祝) ポムポムプリン\n\n11：30～\
+ n13：30～\n15：30～\n\nしばふ広場特設ステージ(雨天の場合は屋内会場)
+LAST-MODIFIED:20220430T172458Z
+LOCATION:Miroku no Sato\, 638-1 Fujiechō\, Fukuyama\, Hiroshima 720-0543\, 
+ Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT みろくの里
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220430T023000Z
+DTEND:20220430T070000Z
+UID:1jrq6smrnifqh2rnvm697a1o10@google.com
+CREATED:20220430T172444Z
+DESCRIPTION:https://www.mirokunosato.com/newstopics/sanrio_week2022\n\nサンリオ
+ キャラクタースペシャルウィーク\nみろくの里\n\n4月30日(土) ぐでたま\n5月1日(日) ハローキティ\n5月3日(火・祝) ハローキティ\n
+ 5月4日(水・祝) マイメロディ\n5月5日(木・祝) ポムポムプリン\n\n11：30～\n13：30～\n15：30～\n\nしばふ広場特設ステー
+ ジ(雨天の場合は屋内会場)
+LAST-MODIFIED:20220430T172444Z
+LOCATION:Miroku no Sato\, 638-1 Fujiechō\, Fukuyama\, Hiroshima 720-0543\, 
+ Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:GU みろくの里
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220827T020000Z
+DTEND:20220827T063000Z
+UID:71sb2666r7j3a629urg2vv6u00@google.com
+CREATED:20220416T134052Z
+DESCRIPTION:<html-blob><a href="https://www.parthenon-renewalopen.jp/puro">
+ https://www.parthenon-renewalopen.jp/puro</a><br><br>サンリオファミリーミュージカル<br>ピュー
+ ロマスケティア～3人のやさしい銃士たち～<br>パルテノン多摩 大ホール<br>8月27日(土)<br>11:00開演<br>14:00開演<br><
+ br>KT\,DN\,MM\,XO\,PN\,CN</html-blob>
+LAST-MODIFIED:20220416T134105Z
+LOCATION:Parthenon Tama\, Japan\, 〒206-0033 東京都多摩市落合２丁目３５
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ピューロマスケティア
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220625T020000Z
+DTEND:20220625T063000Z
+UID:3hi5va79hi8kd9vis755usqheg@google.com
+CREATED:20220416T133943Z
+DESCRIPTION:https://www.otacivichall.net/events/event/6771.html\n\nサンリオファミリ
+ ーミュージカル\nピューロマスケティア～3人のやさしい銃士たち～\n太田市民会館　ホール\n2022年6月25日（土）\n1回目　11:00開演（10
+ :00開場）\n2回目　14:00開演（13:00開場）\n\nKT\,DN\,MM\,XO\,PN\,CN
+LAST-MODIFIED:20220416T133943Z
+LOCATION:Ota Civic Hall\, 200-1 Iizukachō\, Ota\, Gunma 373-0817\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ピューロマスケティア
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220419T013000Z
+DTEND:20220419T063000Z
+UID:4tkqultf7mm6kq0te4ibeuerk5@google.com
+CREATED:20220415T152023Z
+DESCRIPTION:https://prtimes.jp/main/html/rd/p/000000021.000018827.html\n\nサ
+ ンリオ展 ニッポンのカワイイ文化60年史\n横浜赤レンガ倉庫1号館\n2022年4月19日（火）〜5月8日（日）\n\nオープニング特別イベント\n4
+ 月19日（火）\n10:30 お出迎え\n13:00 撮影会\n15:00 撮影会\n出演キャラクター　ハローキティ、ポムポムプリン\n当日10:30
+ より展覧会会場当日券売り場横入場口にて先着順で整理券を配布
+LAST-MODIFIED:20220415T152023Z
+LOCATION:Yokohama Red Brick Warehouse 1\, 1 Chome-1 Shinko\, Naka Ward\, Yo
+ kohama\, Kanagawa 231-0001\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT\,PN サンリオ展
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220529T013000Z
+DTEND:20220529T063000Z
+UID:73j8ub3skvog061baun3coqvkq@google.com
+CREATED:20220415T151744Z
+DESCRIPTION:https://niimi-museum.sakura.ne.jp/cinnamon.html#3\n\nふわふわシナモロール
+ 展\n2022-04-13 / 2022-07-10\n新見美術館\n\nシナモンが新見公立大学にあそびに来るよ！\n新見公立大学大講堂\n5月29日
+ （日）\n10:30-11:00 シナモンと遊ぼう(抽選)\n12:00- シナモンと一緒に記念撮影(要申込)\n13:30-14:00 シナモンと遊
+ ぼう(抽選)\n15:00- シナモンと一緒に記念撮影(要申込)
+LAST-MODIFIED:20220415T151744Z
+LOCATION:Niimi University\, 1263-2 Nishigata\, Niimi\, Okayama 718-0017\, J
+ apan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CN ふわふわシナモロール展
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220521T020000Z
+DTEND:20220521T062000Z
+UID:0q2pp97o8o00afnv5vhj226pit@google.com
+CREATED:20220415T145206Z
+DESCRIPTION:https://www.sanrio.co.jp/news/event-tobu-ikebukuro-20220521/\n\
+ nマイメロディと一緒に写真撮影会（東京・東武百貨店 池袋店）\n東武百貨店 池袋店8F 屋上「スカイデッキ広場」\n5月21日（土）\n11:00～\
+ n13:00～\n15:00～\n各回25名、合計75名様\nSanrio+の事前抽選\n\nhttps://www.sanrio.co.jp/new
+ s/mx-ranking2022-event-20220308/\n\nサンリオキャラクター大賞応援グリーティング第2弾\n5月4日（水・祝）ポムポム
+ プリンと一緒に写真撮影会（東京・カメイドクロック）\n5月7日（土）シナモロールと一緒に写真撮影会（兵庫・神戸ハーバーランドumie）\n5月7日（土
+ ）かぶきにゃんたろうと一緒に写真撮影会（東京・Sanrioworld GINZA 2F）\n5月8日（日）バッドばつ丸と一緒に写真撮影会（福岡・キャナ
+ ルシティ博多）\n5月14日（土）けろけろけろっぴと一緒に写真撮影会（石川・金沢フォーラス）\n5月15日（日）ハローキティと一緒に写真撮影会（北海道
+ ・イオンモール札幌発寒）\n5月21日（土）マイメロディと一緒に写真撮影会（東京・東武百貨店 池袋店）
+LAST-MODIFIED:20220415T145206Z
+LOCATION:Tobu Department Store Ikebukuro\, 1-chōme-1-25 Nishiikebukuro\, To
+ shima City\, Tokyo 171-8512\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MM キャラクター大賞
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220515T020000Z
+DTEND:20220515T062000Z
+UID:19i6erfbdjlsoqflpkuigcog8p@google.com
+CREATED:20220415T145051Z
+DESCRIPTION:https://www.sanrio.co.jp/news/event-sapporo-hassamu-20220515/\n
+ \nハローキティと一緒に写真撮影会（北海道・イオンモール札幌発寒）\nイオンモール札幌発寒1F すずらん広場\n5月15日（日）\n11:00～\n1
+ 3:00～\n15:00～\n各回25名、合計75名\nSanrio+の事前抽選\n\nhttps://www.sanrio.co.jp/news/m
+ x-ranking2022-event-20220308/\n\nサンリオキャラクター大賞応援グリーティング第2弾\n5月4日（水・祝）ポムポムプリン
+ と一緒に写真撮影会（東京・カメイドクロック）\n5月7日（土）シナモロールと一緒に写真撮影会（兵庫・神戸ハーバーランドumie）\n5月7日（土）かぶ
+ きにゃんたろうと一緒に写真撮影会（東京・Sanrioworld GINZA 2F）\n5月8日（日）バッドばつ丸と一緒に写真撮影会（福岡・キャナルシテ
+ ィ博多）\n5月14日（土）けろけろけろっぴと一緒に写真撮影会（石川・金沢フォーラス）\n5月15日（日）ハローキティと一緒に写真撮影会（北海道・イオ
+ ンモール札幌発寒）\n5月21日（土）マイメロディと一緒に写真撮影会（東京・東武百貨店 池袋店）
+LAST-MODIFIED:20220415T145051Z
+LOCATION:Aeon Mall Sapporo Hassamu\, 12 Chome-1 Hassamu 8 Jo\, Nishi Ward\,
+  Sapporo\, Hokkaido 063-0828\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT キャラクター大賞
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220514T023000Z
+DTEND:20220514T062000Z
+UID:7lu8kq6e4m8rj5775b6s3hfkrc@google.com
+CREATED:20220415T144918Z
+DESCRIPTION:https://www.sanrio.co.jp/news/event-kanazawa-forus-20220514/\n\
+ nけろけろけろっぴと一緒に写真撮影会（石川・金沢フォーラス）\n金沢フォーラス6F エスカレーター横\n5月14日（土）\n11:30～\n13:30
+ ～\n15:00～\n各回25名、合計75名\nSanrio+の事前抽選\n\nhttps://www.sanrio.co.jp/news/mx-ra
+ nking2022-event-20220308/\n\nサンリオキャラクター大賞応援グリーティング第2弾\n5月4日（水・祝）ポムポムプリンと一緒に
+ 写真撮影会（東京・カメイドクロック）\n5月7日（土）シナモロールと一緒に写真撮影会（兵庫・神戸ハーバーランドumie）\n5月7日（土）かぶきにゃん
+ たろうと一緒に写真撮影会（東京・Sanrioworld GINZA 2F）\n5月8日（日）バッドばつ丸と一緒に写真撮影会（福岡・キャナルシティ博多）
+ \n5月14日（土）けろけろけろっぴと一緒に写真撮影会（石川・金沢フォーラス）\n5月15日（日）ハローキティと一緒に写真撮影会（北海道・イオンモール
+ 札幌発寒）\n5月21日（土）マイメロディと一緒に写真撮影会（東京・東武百貨店 池袋店）
+LAST-MODIFIED:20220415T144918Z
+LOCATION:Kanazawa Forus\, 3-1 Horikawashinmachi\, Kanazawa\, Ishikawa 920-0
+ 849\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KR キャラクター大賞
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220508T020000Z
+DTEND:20220508T065000Z
+UID:4d2jt0fkoo8hpcemevfercslj4@google.com
+CREATED:20220415T144731Z
+DESCRIPTION:https://www.sanrio.co.jp/news/event-sg-hakata-20220508/\n\nバッドば
+ つ丸と一緒に写真撮影会（福岡・キャナルシティ博多）\nキャナルシティ博多B1F\n5月8日（日）\n11:00～ サンプラザステージ\n13:00～ 
+ サンプラザステージ\n15:30～ スターコート\n各回25名、合計75名様\nSanrio+の事前抽選\n\nhttps://www.sanrio.
+ co.jp/news/mx-ranking2022-event-20220308/\n\nサンリオキャラクター大賞応援グリーティング第2弾\n5月4日
+ （水・祝）ポムポムプリンと一緒に写真撮影会（東京・カメイドクロック）\n5月7日（土）シナモロールと一緒に写真撮影会（兵庫・神戸ハーバーランドumie
+ ）\n5月7日（土）かぶきにゃんたろうと一緒に写真撮影会（東京・Sanrioworld GINZA 2F）\n5月8日（日）バッドばつ丸と一緒に写真撮
+ 影会（福岡・キャナルシティ博多）\n5月14日（土）けろけろけろっぴと一緒に写真撮影会（石川・金沢フォーラス）\n5月15日（日）ハローキティと一緒に
+ 写真撮影会（北海道・イオンモール札幌発寒）\n5月21日（土）マイメロディと一緒に写真撮影会（東京・東武百貨店 池袋店）
+LAST-MODIFIED:20220415T144731Z
+LOCATION:Canal City Hakata\, 1 Chome-2 Sumiyoshi\, Hakata Ward\, Fukuoka\, 
+ 812-0018\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:XO キャラクター大賞
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220507T030000Z
+DTEND:20220507T065000Z
+UID:56nk6o4qmrnndp6jpqo7u3vru9@google.com
+CREATED:20220415T144347Z
+DESCRIPTION:https://www.sanrio.co.jp/news/event-swg-20220507/\n\nかぶきにゃんたろうと
+ 一緒に写真撮影会（東京・Sanrioworld GINZA 2F）\nSanrioworld GINZA 2F\n5月7日（土）\n12:00～\n1
+ 4:00～\n15:30～\n各回25名、合計75名\nSanrio+の事前抽選\n\nhttps://www.sanrio.co.jp/news/m
+ x-ranking2022-event-20220308/\n\nサンリオキャラクター大賞応援グリーティング第2弾\n5月4日（水・祝）ポムポムプリン
+ と一緒に写真撮影会（東京・カメイドクロック）\n5月7日（土）シナモロールと一緒に写真撮影会（兵庫・神戸ハーバーランドumie）\n5月7日（土）かぶ
+ きにゃんたろうと一緒に写真撮影会（東京・Sanrioworld GINZA 2F）\n5月8日（日）バッドばつ丸と一緒に写真撮影会（福岡・キャナルシテ
+ ィ博多）\n5月14日（土）けろけろけろっぴと一緒に写真撮影会（石川・金沢フォーラス）\n5月15日（日）ハローキティと一緒に写真撮影会（北海道・イオ
+ ンモール札幌発寒）\n5月21日（土）マイメロディと一緒に写真撮影会（東京・東武百貨店 池袋店）
+LAST-MODIFIED:20220415T144347Z
+LOCATION:Sanrio World Ginza\, Japan\, 〒104-0061 Tokyo\, Chuo City\, Ginza\,
+  4-chōme−1−先 西銀座 2F
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KN キャラクター大賞
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220507T023000Z
+DTEND:20220507T062000Z
+UID:0t3evl4e2k068a36ebgdaslurj@google.com
+CREATED:20220415T144217Z
+DESCRIPTION:https://www.sanrio.co.jp/news/event-kobe-harborland-20220507/\n
+ \nシナモロールと一緒に写真撮影会（兵庫・神戸ハーバーランドumie）\n神戸ハーバーランドumie センターストリート特設会場\n5月7日（土）\n
+ 11:30～\n13:30～\n15:00～\n各回20名、合計60名\nSanrio+の事前抽選\n\nhttps://www.sanrio.co.
+ jp/news/mx-ranking2022-event-20220308/\n\nサンリオキャラクター大賞応援グリーティング第2弾\n5月4日（水・
+ 祝）ポムポムプリンと一緒に写真撮影会（東京・カメイドクロック）\n5月7日（土）シナモロールと一緒に写真撮影会（兵庫・神戸ハーバーランドumie）\n
+ 5月7日（土）かぶきにゃんたろうと一緒に写真撮影会（東京・Sanrioworld GINZA 2F）\n5月8日（日）バッドばつ丸と一緒に写真撮影会（
+ 福岡・キャナルシティ博多）\n5月14日（土）けろけろけろっぴと一緒に写真撮影会（石川・金沢フォーラス）\n5月15日（日）ハローキティと一緒に写真撮
+ 影会（北海道・イオンモール札幌発寒）\n5月21日（土）マイメロディと一緒に写真撮影会（東京・東武百貨店 池袋店）
+LAST-MODIFIED:20220415T144217Z
+LOCATION:Kobe Harborland umie\, 1-chōme-7-2 Higashikawasakichō\, Chuo Ward\
+ , Kobe\, Hyogo 650-0044\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CN キャラクター大賞
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220504T020000Z
+DTEND:20220504T062000Z
+UID:30v96dv5k678eui259ddohtjp5@google.com
+CREATED:20220415T144029Z
+DESCRIPTION:https://www.sanrio.co.jp/news/event-kameidoclock-20220504/\n\nポ
+ ムポムプリンと一緒に写真撮影会（東京・カメイドクロック）\nカメイドクロック 1F吹き抜けイベントスペース カメクロコート\n5月4日（水・祝）\n1
+ 1:00～\n13:00～\n15:00～\n各回25名、合計75名\nSanrio+の事前抽選\n\nhttps://www.sanrio.co.j
+ p/news/mx-ranking2022-event-20220308/\n\nサンリオキャラクター大賞応援グリーティング第2弾\n5月4日（水・祝
+ ）ポムポムプリンと一緒に写真撮影会（東京・カメイドクロック）\n5月7日（土）シナモロールと一緒に写真撮影会（兵庫・神戸ハーバーランドumie）\n5
+ 月7日（土）かぶきにゃんたろうと一緒に写真撮影会（東京・Sanrioworld GINZA 2F）\n5月8日（日）バッドばつ丸と一緒に写真撮影会（福
+ 岡・キャナルシティ博多）\n5月14日（土）けろけろけろっぴと一緒に写真撮影会（石川・金沢フォーラス）\n5月15日（日）ハローキティと一緒に写真撮影
+ 会（北海道・イオンモール札幌発寒）\n5月21日（土）マイメロディと一緒に写真撮影会（東京・東武百貨店 池袋店）
+LAST-MODIFIED:20220415T144029Z
+LOCATION:カメイドクロック（KAMEIDO CLOCK）\, 6-chōme-31-6 Kameido\, Koto City\, Tokyo
+  136-0071\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:PN キャラクター大賞
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220515T020000Z
+DTEND:20220515T053000Z
+UID:2qsd96otn9e6hn18k3d4j5gnh7@google.com
+CREATED:20220415T143457Z
+DESCRIPTION:https://pal2.co.jp/show/#post_25\n\nハローキティ＆ぐでたまのシンギング！ダンシング！クッキ
+ ング！\nゆうえんち　浜名湖パルパル\n5月15日(日)\n11：00～\n14：00～\n天候不順の場合はセンターハウス内で撮影会
+LAST-MODIFIED:20220415T143457Z
+LOCATION:Hamanako Pal Pal\, 1891 Kanzanjichō\, Nishi Ward\, Hamamatsu\, Shi
+ zuoka 431-1209\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT\,GU クッキング
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220429T023000Z
+DTEND:20220429T063000Z
+UID:16oeduvmd9u5gt6gn0gt8fdb82@google.com
+CREATED:20220410T161737Z
+DESCRIPTION:https://www.omochaoukoku.com/tojoko/event/character.html#scroll
+ -04-e192\n\nハローキティ＆ポムポムプリン　スペシャルステージ\n東条湖おもちゃ王国\n4月29日(金・祝)\n11:30~ ステージ\n1
+ 3:30~ 撮影会\n15:00~ ステージ\n\n撮影会\n先着50組限定\n13:00より王国ライブステージ前にて整理券を配布\n\n写真や動画の
+ アップロード禁止
+LAST-MODIFIED:20220415T143309Z
+LOCATION:Tojo Lake Toy Kingdom\, 1216 Kurodani\, Kato\, Hyogo 673-1301\, Ja
+ pan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT\,PN 東条湖おもちゃ王国
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220505T020000Z
+DTEND:20220505T061000Z
+UID:5ebphdit018mslsbvonurnrccg@google.com
+CREATED:20220410T161427Z
+DESCRIPTION:https://prtimes.jp/main/html/rd/p/000000302.000039557.html\n\nこ
+ どもの日スペシャルランチwithシナモロール20周年アニバーサリーステージ\n横浜ロイヤルパークホテル 大宴会場「鳳翔」\n2022年5月5日（木・祝
+ ）\n<1部>ショー 11：00～／お食事11：30～\n<シナモロールとの写真撮影会>12：40～\n<2部>お食事13：30～／ショー 14：40
+ ～\n写真撮影会は50組限定・事前抽選
+LAST-MODIFIED:20220410T161427Z
+LOCATION:Yokohama Royal Park Hotel\, 2-chōme-2-1-3 Minatomirai\, Nishi Ward
+ \, Yokohama\, Kanagawa 220-8173\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CN シナモロールLIVE
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220416T013000Z
+DTEND:20220416T060000Z
+UID:7b7fhfurqlvap3lk2ils3a75sm@google.com
+CREATED:20220410T161121Z
+DESCRIPTION:https://nha.or.jp/place/nissin/event/11012\n\nぐでたま ハッピーイースター・ミニ
+ ステージ\nナゴヤハウジングセンター 日進梅森会場\n2022.04.16\n10:30～\n13:00～\n14:30～
+LAST-MODIFIED:20220410T161121Z
+LOCATION:Nagoya Housing Center Nisshin Umemori\, Japan\, 〒470-0132 愛知県日進市梅森
+ 町西田面１５
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:GU ナゴヤハウジングセンター 日進梅森会場
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220911T020000Z
+DTEND:20220911T060500Z
+UID:119qebh8su1tq2bc13uvkdimlb@google.com
+CREATED:20220402T072216Z
+DESCRIPTION:https://www2.og-bunka.or.jp/event/data.html?_prvw_k__=1185\n\nリ
+ ボンの国の音もだち\n大垣市スイトピアセンター 文化ホール\n2022年9月11日（日）\n11:00\n14:00\nKT\,MM\,DN\,XO\
+ ,PN\,CN
+LAST-MODIFIED:20220402T072222Z
+LOCATION:Ogakishi Suitopia Center\, 5 Chome-51 Murohonmachi\, Ogaki\, Gifu 
+ 503-0911\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:リボンの国の音もだち
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220409
+DTEND;VALUE=DATE:20220410
+UID:4j98d3tjuhtl66l4hf98s2se3s@google.com
+CREATED:20220402T071909Z
+DESCRIPTION:<html-blob><a href="https://twitter.com/ALVARK_TOKYO/status/150
+ 8991364465577984">https://twitter.com/ALVARK_TOKYO/status/15089913644655779
+ 84</a><br><br>アルバルク東京<br>4/9(土)横浜戦のハーフタイムショーにハローキティ＆ダニエル<br>アリーナ立川立飛<br>13:
+ 15 Open<br>15:05 Tip off</html-blob>
+LAST-MODIFIED:20220402T071917Z
+LOCATION:Arena Tachikawa Tachihi\, 500-4 Izumichō\, Tachikawa\, Tokyo 190-0
+ 015\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT\,DN アルバルク東京
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220508T020000Z
+DTEND:20220508T063000Z
+UID:42l02qbtgak9sofb026rk43032@google.com
+CREATED:20220402T071329Z
+DESCRIPTION:https://ageo-aeonmall.com/news/event/547\n\nハローキティ撮影会\nイオンモール上尾
+ \n1F サウスコート\n5月8日(日)\n11:00～\n13:00～\n15:00～\nすべての回の整理券を 1F ウエストコート入口付近にて9:
+ 40より配布\n各回先着50組\nイベントの写真全般について、SNSやインターネットへ掲載することは控えること
+LAST-MODIFIED:20220402T071329Z
+LOCATION:AEON MALL Ageo\, 3-chōme-8-1 Atago\, Ageo\, Saitama 362-0034\, Jap
+ an
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:KT イオンモール上尾
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220522T020000Z
+DTEND:20220522T063000Z
+UID:6pprp2b1590d71fmu4mch8rpmh@google.com
+CREATED:20220402T070836Z
+DESCRIPTION:https://www.japan-monkeypark.jp/document/data_event.pdf\n\nシナモロ
+ ール撮影会 キングシナモンが遊びにくるよ\n日本モンキーパーク\n5/22 (日)\n11:00\n13:00\n15:00\n各回先着50組
+LAST-MODIFIED:20220402T070836Z
+LOCATION:Japan Monkey Park\, Japan\, 〒484-0081 愛知県犬山市犬山官林26
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CN 日本モンキーパーク
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220429T020000Z
+DTEND:20220429T063000Z
+UID:6fulmue72bm6bg349i6mhik8q3@google.com
+CREATED:20220402T070705Z
+DESCRIPTION:https://www.aeon.jp/sc/sagamihara/event/event_202203070130_saga
+ mihara_xzx6ds6o.html\n\nシナモロール撮影会\nイオン相模原ショッピングセンター\n1F パブリックスペース\n4月29日(金・
+ 祝)\n11:00～\n13:00～\n15:00～\n整理券は 10:00～1F パブリックスペース\n各回50組
+LAST-MODIFIED:20220402T070705Z
+LOCATION:AEON Sagamihara Shopping Center\, 2-chōme-10-1 Kobuchi\, Minami Wa
+ rd\, Sagamihara\, Kanagawa 252-0344\, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CN イオン相模原ショッピングセンター
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220327T040000Z
+DTEND:20220327T073000Z
+UID:7bl10tuciq2erc79kartn81ij6@google.com
+CREATED:20220402T070507Z
+DESCRIPTION:https://twitter.com/kamuy_anime/status/1507949571292352512\n\nA
+ nimeJapan 2022\nパブリックデイ 2022年3月26日(土)・27日(日) 9:00～17:00\nビジネスデイ 2022年3月28日(
+ 月)・29日(火) 9:00～17:00\n東京ビッグサイト 東展示棟 東1-8ホール\n\nシナモンとマイメロディの写真撮影会\nNBCユニバーサル
+ ブース(東6・J27)\n3月27日(日)\n14:40～15:05\n16:05～16:30\n\nNBCユニバーサル AnimeJapan 202
+ 2　スペシャルステージ\n3月27日(日)\n13:00~\nhttps://kamuy-anime.com/news/index04440000.h
+ tml\nhttps://abema.tv/channels/abema-anime-3/slots/CLxzRxknq364Du
+LAST-MODIFIED:20220402T070507Z
+LOCATION:Tokyo Big Sight\, 3-chōme-11-1 Ariake\, Koto City\, Tokyo 135-0063
+ \, Japan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CN\,MM AnimeJapan NBCユニバーサル
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20220327T020000Z
 DTEND:20220327T063000Z
 UID:1r4g5sato9fv75diuqehdfsnk9@google.com
@@ -2528,22 +3111,6 @@ LOCATION:ÆON MALL YAHATA-East\, 3-chōme-2-102 Higashida\, Yahatahigashi War
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:KT イオンモール八幡東
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20210809T030000Z
-DTEND:20210809T080000Z
-UID:7hinjnpbhrenog3eua2fouire9@google.com
-CREATED:20210420T111443Z
-DESCRIPTION:https://www.puroland.jp/performance/r_otomodachi.html\n\nリボンの国の
- 音もだち\niichikoグランシアタ(大分県)\n8/9(月・祝)\n12時公演\n15時30分公演\n\nKT\, MM\, DN\, XO\, 
- PN\, CN
-LAST-MODIFIED:20210420T111443Z
-LOCATION:iichiko Culture Center\, Japan\, 〒870-0029 Oita\, Takasagomachi\, 
- 2\, 大分市高砂町２−３３
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:リボンの国の音もだち
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
