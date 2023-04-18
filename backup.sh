@@ -8,4 +8,4 @@ grep -v '^DTSTAMP:' temp/sanrio_events_public.ics > sanrio_events_public.ics
 dos2unix sanrio_events_public.ics
 
 # When you want to restore the calendar, you must serve the ics file with a server which outputs utf-8 content-type header.
-# The easist way to achieve it is to use <https://rawgit.com/ohtake/backup-calendars/gh-pages/sanrio_events_public.ics> instead of <https://raw.githubusercontent.com/ohtake/backup-calendars/gh-pages/sanrio_events_public.ics> nor <http://ohtake.github.io/backup-calendars/sanrio_events_public.ics>.
+# The easist way to achieve it is to use <http://ohtake.github.io/backup-calendars/sanrio_events_public.ics>.
